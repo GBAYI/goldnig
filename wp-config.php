@@ -76,6 +76,7 @@ $table_prefix  = 'wp_';
  * visit the Codex.
  *
  * @link https://codex.wordpress.org/Debugging_in_WordPress
+
  */
 define('WP_DEBUG', false);
 
