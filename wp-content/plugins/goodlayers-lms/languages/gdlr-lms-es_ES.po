@@ -1,0 +1,2383 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Goodlayers LMS\n"
+"POT-Creation-Date: 2015-06-10 13:02+0700\n"
+"PO-Revision-Date: 2015-06-24 12:09+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: C:\\xampp\\htdocs\\clevercourse\\wp-content\\plugins"
+"\\goodlayers-lms\\\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: author-default.php:46
+msgid "View courses by"
+msgstr "Ver Cursos por"
+
+#: author-default.php:53
+msgid "View posts by"
+msgstr "Ver los mensajes de"
+
+#: author-default.php:62 framework/course-option.php:247
+#: framework/user.php:182 user/profile.php:59
+msgid "Location"
+msgstr "Localidad"
+
+#: author-default.php:63 framework/user.php:194 user/profile.php:68
+msgid "Current Work"
+msgstr "Trabajo Actual"
+
+#: author-default.php:64 framework/user.php:200 user/profile.php:72
+msgid "Past Work"
+msgstr "Trabajo Anterior"
+
+#: author-default.php:65 user/profile.php:77
+msgid "Specialist In"
+msgstr "Especialista En"
+
+#: author-default.php:66 framework/user.php:212 user/profile.php:81
+msgid "Experience"
+msgstr "Experiencia"
+
+#: author-default.php:80
+msgid "Biography"
+msgstr "Biografía"
+
+#: framework/certificate-option.php:12 framework/certificate-option.php:13
+msgid "Certificate"
+msgstr "Certificado"
+
+#: framework/certificate-option.php:14 framework/course-option.php:14
+#: framework/quiz-option.php:14
+msgid "Add New"
+msgstr "Agregar Nuevo"
+
+#: framework/certificate-option.php:15
+msgid "Add New Certificate"
+msgstr "Agregar Nuevo Certificado"
+
+#: framework/certificate-option.php:16
+msgid "Edit Certificate"
+msgstr "Editar Certificado"
+
+#: framework/certificate-option.php:17
+msgid "New Certificate"
+msgstr "Nuevo Certificado"
+
+#: framework/certificate-option.php:18
+msgid "All Certificates"
+msgstr "Todos los Certificados"
+
+#: framework/certificate-option.php:19
+msgid "View Certificate"
+msgstr "Ver Certificado"
+
+#: framework/certificate-option.php:20
+msgid "Search Certificate"
+msgstr "Buscar Certificado"
+
+#: framework/certificate-option.php:21
+msgid "No certificates found"
+msgstr "No se encontraron Certificados"
+
+#: framework/certificate-option.php:22
+msgid "No certificates found in Trash"
+msgstr "No se encontraron Certificados en la papelera"
+
+#: framework/certificate-option.php:24 user/badge-certificate.php:6
+msgid "Certificates"
+msgstr "Certificados"
+
+#: framework/certificate-option.php:73
+msgid "Certificate Option"
+msgstr "Opciones de Certificado"
+
+#: framework/certificate-option.php:88 framework/course-option.php:223
+#: include/course-item.php:72 include/course-item.php:409
+msgid "Online Course"
+msgstr "Curso Online"
+
+#: framework/certificate-option.php:93
+msgid "Custom Certificate Css"
+msgstr "Personalizar Certificado Css"
+
+#: framework/certificate-option.php:97
+msgid "Fill Default Shortcode Text"
+msgstr "Rellene defecto Código corto texto"
+
+#: framework/certificate-option.php:99
+msgid "Fill Shortcode"
+msgstr ""
+
+#: framework/certificate-option.php:102
+msgid "Shortcode Description"
+msgstr ""
+
+#: framework/certificate-option.php:119
+msgid "Certificate Settings"
+msgstr "Configuración de Certificados"
+
+#: framework/course-option.php:12 framework/course-option.php:13
+#: framework/gdlr-theme-sync.php:16
+#: framework/plugin-option/payment-evidence.php:25
+#: framework/plugin-option/statement.php:57
+#: framework/plugin-option/statement.php:61
+#: framework/plugin-option/transaction.php:33 user/earning.php:31
+msgid "Course"
+msgstr "Curso"
+
+#: framework/course-option.php:15
+msgid "Add New Course"
+msgstr "Agregar Nuevo Curso"
+
+#: framework/course-option.php:16
+msgid "Edit Course"
+msgstr "Editar Curso"
+
+#: framework/course-option.php:17
+msgid "New Course"
+msgstr "Nuevo Curso"
+
+#: framework/course-option.php:18
+msgid "All Courses"
+msgstr "Todos los Cursos"
+
+#: framework/course-option.php:19
+msgid "View Course"
+msgstr "Ver Curso"
+
+#: framework/course-option.php:20
+msgid "Search Course"
+msgstr "Buscar Curso"
+
+#: framework/course-option.php:21
+msgid "No courses found"
+msgstr "No se encontraron Cursos"
+
+#: framework/course-option.php:22
+msgid "No courses found in Trash"
+msgstr "No se encontraron Cursos en la papelera"
+
+#: framework/course-option.php:24
+msgid "Courses"
+msgstr "Cursos"
+
+#: framework/course-option.php:46
+msgid "Course Categories"
+msgstr "Categorías de Cursos"
+
+#: framework/course-option.php:47
+msgid "Course Category"
+msgstr "Categoría de Curso"
+
+#: framework/course-option.php:59
+msgid "Course Tags"
+msgstr "Etiquetas de Cursos"
+
+#: framework/course-option.php:60
+msgid "Course Tag"
+msgstr "Estiqueta de Curso"
+
+#: framework/course-option.php:203
+msgid "Course Option"
+msgstr "Opciones de Curso"
+
+#: framework/course-option.php:218
+msgid "Prerequisite Course"
+msgstr "Requisitos de Curso"
+
+#: framework/course-option.php:226
+msgid "Course content section will be ignored when this option is disabled."
+msgstr ""
+"Sección de contenido del curso se tendrá en cuenta cuando esta opción está "
+"desactivada."
+
+#: framework/course-option.php:229
+msgid "Allow non member to read course"
+msgstr "Permitir no miembro para leer curs"
+
+#: framework/course-option.php:233
+msgid "The price, quiz, seat and wait time field will be omitted."
+msgstr "El campo de tiempo de precios, prueba, asiento y espera se omitirá."
+
+#: framework/course-option.php:236 user/my-course.php:6
+msgid "Course Code"
+msgstr "Código del Curso"
+
+#: framework/course-option.php:238
+msgid "Use to generate code after submit payment evidence."
+msgstr "Se utiliza para generar código después de presentar pruebas del pago."
+
+#: framework/course-option.php:241
+msgid "Course Quiz"
+msgstr "Examen Curso"
+
+#: framework/course-option.php:259 framework/plugin-option/statement.php:40
+#: user/earning.php:20
+msgid "Start Date"
+msgstr "Fecha De Inicio"
+
+#: framework/course-option.php:263 framework/plugin-option/statement.php:43
+#: user/earning.php:23
+msgid "End Date"
+msgstr "Fecha Final"
+
+#: framework/course-option.php:267
+msgid "Course Time"
+msgstr "Tiempo del curso"
+
+#: framework/course-option.php:277
+msgid "Max Seat"
+msgstr "Max Plazas"
+
+#: framework/course-option.php:282 user/my-course.php:5
+msgid "Booked Seat"
+msgstr "Reservar Plaza"
+
+#: framework/course-option.php:287 framework/plugin-option/transaction.php:35
+#: include/course-item.php:446 include/course-item.php:507
+msgid "Price"
+msgstr "Precio"
+
+#: framework/course-option.php:290
+msgid "Leaving this field blankfor free course (Only number is allowed here)"
+msgstr ""
+"Dejando este campo blankfor curso gratuito (Sólo número está permitido aquí)"
+
+#: framework/course-option.php:293
+msgid "Discount Price"
+msgstr "Precio De Descuento"
+
+#: framework/course-option.php:296
+msgid "(Only number is allowed here)"
+msgstr "(Sólo número está permitido aquí)"
+
+#: framework/course-option.php:302
+msgid "Enable Badge"
+msgstr "Habilitar Insignia"
+
+#: framework/course-option.php:308
+msgid "% Of Score To Get Badge"
+msgstr "% de la puntuación para obtener la insignia"
+
+#: framework/course-option.php:313
+msgid "Badge Title"
+msgstr "Insignia Título"
+
+#: framework/course-option.php:318
+msgid "Badge File"
+msgstr "Insignia del archivo"
+
+#: framework/course-option.php:323
+msgid "Enable Certificate"
+msgstr "Habilitar Certificado"
+
+#: framework/course-option.php:329
+msgid "% Of Score To Get Certificate"
+msgstr "% De Puntuación para obtener Certificado"
+
+#: framework/course-option.php:334
+msgid "Certificate Template"
+msgstr "Plantilla de certificado"
+
+#: framework/course-option.php:344
+msgid "Course Settings"
+msgstr "Configuración del curso"
+
+#: framework/course-option.php:359 framework/quiz-option.php:106
+msgid "Section Name"
+msgstr "Nombre de la sección"
+
+#: framework/course-option.php:363
+msgid "PDF Download Link"
+msgstr "PDF Enlace de descarga"
+
+#: framework/course-option.php:367
+msgid "Student have to wait"
+msgstr "Alumno tiene que esperar"
+
+#: framework/course-option.php:370
+msgid "days before continuing to next section."
+msgstr "Días antes de continuar a la siguiente sección."
+
+#: framework/course-option.php:373
+msgid "Next section will be available at"
+msgstr "Siguiente sección estará disponible en"
+
+#: framework/course-option.php:375
+msgid "( Wait time has to be blank for this field to take effects )"
+msgstr ""
+"(Tiempo de espera tiene que ser en blanco para este campo para tomar efectos)"
+
+#: framework/course-option.php:385 framework/quiz-option.php:138
+msgid "Course Content"
+msgstr "Contenido Del Curso"
+
+#: framework/course-option.php:388 framework/quiz-option.php:141
+msgid "Add Section"
+msgstr "Añadir Sección"
+
+#: framework/gdlr-theme-sync.php:20 include/course-item.php:59
+msgid "Category"
+msgstr "Categoría"
+
+#: framework/gdlr-theme-sync.php:23
+msgid ""
+"You can use Ctrl/Command button to select multiple categories or remove the "
+"selected category. <br><br> Leave this field blank to select all categories."
+msgstr ""
+"Usted puede utilizar el botón Ctrl / Comando para seleccionar varias "
+"categorías o eliminar la categoría seleccionada <br><br> Deje este campo en "
+"blanco para seleccionar todas las categorías."
+
+#: framework/gdlr-theme-sync.php:26 framework/plugin-option.php:231
+msgid "Course Style"
+msgstr "Estilo de Curso"
+
+#: framework/gdlr-theme-sync.php:29 framework/gdlr-theme-sync.php:166
+#: framework/plugin-option.php:237
+msgid "Grid Style"
+msgstr ""
+
+#: framework/gdlr-theme-sync.php:30 framework/gdlr-theme-sync.php:167
+#: framework/plugin-option.php:238
+msgid "Grid 2nd Style"
+msgstr ""
+
+#: framework/gdlr-theme-sync.php:31 framework/plugin-option.php:239
+msgid "Medium Style"
+msgstr ""
+
+#: framework/gdlr-theme-sync.php:32
+msgid "Full Style"
+msgstr ""
+
+#: framework/gdlr-theme-sync.php:36 framework/gdlr-theme-sync.php:171
+msgid "Num Fetch"
+msgstr ""
+
+#: framework/gdlr-theme-sync.php:39
+msgid "Specify the number of courses you want to pull out."
+msgstr "Especifique el número de cursos que desea retirarse."
+
+#: framework/gdlr-theme-sync.php:42 framework/gdlr-theme-sync.php:178
+msgid "Num Excerpt"
+msgstr ""
+
+#: framework/gdlr-theme-sync.php:48
+msgid "Course Size"
+msgstr ""
+
+#: framework/gdlr-theme-sync.php:60
+msgid "Course Layout Order"
+msgstr ""
+
+#: framework/gdlr-theme-sync.php:63
+msgid "FitRows ( Order items by row )"
+msgstr ""
+
+#: framework/gdlr-theme-sync.php:64
+msgid "Carousel ( Only For Grid Style )"
+msgstr ""
+
+#: framework/gdlr-theme-sync.php:69 framework/gdlr-theme-sync.php:195
+msgid "Thumbnail Size"
+msgstr ""
+
+#: framework/gdlr-theme-sync.php:74 framework/gdlr-theme-sync.php:200
+msgid "Order By"
+msgstr "Ordenar por"
+
+#: framework/gdlr-theme-sync.php:77
+msgid "Publish Date"
+msgstr "Fecha de publicación"
+
+#: framework/gdlr-theme-sync.php:78
+msgid "Title"
+msgstr "Título"
+
+#: framework/gdlr-theme-sync.php:79
+msgid "Random"
+msgstr "aleatorio"
+
+#: framework/gdlr-theme-sync.php:83 framework/gdlr-theme-sync.php:210
+msgid "Order"
+msgstr ""
+
+#: framework/gdlr-theme-sync.php:86 framework/gdlr-theme-sync.php:214
+msgid "Descending Order"
+msgstr ""
+
+#: framework/gdlr-theme-sync.php:87 framework/gdlr-theme-sync.php:213
+msgid "Ascending Order"
+msgstr ""
+
+#: framework/gdlr-theme-sync.php:91
+msgid "Enable Pagination"
+msgstr ""
+
+#: framework/gdlr-theme-sync.php:95 framework/gdlr-theme-sync.php:108
+#: framework/gdlr-theme-sync.php:223
+msgid "Margin Bottom"
+msgstr ""
+
+#: framework/gdlr-theme-sync.php:98 framework/gdlr-theme-sync.php:111
+#: framework/gdlr-theme-sync.php:226
+msgid "Spaces after ending of this item"
+msgstr ""
+
+#: framework/gdlr-theme-sync.php:104
+msgid "Course Search"
+msgstr "Buscar Curso"
+
+#: framework/gdlr-theme-sync.php:139 framework/plugin-option/commission.php:22
+#: framework/plugin-option/statement.php:54
+#: framework/plugin-option/statement.php:60 framework/user.php:8
+#: include/course-item.php:397 user/teacher-admin.php:19
+msgid "Instructor"
+msgstr "Instructor"
+
+#: framework/gdlr-theme-sync.php:143
+msgid "Instructor Type"
+msgstr "Tipo de Instructor"
+
+#: framework/gdlr-theme-sync.php:146
+msgid "Single Instructor"
+msgstr "Instructor individual"
+
+#: framework/gdlr-theme-sync.php:147
+msgid "Instructor List"
+msgstr "Lista Instructor"
+
+#: framework/gdlr-theme-sync.php:151
+msgid "Select User"
+msgstr "Seleccionar usuario"
+
+#: framework/gdlr-theme-sync.php:157
+msgid "Role"
+msgstr ""
+
+#: framework/gdlr-theme-sync.php:163
+msgid "Instructor Style"
+msgstr ""
+
+#: framework/gdlr-theme-sync.php:175
+msgid "Specify the number of instructor you want to pull out."
+msgstr ""
+
+#: framework/gdlr-theme-sync.php:183
+msgid "Instructor Size"
+msgstr ""
+
+#: framework/gdlr-theme-sync.php:203
+msgid "Display Name"
+msgstr ""
+
+#: framework/gdlr-theme-sync.php:204
+#: framework/plugin-option/transaction.php:31
+msgid "ID"
+msgstr ""
+
+#: framework/gdlr-theme-sync.php:205
+msgid "Post Count"
+msgstr ""
+
+#: framework/meta-template.php:84
+#: framework/theme-option/gdlr-admin-panel-html.php:371
+#: framework/theme-option/gdlr-admin-panel-html.php:432
+#: framework/theme-option/gdlr-admin-panel-html.php:448 framework/user.php:144
+msgid "Upload"
+msgstr "Subir"
+
+#: framework/meta-template.php:153
+msgid "Add Question"
+msgstr "Agregar pregunta"
+
+#: framework/meta-template.php:163
+msgid "Question :"
+msgstr "Pregunta:"
+
+#: framework/meta-template.php:172
+msgid "Add Choice"
+msgstr "Agregar opción"
+
+#: framework/meta-template.php:174
+msgid "Remove Question"
+msgstr "Eliminar pregunta"
+
+#: framework/meta-template.php:180
+msgid "Correct answer(s) :"
+msgstr "Respuesta correcta (s):"
+
+#: framework/meta-template.php:182
+msgid "Use comma (,) for multiple answers"
+msgstr "Use coma (,) para múltiples respuestas"
+
+#: framework/meta-template.php:184
+msgid "Score for this question :"
+msgstr "Puntuación para esta pregunta:"
+
+#: framework/plugin-option.php:12
+msgid "LMS Option"
+msgstr ""
+
+#: framework/plugin-option.php:18
+#: framework/plugin-option/payment-evidence.php:15
+msgid "Evidence Of Payment"
+msgstr ""
+
+#: framework/plugin-option.php:20 framework/plugin-option/statement.php:13
+msgid "Statement"
+msgstr ""
+
+#: framework/plugin-option.php:22
+msgid "Commission"
+msgstr "Comisión"
+
+#: framework/plugin-option.php:24
+msgid "Transaction"
+msgstr "Transacción"
+
+#: framework/plugin-option.php:68
+msgid "General"
+msgstr ""
+
+#: framework/plugin-option.php:73
+msgid "Plugin Style"
+msgstr ""
+
+#: framework/plugin-option.php:76
+msgid "Container Width"
+msgstr ""
+
+#: framework/plugin-option.php:83
+msgid "Date Format"
+msgstr ""
+
+#: framework/plugin-option.php:88
+msgid "Money Format"
+msgstr ""
+
+#: framework/plugin-option.php:93
+msgid "Instructor Thumbnail Size"
+msgstr ""
+
+#: framework/plugin-option.php:98
+msgid "Transaction Record Per Page"
+msgstr ""
+
+#: framework/plugin-option.php:103
+msgid "Display Page Title"
+msgstr ""
+
+#: framework/plugin-option.php:108
+msgid "Show Default Sidebar"
+msgstr ""
+
+#: framework/plugin-option.php:111
+msgid "To support twenty fourteen sidebar structure."
+msgstr ""
+
+#: framework/plugin-option.php:114
+msgid "Include jQuery UI Style"
+msgstr ""
+
+#: framework/plugin-option.php:117
+msgid "Disable this if there're any conflicted with the theme or plugins."
+msgstr ""
+
+#: framework/plugin-option.php:122
+msgid "Payment Option"
+msgstr ""
+
+#: framework/plugin-option.php:125
+msgid "Default Instructor Commission (Percent)"
+msgstr ""
+
+#: framework/plugin-option.php:128
+msgid "Please only fill number without special character here"
+msgstr ""
+
+#: framework/plugin-option.php:131
+msgid "Payment Method"
+msgstr ""
+
+#: framework/plugin-option.php:134
+msgid "Instant Payment and Receipt Confirmation"
+msgstr ""
+
+#: framework/plugin-option.php:135
+msgid "Instant Payment"
+msgstr ""
+
+#: framework/plugin-option.php:136
+msgid "Receipt Confirmation"
+msgstr ""
+
+#: framework/plugin-option.php:140
+msgid "Instant Payment Method"
+msgstr ""
+
+#: framework/plugin-option.php:143
+msgid "Paypal"
+msgstr ""
+
+#: framework/plugin-option.php:144
+msgid "Stripe"
+msgstr ""
+
+#: framework/plugin-option.php:145
+msgid "Paymill"
+msgstr ""
+
+#: framework/plugin-option.php:146
+msgid "Authorize.Net"
+msgstr ""
+
+#: framework/plugin-option.php:148
+msgid "Leaving this field blank will display all available payment method."
+msgstr ""
+
+#: framework/plugin-option.php:153
+msgid "Paypal Info"
+msgstr ""
+
+#: framework/plugin-option.php:156
+msgid "Paypal Recipient Name"
+msgstr ""
+
+#: framework/plugin-option.php:161
+msgid "Paypal Recipient Email"
+msgstr ""
+
+#: framework/plugin-option.php:166
+msgid "Paypal Action URL"
+msgstr ""
+
+#: framework/plugin-option.php:171
+msgid "Paypal Currency Code"
+msgstr ""
+
+#: framework/plugin-option.php:178
+msgid "Stripe Info"
+msgstr ""
+
+#: framework/plugin-option.php:181
+msgid "Stripe Secret Key"
+msgstr ""
+
+#: framework/plugin-option.php:185
+msgid "Stripe Publishable Key"
+msgstr ""
+
+#: framework/plugin-option.php:189
+msgid "Stripe Currency Code"
+msgstr ""
+
+#: framework/plugin-option.php:196
+msgid "Paymill Info"
+msgstr ""
+
+#: framework/plugin-option.php:199
+msgid "Paymill Private Key"
+msgstr ""
+
+#: framework/plugin-option.php:203
+msgid "Paymill Public Key"
+msgstr ""
+
+#: framework/plugin-option.php:207
+msgid "Paymill Currency Code"
+msgstr ""
+
+#: framework/plugin-option.php:214
+msgid "Authorize Info"
+msgstr ""
+
+#: framework/plugin-option.php:217
+msgid "Authorize API Login ID "
+msgstr ""
+
+#: framework/plugin-option.php:221
+msgid "Authorize Transaction Key"
+msgstr ""
+
+#: framework/plugin-option.php:225
+msgid "Authorize MD5 Hash"
+msgstr ""
+
+#: framework/plugin-option.php:234
+msgid "Archive Course Style"
+msgstr ""
+
+#: framework/plugin-option.php:243
+msgid "Archive Course Size"
+msgstr ""
+
+#: framework/plugin-option.php:254
+msgid "Archive Course Thumbnail Size"
+msgstr ""
+
+#: framework/plugin-option.php:263
+msgid "Elements Color"
+msgstr ""
+
+#: framework/plugin-option.php:267
+msgid "Element Color"
+msgstr ""
+
+#: framework/plugin-option.php:270
+msgid "Button 1 Color (Cyan)"
+msgstr ""
+
+#: framework/plugin-option.php:279
+msgid "Button 1 Background (Cyan)"
+msgstr ""
+
+#: framework/plugin-option.php:288
+msgid "Button 1 Border Color (Cyan)"
+msgstr ""
+
+#: framework/plugin-option.php:297
+msgid "Button 2 Color (Blue)"
+msgstr ""
+
+#: framework/plugin-option.php:304
+msgid "Button 2 Background (Blue)"
+msgstr ""
+
+#: framework/plugin-option.php:312
+msgid "Button 2 Border Color (Blue)"
+msgstr ""
+
+#: framework/plugin-option.php:319
+msgid "Button 3 Color (Black)"
+msgstr ""
+
+#: framework/plugin-option.php:325
+msgid "Button 3 Background (Black)"
+msgstr ""
+
+#: framework/plugin-option.php:331
+msgid "Button 3 Border Color (Black)"
+msgstr ""
+
+#: framework/plugin-option.php:337
+msgid "Button 4 Color (Red)"
+msgstr ""
+
+#: framework/plugin-option.php:343
+msgid "Button 4 Background (Red)"
+msgstr ""
+
+#: framework/plugin-option.php:349
+msgid "Button 4 Border Color (Red)"
+msgstr ""
+
+#: framework/plugin-option.php:355
+msgid "Table Head Background"
+msgstr ""
+
+#: framework/plugin-option.php:361
+msgid "Table Head Text"
+msgstr ""
+
+#: framework/plugin-option.php:367
+msgid "Table Body Background"
+msgstr ""
+
+#: framework/plugin-option.php:373
+msgid "Table Body Text"
+msgstr ""
+
+#: framework/plugin-option.php:379
+msgid "Table Body Border"
+msgstr ""
+
+#: framework/plugin-option.php:387
+msgid "Course Item Color"
+msgstr ""
+
+#: framework/plugin-option.php:390
+msgid "Course Title Color"
+msgstr ""
+
+#: framework/plugin-option.php:396
+msgid "Course Title Hover Color"
+msgstr ""
+
+#: framework/plugin-option.php:402
+msgid "Course Info Color"
+msgstr ""
+
+#: framework/plugin-option.php:408
+msgid "Course Info Head Color"
+msgstr ""
+
+#: framework/plugin-option.php:414
+msgid "Course Price Text"
+msgstr ""
+
+#: framework/plugin-option.php:420
+msgid "Course Price Color"
+msgstr ""
+
+#: framework/plugin-option.php:426
+msgid "Course Grid2 Background"
+msgstr ""
+
+#: framework/plugin-option.php:432
+msgid "Course Grid2 Bottom Border"
+msgstr ""
+
+#: framework/plugin-option.php:438
+msgid "Course Rating Star Color"
+msgstr ""
+
+#: framework/plugin-option.php:444
+msgid "Course Rating Number"
+msgstr ""
+
+#: framework/plugin-option.php:452
+msgid "Current User Color"
+msgstr ""
+
+#: framework/plugin-option.php:455
+msgid "Current User Bar Background"
+msgstr ""
+
+#: framework/plugin-option.php:461 framework/plugin-option.php:473
+msgid "Current User Welcome Text"
+msgstr ""
+
+#: framework/plugin-option.php:467
+msgid "Current User Name Text"
+msgstr ""
+
+#: framework/plugin-option.php:479
+msgid "Current User Nav Background"
+msgstr ""
+
+#: framework/plugin-option.php:485
+msgid "Current User Nav Border"
+msgstr ""
+
+#: framework/plugin-option.php:491
+msgid "Current User Nav Text"
+msgstr ""
+
+#: framework/plugin-option.php:497
+msgid "Instructor Notification Text (Manual Check)"
+msgstr ""
+
+#: framework/plugin-option.php:503
+msgid "Instructor Notification Background (Manual Check)"
+msgstr ""
+
+#: framework/plugin-option.php:509
+msgid "User Form Label"
+msgstr ""
+
+#: framework/plugin-option.php:515
+msgid "User Form Text"
+msgstr ""
+
+#: framework/plugin-option.php:526
+msgid "User Form Border"
+msgstr ""
+
+#: framework/plugin-option.php:535
+msgid "User Form Background"
+msgstr ""
+
+#: framework/plugin-option.php:544
+msgid "Cancel Booking Text Color"
+msgstr ""
+
+#: framework/plugin-option.php:550
+msgid "Profile Info Wrapper Background"
+msgstr ""
+
+#: framework/plugin-option.php:556
+msgid "Profile Info Head text"
+msgstr ""
+
+#: framework/plugin-option.php:562
+msgid "Profile Info Text"
+msgstr ""
+
+#: framework/plugin-option.php:570
+msgid "Course Content Color"
+msgstr ""
+
+#: framework/plugin-option.php:573
+msgid "Course Content Info Background"
+msgstr ""
+
+#: framework/plugin-option.php:580
+msgid "Course Content Info Title Background"
+msgstr ""
+
+#: framework/plugin-option.php:586
+msgid "Course Info Title"
+msgstr ""
+
+#: framework/plugin-option.php:592
+msgid "Course Content Social Background"
+msgstr ""
+
+#: framework/plugin-option.php:598
+msgid "Course Bullet Background"
+msgstr ""
+
+#: framework/plugin-option.php:605
+msgid "Course Bullet Background Active"
+msgstr ""
+
+#: framework/plugin-option.php:611
+msgid "Course Bullet Inactive Title"
+msgstr ""
+
+#: framework/plugin-option.php:618
+msgid "Course Bullet Active Title"
+msgstr ""
+
+#: framework/plugin-option.php:625
+msgid "Course Bullet Next Title Info"
+msgstr ""
+
+#: framework/plugin-option.php:633
+msgid "Quiz Color"
+msgstr ""
+
+#: framework/plugin-option.php:636
+msgid "Quiz Info Background"
+msgstr ""
+
+#: framework/plugin-option.php:643
+msgid "Quiz Info Title Text"
+msgstr ""
+
+#: framework/plugin-option.php:649
+msgid "Quiz Info Timer Background"
+msgstr ""
+
+#: framework/plugin-option.php:655
+msgid "Quiz Info Timer Text"
+msgstr ""
+
+#: framework/plugin-option.php:661
+msgid "Quiz Bullet Background"
+msgstr ""
+
+#: framework/plugin-option.php:668
+msgid "Quiz Bullet Inactive Title"
+msgstr ""
+
+#: framework/plugin-option.php:674
+msgid "Quiz Bullet Active Title"
+msgstr ""
+
+#: framework/plugin-option.php:681
+msgid "Quiz Bullet Next Title Info"
+msgstr ""
+
+#: framework/plugin-option.php:687
+msgid "Quiz Question Background"
+msgstr ""
+
+#: framework/plugin-option.php:693
+msgid "Quiz Question Text"
+msgstr ""
+
+#: framework/plugin-option.php:699
+msgid "Quiz Answer Border"
+msgstr ""
+
+#: framework/plugin-option.php:705
+msgid "Quiz Answer Text"
+msgstr ""
+
+#: framework/plugin-option.php:711
+msgid "Quiz Score Background"
+msgstr ""
+
+#: framework/plugin-option.php:717
+msgid "Quiz Score Text"
+msgstr ""
+
+#: framework/plugin-option.php:723
+msgid "Quiz Score Title Text"
+msgstr ""
+
+#: framework/plugin-option.php:731
+msgid "Instructor Color"
+msgstr ""
+
+#: framework/plugin-option.php:734
+msgid "Instructor Item Background"
+msgstr ""
+
+#: framework/plugin-option.php:740
+msgid "Instructor Item Title"
+msgstr ""
+
+#: framework/plugin-option.php:746
+msgid "Instructor Item Position"
+msgstr ""
+
+#: framework/plugin-option.php:752
+msgid "Instructor Item Description"
+msgstr ""
+
+#: framework/plugin-option.php:758
+msgid "Single Instructor Info Background"
+msgstr ""
+
+#: framework/plugin-option.php:764
+msgid "Single Instructor Info Title"
+msgstr ""
+
+#: framework/plugin-option.php:770
+msgid "Single Instructor Info Position"
+msgstr ""
+
+#: framework/plugin-option.php:776
+msgid "Single Instructor Info Text"
+msgstr ""
+
+#: framework/plugin-option.php:782
+msgid "Single Instructor Info Border"
+msgstr ""
+
+#: framework/plugin-option.php:788
+msgid "Single Instructor Extra Info Background"
+msgstr ""
+
+#: framework/plugin-option.php:794
+msgid "Single Instructor Extra Info Bottom Border"
+msgstr ""
+
+#: framework/plugin-option.php:800
+msgid "Single Instructor Extra Info Text"
+msgstr ""
+
+#: framework/plugin-option.php:806
+msgid "Single Instructor Extra Info Head"
+msgstr ""
+
+#: framework/plugin-option.php:838
+msgid "Cannot Generate Custom File"
+msgstr ""
+
+#: framework/plugin-option.php:839
+msgid ""
+"Please try changing the lms-style-custom.css file permission to 775 or 777 "
+"for this."
+msgstr ""
+
+#: framework/plugin-option/commission.php:17
+msgid "Instructor Commission"
+msgstr "Comisión del instructor"
+
+#: framework/plugin-option/commission.php:23
+#: framework/plugin-option/statement.php:55
+#: framework/plugin-option/statement.php:58
+#: framework/plugin-option/statement.php:62 user/earning.php:32
+msgid "Revenue"
+msgstr "Ingresos"
+
+#: framework/plugin-option/commission.php:24
+#: framework/plugin-option/statement.php:63
+msgid "Commission (%)"
+msgstr "Comisión (%)"
+
+#: framework/plugin-option/commission.php:25 user/book-courses.php:6
+#: user/free-onsite.php:6
+msgid "Action"
+msgstr "Acción"
+
+#: framework/plugin-option/commission.php:48
+#: framework/plugin-option/commission.php:64
+msgid "Change % Rate"
+msgstr "Cambio % rate"
+
+#: framework/plugin-option/commission.php:79
+msgid "Commission Rate (%)"
+msgstr "Comision rate (%)"
+
+#: framework/plugin-option/commission.php:85
+msgid "Update Rate"
+msgstr "Actualizar rate"
+
+#: framework/plugin-option/course-category-widget.php:26
+msgid "Goodlayers Course Category Widget"
+msgstr ""
+
+#: framework/plugin-option/course-category-widget.php:27
+msgid "A widget that list course categories"
+msgstr ""
+
+#: framework/plugin-option/course-category-widget.php:73
+#: framework/plugin-option/popular-course-widget.php:100
+#: framework/plugin-option/recent-course-widget.php:93
+msgid "Title :"
+msgstr "Título:"
+
+#: framework/plugin-option/payment-evidence.php:18
+msgid "No record found"
+msgstr "Ningún record fue encontrado"
+
+#: framework/plugin-option/payment-evidence.php:24
+#: framework/plugin-option/transaction.php:15
+#: framework/plugin-option/transaction.php:32 include/lightbox-form.php:217
+#: user/badge-certificate.php:42 user/leader-board.php:5
+msgid "Name"
+msgstr "Nombre"
+
+#: framework/plugin-option/payment-evidence.php:26
+#: framework/plugin-option/transaction.php:16
+#: framework/plugin-option/transaction.php:37 user/attended-courses.php:6
+#: user/confirm-courses.php:6 user/my-course-student.php:13
+msgid "Code"
+msgstr "Código"
+
+#: framework/plugin-option/payment-evidence.php:27
+msgid "Submitted Date"
+msgstr "Fecha Envío "
+
+#: framework/plugin-option/payment-evidence.php:28
+#: include/lightbox-form.php:162 include/lightbox-form.php:253
+msgid "Total Price"
+msgstr "Precio Total"
+
+#: framework/plugin-option/payment-evidence.php:29
+#: framework/plugin-option/payment-evidence.php:60
+msgid "View Attachment"
+msgstr "Ver archivo adjunto"
+
+#: framework/plugin-option/payment-evidence.php:82
+msgid "No image submitted"
+msgstr "Ninguna imagen enviada"
+
+#: framework/plugin-option/payment-evidence.php:88
+msgid "Correct! Send verification code to student's email"
+msgstr ""
+"¡Correcto! Enviar código de verificación al correo electrónico del Alumno"
+
+#: framework/plugin-option/payment-evidence.php:91
+#: framework/plugin-option/payment-evidence.php:98
+msgid "Do it!"
+msgstr "Hazlo!"
+
+#: framework/plugin-option/payment-evidence.php:95
+msgid "Wrong! Remove this record and warn student via email"
+msgstr ""
+"¡Incorrecto! Eliminar este registro y advertir a los estudiantes a través de "
+"correo electrónico"
+
+#: framework/plugin-option/payment-evidence.php:129
+msgid "Evidence Submission Accept"
+msgstr "Aceptar Envío de justificante"
+
+#: framework/plugin-option/payment-evidence.php:130
+#: include/paymill-payment.php:127 include/paypal-ipn.php:79
+#: include/stripe-payment.php:112
+msgid "Your verification code is"
+msgstr "Su código de verificación es"
+
+#: framework/plugin-option/payment-evidence.php:138
+msgid "Evidence Submission Reject"
+msgstr "Rechazar Envío de Justificante"
+
+#: framework/plugin-option/payment-evidence.php:139
+msgid "Please submit the payment evidence again. Thank you."
+msgstr "Por favor, envíe su justificante del pago de nuevo. Gracias."
+
+#: framework/plugin-option/payment-evidence.php:145
+msgid "Submission Failed, please refresh the page and try again."
+msgstr ""
+"Fallo de envío - Error, por favor, actualice la página y vuelva a intentarlo."
+
+#: framework/plugin-option/popular-course-widget.php:26
+msgid "Goodlayers Popular Course Widget"
+msgstr ""
+
+#: framework/plugin-option/popular-course-widget.php:27
+msgid "A widget that show popular courses"
+msgstr ""
+
+#: framework/plugin-option/popular-course-widget.php:75
+msgid "Students Registered"
+msgstr "Alumnos registrados"
+
+#: framework/plugin-option/popular-course-widget.php:106
+#: framework/plugin-option/recent-course-widget.php:99
+msgid "Category :"
+msgstr "Categoría:"
+
+#: framework/plugin-option/popular-course-widget.php:108
+#: framework/plugin-option/recent-course-widget.php:101
+msgid "All"
+msgstr "Todas"
+
+#: framework/plugin-option/popular-course-widget.php:119
+#: framework/plugin-option/recent-course-widget.php:112
+msgid "Num Fetch :"
+msgstr ""
+
+#: framework/plugin-option/recent-course-widget.php:26
+msgid "Goodlayers Recent Course Widget"
+msgstr ""
+
+#: framework/plugin-option/recent-course-widget.php:27
+msgid "A widget that show lastest courses"
+msgstr ""
+
+#: framework/plugin-option/recent-course-widget.php:67
+msgid "Created on"
+msgstr "Creado en"
+
+#: framework/plugin-option/statement.php:25
+msgid "Select Year :"
+msgstr "Seleccionar Año:"
+
+#: framework/plugin-option/statement.php:39 user/earning.php:19
+msgid "Filter :"
+msgstr "Filtrar:"
+
+#: framework/plugin-option/statement.php:46 user/earning.php:26
+msgid "Filter!"
+msgstr "Filtra!"
+
+#: framework/plugin-option/statement.php:64 user/earning.php:1
+#: user/teacher-admin.php:59
+msgid "Earning"
+msgstr "Beneficios"
+
+#: framework/plugin-option/statement.php:117 user/earning.php:56
+#: user/quiz-scores.php:42
+msgid "Total"
+msgstr "Total"
+
+#: framework/plugin-option/transaction.php:9
+msgid "Transaction List"
+msgstr "Lista de transacciones"
+
+#: framework/plugin-option/transaction.php:12
+msgid "Search transaction by :"
+msgstr "Buscar transacción por:"
+
+#: framework/plugin-option/transaction.php:22
+msgid "Keywords :"
+msgstr "Palabras clave:"
+
+#: framework/plugin-option/transaction.php:25 include/course-item.php:82
+msgid "Search!"
+msgstr "Buscar!"
+
+#: framework/plugin-option/transaction.php:34 include/course-item.php:71
+#: include/course-item.php:406
+msgid "Type"
+msgstr "Tipo"
+
+#: framework/plugin-option/transaction.php:36 user/attended-courses.php:5
+#: user/book-courses.php:5 user/confirm-courses.php:5 user/free-onsite.php:5
+#: user/my-course-student.php:12
+msgid "Status"
+msgstr "Estado"
+
+#: framework/plugin-option/transaction.php:38
+msgid "Booked/Paid Date"
+msgstr "Reservados / Fecha de pago"
+
+#: framework/plugin-option/transaction.php:117
+msgid "Online"
+msgstr "Online"
+
+#: framework/plugin-option/transaction.php:117
+msgid "Onsite"
+msgstr "Presencial"
+
+#: framework/plugin-option/transaction.php:137 include/utility.php:136
+msgid "&lsaquo; Previous"
+msgstr "&lsaquo; Anterior"
+
+#: framework/plugin-option/transaction.php:150 include/utility.php:137
+msgid "Next &rsaquo;"
+msgstr "Siguiente &rsaquo;"
+
+#: framework/quiz-option.php:12 framework/quiz-option.php:13
+msgid "Quiz"
+msgstr "Examen"
+
+#: framework/quiz-option.php:15
+msgid "Add New Quiz"
+msgstr "Agregar Examen"
+
+#: framework/quiz-option.php:16
+msgid "Edit Quiz"
+msgstr "Editar Examen"
+
+#: framework/quiz-option.php:17
+msgid "New Quiz"
+msgstr "Nuevo Examen"
+
+#: framework/quiz-option.php:18
+msgid "All Quizzes"
+msgstr "Todos los Exámenes "
+
+#: framework/quiz-option.php:19
+msgid "View Quiz"
+msgstr "Ver Examen "
+
+#: framework/quiz-option.php:20
+msgid "Search Quiz"
+msgstr "Buscar Examen"
+
+#: framework/quiz-option.php:21
+msgid "No quiz found"
+msgstr "Examen no encontrado"
+
+#: framework/quiz-option.php:22
+msgid "No quiz found in Trash"
+msgstr "No se encontró examen en la papelera"
+
+#: framework/quiz-option.php:24
+msgid "Quizzes"
+msgstr "Exámenes "
+
+#: framework/quiz-option.php:61
+msgid "Quiz Option"
+msgstr "Opcines de Examen"
+
+#: framework/quiz-option.php:76
+msgid "Allow to retake this quiz"
+msgstr "Permitir a retomar este examen"
+
+#: framework/quiz-option.php:81
+msgid "Number of quiz retakes"
+msgstr "Número de hacer examen"
+
+#: framework/quiz-option.php:84
+msgid "times"
+msgstr "Veces"
+
+#: framework/quiz-option.php:91
+msgid "Quiz Settings"
+msgstr ""
+
+#: framework/quiz-option.php:110
+msgid "Question Type"
+msgstr ""
+
+#: framework/quiz-option.php:113
+msgid "Single Choice"
+msgstr ""
+
+#: framework/quiz-option.php:114
+msgid "Multiple Choice"
+msgstr ""
+
+#: framework/quiz-option.php:115
+msgid "Small Fill"
+msgstr ""
+
+#: framework/quiz-option.php:116
+msgid "Large Fill"
+msgstr ""
+
+#: framework/quiz-option.php:118
+msgid "( Manual marking the score for small and large fill )"
+msgstr ""
+
+#: framework/quiz-option.php:121
+msgid "Section Timer"
+msgstr ""
+
+#: framework/quiz-option.php:125
+msgid "Time Period"
+msgstr "Período De Tiempo"
+
+#: framework/quiz-option.php:128
+msgid "Minutes"
+msgstr "Minutos"
+
+#: framework/quiz-option.php:150
+msgid "Delete"
+msgstr "Eliminar"
+
+#: framework/theme-option/gdlr-admin-panel-html.php:144
+msgid "Sample Font"
+msgstr ""
+
+#: framework/theme-option/gdlr-admin-panel-html.php:274
+msgid "The skin you created can be used in Color / Background Wrapper Section"
+msgstr ""
+
+#: framework/theme-option/gdlr-admin-panel-html.php:369
+msgid "Insert Image"
+msgstr "Insertar Imagen"
+
+#: framework/theme-option/gdlr-admin-panel-html.php:383
+msgid "Upload font"
+msgstr ""
+
+#: framework/theme-option/gdlr-admin-panel-html.php:413
+msgid "Font Name"
+msgstr ""
+
+#: framework/theme-option/gdlr-admin-panel-html.php:422
+msgid "EOT Font"
+msgstr ""
+
+#: framework/theme-option/gdlr-admin-panel-html.php:438
+msgid "TTF Font"
+msgstr ""
+
+#: framework/theme-option/gdlr-admin-panel.php:32
+msgid "Invalid Nonce"
+msgstr ""
+
+#: framework/theme-option/gdlr-admin-panel.php:33
+#: framework/theme-option/gdlr-admin-panel.php:52
+#: framework/theme-option/gdlr-admin-panel.php:59
+msgid "Please refresh the page and try this again."
+msgstr "Por favor, actualice la página y probar de nuevo."
+
+#: framework/theme-option/gdlr-admin-panel.php:46
+msgid "Save Options Complete"
+msgstr "Opciones Guardar completa"
+
+#: framework/theme-option/gdlr-admin-panel.php:51
+msgid "Save Options Failed"
+msgstr ""
+
+#: framework/theme-option/gdlr-admin-panel.php:58
+msgid "Cannot Retrieve Options"
+msgstr ""
+
+#: framework/theme-option/gdlr-admin-panel.php:139
+#: framework/theme-option/gdlr-admin-panel.php:170
+msgid "Save Changes"
+msgstr "Guardar Cambios"
+
+#: framework/user.php:14 user/manual-check-needed.php:4
+#: user/my-course-student.php:8 user/quiz-scores.php:4
+#: user/scoring-status-student.php:4
+msgid "Student"
+msgstr "Alumno"
+
+#: framework/user.php:110
+msgid "Extra information"
+msgstr "Información Extra"
+
+#: framework/user.php:135
+msgid "Author Image"
+msgstr "Imagen Autor"
+
+#: framework/user.php:148
+msgid "Author Biography ( in single instructor page )"
+msgstr "Biografía del autor (en la página solo instructor)"
+
+#: framework/user.php:154 user/badge-certificate.php:50
+msgid "Gender"
+msgstr "Sexo"
+
+#: framework/user.php:157 register.php:114 user/badge-certificate.php:51
+#: user/profile.php:26
+msgid "Male"
+msgstr "Masculino"
+
+#: framework/user.php:158 register.php:115 user/badge-certificate.php:51
+#: user/profile.php:27
+msgid "Female"
+msgstr "Femenino"
+
+#: framework/user.php:163 user/badge-certificate.php:54
+msgid "Birth Date"
+msgstr "Fecha de Nacimiento"
+
+#: framework/user.php:170 include/lightbox-form.php:230 register.php:129
+#: user/badge-certificate.php:62 user/profile.php:41
+msgid "Phone"
+msgstr "Teléfono"
+
+#: framework/user.php:176 include/lightbox-form.php:235
+msgid "Address"
+msgstr "Dirección"
+
+#: framework/user.php:188 user/profile.php:63
+msgid "Position"
+msgstr "Posición"
+
+#: framework/user.php:206
+msgid "Specialist in"
+msgstr "Especialista en"
+
+#: framework/user.php:218 user/profile.php:86
+msgid "Social Network"
+msgstr ""
+
+#: include/certificate-item.php:202 include/course-item.php:420
+msgid "Date"
+msgstr "Día"
+
+#: include/course-item.php:49
+msgid "Keywords"
+msgstr "Palabras Clave"
+
+#: include/course-item.php:73 include/course-item.php:411
+msgid "Onsite Course"
+msgstr "Curso Presencial"
+
+#: include/course-item.php:310 include/course-item.php:357
+#: include/course-item.php:448 include/course-item.php:510
+#: include/course-item.php:517
+msgid "Free"
+msgstr "Gratis"
+
+#: include/course-item.php:430
+msgid "Time"
+msgstr "Duración"
+
+#: include/course-item.php:438
+msgid "Place"
+msgstr "Lugar"
+
+#: include/course-item.php:456 user/my-course-student.php:10
+msgid "Seat"
+msgstr "Plazas"
+
+#: include/course-item.php:500
+msgid "ratings"
+msgstr "Calificaciones"
+
+#: include/course-item.php:621
+msgid "Buy Now"
+msgstr "Comprar Ahora"
+
+#: include/course-item.php:627
+msgid "Book Now"
+msgstr "Reservar Ahora"
+
+#: include/course-item.php:631 include/utility.php:38
+msgid "Learn More"
+msgstr "Más información"
+
+#: include/course-item.php:635
+msgid "Start the course"
+msgstr "Iniciar el curso"
+
+#: include/course-item.php:642
+msgid "Proceed to Payment"
+msgstr "Proceda al Pago"
+
+#: include/course-item.php:649
+msgid "Booking Status"
+msgstr "Estado de su reserva"
+
+#: include/course-item.php:653
+msgid "You have to complete "
+msgstr "Tiene que completar"
+
+#: include/course-item.php:655
+msgid "before you can access to this course."
+msgstr "Antes de poder acceder a este curso."
+
+#: include/course-item.php:672
+msgid "Retake a quiz"
+msgstr "Retomar un Examen"
+
+#: include/course-item.php:677
+msgid "Take a quiz"
+msgstr "Haga el Examen"
+
+#: include/course-item.php:681
+msgid ""
+"You have to register and login to the site before you can take the quiz."
+msgstr ""
+"Usted tiene que registrarse y acceder al sitio, Para poder hacer el examen ."
+
+#: include/course-item.php:688
+msgid "Submitting the answer"
+msgstr "Enviar Respuestas"
+
+#: include/course-item.php:690
+msgid "Finish the quiz"
+msgstr "Finalizar el Examen"
+
+#: include/instructor-item.php:92 include/instructor-item.php:131
+msgid "View Profile"
+msgstr "Ver Perfíl"
+
+#: include/lightbox-form.php:11
+msgid "Please sign in first"
+msgstr "Por favor, Inicie sesión primero"
+
+#: include/lightbox-form.php:14 login.php:147
+msgid "Username"
+msgstr "Usuario"
+
+#: include/lightbox-form.php:18 login.php:151
+msgid "Password"
+msgstr "Contraseña"
+
+#: include/lightbox-form.php:24 login.php:157
+msgid "Lost Your Password?"
+msgstr "Perdiste tu Contraseña?"
+
+#: include/lightbox-form.php:30 login.php:163
+msgid "Sign In!"
+msgstr "Iniciar Sesión"
+
+#: include/lightbox-form.php:33
+msgid "Not a member?"
+msgstr "¿ Aún no eres Alumno?"
+
+#: include/lightbox-form.php:34
+msgid "Please simply create an account before buying/booking any courses."
+msgstr ""
+"Sólo tienes que crear una cuenta antes de comprar / reservar cualquier curso."
+
+#: include/lightbox-form.php:35
+msgid "Create an account for free!"
+msgstr "Crea una cuenta gratis!"
+
+#: include/lightbox-form.php:43
+msgid "Time out!"
+msgstr "Se acabó el tiempo!"
+
+#: include/lightbox-form.php:47
+msgid "This part is timeout! press the button below to skip to next part"
+msgstr ""
+"Esta parte es el tiempo de espera! pulse el botón de abajo para saltar a la "
+"siguiente parte"
+
+#: include/lightbox-form.php:50
+msgid "Continue the quiz"
+msgstr "Continuar el Examen"
+
+#: include/lightbox-form.php:54
+msgid "This part is timeout! press the button to submit the quiz"
+msgstr ""
+"Esta parte es el tiempo de espera! pulse el botón para enviar el cuestionario"
+
+#: include/lightbox-form.php:57
+msgid "Submit the quiz"
+msgstr "Enviar Examen"
+
+#: include/lightbox-form.php:69
+msgid "Quiz Complete!"
+msgstr "Examen Complado!"
+
+#: include/lightbox-form.php:72
+msgid "You can check score in your profile page"
+msgstr "Puede comprobar la puntuación en su página de perfil"
+
+#: include/lightbox-form.php:75
+msgid "Back to the course"
+msgstr "Volver al curso"
+
+#: include/lightbox-form.php:87
+msgid "Rate the course"
+msgstr "Valorar el curso"
+
+#: include/lightbox-form.php:106
+msgid "Rate !"
+msgstr "Vota!"
+
+#: include/lightbox-form.php:120
+msgid "Pay now via PayPal."
+msgstr "Pague ahora a través de PayPal."
+
+#: include/lightbox-form.php:121
+msgid "Pay Now"
+msgstr "Pague Ahora"
+
+#: include/lightbox-form.php:123
+msgid ""
+"* You're not required to submit evidence of payment after you pay via PayPal."
+msgstr ""
+"* Usted no está obligado a presentar justificante del pago después de pagar "
+"a través de PayPal."
+
+#: include/lightbox-form.php:127
+msgid "OR"
+msgstr "o"
+
+#: include/lightbox-form.php:130
+msgid "Submit evidence of payment."
+msgstr "Envíe el justificante de pago."
+
+#: include/lightbox-form.php:131
+msgid "Continue"
+msgstr "Continuar"
+
+#: include/lightbox-form.php:133
+msgid ""
+"* Noted that you must pay via method we provided before sumitting evidence."
+msgstr ""
+"* Le informamos que hay que pagar a través de método que proporcionamos "
+"antes de enviar justificantes."
+
+#: include/lightbox-form.php:154 include/lightbox-form.php:239
+msgid "Additional Note"
+msgstr "Nota adicional"
+
+#: include/lightbox-form.php:158
+msgid "Select Attachment"
+msgstr "Seleccionar adjuntos"
+
+#: include/lightbox-form.php:168
+msgid "Submit"
+msgstr "Enviar"
+
+#: include/lightbox-form.php:221
+msgid "Lastname"
+msgstr "Apelidos"
+
+#: include/lightbox-form.php:226 user/badge-certificate.php:58
+msgid "Email"
+msgstr "Email"
+
+#: include/lightbox-form.php:244 user/attended-courses.php:39
+#: user/confirm-courses.php:26
+msgid "Amount"
+msgstr "Cantidad"
+
+#: include/lightbox-form.php:283
+msgid "notice"
+msgstr "aviso"
+
+#: include/lightbox-form.php:284 single-paymill.php:34 single-stripe.php:34
+msgid "loading"
+msgstr "cargando"
+
+#: include/lightbox-form.php:305
+msgid "Book Now!"
+msgstr "Reservar Ahora!"
+
+#: include/lightbox-form.php:305
+msgid "Pay Now!"
+msgstr "Pagar Ahora!"
+
+#: include/lightbox-form.php:323 include/lightbox-form.php:371
+msgid "An error is occurred, please refresh the page to try this again."
+msgstr ""
+"Se ha producido un error, por favor, actualice la página de probar este "
+"nuevo."
+
+#: include/lightbox-form.php:328
+msgid "Redirecting to paypal"
+msgstr "Redirigiendo a paypal"
+
+#: include/lightbox-form.php:331
+msgid "Redirecting to stripe payment"
+msgstr ""
+
+#: include/lightbox-form.php:334
+msgid "Redirecting to paymill payment"
+msgstr ""
+
+#: include/lightbox-form.php:337
+msgid "Redirecting to authorize payment"
+msgstr ""
+
+#: include/lightbox-form.php:357
+msgid "Please fill all required fields."
+msgstr "Rellene todos los campos obligatorios."
+
+#: include/lightbox-form.php:361
+msgid ""
+"You already booked this course, please proceed the payment via your profile "
+"page."
+msgstr ""
+"Ya reservó este curso por favor proceda el pago a través de su página de "
+"perfil."
+
+#: include/lightbox-form.php:376
+msgid ""
+"This course is already full or the available seat is not enough, please try "
+"again later."
+msgstr ""
+"Este curso ya está completo o las plazas disponibles no son suficientes, por "
+"favor intente de nuevo más tarde."
+
+#: include/lightbox-form.php:415
+msgid "Booking complete"
+msgstr "Reserva completada"
+
+#: include/lightbox-form.php:418
+msgid "Booking complete, redirecting to paypal"
+msgstr "Reserva completada, redirigiendo a paypal"
+
+#: include/lightbox-form.php:421
+msgid "Booking complete, redirecting to stripe payment"
+msgstr ""
+
+#: include/lightbox-form.php:424
+msgid "Booking complete, redirecting to paymill payment"
+msgstr ""
+
+#: include/lightbox-form.php:427
+msgid "Booking complete, redirecting to authorize payment"
+msgstr ""
+
+#: include/lightbox-form.php:437
+msgid "Transaction error, please contact the administrator"
+msgstr ""
+"Error de transacción, por favor póngase en contacto con el administrador"
+
+#: include/lightbox-form.php:444
+msgid "Session expired, please refresh the page and try this again"
+msgstr "Sesión expirada, por favor, actualice la página y probar este nuevo"
+
+#: include/misc.php:13 user/student-admin.php:22 user/teacher-admin.php:62
+msgid "Logout"
+msgstr "Cerrar Sesión"
+
+#: include/misc.php:18
+msgid "Sign In"
+msgstr "Iniciar Sesión"
+
+#: include/misc.php:21
+msgid "Sign Up"
+msgstr "Registrarse"
+
+#: include/paymill-payment.php:126 include/stripe-payment.php:111
+msgid "Stripe Payment Received"
+msgstr "Pago Recibido"
+
+#: include/paymill-payment.php:130 include/stripe-payment.php:115
+msgid "Payment complete, redirecting to the course page."
+msgstr "El pago completado, volver a dirigir a la página del curso."
+
+#: include/paymill-payment.php:139 include/stripe-payment.php:124
+msgid ""
+"Failed to retrieve the course, please made the payment from course page "
+"again."
+msgstr ""
+"No se pudo recuperar el curso, por favor realice el pago en la página del "
+"curso de nuevo."
+
+#: include/paypal-ipn.php:78
+msgid "Paypal Payment Received"
+msgstr "Pago de PayPal Recibido"
+
+#: include/utility.php:58
+msgid "None"
+msgstr "Ninguno"
+
+#: include/utility.php:158
+msgid "full size (Original Images)"
+msgstr "Tamaño completo (imágenes originales)"
+
+#: lms-header.php:11
+msgid "Login"
+msgstr "Iniciar Sesión"
+
+#: lms-header.php:13
+msgid "Register"
+msgstr "Registrarse"
+
+#: lms-header.php:21
+msgid "Stripe Payment"
+msgstr "Forma de Pago"
+
+#: lms-header.php:23
+msgid "Paymill Payment"
+msgstr ""
+
+#: lms-header.php:25
+msgid "Authorize Payment"
+msgstr ""
+
+#: login.php:37
+msgid "The passwords do not match."
+msgstr "Las contraseñas no coinciden."
+
+#: login.php:69
+msgid ""
+"Please enter your username or email address. You will receive a link to "
+"create a new password via email."
+msgstr ""
+"Introduzca su nombre de usuario o la dirección de correo electrónico. Usted "
+"recibirá un enlace para crear una nueva contraseña por correo electrónico."
+
+#: login.php:74
+msgid "Password reset is not allowed for this user"
+msgstr "Restablecimiento de contraseña no está permitido para este usuario"
+
+#: login.php:76
+msgid "Sorry, that key has expired. Please try again."
+msgstr "Lo sentimos, esa clave ha expirado. Por favor, vuelva a intentarlo."
+
+#: login.php:78
+msgid "Sorry, that key does not appear to be valid."
+msgstr "Lo sentimos, esa clave no parece ser válida."
+
+#: login.php:80
+msgid "Invalid username or e-mail."
+msgstr "Nombre de usuario o correo electrónico no válido."
+
+#: login.php:88
+msgid "Username or E-mail:"
+msgstr "Nombre de usuario o correo electrónico:"
+
+#: login.php:95
+msgid "Get New Password"
+msgstr "Obtener nueva contraseña"
+
+#: login.php:110
+msgid ""
+"<strong>Hint:</strong> The password should be at least seven characters "
+"long. To make it stronger, use upper and lower case letters, numbers, and "
+"symbols like ! \" ? $ % ^ &amp; )."
+msgstr ""
+"<strong>Sugerencia:</strong> La contraseña debe tener al menos siete "
+"caracteres. Para hacerla más fuerte, use letras mayúsculas y minúsculas, "
+"números y símbolos como ! \" ? $ % ^ &amp; )."
+
+#: login.php:114
+msgid "New password"
+msgstr "Nueva contraseña"
+
+#: login.php:118
+msgid "Confirm new password"
+msgstr "Confirmar nueva contraseña"
+
+#: login.php:125
+msgid "Reset Password"
+msgstr "Restablecer La Contraseña"
+
+#: login.php:133
+msgid "The login credentials is incorrect. Please try again."
+msgstr ""
+"Las credenciales de inicio de sesión es incorrecta. Por favor, vuelva a "
+"intentarlo."
+
+#: login.php:137
+msgid "Please check your e-mail for the confirmation link."
+msgstr "Por favor, comprueba tu e-mail para el enlace de confirmación."
+
+#: login.php:141
+msgid "Your password has been reset."
+msgstr "Tu contraseña ha sido restablecida."
+
+#: register.php:8 user/author-update.php:8 user/author-update.php:26
+msgid "Please enter all required fields."
+msgstr "Por favor ingrese todos los campos requeridos."
+
+#: register.php:12
+msgid "Password and password confirmation do not match."
+msgstr ""
+
+#: register.php:17
+msgid "Username already exists, please try again with another name."
+msgstr ""
+"Nombre de usuario ya existe, por favor intente de nuevo con otro nombre."
+
+#: register.php:22 user/author-update.php:30
+msgid "Email already exists, Please try again with new email address."
+msgstr ""
+"El Email ya existe, por favor intente de nuevo con una nueva dirección de "
+"correo electrónico."
+
+#: register.php:27
+msgid "Email is not valid."
+msgstr "El correo electrónico no es válido."
+
+#: register.php:39
+msgid "Please only fill latin characters in username and password fields."
+msgstr ""
+"Por favor, rellene solamente caracteres latinos en los campos de nombre de "
+"usuario y contraseña."
+
+#: register.php:88
+msgid "Username *"
+msgstr "Usuario *"
+
+#: register.php:93
+msgid "Password *"
+msgstr "Contraseña *"
+
+#: register.php:97
+msgid "Re Password *"
+msgstr "Repetir Contraseña *"
+
+#: register.php:102 user/profile.php:14
+msgid "First Name *"
+msgstr "Nombre *"
+
+#: register.php:106
+msgid "Last Name *"
+msgstr "Apellidos *"
+
+#: register.php:111 user/profile.php:23
+msgid "Gender *"
+msgstr "Sexo *"
+
+#: register.php:120 user/profile.php:32
+msgid "Birth Date *"
+msgstr "Fecha de Nacimiento *"
+
+#: register.php:125 user/profile.php:37
+msgid "Email *"
+msgstr "Email *"
+
+#: register.php:134 user/profile.php:46
+msgid "Address *"
+msgstr "Dirección *"
+
+#: register.php:140
+msgid "Create an account"
+msgstr "Crear una cuenta"
+
+#: single-course-content.php:24
+msgid "Course Process"
+msgstr "Proceso del Curso"
+
+#: single-course-content.php:44 single-course-content.php:67
+#: single-course-quiz.php:160 single-course-quiz.php:170
+#: user/quiz-scores.php:5 user/view-answer.php:23
+msgid "Part"
+msgstr "Módulo"
+
+#: single-course-content.php:84
+msgid "days"
+msgstr "Días"
+
+#: single-course-content.php:88
+msgid "hours"
+msgstr "Horas"
+
+#: single-course-content.php:92
+msgid "minutes"
+msgstr "Minutos"
+
+#: single-course-content.php:93
+msgid "seconds"
+msgstr "Segundos"
+
+#: single-course-content.php:97
+#, php-format
+msgid "There're %s left before you can access to next part."
+msgstr "Te queda %s antes de proceder al siguiente módulo"
+
+#: single-course-content.php:104 single-course-quiz.php:231
+#: user/view-answer.php:31 user/view-answer.php:101
+msgid "Previous Part"
+msgstr "Módulo Anterior"
+
+#: single-course-content.php:109 single-course-quiz.php:236
+#: user/view-answer.php:36 user/view-answer.php:106
+msgid "Next Part"
+msgstr "Siguiente Módulo"
+
+#: single-course-quiz.php:120
+msgid "Quiz Process"
+msgstr "Proceso de Examen"
+
+#: single-course-quiz.php:220 user/view-answer.php:90
+msgid "Point(s)"
+msgstr "Punto(s)"
+
+#: single-paymill.php:16 single-stripe.php:16
+msgid "Card Number"
+msgstr "Numero de Tarjeta"
+
+#: single-paymill.php:22 single-stripe.php:22
+msgid "CVC"
+msgstr "CVC"
+
+#: single-paymill.php:28 single-stripe.php:28
+msgid "Expiration (MM/YYYY)"
+msgstr "Expira (MM/YYYY)"
+
+#: single-paymill.php:36 single-stripe.php:36 user/book-courses.php:50
+#: user/book-courses.php:60 user/book-courses.php:66
+msgid "Submit Payment"
+msgstr "Enviar Pago"
+
+#: user/attended-courses.php:1 user/student-admin.php:16
+msgid "Attended Courses"
+msgstr "Cursos Realizados"
+
+#: user/attended-courses.php:4 user/book-courses.php:4
+#: user/confirm-courses.php:4 user/free-onsite.php:4 user/my-course.php:4
+#: user/scoring-status.php:4
+msgid "Course Name"
+msgstr "Nombre del Curso"
+
+#: user/attended-courses.php:40 user/confirm-courses.php:27
+msgid "Seats"
+msgstr "Plazas"
+
+#: user/attended-courses.php:45
+msgid "Rating"
+msgstr "Clasificación"
+
+#: user/attended-courses.php:51
+msgid "Rate this course"
+msgstr "Valorar este curso"
+
+#: user/author-update.php:10
+msgid "New password and password confirmation do not match."
+msgstr "Nueva contraseña y confirmación de contraseña no coinciden."
+
+#: user/author-update.php:12
+msgid "The password you typed is incorrect."
+msgstr "La contraseña que ha escrito no es correcta."
+
+#: user/author-update.php:19
+msgid "Password is changed"
+msgstr "Cambiar Contraseña"
+
+#: user/author-update.php:101
+msgid "Profile is updated"
+msgstr "Actualizar Perfíl"
+
+#: user/author-update.php:108 user/author-update.php:137
+msgid "Submission failed, please try again."
+msgstr "Envío fallado, por favor vuelva a intentarlo."
+
+#: user/author-update.php:135
+msgid "Evidence Submitted"
+msgstr "Justificante Enviado"
+
+#: user/badge-certificate.php:24
+msgid "Badges"
+msgstr "Insignias de méritos "
+
+#: user/badge-certificate.php:39
+msgid "Profile"
+msgstr "Perfíl"
+
+#: user/badge-certificate.php:46
+msgid "Last Name"
+msgstr "Apellido"
+
+#: user/book-courses.php:1 user/student-admin.php:17
+msgid "Booked Courses"
+msgstr "Cursos Reservados"
+
+#: user/book-courses.php:27 user/free-onsite.php:39
+msgid "Cancel Booking"
+msgstr "Cancelar Reserva"
+
+#: user/book-courses.php:28 user/free-onsite.php:40
+msgid "Are you sure you want to cancel booking this course"
+msgstr "¿Seguro que desea cancelar la reserva de este curso?"
+
+#: user/book-courses.php:29 user/free-onsite.php:41
+#: user/my-course-student.php:32 user/quiz-scores.php:31
+msgid "Confirm"
+msgstr "Confirmar"
+
+#: user/book-courses.php:29 user/free-onsite.php:41
+#: user/my-course-student.php:32 user/quiz-scores.php:31
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: user/book-courses.php:31
+msgid "(Cancel)"
+msgstr "(Cancelar)"
+
+#: user/book-courses.php:36 user/manual-check-needed.php:22
+#: user/quiz-scores.php:49 user/scoring-status-part.php:26
+#: user/scoring-status-student.php:27 user/scoring-status.php:30
+msgid "Pending"
+msgstr "Pendiente"
+
+#: user/book-courses.php:38
+msgid "Submitted"
+msgstr "Enviado"
+
+#: user/book-courses.php:40
+msgid "Paid"
+msgstr "Pagado"
+
+#: user/confirm-courses.php:1 user/student-admin.php:18
+msgid "Confirmed Courses"
+msgstr "Cursos confirmados"
+
+#: user/earning.php:6
+msgid "Your commission rate is"
+msgstr "Su tipo de comisión es"
+
+#: user/earning.php:33
+msgid "My Earning"
+msgstr "Mis Beneficios"
+
+#: user/free-onsite.php:1 user/student-admin.php:19
+msgid "Free Onsite Courses"
+msgstr "Cursos presenciales gratuitos"
+
+#: user/free-onsite.php:30
+msgid "attended"
+msgstr "Asistidos"
+
+#: user/free-onsite.php:32
+msgid "reserved"
+msgstr "Reservados"
+
+#: user/free-onsite.php:43
+msgid "Cancel Course"
+msgstr "Cancelar Curso"
+
+#: user/leader-board.php:1
+msgid "Leader Board :"
+msgstr "Tabla de Clasificación:"
+
+#: user/leader-board.php:4
+msgid "Rank"
+msgstr "Posición"
+
+#: user/leader-board.php:6 user/manual-check-needed.php:6
+#: user/my-course-student.php:15 user/quiz-scores.php:6
+#: user/scoring-status-student.php:6
+msgid "Score"
+msgstr "Puntuación"
+
+#: user/manual-check-needed.php:1 user/my-course.php:1
+#: user/teacher-admin.php:26
+msgid "My Courses"
+msgstr "Mis Cursos"
+
+#: user/manual-check-needed.php:5 user/scoring-status-student.php:5
+msgid "Manual Check"
+msgstr "Manual de Consulta"
+
+#: user/my-course-student.php:30
+msgid "Delete Student"
+msgstr "Eliminar Alumno"
+
+#: user/my-course-student.php:31
+msgid "Are you sure you want to remove this student from this course"
+msgstr "¿Seguro que quieres eliminar esta estudiante de este curso?"
+
+#: user/my-course-student.php:34
+msgid "(Delete)"
+msgstr "(Eliminar)"
+
+#: user/password.php:1
+msgid "Change Password"
+msgstr "Cambiar Contraseña"
+
+#: user/password.php:4
+msgid "Old Password *"
+msgstr "Contraseña Anterior *"
+
+#: user/password.php:9
+msgid "New Password *"
+msgstr "Nueva Contraseña *"
+
+#: user/password.php:13
+msgid "Confirm Password *"
+msgstr "Confirmar Contraseña *"
+
+#: user/password.php:19 user/profile.php:93
+msgid "Update"
+msgstr "Actualizar"
+
+#: user/profile.php:5 user/student-admin.php:13 user/teacher-admin.php:24
+msgid "Edit Profile"
+msgstr "Editar Perfíl"
+
+#: user/profile.php:18
+msgid "Last name *"
+msgstr "Apellidos *"
+
+#: user/profile.php:51
+msgid "Full Biography"
+msgstr "Biografía Completa"
+
+#: user/quiz-scores.php:1
+msgid "View quizes scores (only online course)"
+msgstr "Ver puntuaciones (solamente en el curso online)"
+
+#: user/quiz-scores.php:29
+msgid "After viewing an answer, you'll not be able to retake the quiz anymore."
+msgstr ""
+"Después de ver una respuesta, usted no podrá realizar el examen más veces."
+
+#: user/quiz-scores.php:30
+msgid "* only for retakeable quiz."
+msgstr "* Sólo para Examen Online"
+
+#: user/quiz-scores.php:33
+msgid "View Correct Answers"
+msgstr "Ver las respuestas correctas"
+
+#: user/quiz-scores.php:35
+msgid "View Leader Board"
+msgstr "Ver Tabla de Clasificación"
+
+#: user/scoring-status-part.php:1 user/scoring-status-student.php:1
+#: user/scoring-status.php:1 user/scoring-status.php:5
+msgid "Scoring status"
+msgstr "Estado de puntuación"
+
+#: user/scoring-status-part.php:4
+msgid "Summary"
+msgstr "Resumen"
+
+#: user/scoring-status-part.php:5
+msgid "Scores"
+msgstr "puntuaciones"
+
+#: user/scoring-status-part.php:36
+msgid "Overall"
+msgstr "Total"
+
+#: user/scoring-status-part.php:62
+msgid "Answer :"
+msgstr "Respuesta:"
+
+#: user/scoring-status-part.php:81
+msgid "Score :"
+msgstr "Puntuación:"
+
+#: user/scoring-status-part.php:96
+msgid "Submit Score"
+msgstr "Enviar puntuación"
+
+#: user/scoring-status-student.php:27 user/scoring-status.php:30
+msgid "Complete"
+msgstr "Completado"
+
+#: user/student-admin.php:6 user/teacher-admin.php:17
+msgid "Welcome"
+msgstr "Bienvenido"
+
+#: user/student-admin.php:12
+msgid "Profile, Badges and Certifications"
+msgstr "Perfil, Insignias (méritos) y Certificaciones"
+
+#: user/student-admin.php:14 user/teacher-admin.php:25
+msgid "Edit Password"
+msgstr "Editar Contraseña"
+
+#: user/student-admin.php:15
+msgid "View Quiz Scores"
+msgstr "Ver Puntuaciones de Examen "
+
+#: user/teacher-admin.php:27
+msgid "Scoring Status"
+msgstr "Estado de Puntuación"
+
+#: user/teacher-admin.php:52
+msgid "Manual Check Needed"
+msgstr "Comprobación Manual"
+
+#: user/view-answer.php:27
+msgid "No answer provided for writing part"
+msgstr "Sin respuesta"

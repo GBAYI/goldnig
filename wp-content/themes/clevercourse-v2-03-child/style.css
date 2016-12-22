@@ -1,0 +1,171 @@
+/*
+Theme Name: GI Clever Course Child
+Theme URI: None
+Description: GI Theme
+Author: Oluwasegun Somefun
+Author URI: None
+Version: 2.03
+License: 
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: white, light, yellow, two-columns, fluid-layout, custom-background, custom-colors, featured-images, theme-options
+Text Domain: gdlr_translate
+Template: clevercourse-v2-03
+
+/*--- reset ---*/
+/*--- reset5 Â© 2011 opensource.736cs.com MIT ---*/
+
+
+@font-face {
+    font-family: 'moonbold';
+    src: url('moon_bold-webfont.woff2') format('woff2'),
+         url('moon_bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Exo';
+    src: url('exo-regular-webfont.woff2') format('woff2'),
+         url('exo-regular-webfont.woff') format('woff'),
+         url('exo-regular-webfont.ttf') format('truetype'),
+         url('exo-regular-webfont.svg#exoregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Exo2';
+    src: url('exo-medium-webfont.woff2') format('woff2'),
+         url('exo-medium-webfont.woff') format('woff'),
+         url('exo-medium-webfont.ttf') format('truetype'),
+         url('exo-medium-webfont.svg#exomedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('Roboto-Medium-webfont.eot');
+    src: url('Roboto-Medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Roboto-Medium-webfont.woff') format('woff'),
+         url('Roboto-Medium-webfont.ttf') format('truetype'),
+         url('Roboto-Medium-webfont.svg#roboto') format('svg');
+		 font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Junction';
+    src: url('junction-regular.eot');
+    src: url('junction-regular.eot?#iefix') format('embedded-opentype'),
+         url('junction-regular.woff') format('woff'),
+         url('junction-regular.ttf') format('truetype'),
+         url('junction-regular.svg#junctionregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body {
+	font-weight: 500; font-family: Junction !important;
+	
+}
+
+p {
+	margin-bottom: 20px;
+	font-weight: 500;
+	-webkit-text-size-adjust: 100% !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: "moonbold"!important;
+}
+
+.format-quote .gdlr-top-quote blockquote {
+	font-family: Exo2 !important;
+	font-size: 26px !important;
+}
+.gdlr-lms-header-signin {
+	font-family: Exo !important;
+	color: #34b495 !important;
+}
+
+.gdlr-lms-header-signin a {
+	font-weight: bold !important;
+}
+
+.top-navigation-left .top-navigation-left-text {
+  	font-family: Roboto !important; font-weight: bolder; font-size: 12px; letter-spacing: 1px; line-height: 18px;
+}
+
+.gdlr-navigation-wrapper {
+    margin: 0px -15px 0px -15px; /* font-dependent, change it to +15px for Exo types*/
+}
+
+.gdlr-lms-content-type .gdlr-lms-course-info {
+	font-family: "Exo2" !important;
+	-webkit-text-size-adjust: 100% !important;
+}
+
+.footer-wrapper .gdlr-widget-title, .footer-wrapper .gdlr-widget-title a {
+	font-family: "Exo2" !important;
+	-webkit-text-size-adjust: 100% !important;
+}
+
+.gdlr-lms-course-content {
+	letter-spacing: -0.3px;
+	color: #454545;
+	text-align: justify;
+	font: 16px/1.7em Roboto !important;
+	-webkit-text-size-adjust: 100% !important;
+}
+
+.gdlr-lms-course-title, .gdlr-lms-course-title a {
+	color: #A50A0A;
+	font-weight: bold;
+}
+
+.gdlr-course-button .gdlr-lms-button {
+	margin-bottom: 20px;
+	font-family: "Exo2" !important;
+}
+
+.gdlr-lms-course-price .price, .gdlr-lms-course-price .discount-price {
+	font-size: 21px;
+	font-weight: bold;
+	font-family: Roboto;
+	-webkit-text-size-adjust: 100% !important;
+}
+
+.gdlr-button.with-border {
+	border-bottom-width: 0px !important;
+	border-bottom-style: solid;
+}
+
+.gdlr-lms-form input[type="text"], .gdlr-lms-form input[type="email"], .gdlr-lms-form input[type="password"], .gdlr-lms-form textarea, .gdlr-lms-quiz-answer textarea, .gdlr-lms-form .gdlr-lms-combobox, .gdlr-lms-form .gdlr-lms-combobox::after {
+	border-width: 1px !important;
+	border-style: solid !important;
+	border-color: #606060 !important;
+}
+
+a {
+	color: #3681c0;
+	font-weight: 500;
+}
+
+.gdlr-lms-course-info .gdlr-lms-info {
+	font-weight: 500;
+}
+
+
+.gdlr-box-with-icon-item .box-with-icon-title{ font-size: 20px; margin-bottom: 20px; display: block; font-family: Exo2 !important; }	
+
+.master-slider a, .master-slider a:hover {
+	-webkit-transition: none;
+	transition: none;
+	color: white !important;
+	font-family: moonbold !important;
+}
+

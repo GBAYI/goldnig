@@ -1,0 +1,17 @@
+ver 1.0.0 - 29 December, 2015
+- Initial Connects - MyMail Addon
+
+ver 1.0.1 - 9 January, 2016
+- Fixed - URL redirect issue resolved
+
+ver 2.0.0 - 10 February, 2016
+- New Feature - Given a feature to add multiple fields in the forms
+
+ver 2.0.1 - 16 February, 2016
+- Fixed - Minor fixes to prevent data loss
+
+ver 2.0.2 - 22 February, 2016
+- Fixed - Feature in Debug section to customize display message when same user tries to subscribe again.
+
+ver 2.0.3 - 10 March, 2016
+- Improvement: Updated auto update functionality

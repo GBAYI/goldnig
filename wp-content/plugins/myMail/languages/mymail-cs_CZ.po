@@ -1,0 +1,6810 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: MyMail Newsletter Plugin\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: classes/form.class.php:529
+#: classes/forms.class.php:927
+#: classes/settings.class.php:108
+#: includes/updates.php:28
+#: views/settings.php:606
+#: views/settings.php:782
+msgid "Email"
+msgstr "Email"
+
+#: classes/settings.class.php:109
+#: includes/updates.php:23
+#: views/settings.php:783
+msgid "First Name"
+msgstr "Jméno"
+
+#: classes/settings.class.php:110
+#: includes/updates.php:24
+#: views/settings.php:784
+msgid "Last Name"
+msgstr "Příjmení"
+
+#: classes/forms.class.php:925
+#: classes/settings.class.php:112
+#: includes/updates.php:29
+msgid "Subscribe"
+msgstr "Přihlásit se"
+
+#: classes/campaigns.class.php:457
+msgid "This Campaign was sent on %s"
+msgstr "Kampaň byla odeslána %s"
+
+#: classes/campaigns.class.php:460
+msgid "This Campaign is currently in the queue"
+msgstr "Tato kampaň je v současnosti ve frontě"
+
+#: classes/campaigns.class.php:956
+msgid "Enter Campaign Title here"
+msgstr "Sem zadejte název kampaně"
+
+#: classes/campaigns.class.php:142
+#: classes/dashboard.class.php:27
+#: classes/settings.class.php:228
+#: includes/static.php:4
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#: includes/static.php:8
+msgid "Signup for the newsletter"
+msgstr "Přihlášení k odběru newsletterů"
+
+#: classes/settings.class.php:135
+msgid "You have received this email because you have subscribed to %s as {email}. If you no longer wish to receive emails please {unsub}"
+msgstr "Dostal(a) jste tento e-mail, protože jste se přihlásil(a) do %s s emailem {email}. Pokud již nechce dostávat naše e-maily, zrušte prosím odběr kliknutím zde pro {unsub}"
+
+#: classes/settings.class.php:136
+msgid "If you received this email by mistake, simply delete it. You won't be subscribed if you don't click the confirmation link"
+msgstr "Pokud jste tento mail dostal(a) omylem, jednoduše jej odstraňte. Pokud chcete zrušit odběr novinek, neklikejte na potvrzovací odkaz."
+
+#: classes/settings.class.php:142
+msgid "Replace Content"
+msgstr "Nahradit obsah"
+
+#: classes/settings.class.php:228
+#: views/settings.php:28
+msgid "Newsletter Settings"
+msgstr "Nastavení newsletterů"
+
+#: classes/campaigns.class.php:130
+msgid "Campaigns"
+msgstr "Kampaně"
+
+#: classes/dashboard.class.php:58
+#: classes/campaigns.class.php:131
+#: views/dashboard.php:9
+#: views/lists/detail.php:146
+#: views/newsletter/delivery.php:386
+#: views/subscribers/detail.php:359
+msgid "Campaign"
+msgid_plural "Campaigns"
+msgstr[0] "Kampaň"
+msgstr[1] "Kampaně"
+msgstr[2] "Kampaní"
+
+#: classes/campaigns.class.php:132
+#: classes/campaigns.class.php:135
+msgid "New Campaign"
+msgstr "Nová kampaň"
+
+#: classes/campaigns.class.php:133
+#: views/dashboard.php:33
+msgid "Create a new Campaign"
+msgstr "Vytvořit novou kampaň"
+
+#: classes/campaigns.class.php:134
+msgid "Edit Campaign"
+msgstr "Upravit kampaň"
+
+#: classes/campaigns.class.php:136
+msgid "All Campaigns"
+msgstr "Všechny kampaně"
+
+#: classes/campaigns.class.php:137
+#: classes/campaigns.class.php:487
+#: classes/campaigns.class.php:492
+msgid "View Newsletter"
+msgstr "Zobrazit newsletter"
+
+#: classes/campaigns.class.php:138
+msgid "Search Campaigns"
+msgstr "Vyhledávání kampaní"
+
+#: classes/campaigns.class.php:139
+msgid "No Campaign found"
+msgstr "Žádné kampaně nenalezeny"
+
+#: classes/campaigns.class.php:140
+msgid "No Campaign found in Trash"
+msgstr "Žádné kampaně v koši"
+
+#: classes/campaigns.class.php:184
+#: classes/campaigns.class.php:186
+msgid "Active"
+msgstr "Aktivní"
+
+#: classes/campaigns.class.php:196
+#: classes/campaigns.class.php:198
+#: classes/campaigns.class.php:639
+msgid "Finished"
+msgstr "Hotové"
+
+#: classes/campaigns.class.php:634
+msgid "starts in %s"
+msgstr "začátek v %s"
+
+#: classes/campaigns.class.php:620
+msgid "progressing"
+msgstr "spracovává se"
+
+#: views/lists/detail.php:123
+#: views/subscribers/detail.php:304
+msgid "open rate"
+msgstr "Procento otevření"
+
+#: views/lists/detail.php:126
+#: views/subscribers/detail.php:308
+msgid "click rate"
+msgstr "Procento kliknutí"
+
+#: classes/campaigns.class.php:938
+#: views/newsletter/submit.php:48
+msgid "Duplicate"
+msgstr "Duplikovat"
+
+#: classes/campaigns.class.php:488
+msgid "Template changed. %1$s"
+msgstr "Šablona změněna. %1$s"
+
+#: classes/campaigns.class.php:488
+#: classes/form.class.php:767
+#: classes/form.class.php:776
+#: classes/form.class.php:915
+msgid "Go back"
+msgstr "Zpět"
+
+#: classes/campaigns.class.php:490
+msgid "Campaign updated."
+msgstr "Kampaň aktualizována."
+
+#: classes/campaigns.class.php:491
+msgid "Campaign restored to revision from %s"
+msgstr "Kampaň obnovená z %s"
+
+#: classes/campaigns.class.php:495
+msgid "Campaign scheduled."
+msgstr "Kampaň naplánována."
+
+#: classes/campaigns.class.php:496
+msgid "Campaign draft updated."
+msgstr "Návrh kampaně aktualizován."
+
+#: classes/campaigns.class.php:222
+#: views/forms/detail.php:63
+#: views/forms/detail.php:584
+#: views/lists/detail.php:64
+#: views/newsletter/editbar.php:299
+#: views/newsletter/optionbar.php:33
+#: views/newsletter/submit.php:66
+#: views/newsletter/submit.php:78
+#: views/subscribers/detail.php:67
+#: views/templates.php:47
+#: views/templates.php:55
+msgid "Save"
+msgstr "Uložit"
+
+#: classes/lists.class.php:44
+#: classes/subscribers.class.php:50
+#: classes/subscribers.class.php:590
+#: classes/subscribers.table.class.php:13
+#: classes/widget.class.php:236
+#: views/lists/detail.php:93
+#: views/settings.php:47
+#: views/settings.php:460
+#: views/settings.php:635
+#: views/settings.php:636
+#: views/subscribers/overview.php:3
+msgid "Subscribers"
+msgstr "Odběratelé"
+
+#: classes/dashboard.class.php:63
+#: classes/subscribers.table.class.php:12
+msgid "Subscriber"
+msgid_plural "Subscribers"
+msgstr[0] "Odběratel"
+msgstr[1] "Odběratelé"
+msgstr[2] "Odběratelů"
+
+#: classes/form.class.php:297
+#: classes/forms.class.php:256
+#: classes/lists.class.php:24
+#: classes/lists.table.class.php:13
+#: classes/manage.class.php:802
+#: classes/notification.class.php:504
+#: classes/settings.class.php:111
+#: classes/subscribers.class.php:121
+#: includes/updates.php:36
+#: views/lists/overview.php:3
+#: views/newsletter/receivers.php:157
+#: views/settings.php:785
+#: views/subscribers/detail.php:236
+msgid "Lists"
+msgstr "Seznamy"
+
+#: classes/subscribers.class.php:124
+msgid "Subscribed"
+msgstr "Přihlášeno k odběru"
+
+#: classes/mymail.class.php:542
+#: classes/templates.class.php:46
+#: views/templates.php:64
+msgid "Templates"
+msgstr "Šablony"
+
+#: classes/lists.class.php:719
+msgid "No Lists found!"
+msgstr "Žádné seznamy se nenašly!"
+
+#: classes/lists.class.php:719
+msgid "Create a List now"
+msgstr "Vytvořit no"
+
+#: views/newsletter/options.php:57
+msgid "original"
+msgstr "Původní"
+
+#: views/newsletter/options.php:136
+#: views/settings.php:1011
+msgid "none"
+msgstr "žádné"
+
+#: views/newsletter/submit.php:24
+msgid "Delete Permanently"
+msgstr "Trvale odstranit"
+
+#: views/newsletter/submit.php:26
+msgid "Move to Trash"
+msgstr "Přemístit do koše"
+
+#: views/newsletter/submit.php:65
+#: views/newsletter/submit.php:77
+#: views/newsletter/submit.php:80
+msgid "Publish"
+msgstr "Publikovat"
+
+#: views/newsletter/submit.php:84
+#: views/newsletter/submit.php:85
+msgid "Submit for Review"
+msgstr "Odeslat komentář"
+
+#: views/newsletter/submit.php:74
+#: views/newsletter/submit.php:91
+#: views/newsletter/submit.php:110
+msgid "Update"
+msgstr "Aktualizace"
+
+#: views/newsletter/optionbar.php:46
+msgid "Change Template"
+msgstr "Změnit šablonu"
+
+#: classes/campaigns.class.php:1079
+#: classes/campaigns.class.php:3351
+#: classes/forms.table.class.php:143
+#: classes/widget.class.php:256
+#: views/templates.php:102
+msgid "Preview"
+msgstr "Náhled"
+
+#: views/settings.php:45
+#: views/settings.php:82
+msgid "General"
+msgstr "Všeobecné"
+
+#: views/settings.php:50
+#: views/settings.php:806
+msgid "Tags"
+msgstr "Tagy"
+
+#: views/settings.php:52
+#: views/settings.php:1059
+msgid "Cron"
+msgstr "Cron"
+
+#: views/settings.php:54
+msgid "Bouncing"
+msgstr "Odmítnutí"
+
+#: views/newsletter/details.php:25
+#: views/newsletter/details.php:26
+#: views/settings.php:90
+msgid "From Name"
+msgstr "Z názvu"
+
+#: views/settings.php:91
+msgid "The sender name which is displayed in the from field"
+msgstr "Jméno odesílatele, které bude zobrazeno"
+
+#: views/settings.php:94
+msgid "From Address"
+msgstr "Z adresy"
+
+#: views/settings.php:95
+msgid "The sender email address. Force your recievers to whitelabel this email address."
+msgstr "E-mailová adresa odesílatele."
+
+#: views/settings.php:98
+msgid "Reply To Address"
+msgstr "Odpověď na adresu"
+
+#: views/settings.php:99
+msgid "The address users can reply to"
+msgstr "Adresy přátel na které můžete odpovědět"
+
+#: views/settings.php:102
+msgid "Default Template"
+msgstr "Předvolená šablona"
+
+#: views/settings.php:113
+msgid "get more"
+msgstr "Získejte více"
+
+#: views/newsletter/options.php:8
+#: views/settings.php:126
+msgid "Embed Images"
+msgstr "Vložit obrázky"
+
+#: views/settings.php:127
+msgid "Embed images in the mail"
+msgstr "Vložit obrázky na mail"
+
+#: views/settings.php:276
+msgid "can be changed in each campaign"
+msgstr "Může být změněno v každé kampani"
+
+#: classes/mymail.class.php:1185
+#: views/settings.php:291
+msgid "Newsletter Homepage"
+msgstr "Newsletter Domovská stránka"
+
+#: views/settings.php:293
+msgid "Choose"
+msgstr "Vybrat"
+
+#: views/settings.php:766
+msgid "Subscription Form"
+msgstr "Přihlašovací formulář"
+
+#: views/forms/detail.php:390
+msgid "The text new subscribers get when Double-Opt-In is selected. Use %s for the link placeholder. Basic HTML is allowed"
+msgstr "Text, který se zobrazí při Double-Opt-In. Použijte %s pro odkaz. HTML kódování je povolené"
+
+#: views/settings.php:832
+msgid "Custom Tags"
+msgstr "Vlastní tagy"
+
+#: classes/campaigns.class.php:1059
+#: classes/manage.class.php:403
+#: classes/settings.class.php:248
+#: views/settings.php:572
+#: views/settings.php:625
+#: views/settings.php:844
+msgid "add"
+msgstr "přidat"
+
+#: views/settings.php:1070
+msgid "Cron Service"
+msgstr "Cron služby"
+
+#: views/settings.php:1073
+msgid "Use the wp_cron function to send newsletters"
+msgstr "Použijte funkci wp_cron pro odesílání newsletterů"
+
+#: views/settings.php:1077
+msgid "Use a real cron to send newsletters"
+msgstr "Použijte cron pro odesílání newsletterů"
+
+#: views/settings.php:1077
+msgid "reccomended for many subscribers"
+msgstr "doporučené"
+
+#: views/settings.php:1066
+msgid "Interval for sending emails"
+msgstr "Interval pro odesílání emailů"
+
+#: views/settings.php:1067
+msgid "Send emails at most every %1$s minutes"
+msgstr "Odeslat emaily nejvýše každých %1$s minut"
+
+#: views/settings.php:1084
+msgid "Cron Settings"
+msgstr "Cron nastavení"
+
+#: views/settings.php:1087
+msgid "a secret hash which is required to execute the cron"
+msgstr "Tajný hash, který je potřebný pro spuštění cronu"
+
+#: views/settings.php:1107
+#: views/subscribers/detail.php:156
+msgid "never"
+msgstr "nikdy"
+
+#: views/settings.php:1176
+msgid "Bounce Address"
+msgstr "Adresa odmítnutých"
+
+#: views/settings.php:1193
+msgid "Server Address : Port"
+msgstr "Adresa serveru: Port"
+
+#: views/settings.php:1021
+#: views/settings.php:1036
+#: views/settings.php:1202
+msgid "Username"
+msgstr "Uživatelské jméno"
+
+#: views/settings.php:1230
+msgid "%s attempts to deliver message until hardbounce"
+msgstr "%s pokusů o doručení až do odmítnutí"
+
+#: views/settings.php:1006
+msgid "Secure connection"
+msgstr "Zabezpečené připojení"
+
+#: views/settings.php:1018
+msgid "If checked username and password are required"
+msgstr "Kontrola uživatelského jména a hesla je povinná"
+
+#: views/newsletter/delivery.php:437
+#: views/newsletter/delivery.php:440
+#: views/settings.php:944
+msgid "Send Test"
+msgstr "Odeslat TEST"
+
+#: views/settings.php:25
+#: views/settings.php:1573
+msgid "Save Changes"
+msgstr "Uložit změny"
+
+#: classes/campaigns.class.php:509
+#: classes/campaigns.class.php:2666
+#: classes/manage.class.php:315
+#: classes/manage.class.php:808
+#: classes/subscribers.class.php:123
+#: views/manage.php:245
+#: views/subscribers/detail.php:116
+msgid "Status"
+msgstr "Status"
+
+#: classes/manage.class.php:403
+msgid "add new list"
+msgstr "Přidat nový seznam"
+
+#: classes/manage.class.php:1232
+#: classes/manage.class.php:1234
+#: classes/templates.class.php:1213
+#: classes/templates.class.php:1215
+#: views/manage.php:34
+#: views/newsletter/editbar.php:159
+#: views/settings.php:238
+#: views/settings.php:247
+msgid "Upload"
+msgstr "Nahrát"
+
+#: classes/form.class.php:534
+#: views/settings.php:771
+msgid "Unsubscribe"
+msgstr "Odhlásit"
+
+#: classes/campaigns.class.php:941
+msgid "Statistics"
+msgstr "Statistika"
+
+#: classes/widget.class.php:26
+#: classes/widget.class.php:164
+msgid "Title"
+msgstr "Nadpis"
+
+#: classes/settings.class.php:102
+#: includes/static.php:8
+msgid "Thanks for your interest!"
+msgstr "Děkujeme za Váš zájem!"
+
+#: classes/campaigns.class.php:508
+#: classes/forms.class.php:253
+#: classes/lists.class.php:42
+#: classes/subscribers.class.php:114
+#: views/lists/detail.php:71
+#: views/newsletter/optionbar.php:25
+#: views/subscribers/detail.php:103
+msgid "Name"
+msgstr "Jméno"
+
+#: views/dashboard.php:20
+#: views/manage.php:145
+#: views/manage.php:151
+#: views/manage.php:308
+#: views/manage.php:316
+msgid "total"
+msgstr "Celkem"
+
+#: classes/campaigns.class.php:2706
+#: views/dashboard.php:24
+msgid "bounces"
+msgstr "Odmítnutí"
+
+#: classes/campaigns.class.php:515
+#: classes/settings.class.php:257
+#: views/lists/detail.php:146
+#: views/newsletter/details.php:61
+#: views/settings.php:530
+#: views/subscribers/detail.php:359
+msgid "Date"
+msgstr "Datum"
+
+#: classes/campaigns.class.php:487
+msgid "Campaign updated. %s"
+msgstr "Kampaň aktualizována. %s"
+
+#: classes/campaigns.class.php:492
+msgid "Campaign published. %s"
+msgstr "Kampaň uveřejněna. %s"
+
+#: classes/campaigns.class.php:494
+msgid "Campaign submitted. %s"
+msgstr "Kampaň odeslána. %s"
+
+#: classes/campaigns.class.php:494
+msgid "Preview Newsletter"
+msgstr "Náhled newsletteru"
+
+#: views/newsletter/delivery.php:51
+#: views/newsletter/delivery.php:225
+#: views/newsletter/delivery.php:242
+msgctxt "send campaign \"on\" (date) \"at\" (time)"
+msgid "on %1$s @ %2$s"
+msgstr "v %1$s @ %2$s"
+
+#: views/forms/detail.php:378
+#: views/newsletter/details.php:17
+#: views/newsletter/details.php:18
+#: views/newsletter/details.php:59
+msgid "Subject"
+msgstr "Předmět"
+
+#: views/newsletter/details.php:21
+#: views/newsletter/details.php:22
+#: views/newsletter/details.php:69
+msgid "Preheader"
+msgstr "Hlavička"
+
+#: views/newsletter/details.php:29
+#: views/newsletter/details.php:30
+msgid "From Email"
+msgstr "Z e-mailu"
+
+#: views/newsletter/details.php:33
+#: views/newsletter/details.php:34
+msgid "reply-to email"
+msgstr "Odpovědi na email"
+
+#: views/newsletter/options.php:158
+msgid "Colors Schema"
+msgstr "Barevné schéma"
+
+#: views/newsletter/options.php:102
+#: views/newsletter/options.php:173
+msgid "Background"
+msgstr "Pozadí"
+
+#: classes/campaigns.class.php:493
+msgid "Campaign saved."
+msgstr "Kampaň uložena."
+
+#: classes/campaigns.class.php:2729
+#: classes/subscribers.class.php:1659
+#: views/newsletter/details.php:75
+#: views/newsletter/details.php:98
+msgid "sent"
+msgstr "Odeslat"
+
+#: classes/campaigns.class.php:1061
+msgid "Move module up"
+msgstr "Zařadit modul nahoru"
+
+#: classes/campaigns.class.php:1062
+msgid "Move module down"
+msgstr "Zařadit modul dolu"
+
+#: classes/campaigns.class.php:1064
+msgid "remove module"
+msgstr "Odstranit modul"
+
+#: classes/campaigns.class.php:1066
+msgid "Add Module"
+msgstr "Přidat modul"
+
+#: classes/campaigns.class.php:1069
+#: views/newsletter/submit.php:55
+#: views/newsletter/submit.php:105
+#: views/settings.php:377
+#: views/settings.php:387
+#: views/settings.php:397
+#: views/settings.php:407
+#: views/settings.php:436
+#: views/single-newsletter.php:29
+msgid "Edit"
+msgstr "Upravit"
+
+#: classes/campaigns.class.php:1072
+msgctxt "for the autoimporter"
+msgid "Auto"
+msgstr "Auto"
+
+#: classes/campaigns.class.php:1073
+msgid "add button"
+msgstr "přidat tlačítko"
+
+#: views/newsletter/options.php:9
+msgid "save this schema"
+msgstr "Uložit toto schéma"
+
+#: views/newsletter/editbar.php:160
+msgid "Reload"
+msgstr "Obnovit"
+
+#: views/newsletter/editbar.php:186
+msgid "Select a post"
+msgstr "Vyberte příspěvek"
+
+#: classes/manage.class.php:1235
+#: classes/templates.class.php:1216
+#: views/newsletter/editbar.php:300
+#: views/templates.php:49
+#: views/templates.php:57
+msgid "Cancel"
+msgstr "Zrušit"
+
+#: views/newsletter/editbar.php:302
+msgid "remove element"
+msgstr "Odstranit prvek"
+
+#: views/newsletter/options.php:157
+msgid "Embedded Images"
+msgstr "Vložené obrázky"
+
+#: views/newsletter/submit.php:36
+#: views/settings.php:1025
+#: views/settings.php:1040
+#: views/settings.php:1206
+msgid "Password"
+msgstr "Heslo"
+
+#: classes/manage.class.php:47
+msgid "Please select the status for the importing contacts!"
+msgstr "Vyberte prosím status kontaktů, které se mají importovat!"
+
+#: classes/campaigns.class.php:1060
+#: classes/helper.class.php:313
+#: views/manage.php:44
+#: views/newsletter/receivers.php:40
+#: views/newsletter/receivers.php:101
+#: views/settings.php:235
+#: views/settings.php:244
+#: views/settings.php:307
+#: views/templates.php:48
+#: views/templates.php:56
+msgid "or"
+msgstr "nebo"
+
+#: classes/manage.class.php:405
+msgid "Import as"
+msgstr "Importovat jako"
+
+#: classes/campaigns.class.php:611
+#: classes/campaigns.class.php:622
+#: classes/campaigns.class.php:2833
+#: classes/campaigns.class.php:2919
+#: views/newsletter/delivery.php:67
+#: views/newsletter/delivery.php:461
+#: views/newsletter/delivery.php:482
+msgid "%1$s of %2$s sent"
+msgstr "%1$s z %2$ odeslané"
+
+#: classes/campaigns.class.php:178
+#: classes/campaigns.class.php:180
+#: classes/campaigns.class.php:607
+msgid "Paused"
+msgstr "Pozastavené"
+
+#: classes/campaigns.class.php:220
+msgid "Details"
+msgstr "Podrobnosti"
+
+#: classes/campaigns.class.php:221
+msgid "Template"
+msgstr "Šablona"
+
+#: classes/campaigns.class.php:223
+#: views/settings.php:51
+#: views/settings.php:897
+msgid "Delivery"
+msgstr "Způsob doručení"
+
+#: classes/campaigns.class.php:225
+#: classes/settings.class.php:262
+msgid "Options"
+msgstr "Možnosti"
+
+#: views/settings.php:1105
+msgid "Last hit"
+msgstr "Poslední kliknutí"
+
+#: views/settings.php:1107
+msgid "Interval"
+msgstr "Interval"
+
+#: views/settings.php:1107
+msgctxt "short for minute"
+msgid "min"
+msgstr "min"
+
+#: classes/subscribers.class.php:1653
+#: views/subscribers/detail.php:75
+#: views/subscribers/detail.php:76
+msgid "Source"
+msgstr "Zdroj"
+
+#: classes/manage.class.php:338
+#: views/newsletter/receivers.php:108
+#: views/settings.php:515
+#: views/settings.php:605
+msgid "Custom Fields"
+msgstr "Vlastní pole"
+
+#: classes/campaigns.class.php:1085
+#: classes/lists.class.php:66
+#: classes/subscribers.class.php:91
+msgid "next"
+msgstr "další"
+
+#: classes/campaigns.class.php:1086
+#: classes/forms.class.php:235
+#: classes/lists.class.php:67
+#: classes/subscribers.class.php:92
+msgid "prev"
+msgstr "předchozí"
+
+#: classes/settings.class.php:116
+#: includes/updates.php:32
+msgid "webversion"
+msgstr "Webová verze"
+
+#: classes/forms.class.php:518
+msgid "Please confirm your Email Address"
+msgstr "Potvrďte e-mailovou adresu"
+
+#: views/settings.php:817
+msgid "Permanent Tags"
+msgstr "Trvalé tagy"
+
+#: views/settings.php:848
+msgid "Special Tags"
+msgstr "Speciální tagy"
+
+#: views/subscribers/detail.php:100
+#: views/subscribers/detail.php:111
+#: views/subscribers/detail.php:112
+#: views/subscribers/detail.php:113
+#: views/subscribers/detail.php:166
+msgid "use %1$s as placeholder tag to replace it with %2$s"
+msgstr "Použijte %1$s jako placeholder tag s %2$s"
+
+#: includes/functions.php:224
+msgid "Newsletters"
+msgstr "Newslettery"
+
+#: views/settings.php:328
+msgid "Offer share option for your customers"
+msgstr "Nabídka sdílení pro Vaše zákazníky"
+
+#: views/settings.php:332
+msgid "Services"
+msgstr "Služby"
+
+#: views/single-newsletter.php:64
+msgid "Share with %s"
+msgstr "Sdílet s %s"
+
+#: classes/subscribers.class.php:1659
+#: classes/subscribers.class.php:1660
+msgid "not yet"
+msgstr "ještě není"
+
+#: classes/frontpage.class.php:471
+msgid "There is no content for this newsletter."
+msgstr "Neexistuje žádný obsah pro tento newsletter."
+
+#: classes/frontpage.class.php:471
+msgid "Add content"
+msgstr "Přidat obsah"
+
+#: classes/campaigns.class.php:463
+msgid "This Campaign is currently progressing"
+msgstr "Kampaň je nyní v procesu"
+
+#: classes/ajax.class.php:1456
+msgid "%s is forwarding an email to you!"
+msgstr "%s vám zasílá email !"
+
+#: classes/campaigns.class.php:190
+#: classes/campaigns.class.php:192
+msgid "Queued"
+msgstr "Ve frontě"
+
+#: classes/widget.class.php:118
+#: classes/widget.class.php:161
+msgid "Latest Newsletter"
+msgstr "Nejnovější Newsletter"
+
+#: views/single-newsletter.php:64
+msgid "email"
+msgstr "Email"
+
+#: classes/subscribers.class.php:1656
+#: views/dashboard.php:9
+#: views/settings.php:306
+msgid "edit"
+msgstr "Upravit"
+
+#: views/newsletter/details.php:75
+msgid "receiver"
+msgid_plural "receivers"
+msgstr[0] "příjemce"
+msgstr[1] "příjemci"
+msgstr[2] "příjemců"
+
+#: classes/ajax.class.php:822
+#: classes/campaigns.class.php:2343
+#: views/newsletter/details.php:79
+msgid "opened"
+msgid_plural "opens"
+msgstr[0] "otevřený"
+msgstr[1] "otevřené"
+msgstr[2] "otevřených"
+
+#: classes/campaigns.class.php:2704
+#: views/dashboard.php:22
+msgid "clicks"
+msgstr "kliknutí"
+
+#: views/newsletter/details.php:87
+#: includes/updates.php:31
+msgid "unsubscribe"
+msgid_plural "unsubscribes"
+msgstr[0] "odhlášený z odběru"
+msgstr[1] "odhlášený z odběru"
+msgstr[2] "odhlášených z odběru"
+
+#: views/newsletter/details.php:91
+msgid "bounce"
+msgid_plural "bounces"
+msgstr[0] "odmítnutý"
+msgstr[1] "odmítnutí"
+msgstr[2] "odmítnutí"
+
+#: classes/ajax.class.php:861
+msgid "Country"
+msgstr "Stát"
+
+#: views/settings.php:46
+#: views/settings.php:283
+msgid "Frontend"
+msgstr "Rozhraní"
+
+#: views/single-newsletter.php:45
+#: views/single-newsletter.php:53
+msgid "Share this via %s"
+msgstr "Sdílet přes %s"
+
+#: views/single-newsletter.php:68
+msgid "Your name"
+msgstr "Vaše jméno"
+
+#: views/single-newsletter.php:71
+msgid "Your email address"
+msgstr "Váš e-mail"
+
+#: views/single-newsletter.php:74
+msgid "Your friend's email address"
+msgstr "E-mail vašeho přítele"
+
+#: views/single-newsletter.php:77
+msgid "A personal note to your friend"
+msgstr "Osobní poznámla příteli"
+
+#: views/single-newsletter.php:87
+msgid "We respect your privacy. Nothing you enter on this page is saved by anyone"
+msgstr "Respektujeme Vaše soukromí. Nic co napíšete nebude přístupné dalším osobám."
+
+#: views/single-newsletter.php:94
+msgid "Share the link"
+msgstr "Sdílet odkaz"
+
+#: classes/ajax.class.php:861
+#: classes/campaigns.class.php:2703
+#: classes/subscribers.class.php:1660
+#: views/dashboard.php:21
+msgid "opens"
+msgstr "Otevřené"
+
+#: classes/campaigns.class.php:3347
+msgid "Older: %s"
+msgstr "Starší: %s"
+
+#: classes/campaigns.class.php:3349
+msgid "Newer: %s"
+msgstr "Novější: %s"
+
+#: views/settings.php:56
+#: views/settings.php:1483
+#: views/settings.php:1490
+msgid "Purchasecode"
+msgstr "Kód zakoupení"
+
+#: views/settings.php:1497
+msgid "Disable this tab"
+msgstr "Zakázat tabulku"
+
+#: views/lists/detail.php:129
+msgid "unsubscribe rate"
+msgstr "Procento odhlášení"
+
+#: views/lists/detail.php:132
+msgid "bounce rate"
+msgstr "Procento odmítnutí"
+
+#: classes/campaigns.class.php:819
+#: views/newsletter/submit.php:57
+#: views/newsletter/submit.php:62
+msgid "Pause"
+msgstr "Pauza"
+
+#: classes/campaigns.class.php:824
+msgid "Start"
+msgstr "Start"
+
+#: classes/settings.class.php:137
+msgid "All rights reserved"
+msgstr "Všechna práva vyhrazena"
+
+#: classes/campaigns.class.php:1076
+msgid "Currently selected"
+msgstr "Aktuálně vybrané"
+
+#: classes/subscribers.class.php:97
+msgid "this isn't a valid email address!"
+msgstr "Toto není platná e-mailová adresa!"
+
+#: views/settings.php:1341
+msgid "Use DomainKeys Identified Mail"
+msgstr "Použít DomainKeys Identified Mail"
+
+#: views/settings.php:1267
+#: views/settings.php:1341
+msgid "read more"
+msgstr "Číst více"
+
+#: views/settings.php:1435
+msgid "DKIM often doesn't work out of the box. You may have to contact your email provider to get more information"
+msgstr "DKIM často nefunguje. Možná budete muset kontaktovat poskytovatele webhostingu pro více informací"
+
+#: classes/campaigns.class.php:819
+msgid "Pause Campaign"
+msgstr "Pozastavit kampaň"
+
+#: classes/campaigns.class.php:824
+msgid "Start Campaign"
+msgstr "Start kampaně"
+
+#: classes/campaigns.class.php:816
+msgid "Start now"
+msgstr "Začít nyní"
+
+#: views/newsletter/submit.php:71
+#: views/newsletter/submit.php:98
+#: views/newsletter/submit.php:106
+#: views/single-newsletter.php:81
+msgid "Send now"
+msgstr "Odeslat nyní"
+
+#: classes/campaigns.class.php:816
+msgid "Start Campaign now"
+msgstr "Zahájit nyní kampaň"
+
+#: classes/campaigns.class.php:1078
+msgid "Preview for %s"
+msgstr "Náhled: %s"
+
+#: classes/campaigns.class.php:510
+#: views/newsletter/template.php:39
+msgid "Total"
+msgstr "Celkem"
+
+#: classes/campaigns.class.php:511
+msgid "Open"
+msgstr "Otevřené"
+
+#: classes/campaigns.class.php:512
+#: classes/campaigns.class.php:2672
+#: views/newsletter/template.php:39
+msgid "Clicks"
+msgstr "Kliknutí"
+
+#: classes/campaigns.class.php:513
+#: classes/campaigns.class.php:2674
+msgid "Unsubscribes"
+msgstr "Zrušili odběr"
+
+#: classes/campaigns.class.php:514
+#: classes/campaigns.class.php:2675
+#: views/settings.php:1168
+msgid "Bounces"
+msgstr "Odmítnutí"
+
+#: classes/ajax.class.php:1469
+msgid "Sorry, we couldn't deliver your message. Please try again later!"
+msgstr "Promiňte, ale nešlo doručit Vaší zprávu. Zkuste to prosím znovu!"
+
+#: views/single-newsletter.php:39
+msgid "Share"
+msgstr "Sdílet"
+
+#: classes/campaigns.class.php:938
+msgid "Duplicate Campaign %s"
+msgstr "Duplikovat kampaň %s"
+
+#: views/newsletter/details.php:25
+#: views/newsletter/details.php:29
+#: views/newsletter/details.php:33
+msgid "restore default"
+msgstr "obnovit výchozí"
+
+#: classes/settings.class.php:556
+msgid "%s is not a valid email address"
+msgstr "%s není platná e-mailová adresa"
+
+#: classes/settings.class.php:908
+msgid "The provided purchasecode %s is invalid"
+msgstr "Poskytnutý kód je %s neplatný"
+
+#: views/dashboard.php:77
+#: views/templates.php:112
+#: views/templates.php:119
+#: views/templates.php:228
+#: views/templates.php:245
+msgid "Update to %s"
+msgstr "Aktualizovat %s"
+
+#: views/dashboard.php:77
+msgid "Latest"
+msgstr "Nejnovější"
+
+#: views/settings.php:606
+msgid "Firstname"
+msgstr "Jméno"
+
+#: views/settings.php:606
+msgid "Lastname"
+msgstr "Příjmení"
+
+#: views/manage.php:128
+msgid "Export Subscribers"
+msgstr "Export odběratelů"
+
+#: classes/forms.table.class.php:80
+#: classes/mymail.class.php:535
+#: classes/settings.class.php:233
+#: classes/settings.class.php:236
+#: views/forms/detail.php:87
+msgid "Settings"
+msgstr "Nastavení"
+
+#: classes/settings.class.php:859
+msgid "The caching time for tweets must be at least %d minutes"
+msgstr "Nastavený čas pro tweety musí být minimálně %d minut"
+
+#: views/templates.php:152
+msgid "Edit HTML"
+msgstr "Upravit HTML"
+
+#: classes/ajax.class.php:1664
+msgid "Country DB successfully loaded!"
+msgstr "DB států úspěšně načteno!"
+
+#: classes/ajax.class.php:1661
+msgid "Couldn't load Country DB"
+msgstr "Nebylo možné načíst DB států"
+
+#: views/settings.php:234
+msgid "Track Countries in Campaigns"
+msgstr "Monitorovat státy v kampaních"
+
+#: views/settings.php:261
+msgid "Your IP"
+msgstr "Vaše IP"
+
+#: views/settings.php:37
+msgid "%d campaign is active. You should pause it before you change the settings!"
+msgid_plural "%d campaigns are active. You should pause them before you change the settings!"
+msgstr[0] "%d kampaň je aktivní. Než provedete změny, musí být pozastavená."
+msgstr[1] "%d kampaně jsou aktivní. Než provedete změny, musí být pozastaveny."
+msgstr[2] "%d kampaní je aktivních. Než provedete změny, musí být pozastaveny."
+
+#: views/settings.php:259
+msgid "If you don't find your country down below the geo database is missing or corrupt"
+msgstr "Pokud zde neuvidíte svou zemi, databáze je poškozená"
+
+#: views/settings.php:262
+#: views/settings.php:264
+msgid "Last update"
+msgstr "Poslední aktualizace"
+
+#: views/settings.php:262
+msgid "Your country"
+msgstr "Vaše země"
+
+#: classes/settings.class.php:101
+msgid "Please confirm your subscription!"
+msgstr "Prosím potvrďte příjem newsletterů!"
+
+#: classes/forms.class.php:924
+msgid "Default Form"
+msgstr "Výchozí formulář"
+
+#: classes/forms.class.php:506
+#: classes/forms.table.class.php:12
+#: classes/subscribers.class.php:571
+#: classes/widget.class.php:28
+msgid "Form"
+msgstr "Formulář"
+
+#: classes/forms.class.php:184
+#: classes/forms.class.php:445
+#: classes/forms.table.class.php:13
+#: views/forms/overview.php:3
+#: views/settings.php:517
+msgid "Forms"
+msgstr "Formuláře"
+
+#: classes/forms.table.class.php:71
+#: classes/lists.class.php:300
+msgid "undefined"
+msgstr "Nedefinováno"
+
+#: classes/widget.class.php:34
+msgid "add form"
+msgstr "Přidat formulář"
+
+#: views/settings.php:516
+msgid "Custom field tags are individual tags for each subscriber. You can ask for them on subscription and/or make it a required field."
+msgstr "Vlastní pole Tagy pro každého odběatele. Můžeme jim dát na výběr a nebo je nastavit jako povinné."
+
+#: views/settings.php:811
+msgid "Tags are placeholder for your newsletter. You can set them anywhere in your newsletter template with the format %s. Custom field tags are induvidual for each subscriber."
+msgstr "Tagy jsou symboly pro náš newsletter. Můžete nastavit šablonu %s. Jsou idinviduální pro každého z odběratelů."
+
+#: views/settings.php:814
+msgid "reserved tags"
+msgstr "Vyhrazené tagy"
+
+#: views/settings.php:819
+msgid "These are permanent tags which cannot get deleted. The CAN-SPAM tag is required in many countries."
+msgstr "Toto jsou výchozí Tagy, které nemůžou být smazané. CAN-SPAM tagy jsou povinné pro spousty zemí."
+
+#: classes/campaigns.class.php:1080
+#: views/settings.php:819
+msgid "Read more"
+msgstr "Číst více"
+
+#: views/settings.php:834
+msgid "Add your custom tags here. They work like permanent tags"
+msgstr "Přidejte vlastní tagy zde. Budou nastavené natrvalo"
+
+#: views/settings.php:1177
+msgid "Undeliverable emails will return to this address"
+msgstr "Nedoručené e-maily se vrátí na toto adresu"
+
+#: views/settings.php:946
+#: views/settings.php:1242
+msgid "You have to save your settings before you can test them!"
+msgstr "Musíte uložit nastavení než budete testovat!"
+
+#: views/settings.php:1498
+msgid "If you disable this tab you cannot access it anymore from the settings page. If you would like to bring it back delete the %1$s option from the %2$s table"
+msgstr "Když vypnete tuto tabulku, nebude pro nikoho přístupná. Pokud chcete vrátit %1$s nastavení z %2$s"
+
+#: views/settings.php:812
+msgid "You can set alternative content with %1$s which will be uses if %2$s is not defined. All unused tags will get removed in the final message"
+msgstr "Můžete nastavit alternativní obsah s %1$s, který bude používán pokud %2$ není definovaný. Všechny nepoužité tagy se odstraní z finální zprávy."
+
+#: classes/ajax.class.php:1448
+msgid "Please fill out all fields correctly!"
+msgstr "Vyplňte všechna pole správně!"
+
+#: classes/widget.class.php:9
+msgid "Newsletter Signup Form"
+msgstr "Newsletter registrační formulář"
+
+#: classes/widget.class.php:10
+msgid "Sign Up form for the newsletter"
+msgstr "Zaregistrujte si formulář pro newsletter"
+
+#: classes/widget.class.php:16
+msgid "Newsletter sign up"
+msgstr "Newsletter přihlášení"
+
+#: classes/widget.class.php:91
+msgid "Newsletter List"
+msgstr "Newsletter seznam"
+
+#: classes/widget.class.php:92
+msgid "Display the most recent newsletters"
+msgstr "Zobrazit nejnovější newslettery"
+
+#: classes/settings.class.php:267
+msgid "%s is a reserved tag!"
+msgstr "%s je vyhrazený tag!"
+
+#: views/newsletter/receivers.php:139
+#: views/newsletter/receivers.php:254
+msgid "Total receivers"
+msgstr "Celkem příjemců"
+
+#: classes/manage.class.php:62
+msgid "Import complete!"
+msgstr "Import dokončený!"
+
+#: views/settings.php:851
+msgid "displays the last tweet from Twitter user [username] (cache it for %s minutes)"
+msgstr "Zobrazí poslední tweet od užívatele Twitter [username] (cache za %s min.)"
+
+#: classes/settings.class.php:106
+#: includes/updates.php:46
+msgid "An error occurred! Please try again later!"
+msgstr "Vyskytla se chyba! Zkuste to znovu!"
+
+#: classes/forms.class.php:517
+msgid "Please confirm"
+msgstr "Potvrďte prosím"
+
+#: classes/forms.class.php:520
+msgid "Click here to confirm"
+msgstr "Klikněte zde pro potvrzení"
+
+#: classes/settings.class.php:103
+msgid "Following fields are missing or incorrect"
+msgstr "Následující pole chybí nebo nejsou správná"
+
+#: classes/settings.class.php:105
+msgid "You have successfully unsubscribed!"
+msgstr "Byl(a) jste úspěšně odhlášen(a)!v"
+
+#: views/forms/detail.php:382
+msgid "Headline"
+msgstr "Titulek"
+
+#: views/forms/detail.php:386
+msgid "Linktext"
+msgstr "Text odkazu"
+
+#: views/forms/detail.php:390
+msgid "Text"
+msgstr "Text"
+
+#: views/settings.php:768
+msgid "Confirmation"
+msgstr "Potvrzení"
+
+#: views/settings.php:769
+msgid "Successful"
+msgstr "Hotovo"
+
+#: views/forms/detail.php:122
+#: views/forms/detail.php:155
+#: views/settings.php:770
+msgid "Error Message"
+msgstr "Chybové hlášení"
+
+#: views/settings.php:1099
+msgid "You can setup an interval as low as one minute, but should consider a reasonable value of 5-15 minutes as well."
+msgstr "Můžete nastavit interval nižší než minuta, ale měli by jste zvážit doporučenou hodnotu  5-15 minut."
+
+#: views/settings.php:1100
+msgid "If you need help setting up a cron job please refer to the documentation that your provider offers."
+msgstr "Pokud potřebujete pomoc při nastavování cronu najdete to v dokumentaci Vašeho poskytovatele."
+
+#: views/settings.php:1101
+msgid "Anyway, chances are high that either %1$s, %2$s or %3$s  documentation will help you."
+msgstr "Dokumentace %1$s %2$s nebo %3$s Vám pomůže."
+
+#: views/settings.php:327
+msgid "Share Button"
+msgstr "Tlačítko sdílet"
+
+#: views/settings.php:1067
+msgid "Optional if a real cron service is used"
+msgstr "Nepovinné, pokud se cron používá"
+
+#: views/settings.php:1492
+msgid "Enter your purchasecode to enable automatic updates"
+msgstr "Zadajte svůj kód pro aktualizace"
+
+#: views/single-newsletter.php:85
+msgid "or send it with your mail application"
+msgstr "nebo to pošlete s Vaší emailovou aplikací"
+
+#: views/settings.php:113
+msgid "show Templates"
+msgstr "Ukázat šablony"
+
+#: classes/ajax.class.php:1173
+#: classes/ajax.class.php:1218
+msgid "no entries found"
+msgstr "Nebyly vloženy žádné položky"
+
+#: views/settings.php:862
+#: views/settings.php:863
+#: views/settings.php:864
+#: views/settings.php:865
+msgid "displays %1$s to share the newsletter via %2$s"
+msgstr "Zobrazuje %1$s sdílení novinek pomocí %2$s"
+
+#: views/settings.php:117
+msgid "Send delay"
+msgstr "Odeslat později"
+
+#: views/settings.php:118
+msgid "The default delay in minutes for sending campaigns."
+msgstr "Výchozí odložení v minutách pro odeslání kampaní."
+
+#: views/settings.php:1215
+msgid "Delete messages without tracking code to keep postbox clear (recommended)"
+msgstr "Vymazat zprávy bez sledovacího kódu"
+
+#: classes/ajax.class.php:1464
+msgid "%1$s is forwarding this mail to you via %2$s"
+msgstr "%1$s vám zasílá email přes %2$s"
+
+#: classes/campaigns.class.php:1077
+msgid "An empty link will remove this button! Continue?"
+msgstr "Tlačítko nemá odkaz! Opravdu chcete pokračovat?"
+
+#: views/newsletter/editbar.php:74
+#: views/newsletter/editbar.php:102
+#: views/newsletter/editbar.php:171
+msgid "insert URL"
+msgstr "Vložit URL"
+
+#: classes/campaigns.class.php:1570
+msgid "You are not allowed to pause campaigns."
+msgstr "Nemáte povolené pozastavit kampaň."
+
+#: classes/campaigns.class.php:1591
+msgid "You are not allowed to start campaigns."
+msgstr "Nemáte povolené spustit kampaň."
+
+#: classes/campaigns.class.php:1700
+msgid "You are not allowed to duplicate campaigns."
+msgstr "Nemáte povolené duplikovat kampaň."
+
+#: includes/capability.php:5
+msgid "edit campaigns"
+msgstr "Upravit kampaně"
+
+#: includes/capability.php:10
+msgid "send campaigns"
+msgstr "Odeslat kampaně"
+
+#: includes/capability.php:15
+msgid "delete campaigns"
+msgstr "Odstranit kampaně"
+
+#: includes/capability.php:20
+msgid "edit others campaigns"
+msgstr "Upravit další kampaně"
+
+#: includes/capability.php:25
+msgid "delete others campaigns"
+msgstr "Odstranit ostatní kampaně"
+
+#: includes/capability.php:30
+msgid "duplicate campaigns"
+msgstr "Duplikovat kampaně"
+
+#: includes/capability.php:35
+msgid "duplicate others campaigns"
+msgstr "Duplikovat ostatní kampaně"
+
+#: includes/capability.php:51
+msgid "change template"
+msgstr "Změnit šablonu"
+
+#: includes/capability.php:60
+msgid "see codeview"
+msgstr "Zobrazit kód"
+
+#: includes/capability.php:71
+msgid "edit subscribers"
+msgstr "Upravit odběratele"
+
+#: includes/capability.php:81
+msgid "delete subscribers"
+msgstr "Odstranit odběratele"
+
+#: includes/capability.php:132
+msgid "edit lists"
+msgstr "Upravit seznamy"
+
+#: includes/capability.php:137
+msgid "delete lists"
+msgstr "Odstranit seznamy"
+
+#: includes/capability.php:107
+msgid "import subscribers"
+msgstr "Import odběratelů"
+
+#: includes/capability.php:117
+msgid "export subscribers"
+msgstr "Export odběratelů"
+
+#: includes/capability.php:144
+msgid "manage templates"
+msgstr "Spravovat šablony"
+
+#: includes/capability.php:149
+msgid "edit templates"
+msgstr "Upravit šablony"
+
+#: includes/capability.php:154
+msgid "delete templates"
+msgstr "Smazat šablony"
+
+#: includes/capability.php:159
+msgid "upload templates"
+msgstr "Nahrát šablony"
+
+#: includes/capability.php:169
+msgid "see dashboard widget"
+msgstr "Zobrazit hlavní plochu - widget"
+
+#: views/settings.php:53
+#: views/settings.php:1116
+msgid "Capabilities"
+msgstr "Možnosti"
+
+#: views/settings.php:1150
+msgid "%1$s can %2$s"
+msgstr "%1$s může %2$s"
+
+#: views/settings.php:1121
+msgid "Define capabilities for each user role. To add new roles you can use a third party plugin. Administrator has always all privileges"
+msgstr "Definovat možnosti pro role uživatelů. Můžete použít zásuvný modul třetí strany. Admin má vždy všechna práva."
+
+#: classes/campaigns.class.php:845
+msgid "%d emails have not been sent"
+msgstr "%d e-maily nebyly odeslány"
+
+#: classes/settings.class.php:249
+#: views/settings.php:537
+msgid "Field Name"
+msgstr "Název pole"
+
+#: classes/settings.class.php:250
+#: views/settings.php:538
+msgid "Tag"
+msgstr "Tag"
+
+#: classes/settings.class.php:251
+#: views/settings.php:539
+msgid "Type"
+msgstr "Typ"
+
+#: classes/settings.class.php:252
+#: views/settings.php:525
+msgid "Textfield"
+msgstr "Textové pole"
+
+#: classes/settings.class.php:254
+#: views/settings.php:527
+msgid "Dropdown Menu"
+msgstr "Rozbalovací menu"
+
+#: classes/settings.class.php:255
+#: views/settings.php:528
+msgid "Radio Buttons"
+msgstr "Přepínací tlačítka"
+
+#: classes/settings.class.php:258
+#: views/settings.php:555
+msgid "default"
+msgstr "Výchozí"
+
+#: classes/settings.class.php:260
+#: views/settings.php:555
+#: views/settings.php:562
+msgid "this field is selected by default"
+msgstr "Pole je nastavené jako výchozí"
+
+#: classes/settings.class.php:261
+#: views/settings.php:558
+msgid "add field"
+msgstr "Přidat pole"
+
+#: classes/settings.class.php:264
+#: views/forms/detail.php:117
+#: views/forms/detail.php:151
+#: views/settings.php:555
+#: views/settings.php:564
+msgid "remove field"
+msgstr "Odstranit pole"
+
+#: classes/settings.class.php:265
+#: views/settings.php:535
+msgid "move up"
+msgstr "Posunout nahoru"
+
+#: classes/settings.class.php:266
+#: views/settings.php:536
+msgid "move down"
+msgstr "Posunout dolu"
+
+#: views/subscribers/detail.php:394
+msgid "Error"
+msgstr "Chyba"
+
+#: classes/subscribers.class.php:1978
+#: classes/subscribers.table.class.php:196
+msgid "subscribed"
+msgstr "Odběratel"
+
+#: classes/subscribers.class.php:1979
+#: classes/subscribers.table.class.php:197
+msgid "unsubscribed"
+msgstr "Odhlášený"
+
+#: classes/subscribers.class.php:1980
+msgid "hardbounced"
+msgstr "Odmítnutý"
+
+#: views/settings.php:49
+#: views/settings.php:759
+msgid "Texts"
+msgstr "Texty"
+
+#: views/settings.php:766
+msgid "Define messages for the subscription form"
+msgstr "Definovat zprávy pro přihlašovací formulář"
+
+#: views/settings.php:780
+msgid "Field Labels"
+msgstr "Název pole"
+
+#: views/settings.php:780
+msgid "Define texts for the labels of forms. Custom field labels can be defined on the Subscribers tab"
+msgstr "Definovat texty pro popisy tlačítek. Vlastní jmenovky můžete definovat na kartě odběratele."
+
+#: views/settings.php:786
+msgid "Submit Button"
+msgstr "Tlačítko odeslat"
+
+#: views/settings.php:794
+msgid "Mail"
+msgstr "Mail"
+
+#: views/settings.php:794
+msgid "Define texts for the mails"
+msgstr "Definovat texty pro maily"
+
+#: views/settings.php:796
+msgid "Unsubscribe Link"
+msgstr "Odkaz pro odhlášení"
+
+#: views/settings.php:797
+msgid "Webversion Link"
+msgstr "WWW odkaz"
+
+#: classes/settings.class.php:114
+#: includes/updates.php:30
+msgid "Yes, unsubscribe me"
+msgstr "Ano, odhlásit mě."
+
+#: views/settings.php:788
+msgid "Unsubscribe Button"
+msgstr "Tlačítko odhlásit"
+
+#: classes/campaigns.class.php:221
+msgid "Clickmap"
+msgstr "Klikněte na mapu"
+
+#: classes/campaigns.class.php:1091
+msgid "Delete this color schema?"
+msgstr "Chcete odstranit toto barevné schéma?"
+
+#: views/newsletter/options.php:71
+msgid "current"
+msgstr "Aktuálně"
+
+#: views/newsletter/options.php:9
+msgid "Colors"
+msgstr "Barvy"
+
+#: classes/dashboard.class.php:60
+#: classes/campaigns.class.php:201
+#: classes/campaigns.class.php:205
+#: classes/campaigns.class.php:239
+msgid "Autoresponder"
+msgid_plural "Autoresponders"
+msgstr[0] "Auto-odpověď"
+msgstr[1] "Auto-odpovědi"
+msgstr[2] "Auto-odpovědé"
+
+#: classes/campaigns.class.php:205
+msgid "Autoresponders"
+msgstr "Auto-odpovídač"
+
+#: classes/campaigns.class.php:657
+#: views/settings.php:444
+msgid "active"
+msgstr "aktivní"
+
+#: classes/campaigns.class.php:657
+msgid "inactive"
+msgstr "neaktivní"
+
+#: classes/campaigns.class.php:719
+#: classes/campaigns.class.php:727
+#: views/newsletter/delivery.php:120
+#: views/newsletter/delivery.php:123
+#: views/newsletter/delivery.php:146
+msgid "after"
+msgstr "po"
+
+#: classes/campaigns.class.php:764
+#: views/newsletter/delivery.php:266
+#: views/newsletter/receivers.php:36
+#: views/newsletter/receivers.php:198
+msgid "only if"
+msgstr "Pouze pokud.."
+
+#: classes/campaigns.class.php:782
+#: views/newsletter/receivers.php:218
+msgid "%s is missing!"
+msgstr "%s chyba!"
+
+#: classes/campaigns.class.php:798
+msgid "activate"
+msgstr "Aktivovat"
+
+#: classes/campaigns.class.php:800
+msgid "deactivate"
+msgstr "Deaktivovat"
+
+#: includes/autoresponder.php:6
+msgid "minute(s)"
+msgstr "minut(y)"
+
+#: classes/campaigns.class.php:663
+#: includes/autoresponder.php:7
+#: views/newsletter/delivery.php:210
+msgid "hour(s)"
+msgstr "hodin(y)"
+
+#: classes/campaigns.class.php:664
+#: includes/autoresponder.php:8
+#: views/newsletter/delivery.php:211
+#: views/newsletter/delivery.php:324
+msgid "day(s)"
+msgstr "den (dní)"
+
+#: includes/autoresponder.php:15
+msgid "user signed up"
+msgstr "Uživatel se přihlásil"
+
+#: includes/autoresponder.php:19
+msgid "user unsubscribed"
+msgstr "Uživatel se odhlásil"
+
+#: classes/campaigns.class.php:768
+#: views/newsletter/editbar.php:24
+#: views/newsletter/receivers.php:80
+#: views/newsletter/receivers.php:202
+msgid "is"
+msgstr "je"
+
+#: classes/campaigns.class.php:769
+#: views/newsletter/editbar.php:25
+#: views/newsletter/receivers.php:81
+#: views/newsletter/receivers.php:203
+msgid "is not"
+msgstr "není"
+
+#: classes/campaigns.class.php:770
+#: views/newsletter/editbar.php:26
+#: views/newsletter/receivers.php:82
+#: views/newsletter/receivers.php:204
+msgid "contains"
+msgstr "obsahuje"
+
+#: classes/campaigns.class.php:771
+#: views/newsletter/editbar.php:27
+#: views/newsletter/receivers.php:83
+#: views/newsletter/receivers.php:205
+msgid "contains not"
+msgstr "neobsahuje"
+
+#: classes/campaigns.class.php:772
+#: views/newsletter/editbar.php:28
+#: views/newsletter/receivers.php:84
+#: views/newsletter/receivers.php:206
+msgid "begins with"
+msgstr "začíná"
+
+#: classes/campaigns.class.php:773
+#: views/newsletter/editbar.php:29
+#: views/newsletter/receivers.php:85
+#: views/newsletter/receivers.php:207
+msgid "ends with"
+msgstr "končící"
+
+#: includes/capability.php:40
+msgid "edit autoresponders"
+msgstr "Upravit auto-odpovídač"
+
+#: includes/capability.php:45
+msgid "edit others autoresponders"
+msgstr "upravit jiný auto-odpovídač"
+
+#: views/newsletter/delivery.php:26
+msgid "Regular Campaign"
+msgstr "Pravidelná kampaň"
+
+#: views/newsletter/delivery.php:46
+msgid "send this campaign"
+msgstr "Odeslat tuto kampaň"
+
+#: views/newsletter/receivers.php:40
+msgid "one of the conditions is true"
+msgstr "je splněna jedna z podmínek"
+
+#: classes/helper.class.php:315
+#: views/newsletter/receivers.php:41
+#: views/newsletter/receivers.php:100
+msgid "and"
+msgstr "a"
+
+#: views/newsletter/receivers.php:41
+msgid "all of the conditions are true"
+msgstr "všechny podmínky jsou pravdivé"
+
+#: views/newsletter/receivers.php:103
+msgid "remove condition"
+msgstr "Odstranit podmínku"
+
+#: views/newsletter/receivers.php:136
+msgid "add condition"
+msgstr "Přidat podmínku"
+
+#: classes/campaigns.class.php:741
+#: views/newsletter/receivers.php:164
+msgid "no lists selected"
+msgstr "nebyl vybraný žádný seznam"
+
+#: classes/campaigns.class.php:1783
+msgid "%d job deleted"
+msgid_plural "%d jobs deleted"
+msgstr[0] "%d úloha odstraněna"
+msgstr[1] "%d úlohy odstraněny"
+msgstr[2] "%d úloh odstraněno"
+
+#: views/newsletter/options.php:153
+msgid "background images are not displayed on all clients!"
+msgstr "Obrázky pozadí se nemusí zobrazit všem klientům!"
+
+#: classes/templates.class.php:422
+msgid "You are about to delete this template \"%s\""
+msgstr "Chystáte se odstranit šablonu  \"%s\""
+
+#: classes/campaigns.class.php:489
+msgid "Template saved"
+msgstr "Šablony uloženy"
+
+#: classes/campaigns.class.php:634
+msgid "less than a minute"
+msgstr "Méně jak jedna minuta"
+
+#: classes/template.class.php:175
+#: classes/templates.class.php:954
+msgid "Base"
+msgstr "Základní"
+
+#: classes/template.class.php:176
+#: classes/templates.class.php:958
+#: views/settings.php:467
+msgid "Notification"
+msgstr "Oznámení"
+
+#: views/newsletter/optionbar.php:6
+msgid "remove modules"
+msgstr "Odstranit moduly"
+
+#: views/newsletter/optionbar.php:14
+msgid "preview"
+msgstr "Náhled"
+
+#: views/newsletter/optionbar.php:3
+msgid "undo"
+msgstr "Vrátit zpět"
+
+#: views/newsletter/optionbar.php:4
+msgid "redo"
+msgstr "Předělat"
+
+#: views/newsletter/optionbar.php:9
+msgid "toggle HTML/code view"
+msgstr "Přepnout na HTML editor"
+
+#: views/newsletter/optionbar.php:42
+msgid "Your currently working with %s"
+msgstr "Momentálně pracujete s %s"
+
+#: includes/capability.php:55
+#: views/newsletter/optionbar.php:19
+msgid "save template"
+msgstr "uložit šablonu"
+
+#: views/newsletter/optionbar.php:23
+msgid "Save Template"
+msgstr "Uložit šablonu"
+
+#: views/newsletter/optionbar.php:25
+msgid "template name"
+msgstr "Název šablony"
+
+#: views/settings.php:906
+msgid "Depending on your hosting provider you can increase these values"
+msgstr "V závislosti  na Vašem poskytovateli hostingu můžete zvýšit tyto hodnoty"
+
+#: views/settings.php:1095
+msgid "call it directly"
+msgstr "Volat přímo"
+
+#: views/settings.php:1097
+msgid "or set up a cron"
+msgstr "nebo nastavit cron"
+
+#: classes/campaigns.class.php:719
+#: classes/campaigns.class.php:727
+msgid "send %1$s %2$s %3$s"
+msgstr "odeslat %1$s %2$s %3$s"
+
+#: classes/campaigns.class.php:719
+#: classes/campaigns.class.php:727
+msgid "immediately"
+msgstr "okamžitě"
+
+#: classes/ajax.class.php:618
+#: classes/campaigns.class.php:2968
+#: classes/mail.class.php:156
+msgid "Sent limit of %1$s reached! You have to wait %2$s before you can send more mails!"
+msgstr "Limit počtu zpráv %1$s je dosažen! Musíte počkat %2$s !"
+
+#: views/settings.php:772
+msgid "Unsubscribe Error"
+msgstr "Odhlásit - chyba"
+
+#: classes/cron.class.php:71
+#: views/settings.php:904
+msgid "Number of mails sent"
+msgstr "Počet zaslaných e-mailů"
+
+#: views/settings.php:905
+msgid "Send max %1$s emails at once and max %2$s within %3$s hours"
+msgstr "Odeslat maximálně %1$s e-mailů najednou a maximálně %2$s za %3$s hodinu"
+
+#: views/settings.php:917
+msgid "You can still send %1$s mails within the next %2$s"
+msgstr "Stále můžete odeslat %1$s e-mailů v rámci dalších %2$s"
+
+#: classes/ajax.class.php:302
+msgid "Unable to save template!"
+msgstr "Nepodařilo se uložit šablonu!"
+
+#: views/newsletter/optionbar.php:29
+msgid "overwrite if exists"
+msgstr "Přepsat pokud existuje"
+
+#: includes/capability.php:174
+msgid "manage capabilities"
+msgstr "Spravovat možnosti"
+
+#: views/forms/detail.php:555
+msgid "check this option to include the style.css of your theme into the form"
+msgstr "Zaškrtněte tuto nabídku pro připojení style.css do formuláře"
+
+#: views/forms/detail.php:555
+msgid "include themes style.css"
+msgstr "Zahrnout style.css do šablony"
+
+#: classes/ajax.class.php:1679
+msgid "City DB successfully loaded!"
+msgstr "DB měst byl úspěšně načten!"
+
+#: classes/ajax.class.php:1676
+msgid "Couldn't load City DB"
+msgstr "Nebylo možné načíst DB měst"
+
+#: classes/ajax.class.php:1595
+msgid "Not able to save file!"
+msgstr "Není možné uložit soubor!"
+
+#: classes/ajax.class.php:1591
+msgid "File has been saved!"
+msgstr "Soubor byl uložen!"
+
+#: classes/ajax.class.php:872
+msgid "back to world view"
+msgstr "Zpět na pohled světa"
+
+#: views/settings.php:136
+msgid "Post List Count"
+msgstr "Počet příspěvků v seznamu"
+
+#: views/settings.php:137
+msgid "Number of posts or images displayed at once in the editbar."
+msgstr "Počet příspěvků nebo obrázků najednou zobrazených v editoru."
+
+#: views/settings.php:243
+msgid "Track Cities in Campaigns"
+msgstr "Monitorovat města v kampaních"
+
+#: classes/settings.class.php:117
+#: classes/update.class.php:1087
+#: includes/updates.php:61
+msgid "forward to a friend"
+msgstr "Přeposlat známému"
+
+#: views/settings.php:231
+msgid "Track Geolocation"
+msgstr "Monitorovat Geolokace"
+
+#: views/settings.php:250
+msgid "The city DB is about 12 MB. It can take a while to load it"
+msgstr "DB měst je velká asi 12 MB. To může trvat dlouho, vyčkejte.."
+
+#: views/settings.php:264
+msgid "Your city"
+msgstr "Vaše město"
+
+#: views/forms/detail.php:311
+msgid "place labels inside input fields"
+msgstr "Místo pojmenované vevnitř pole"
+
+#: views/forms/detail.php:356
+msgid "assign new lists automatically to this form"
+msgstr "Nové seznamy automaticky přiřadit do tohoto formuláře"
+
+#: views/settings.php:798
+msgid "Forward Link"
+msgstr "Přeposlat odkaz"
+
+#: classes/settings.class.php:268
+msgid "You are about to create new DKIM keys. The old ones will get deleted. Continue?"
+msgstr "Chystáte se vytvořit nové DKIM klíče. Ty staré nebudou funkční. Chcete pokračovať?"
+
+#: classes/settings.class.php:458
+msgid "New DKIM keys have been created!"
+msgstr "Byly vytvořeny nové DKIM klíče!"
+
+#: classes/settings.class.php:462
+msgid "Not able to create new DKIM keys!"
+msgstr "Není možné vytvořit nové DKIM klíče!"
+
+#: classes/manage.class.php:1124
+msgid "no subscribers removed"
+msgstr "Žádní odběratelé nebyli odstraněni"
+
+#: classes/manage.class.php:63
+msgid "You are about to delete these subscribers permanently. This step is irreversible!"
+msgstr "Chcete smazat odběratele? Toto je nevratné."
+
+#: classes/manage.class.php:63
+msgid "Type \"%s\" to confirm deletion"
+msgstr "Zadajte \"%s\" pro smazání"
+
+#: views/settings.php:55
+#: views/settings.php:1252
+msgid "Authentication"
+msgstr "Ověření"
+
+#: views/settings.php:322
+msgid "Pagination"
+msgstr "Stránkování"
+
+#: views/settings.php:323
+msgid "Allow users to view the next/last newsletters"
+msgstr "Povolit uživatelům procházet newslettery"
+
+#: views/settings.php:498
+msgid "Save Subscriber IP"
+msgstr "Uložit  IP adresu odběratele"
+
+#: views/settings.php:499
+msgid "Save IP address and time of new subscribers"
+msgstr "Uložit IP adresu a časy nových odběratelů"
+
+#: views/settings.php:500
+msgid "In some countries it's required to save the IP address and the sign up time for legal reasons. Please add a note in your privacy policy if you save users data"
+msgstr "V některých zemí je nutné IP adresy ukládat ze zákoných důvodů. Přidejte prosím poznámku do Vašich registračních podmínek."
+
+#: views/settings.php:941
+msgid "Send test email with current settings"
+msgstr "Odeslat e-mail test s aktuálním nastavením"
+
+#: views/settings.php:963
+msgid "Delivery Method"
+msgstr "Způsob doručení"
+
+#: views/settings.php:976
+msgid "use this option if you don't have access to a SMTP server or any other provided options"
+msgstr "Použijte toto možnost, pokud nemáte přístup k SMTP serveru nebo nemáte jiné možnosti"
+
+#: views/settings.php:937
+#: views/settings.php:1003
+msgid "seconds"
+msgstr "vteřin"
+
+#: views/settings.php:1032
+msgid "Gmail has a limit of 500 mails within 24 hours! Also sending a mail can take up to one second which is quite long. This options is only recommended for few subscribers. DKIM works only if set the from address to your Gmail address."
+msgstr "Gmail má limit 500 mailů do 24 hodin! Odeslání pošty může trvat i jednu vteřinu, což je dlouhá doba. Tato možnost se nedoporučuje. DKIM funguje jen pokud je nastaveno z gmail adresy."
+
+#: views/settings.php:1181
+msgid "enable automatic bounce handling"
+msgstr "Povolit automatické odmítnutí"
+
+#: views/settings.php:1190
+msgid "If you would like to enable bouncing you have to setup a separate POP3 mail account"
+msgstr "Pokud chcete povolit odmítnutí, budete muset nastavit samostatné POP3 konto."
+
+#: views/settings.php:1198
+msgid "Use SSL. Default port is 995"
+msgstr "Použít SSL. Předvolený port je 995"
+
+#: views/settings.php:1214
+msgid "Delete messages"
+msgstr "Odstranit zprávy"
+
+#: views/settings.php:1261
+msgid "You need to change the namespace records of your domain if you would like to use one of these methods. Ask your provider how to add \"TXT namespace records\". Changes take some time to get published on all DNS worldwide."
+msgstr "Musíte změnit namespace záznamy Vaší domény. Pokud by jste chtěli používat jednu z těchto metod. Požádejte poskytovatele aby přidal \"TXT namespace records\".. Změny trvají nějaký čas."
+
+#: views/settings.php:1267
+msgid "Use Sender Policy Framework"
+msgstr "Použít Sender Policy Framework"
+
+#: views/settings.php:1305
+#: views/settings.php:1307
+#: views/settings.php:1388
+#: views/settings.php:1390
+msgid "Domain %s"
+msgstr "Doména %s"
+
+#: views/settings.php:1305
+msgid "TXT record found"
+msgstr "Záznam TXT nalezen"
+
+#: views/settings.php:1307
+msgid "no TXT record found"
+msgstr "Žádný záznam TXT nebyl nalezen"
+
+#: views/settings.php:1308
+#: views/settings.php:1391
+msgid "No or wrong record found for %s. Please adjust the namespace records and add these lines:"
+msgstr "Žádný nebo špatný záznam nalezen v %s. Prosím upravte namespace záznamy a přidejte následující řádky:"
+
+#: views/settings.php:1326
+msgid "SPF doesn’t require any configuration on this settings page. This should give you some help to set it up correctly. If this SPF configuration doesn't work or your mails returned as spam you should ask your provider for help or change your delivery method or try %s"
+msgstr "SPF nevyžaduje konfiguraci na této stránce nastavení. Toto by Vám mělo pomoci jej správně nastavit. Pokud tato konfigurace SPF nefunguje nebo pošta se vrátila jako spam. Požádejte poskytovatele o pomoc nebo změňte způsob doručení a nebo vyzkoušejte %s"
+
+#: views/settings.php:1326
+msgid "this wizard"
+msgstr "tento průvodce"
+
+#: views/settings.php:1333
+msgid "The domain you would like to add a SPF record"
+msgstr "Domény pro SPF"
+
+#: views/settings.php:1388
+msgid "verified"
+msgstr "Ověřené"
+
+#: views/settings.php:1390
+msgid "not verified"
+msgstr "Neověřené"
+
+#: views/settings.php:1407
+msgid "The domain you have set the TXT namespace records"
+msgstr "Doménu nastavíte namespace záznamy TXT"
+
+#: views/settings.php:1419
+#: views/settings.php:1425
+msgid "You can leave this field blank unless you know what you do"
+msgstr "Můžete toto pole nechat prázdné, pokud nevíte k čemu je"
+
+#: views/settings.php:1431
+msgid "Keys"
+msgstr "Klíče"
+
+#: views/settings.php:1434
+msgid "If you have defined the domain and a selector you have to generate a public and a private key. Once created you have to add some TXT namespace records at your mail provider"
+msgstr "Pokud jste definovali doménu, budete muset vygenerovat veřejný a soukromý klíč. Po vytvoření budete muset přidat nějaké záznamy TXT namespace u poskytovatele webhostingu"
+
+#: views/settings.php:1436
+msgid "Changing namespace entries can take up to 48 hours to take affect around the world."
+msgstr "Změna názvů u položek může trvat až 48 hodín."
+
+#: views/settings.php:1437
+msgid "It's recommend to change the keys occasionally"
+msgstr "Klíče by se měly měnit jen občas"
+
+#: views/settings.php:1438
+msgid "If you change one of the settings above new keys are required"
+msgstr "Když změníte nastavení, musíte změnit i klíče"
+
+#: views/settings.php:1439
+msgid "Some providers don't allow TXT records with a specific size. Choose less bits in this case"
+msgstr "Někteří poskytovatelé neumožňují záznamy TXT s konkrétní velikostí. Vyberte méně bitů v tomto případě"
+
+#: views/settings.php:1453
+msgid "Private keys should be kept private. Don't share them or post it somewhere"
+msgstr "Soukromé klíče si chraňte a nesdílejte je."
+
+#: views/settings.php:1463
+msgid "new Keys"
+msgstr "Nové klíče"
+
+#: views/settings.php:1467
+msgid "Bit Size"
+msgstr "Bit velikosti"
+
+#: views/settings.php:1472
+msgid "generate Keys"
+msgstr "Generování klíčů"
+
+#: views/manage.php:287
+msgid "Delete Subscribers"
+msgstr "Odstranit odběratele"
+
+#: views/manage.php:155
+#: views/manage.php:320
+msgid "and have one of these statuses"
+msgstr "majá jeden z následujících statusů"
+
+#: views/manage.php:334
+msgid "Delete Subscribers permanently"
+msgstr "Natrvalo odstranit odběratele"
+
+#: views/subscribers/detail.php:144
+msgid "with IP %s"
+msgstr "s IP %s"
+
+#: classes/ajax.class.php:618
+msgid "Couldn't send message. Check your settings!"
+msgstr "Nepodařilo se poslat zprávu. Zkontrolujte nastavení!"
+
+#: views/settings.php:930
+msgid "Time between mails"
+msgstr "Čas mezi e-mailama"
+
+#: views/settings.php:931
+msgid "milliseconds"
+msgstr "milisekund"
+
+#: views/settings.php:931
+msgid "define a delay between mails in milliseconds if you have problems with sending two many mails at once"
+msgstr "Definovat prodlevu mezi emailama v milisekundách, pokud máte problémy s odesíláním"
+
+#: classes/settings.class.php:774
+msgid "Send limit has been adjusted to %d for Gmail"
+msgstr "Limit pro Gmail upravený na %d"
+
+#: views/settings.php:1413
+msgid "The selector is used to identify the keys used to attach a token to the email"
+msgstr "Výběr sa používá na idetifikační klíč používaný na připojení tokenu k e-mail"
+
+#: views/settings.php:954
+msgid "Simple"
+msgstr "Jednoduché"
+
+#: classes/queue.class.php:879
+msgid "Campaign %1$s has been paused cause of a sending error: %2$s"
+msgstr "Kampaň %1$s byla pozastavena, chyby: %2$s"
+
+#: classes/helper.class.php:206
+msgid "Y/m/d"
+msgstr "R/m/d"
+
+#: views/newsletter/delivery.php:453
+msgid "This campaign has been started on %1$s, %2$s ago"
+msgstr "Kampaň byla zahájena %1$s, %2$s"
+
+#: views/newsletter/editbar.php:159
+msgid "Media Manager"
+msgstr "Správce médií"
+
+#: classes/campaigns.class.php:2959
+msgid "wrong post type"
+msgstr "špatný typ příspěvku"
+
+#: classes/campaigns.class.php:2961
+msgid "User has not subscribed"
+msgstr "Uživatel není registrovaný"
+
+#: classes/ajax.class.php:618
+msgid "Message sent. Check your inbox!"
+msgstr "Zpráva odeslána. Zkontrolujte poštu!"
+
+#: classes/manage.class.php:36
+msgid "Manage Subscribers"
+msgstr "Import odběratelů"
+
+#: classes/manage.class.php:48
+msgid "Please select at least the column with the email addresses!"
+msgstr "Vyberte prosím aspoň sloupec s e-maily!"
+
+#: classes/manage.class.php:49
+msgid "preparing data"
+msgstr "Příprava údajů"
+
+#: classes/manage.class.php:50
+msgid "uploading...%s"
+msgstr "Nahrávám...%s"
+
+#: classes/manage.class.php:51
+msgid "Importing Contacts...%s"
+msgstr "Importování kontaktů... %s"
+
+#: classes/manage.class.php:53
+msgid "Estimate time left: %s minutes"
+msgstr "Zbývající čas: %s min."
+
+#: classes/manage.class.php:54
+msgid "continues in %s seconds"
+msgstr "Pokračování za %s sekund"
+
+#: classes/manage.class.php:56
+msgid "Preparing Download...%s"
+msgstr "Příáprava ke stahování ...%s"
+
+#: classes/manage.class.php:57
+msgid "writing file: %s"
+msgstr "Zápis souboru: %s"
+
+#: classes/manage.class.php:58
+msgid "Download finished"
+msgstr "Stahování dokončeno"
+
+#: classes/manage.class.php:59
+msgid "Downloading..."
+msgstr "Stahování..."
+
+#: classes/manage.class.php:60
+msgid "Please select at least one list!"
+msgstr "Vyberte nejméně jeden seznam!"
+
+#: classes/manage.class.php:64
+msgid "You are currently importing subscribers! If you leave the page all pending subscribers don't get imported!"
+msgstr "Probíhá import odběratelů! Pokud opustíte nyní stránku, nahrávání nebude dokončené!"
+
+#: classes/manage.class.php:65
+msgid "Your download is preparing! If you leave this page the progress will abort!"
+msgstr "Připravuje se ke stažení! Pokud odejdete za stránky, proces bude ukončen, vydržte!"
+
+#: classes/campaigns.class.php:750
+#: classes/manage.class.php:308
+#: classes/manage.class.php:814
+#: views/newsletter/receivers.php:67
+#: views/newsletter/receivers.php:186
+msgid "IP Address"
+msgstr "IP adresa"
+
+#: classes/campaigns.class.php:751
+#: classes/manage.class.php:303
+#: classes/manage.class.php:817
+#: views/manage.php:250
+#: views/newsletter/receivers.php:68
+#: views/newsletter/receivers.php:187
+msgid "Signup Date"
+msgstr "Datum přihlášení"
+
+#: classes/manage.class.php:327
+msgid "Ignore column"
+msgstr "Ignorovat sloupec"
+
+#: classes/manage.class.php:394
+msgid "add contacts to following lists"
+msgstr "Přidat kontakty do následujících seznamů"
+
+#: classes/manage.class.php:595
+#: classes/subscribers.class.php:633
+msgid "invalid email address"
+msgstr "Neplatná e-mailová adresa"
+
+#: classes/manage.class.php:640
+msgid "The following addresses were not imported"
+msgstr "Následující adresy nebyly importovány"
+
+#: classes/manage.class.php:642
+msgid "Reason"
+msgstr "Důvod"
+
+#: classes/manage.class.php:731
+msgid "no subscribers found"
+msgstr "Žádní odběratelé nenalezeni"
+
+#: classes/campaigns.class.php:752
+#: classes/manage.class.php:820
+#: views/manage.php:251
+#: views/newsletter/receivers.php:69
+#: views/newsletter/receivers.php:188
+msgid "Signup IP"
+msgstr "IP přihlášení"
+
+#: classes/campaigns.class.php:753
+#: classes/manage.class.php:304
+#: classes/manage.class.php:823
+#: views/manage.php:252
+#: views/newsletter/receivers.php:70
+#: views/newsletter/receivers.php:189
+msgid "Confirm Date"
+msgstr "Potvrdit datum"
+
+#: classes/campaigns.class.php:754
+#: classes/manage.class.php:826
+#: views/manage.php:253
+#: views/newsletter/receivers.php:71
+#: views/newsletter/receivers.php:190
+msgid "Confirm IP"
+msgstr "Potvrdit IP"
+
+#: classes/manage.class.php:1153
+#: classes/templates.class.php:1132
+msgid "The web browser on your device cannot be used to upload files. You may be able to use the <a href=\"http://wordpress.org/extend/mobile/\">native app for your device</a> instead."
+msgstr "Váš prohlížeč neumožňuje nahrávat soubory."
+
+#: classes/manage.class.php:1207
+msgid "Comma-separated values (CSV)"
+msgstr "Hodnoty oddělené čárkou (CSV)"
+
+#: classes/manage.class.php:1223
+msgid "Drop your list here"
+msgstr "Přeneste sem seznam"
+
+#: classes/manage.class.php:1224
+#: classes/templates.class.php:1203
+msgctxt "Uploader: Drop files here - or - Select Files"
+msgid "or"
+msgstr "nebo"
+
+#: classes/manage.class.php:1225
+#: classes/templates.class.php:1204
+msgid "Select File"
+msgstr "Vybrat soubor"
+
+#: classes/manage.class.php:1240
+msgid "Split your lists into max 50.000 subscribers each"
+msgstr "Rozdělte Váš seznam na max 50.000 kontaktů pro každý seznam"
+
+#: classes/manage.class.php:1243
+#: classes/templates.class.php:1223
+msgid "Your browser has some limitations uploading large files with the multi-file uploader. Please use the browser uploader for files over 100MB."
+msgstr "Váš prohlížeč má limit na odeslání velkých souborů. Kdyžtak jej změňte, pokud to nepůjde."
+
+#: classes/widget.class.php:37
+msgid "Text before the form"
+msgstr "Text před formulářem"
+
+#: classes/widget.class.php:39
+msgid "Text after the form"
+msgstr "Text za formulářem"
+
+#: includes/capability.php:102
+msgid "manage subscribers"
+msgstr "Spravovat odběratele"
+
+#: includes/static.php:8
+msgid "Do you really want to unsubscribe?"
+msgstr "Chcete se opravdu odhlásit?"
+
+#: views/manage.php:13
+msgid "Import"
+msgstr "Import"
+
+#: views/manage.php:17
+msgid "Export"
+msgstr "Export"
+
+#: classes/forms.table.class.php:162
+#: classes/lists.table.class.php:108
+#: classes/subscribers.table.class.php:178
+#: views/manage.php:21
+#: views/templates.php:157
+msgid "Delete"
+msgstr "Odstranit"
+
+#: views/manage.php:35
+msgid "upload you subscribers as comma-separated list (CSV)"
+msgstr "Nahrát odběratele jako seznam (CSV)"
+
+#: views/manage.php:47
+msgid "Paste"
+msgstr "Vložit"
+
+#: views/manage.php:49
+msgid "paste your list here"
+msgstr "vložit Váš seznam zde"
+
+#: views/manage.php:141
+#: views/manage.php:303
+msgid "which are in one of these lists"
+msgstr "když jsou v jednom ze seznamů"
+
+#: views/manage.php:151
+#: views/manage.php:316
+msgid "subscribers not assigned to a list"
+msgstr "odběratele nepřidávat do seznamu"
+
+#: classes/subscribers.class.php:1981
+msgid "error"
+msgstr "Chyba"
+
+#: views/manage.php:163
+msgid "include header"
+msgstr "Připojit hlavičku"
+
+#: views/manage.php:166
+msgid "Date Format"
+msgstr "Formát datumu"
+
+#: views/manage.php:220
+msgid "MySQL Server Performance"
+msgstr "Výkon serveru MySQL"
+
+#: views/manage.php:222
+msgid "low"
+msgstr "nízký"
+
+#: views/manage.php:223
+msgid "normal"
+msgstr "normální"
+
+#: views/manage.php:224
+msgid "high"
+msgstr "vysoký"
+
+#: views/manage.php:225
+msgid "super high"
+msgstr "super vysoký"
+
+#: views/manage.php:226
+msgid "super extreme high"
+msgstr "Super extrémě vysoký"
+
+#: views/manage.php:231
+msgid "Define order and included columns"
+msgstr "Definovat řazení a zahrnout sloupce"
+
+#: views/manage.php:264
+msgid "Listnames"
+msgstr "Seznam jmen"
+
+#: views/manage.php:270
+msgid "Download Subscribers"
+msgstr "Stáhnout odběratele"
+
+#: views/manage.php:281
+#: views/manage.php:339
+msgid "no subscriber found"
+msgstr "žádný oběratel nebyl nalezen"
+
+#: views/manage.php:328
+msgid "remove selected lists"
+msgstr "Odstranit všechny seznamy"
+
+#: views/manage.php:345
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Nemáte dostatečné oprávnění pro zobrazení stránky."
+
+#: views/forms/detail.php:314
+msgid "fill fields with known data if user is logged in"
+msgstr "Vyplnit pole osobními údaji, pokud je uživatel přihlášený"
+
+#: classes/manage.class.php:61
+msgid "Do you really like to import these contacts?"
+msgstr "Chcete importovat tyto kontakty?"
+
+#: classes/mymail.class.php:1021
+msgid "frontend settings page"
+msgstr "Nastavení úvodní stránky"
+
+#: classes/subscribers.table.class.php:180
+#: views/forms/detail.php:409
+msgid "Resend Confirmation"
+msgstr "Opětovné odeslání potvrzení"
+
+#: views/forms/detail.php:410
+msgid "resend confirmation %1$s times with a delay of %2$s hours if user hasn't confirmed the subscription"
+msgstr "Znovu odeslat potvrzení %1$s krát za %2$s hodin, pokud nepotvrdil odběratel přihlášení"
+
+#: classes/subscribers.class.php:1659
+#: classes/subscribers.class.php:1660
+#: classes/subscribers.class.php:1672
+#: views/lists/detail.php:151
+#: views/settings.php:1107
+#: views/subscribers/detail.php:136
+#: views/subscribers/detail.php:144
+#: views/subscribers/detail.php:155
+#: views/subscribers/detail.php:364
+msgid "%s ago"
+msgstr "Před %s"
+
+#: views/newsletter/editbar.php:171
+msgid "Link image to the this URL"
+msgstr "Odkaz obrázku na URL"
+
+#: views/forms/detail.php:116
+#: views/forms/detail.php:150
+#: views/newsletter/editbar.php:102
+msgid "required"
+msgstr "potřebné"
+
+#: views/settings.php:517
+msgid "You have to enable Custom fields for each form:"
+msgstr "Máte zapnuté vlastní podle pro formulář:"
+
+#: views/settings.php:277
+#: views/settings.php:278
+msgctxt "Translators: put your personal info here to display it on the settings page. Leave blank for no info"
+msgid "translator string"
+msgstr ""
+
+#: views/settings.php:278
+msgid "This plugin has been translated by %s"
+msgstr "Tento plugin byl přeložen od %s"
+
+#: classes/campaigns.class.php:1092
+msgid "Do you really like to delete all custom color schemas for this template?"
+msgstr "Chcete smazat všechny vlastní barevná schémata pro tuto šablonu?"
+
+#: classes/settings.class.php:256
+#: views/settings.php:529
+msgid "Checkbox"
+msgstr "Zaškrtávací kolonka"
+
+#: classes/settings.class.php:259
+#: views/forms/detail.php:353
+#: views/settings.php:562
+#: views/settings.php:681
+#: views/settings.php:706
+msgid "checked by default"
+msgstr "označeno jako výchozí"
+
+#: views/newsletter/options.php:49
+msgid "Colors Schemas"
+msgstr "Barevná schémata"
+
+#: views/newsletter/options.php:54
+msgid "delete all custom schemas"
+msgstr "smazat všechny vlastní schémata"
+
+#: views/forms/detail.php:344
+msgid "users decide which list they subscribe to"
+msgstr "uživatelé rozhodnout, který seznam  přihlásí k odběru"
+
+#: views/forms/detail.php:345
+msgid "show drop down instead of check boxes"
+msgstr "zobrazit rozbalovací nabídku po zaškrtnutí políčka"
+
+#: views/forms/detail.php:348
+msgid "subscribe new users to"
+msgstr "přihlásit nové uživatele do"
+
+#: views/forms/detail.php:349
+msgid "users can subscribe to"
+msgstr "uživatelé mohou být přihlášeni do"
+
+#: views/forms/detail.php:317
+msgid "redirect after submit"
+msgstr "přesměrovat po přihlášení"
+
+#: views/forms/detail.php:553
+msgid "width"
+msgstr "šířka"
+
+#: views/forms/detail.php:554
+msgid "height"
+msgstr "výška"
+
+#: classes/campaigns.class.php:1074
+msgid "add %s"
+msgstr "přidat %s"
+
+#: classes/campaigns.class.php:1075
+msgid "remove %s"
+msgstr "odstranit %s"
+
+#: views/newsletter/editbar.php:92
+#: views/newsletter/editbar.php:170
+msgid "Alt Text"
+msgstr "Popis alt"
+
+#: views/newsletter/editbar.php:92
+#: views/newsletter/editbar.php:170
+msgid "image description"
+msgstr "popis obrázku"
+
+#: classes/manage.class.php:52
+msgid "Currently %s of %s imported with %s errors. %s memory usage"
+msgstr "V současné době importováno %s odběratelů %s s chybama. % s využití paměti"
+
+#: classes/manage.class.php:55
+msgid "There was a problem during importing contacts. Please check the error logs for more information!"
+msgstr "Nastal problém s importem kontaktů. Prosím zkontrolujte chybový log pro více informací!"
+
+#: classes/campaigns.class.php:2730
+msgid "has opened"
+msgstr "byl otevřen"
+
+#: classes/campaigns.class.php:2730
+msgid "has not opened yet"
+msgstr "nebyl ještě otevřen"
+
+#: classes/campaigns.class.php:2748
+msgid "load more recipients from this campaign"
+msgstr "nahrát více příjemců pro kampaň"
+
+#: classes/ajax.class.php:1112
+msgid "last %s"
+msgstr "poslední %s"
+
+#: classes/ajax.class.php:1113
+msgid "second last %s"
+msgstr "předposlední %s"
+
+#: classes/ajax.class.php:1114
+msgid "third last %s"
+msgstr "3. poslední %s"
+
+#: classes/ajax.class.php:1115
+msgid "fourth last %s"
+msgstr "4. poslední %s"
+
+#: classes/ajax.class.php:1116
+msgid "fifth last %s"
+msgstr "5. poslední %s"
+
+#: classes/ajax.class.php:1117
+msgid "sixth last %s"
+msgstr "6. poslední %s"
+
+#: classes/ajax.class.php:1118
+msgid "seventh last %s"
+msgstr "7. poslední %s"
+
+#: classes/ajax.class.php:1119
+msgid "eighth last %s"
+msgstr "8. poslední %s"
+
+#: classes/ajax.class.php:1120
+msgid "ninth last %s"
+msgstr "9. poslední %s"
+
+#: classes/ajax.class.php:1121
+msgid "tenth last %s"
+msgstr "10. poslední %s"
+
+#: classes/ajax.class.php:1122
+msgid "eleventh last %s"
+msgstr "11. poslední %s"
+
+#: classes/ajax.class.php:1123
+msgid "twelfth last %s"
+msgstr "12. poslední %s"
+
+#: classes/ajax.class.php:1397
+msgid "create a new one"
+msgstr "vytvořit nový"
+
+#: classes/helper.class.php:305
+msgid "any %s"
+msgstr "každé %s"
+
+#: classes/ajax.class.php:1640
+#: classes/templates.class.php:285
+msgid "WordPress is not able to access to your filesystem!"
+msgstr "WP nemá přístup k systémovým souborům!"
+
+#: classes/ajax.class.php:1641
+#: classes/templates.class.php:286
+msgid "Please add following lines to the wp-config.php %s"
+msgstr "Přidejte prosím následující řádky do wp-config.php %s"
+
+#: classes/campaigns.class.php:620
+msgid "completing job"
+msgstr "kompletace úkolu"
+
+#: classes/campaigns.class.php:1063
+msgid "Duplicate module"
+msgstr "Duplikovat modul"
+
+#: classes/campaigns.class.php:1081
+msgid "%s does not contain a valid image"
+msgstr "%s neobsahuje validní obrázek"
+
+#: includes/autoresponder.php:23
+msgid "something has been published"
+msgstr "některé byly publikovány"
+
+#: views/manage.php:185
+msgid "Output Format"
+msgstr "Výstupní formát"
+
+#: views/manage.php:187
+msgid "CSV"
+msgstr "CSV"
+
+#: views/manage.php:188
+msgid "HTML"
+msgstr "HTML"
+
+#: views/settings.php:181
+msgid "Encoding"
+msgstr "Zakódování"
+
+#: views/newsletter/delivery.php:27
+msgid "Auto Responder"
+msgstr "Auto odpovídač"
+
+#: views/newsletter/delivery.php:104
+msgid "send this auto responder"
+msgstr "odeslat tuto auto-odpověď"
+
+#: classes/campaigns.class.php:680
+#: views/newsletter/delivery.php:289
+msgid "Next issue: %s"
+msgstr "Další řešení: %s"
+
+#: views/newsletter/delivery.php:294
+msgid "Use the %s tag to display the current issue in the campaign"
+msgstr "Použít %s tag k zobrazení v aktuální kampani"
+
+#: views/newsletter/delivery.php:306
+msgid "%1$s matching %2$s has been published"
+msgid_plural "%1$s matching %2$s have been published"
+msgstr[0] "%1$s obsahující %2$s byl publikován"
+msgstr[1] "%1$s obsahující %2$s byly publikovány"
+msgstr[2] "%1$s obsahující %2$s bylo publikováno"
+
+#: views/newsletter/delivery.php:308
+msgid "reset counter"
+msgstr "reset počítadla"
+
+#: views/newsletter/details.php:97
+msgid "Total Recipients"
+msgstr "Celkem odběratelů"
+
+#: views/newsletter/details.php:105
+msgid "Total Errors"
+msgstr "Celkem chyb"
+
+#: views/newsletter/details.php:112
+msgid "Total Clicks"
+msgstr "Celkem kliknuto"
+
+#: views/newsletter/editbar.php:161
+msgid "Insert from URL"
+msgstr "Vložit z URL"
+
+#: views/newsletter/editbar.php:168
+msgid "Image URL"
+msgstr "Obrázek z URL"
+
+#: views/newsletter/editbar.php:180
+msgid "static"
+msgstr "statická"
+
+#: views/newsletter/editbar.php:181
+msgid "dynamic"
+msgstr "dynamická"
+
+#: views/newsletter/editbar.php:188
+#: views/newsletter/editbar.php:283
+msgid "use the excerpt if exists otherwise use the content"
+msgstr "použít ukázku pokud existuje, jinak používat obsah"
+
+#: views/newsletter/editbar.php:188
+#: views/newsletter/editbar.php:283
+msgid "excerpt"
+msgstr "zkrácený popis"
+
+#: views/newsletter/editbar.php:189
+#: views/newsletter/editbar.php:284
+msgid "use the content"
+msgstr "použít obsah"
+
+#: views/newsletter/editbar.php:189
+#: views/newsletter/editbar.php:284
+msgid "full content"
+msgstr "celý obsah"
+
+#: views/newsletter/editbar.php:214
+msgid "the excerpt"
+msgstr "zkrácený popis"
+
+#: views/newsletter/editbar.php:214
+msgid "the full content"
+msgstr "plný obsah"
+
+#: views/newsletter/editbar.php:218
+msgid "the latest"
+msgstr "poslední"
+
+#: views/newsletter/editbar.php:219
+msgid "the second latest"
+msgstr "předchozí"
+
+#: views/newsletter/editbar.php:220
+msgid "the third latest"
+msgstr "třetí poeslední"
+
+#: views/newsletter/editbar.php:221
+msgid "the fourth latest"
+msgstr "čtvrtý poslední"
+
+#: views/newsletter/editbar.php:222
+msgid "the fifth latest"
+msgstr "pátý poslední"
+
+#: views/newsletter/editbar.php:223
+msgid "the sixth latest"
+msgstr "šestý poslední"
+
+#: views/newsletter/editbar.php:224
+msgid "the seventh latest"
+msgstr "sedmí poslední"
+
+#: views/newsletter/editbar.php:225
+msgid "the eighth latest"
+msgstr "osmí poslední"
+
+#: views/newsletter/editbar.php:226
+msgid "the ninth latest"
+msgstr "devátý poslední"
+
+#: views/newsletter/editbar.php:227
+msgid "the tenth latest"
+msgstr "desátý poslední"
+
+#: views/newsletter/editbar.php:228
+msgid "the eleventh latest"
+msgstr "jedenáctý poslední"
+
+#: views/newsletter/editbar.php:229
+msgid "the twelfth latest"
+msgstr "dvanáctý poslední"
+
+#: views/newsletter/editbar.php:244
+msgctxt "Insert [excerpt] of [latest] [post]"
+msgid "Insert %1$s of %2$s %3$s"
+msgstr "Vložit %1$s z %2$s %3$s"
+
+#: views/newsletter/editbar.php:258
+msgid "dynamic content get replaced with the proper content as soon as the campaign get send. Check the quick preview to see the current status of dynamic elements"
+msgstr "dynamický obsah bude nahrazen řádným obsahem, jakmile kampaň bude doodeslána. Zkontrolujte náhled pro zobrazení aktuálního stavu dynamických prvků"
+
+#: views/settings.php:850
+msgid "Special tags display dynamic content and are equally for all subscribers"
+msgstr "Speciální tagy zobrazené v dynamickém obsahu a jsou shodné pro všechny účastníky"
+
+#: views/settings.php:869
+msgid "Dynamic Tags"
+msgstr "Dynamické tagy"
+
+#: views/settings.php:870
+msgid "Dynamic tags let you display your posts or pages in a reverse chronicle order. Some examples:"
+msgstr "Dynamické tagy umožňují zobrazit příspěvky nebo stránky v obráceném časovém řazení. Některé příklady:"
+
+#: views/settings.php:871
+msgid "displays the latest post title"
+msgstr "zobrazit poslední nadpis příspěvku"
+
+#: views/settings.php:872
+msgid "displays the fourth latest page title"
+msgstr "zobrazí čtyři poslední nadpisy stránek"
+
+#: views/settings.php:873
+msgid "displays the feature image of the latest posts"
+msgstr "zobrazí obrázek posledního příspěvku"
+
+#: views/settings.php:874
+msgid "displays the feature image of the fourth latest posts. Uses the image with ID 23 if the post doesn't have a feature image"
+msgstr "zobrazí obrázek čtyř nejnovějších příspěvků. Používá obrázek s ID 23 v případě, že příspěvek nemá obrázek"
+
+#: views/settings.php:875
+msgid "displays the latest posts content"
+msgstr "zobrazí obsah posledního příspěvku"
+
+#: views/settings.php:876
+msgid "displays the latest posts excerpt or content if no excerpt is defined"
+msgstr "zobrazí poslední příspěvky zkráceně nebo s celým obsahem, pokud není podmínka definována"
+
+#: views/settings.php:877
+msgid "displays the latest posts date"
+msgstr "zobrazit poslední příspěvky"
+
+#: views/settings.php:878
+msgid "you can also use absolute values"
+msgstr "můžete použít pouze absolutní hodnoty"
+
+#: views/settings.php:879
+msgid "displays the post title of post ID 23"
+msgstr "zobrazení nadpisu příspěvku z příspěvku ID 23"
+
+#: views/settings.php:880
+msgid "displays the permalink of post ID 15"
+msgstr "zobrazení odkazu z příspěvku ID 15"
+
+#: views/settings.php:881
+msgid "Instead of \"post_\" and \"page_\" you can use custom post types too"
+msgstr "Místo  \"post_\" a \"page_\" můžete použít také vlastní typy příspěvků"
+
+#: views/settings.php:885
+msgid "Image Fallback"
+msgstr "Záložní obrázek"
+
+#: views/settings.php:888
+msgid "Fallback image for dynamic image tags"
+msgstr "Záložní obrázek pro dynamický obrázek"
+
+#: classes/templates.class.php:502
+msgid "Template %s is now your default template"
+msgstr "Šablona %s je nyní jako výchozí"
+
+#: views/templates.php:21
+msgid "Template %s is missing or broken. Reset to default"
+msgstr "Šablona %s chybí nebo je poškozená. Resetujte na výchozí"
+
+#: classes/templates.class.php:566
+#: views/templates.php:146
+msgid "Use as default"
+msgstr "Použít jako výchozí"
+
+#: classes/campaigns.class.php:2735
+msgid "an error occurred while sending to this receiver"
+msgstr "nastala chyba během odesílání příjemcům"
+
+#: classes/campaigns.class.php:3160
+msgid "New campaign %1$s has been created and is going to be sent in %2$s."
+msgstr "Nová kampaň %1$s byla vytvořena a bude odeslána %2$s."
+
+#: classes/campaigns.class.php:822
+msgid "Resume Campaign"
+msgstr "Pokračovat kampaň"
+
+#: classes/campaigns.class.php:822
+#: classes/campaigns.class.php:926
+#: views/newsletter/submit.php:69
+#: views/newsletter/submit.php:96
+#: views/newsletter/submit.php:106
+msgid "Resume"
+msgstr "Pokračovat"
+
+#: classes/cron.class.php:71
+msgid "It seems your last cronjob hasn't been finished! Increase the %1$s, add %2$s to your wp-config.php or reduce the %3$s in the settings"
+msgstr "Zdá se, že váš poslední Cronjob nebyl dokončen! Zvyšte %1$s, přidejte: %2$s do wp-config.php nebo redukujte %3$s  v nastavení."
+
+#: classes/mymail.class.php:713
+msgid "MyMail is not able access the filesystem! If you have issues saving templates or other files please add this line to you wp-config.php: %s"
+msgstr "Newsletter nemá přístup do systémových souborů! Pokud máte problémy s ukládáním šablon nebo jiných souborů, přidejte prosím tento řádek do WP-config.php: %s"
+
+#: views/newsletter/delivery.php:190
+msgid "only if in %s"
+msgstr "pouze pokud je %s"
+
+#: views/newsletter/template.php:106
+msgid "Your email may look different on mobile devices"
+msgstr "Váš email možná vypadá jinak na mobilním zařízení"
+
+#: views/settings.php:1107
+msgid "from %s"
+msgstr "z %s"
+
+#: classes/campaigns.class.php:3160
+msgid "Pause campaign"
+msgstr "Pozastavit kampaň"
+
+#: views/settings.php:921
+msgid "Split campaigns"
+msgstr "Rozdělit kampaně"
+
+#: views/settings.php:922
+msgid "send campaigns simultaneously instead of one after the other"
+msgstr "odeslat kampaně současně namísto jedné po druhé"
+
+#: views/forms/detail.php:419
+msgid "paste in your vCard content. You can use %s to generate your personal vcard"
+msgstr "vložte obsah Vaší vCard. Můžete použít %s ke generování vlastní vCard."
+
+#: views/manage.php:69
+#: views/settings.php:48
+#: views/settings.php:579
+#: views/settings.php:635
+#: views/settings.php:636
+msgid "WordPress Users"
+msgstr "WP uživatelé"
+
+#: views/settings.php:666
+msgid "Registered Users"
+msgstr "Registrovaní uživatelé"
+
+#: views/settings.php:669
+msgid "new WordPress users can choose to sign up on the register page"
+msgstr "nový WP uživatel může vybrat k registraci registrační stránku."
+
+#: views/settings.php:671
+msgid "allow %s to your blog to enable this option"
+msgstr "povolit %s do Vašeho blogu a zapnout toto nastavení"
+
+#: views/settings.php:671
+msgid "users to subscribe"
+msgstr "uživatelé do odběratelů"
+
+#: views/settings.php:683
+#: views/settings.php:714
+#: views/settings.php:737
+msgid "Subscribe them to these lists:"
+msgstr "Přihlásit k odběru do seznamů:"
+
+#: views/settings.php:696
+msgid "New Comments"
+msgstr "Nové komentáře"
+
+#: views/settings.php:697
+msgid "allow users to signup on the comment form if they are currently not subscribed to any list"
+msgstr "povolit uživatelům komentáře, i když nejsou v současné době přihlášeni"
+
+#: views/settings.php:707
+msgid "sign up only if comment is"
+msgstr "komentovat můžou pouze přihlášení"
+
+#: views/settings.php:709
+msgid "approved"
+msgstr "schváleno"
+
+#: views/settings.php:710
+msgid "not approved"
+msgstr "neschváleno"
+
+#: views/settings.php:711
+msgid "spam"
+msgstr "spam"
+
+#: views/settings.php:726
+msgid "Others"
+msgstr "Ostatní"
+
+#: views/settings.php:727
+msgid "add people who are added via the backend or any third party plugin"
+msgstr "přidat lidi, kteří byli přidáni pomocí třetí strany nebo administrace"
+
+#: views/settings.php:774
+msgid "Newsletter Sign up"
+msgstr "Přihlášení k newsletteru"
+
+#: classes/settings.class.php:104
+#: includes/updates.php:149
+msgid "Sign up to our newsletter"
+msgstr "Přihlášení k newsletteru"
+
+#: views/forms/detail.php:417
+msgid "attach vCard to all confirmation mails"
+msgstr "připojit vCard ke všem potvrzeným e-mailům"
+
+#: classes/manage.class.php:169
+msgid "display name"
+msgstr "zobrazené jméno"
+
+#: classes/manage.class.php:169
+#: classes/manage.class.php:349
+#: classes/manage.class.php:355
+#: classes/manage.class.php:361
+msgid "registered"
+msgstr "registrováno"
+
+#: classes/manage.class.php:319
+msgid "Select columns"
+msgstr "Vyberte kolonky"
+
+#: classes/manage.class.php:414
+msgid "Existing subscribers"
+msgstr "Existující odběratelé"
+
+#: classes/manage.class.php:414
+msgid "skip"
+msgstr "přeskočit"
+
+#: classes/manage.class.php:414
+msgid "overwrite"
+msgstr "přepsat"
+
+#: classes/manage.class.php:414
+msgid "merge"
+msgstr "sloučit"
+
+#: classes/settings.class.php:477
+#: classes/settings.class.php:496
+msgid "File uploaded to %s"
+msgstr "Soubor uploadován na %s"
+
+#: classes/settings.class.php:482
+#: classes/settings.class.php:501
+msgid "unable to upload file"
+msgstr "nelze uploadovat soubor"
+
+#: classes/settings.class.php:564
+msgid "No country database found! Please load it!"
+msgstr "Žádné databáze zemí nenalezeny! Zkuste je nahrát!"
+
+#: classes/settings.class.php:572
+msgid "No city database found! Please load it!"
+msgstr "Žádné databáze měst nenalezeny! Zkuste je nahrát!"
+
+#: classes/ajax.class.php:1666
+#: views/settings.php:235
+msgid "Update Country Database"
+msgstr "Aktualizovat databázi zemí"
+
+#: classes/ajax.class.php:1681
+#: views/settings.php:244
+msgid "Update City Database"
+msgstr "Aktualizovat databázi měst"
+
+#: classes/ajax.class.php:1770
+msgid "Unable to connect to bounce server! Please check your settings."
+msgstr "Nelze se připojit k severvu! Zkontrolujte si nastavení."
+
+#: classes/ajax.class.php:1777
+msgid "checking for new messages"
+msgstr "kontrola nových zpráv"
+
+#: classes/ajax.class.php:1781
+msgid "Unable to get test message! Please check your settings."
+msgstr "Nelze odeslat testovací zprávu! Prosím zkontrolujte nastavení."
+
+#: classes/ajax.class.php:1800
+msgid "Your bounce server is good!"
+msgstr "Váš server je dobrý!"
+
+#: views/manage.php:78
+msgid "Import WordPress users with following roles"
+msgstr "Importovat WP uživatele s následujícími rolemi"
+
+#: views/manage.php:115
+msgid "Next Step"
+msgstr "Další krok"
+
+#: classes/ajax.class.php:766
+#: classes/campaigns.class.php:2731
+#: classes/subscribers.class.php:1677
+msgid "%s click"
+msgid_plural "%s clicks"
+msgstr[0] "%s klik"
+msgstr[1] "%s kliknutí"
+msgstr[2] "%s kliknutí"
+
+#: views/settings.php:235
+msgid "Load Country Database"
+msgstr "Nahrát databázi zemí"
+
+#: views/settings.php:235
+#: views/settings.php:244
+msgid "upload file"
+msgstr "uploadovat soubor"
+
+#: views/settings.php:239
+msgid "upload the GeoIPv6.dat you can find in the package here:"
+msgstr "nahraný GeoIPv6.dat najdete zde:"
+
+#: views/settings.php:244
+msgid "Load City Database"
+msgstr "Nahrát databázy měst"
+
+#: views/settings.php:248
+msgid "upload the GeoLiteCity.dat you can find in the package here:"
+msgstr "nahraný GeoLiteCity.dat najdete zde:"
+
+#: views/settings.php:766
+msgid "Some text can get defined on the %s as well"
+msgstr "Nějaký text může být definován %s jak potřebujete"
+
+#: views/settings.php:1239
+msgid "Test bounce settings"
+msgstr "Test nastavení odmítnutí"
+
+#: views/settings.php:1241
+msgid "sending message..."
+msgstr "odesílání zprávy..."
+
+#: views/forms/detail.php:393
+msgid "used template file"
+msgstr "použitý soubor šablony"
+
+#: views/settings.php:167
+#: views/settings.php:470
+#: views/settings.php:483
+msgid "use"
+msgstr "použít"
+
+#: views/subscribers/detail.php:62
+msgid "resend confirmation"
+msgstr "přeposlat potvrzení"
+
+#: views/settings.php:856
+msgid "Access token"
+msgstr "Token přístupu"
+
+#: views/settings.php:857
+msgid "Access token Secret"
+msgstr "Tajný přístup tokenu"
+
+#: views/settings.php:858
+msgid "Consumer key"
+msgstr "Zákaznický klíč"
+
+#: views/settings.php:859
+msgid "Consumer secret"
+msgstr "Zákaznické tajné"
+
+#: views/settings.php:853
+msgid "To enable the tweet feature you have to create a new %s and insert your credentials"
+msgstr "Chcete-li povolit funkci tweet musíte vytvořit nový %s a vložit Vaše údaje"
+
+#: classes/campaigns.class.php:941
+msgid "See stats of Campaign %s"
+msgstr "Koukněte na statistiky kampaně %s"
+
+#: views/newsletter/delivery.php:475
+msgid "You have to %s to change the delivery settings"
+msgstr "Máte změněné nastavení %s doručení"
+
+#: views/newsletter/delivery.php:475
+msgid "switch to the edit mode"
+msgstr "přepnutí do editoru"
+
+#: views/newsletter/delivery.php:488
+msgid "This campaign is based on an %s"
+msgstr "Tato kampaň je uložena na %s"
+
+#: views/newsletter/delivery.php:488
+msgid "auto responder campaign"
+msgstr "auto-odpovídací kampaň"
+
+#: views/newsletter/details.php:97
+msgid "Total Sent"
+msgstr "Celkem odesláno"
+
+#: views/newsletter/submit.php:75
+#: views/newsletter/submit.php:101
+msgid "Statistic"
+msgstr "Statistika"
+
+#: views/newsletter/editbar.php:70
+msgid "replace with image"
+msgstr "nahradit s obrázkem"
+
+#: classes/widget.class.php:167
+msgid "Number of Newsletters"
+msgstr "Počet newslaterů"
+
+#: classes/manage.class.php:1240
+#: classes/templates.class.php:1205
+msgid "Maximum upload file size: %s."
+msgstr "Maximální upload o velikosti: %s."
+
+#: views/newsletter/delivery.php:38
+msgid "This campaign has been sent on %s. You cannot edit it anymore"
+msgstr "Tato kampaň byla odeslána na %s.  Nelze ji již upravovat"
+
+#: views/manage.php:193
+#: views/settings.php:181
+msgid "CharSet"
+msgstr "CharSet"
+
+#: views/settings.php:222
+msgid "change Charset and encoding of your mails if you have problems with some characters"
+msgstr "změnit Charset pro kódování Vašich e-mailu pokud máte problémy s diakritikou či znaky"
+
+#: classes/campaigns.class.php:677
+#: classes/campaigns.class.php:707
+msgid "send every %1$s %2$s"
+msgstr "odeslat každou %1$s %2$s"
+
+#: includes/autoresponder.php:27
+msgid "at a specific time"
+msgstr "ve specifikovaný čas"
+
+#: views/newsletter/delivery.php:121
+#: views/newsletter/delivery.php:124
+msgid "before"
+msgstr "předtím"
+
+#: views/newsletter/delivery.php:219
+msgctxt "every [x] [timeframe] starting [startdate]"
+msgid "create a new campaign every %1$s%2$s"
+msgstr "vytvořit kampaň každý %1$s%2$s"
+
+#: views/newsletter/delivery.php:237
+msgid "end schedule"
+msgstr "konec plánování"
+
+#: views/newsletter/delivery.php:246
+msgid "set an end date for your campaign"
+msgstr "nastavte konec datumu Vaší kampaně"
+
+#: views/newsletter/delivery.php:255
+msgid "send campaigns only on these weekdays"
+msgstr "odesílat kampaně pouze o víkendech"
+
+#: classes/campaigns.class.php:679
+msgid "next campaign in %s"
+msgstr "další kampaň v %s"
+
+#: classes/campaigns.class.php:688
+msgid "until %s"
+msgstr "až do %s"
+
+#: classes/campaigns.class.php:699
+msgctxt "only one [weekdays]"
+msgid "only on %s"
+msgstr "pouze na %s"
+
+#: views/newsletter/delivery.php:174
+msgid "create a new campaign every time a new %s has been published"
+msgstr "vytvářet nové kampaně vždy v čase %s po jejich publikování."
+
+#: views/newsletter/delivery.php:196
+msgid "always skip %s release"
+msgid_plural "always skip %s releases"
+msgstr[0] "vždy přeskočit %s toto oznámení"
+msgstr[1] "vždy přeskočit %s tato oznámení"
+msgstr[2] "vždy přeskočit %s tyto oznámení"
+
+#: classes/queue.class.php:483
+msgid "New campaign %s has been created!"
+msgstr "Nová kampaň %s byla vytvořena!"
+
+#: classes/queue.class.php:445
+msgid "Auto responder campaign %s has been finished and is deactivated!"
+msgstr "Auto-odpovídací kampaň %s je ukončena a nyní je deaktivována!"
+
+#: classes/campaigns.class.php:665
+#: includes/autoresponder.php:9
+#: views/newsletter/delivery.php:212
+#: views/newsletter/delivery.php:325
+msgid "week(s)"
+msgstr "týdnů"
+
+#: classes/campaigns.class.php:666
+#: views/newsletter/delivery.php:213
+#: views/newsletter/delivery.php:326
+msgid "month(s)"
+msgstr "měsíců"
+
+#: views/forms/detail.php:115
+#: views/forms/detail.php:149
+msgid "define a label for this field"
+msgstr "definujte nápis pro toto pole"
+
+#: views/forms/detail.php:308
+msgid "show asterisk on required fields"
+msgstr "ukázat hvězdičku u potřebného pole"
+
+#: views/settings.php:1546
+msgid "System Info page"
+msgstr "Systémové INFO"
+
+#: views/settings.php:1554
+msgid "To copy the system info, click below then press Ctrl + C (PC) or Cmd + C (Mac)."
+msgstr "Pro kopii systémového infa, stiskněte Ctrl + C (PC) or Cmd + C (Mac)."
+
+#: views/newsletter/delivery.php:223
+msgid "next schedule"
+msgstr "další plánování"
+
+#: classes/settings.class.php:329
+msgid "Limits have been reseted"
+msgstr "Limit byl resetován"
+
+#: views/settings.php:917
+msgid "reset these limits"
+msgstr "resetovat tyto limity"
+
+#: classes/ajax.class.php:604
+msgid "You can only perform 10 test within an hour. Please try again later!"
+msgstr "Můžete nastavit pouze 10 testů během hodiny. Zkuste prosím později!"
+
+#: classes/campaigns.class.php:1093
+msgid "%s out of 10"
+msgstr "%s hotovo z 10"
+
+#: classes/campaigns.class.php:1095
+msgid "This mail will hardly see any inbox!"
+msgstr "Tento email byl hodně zajímavý! :-)"
+
+#: classes/campaigns.class.php:1096
+msgid "You have to make it better!"
+msgstr "Udělejte to lepší!"
+
+#: classes/campaigns.class.php:1097
+msgid "Many inboxes will refuse this mail!"
+msgstr "Spousta schránek odmítla mail!"
+
+#: classes/campaigns.class.php:1098
+msgid "Not bad at all. Improve it further!"
+msgstr "Není to špatné. Více se snažte!"
+
+#: classes/campaigns.class.php:1099
+msgid "Almost perfect!"
+msgstr "Perfektní!"
+
+#: classes/campaigns.class.php:1100
+msgid "Great! Your campaign is ready to send!"
+msgstr "Hotovo! Vaše kampaň je připravena k odeslání!"
+
+#: classes/notification.class.php:127
+msgid "A new user has subscribed to your newsletter!"
+msgstr "Nový uživatel se přihlásil k newsletteru!"
+
+#: views/newsletter/delivery.php:438
+msgid "check your spam score"
+msgstr "zkontrolovat spam skóre"
+
+#: views/settings.php:469
+msgid "Send a notification of new subscribers to following receivers (comma separated)"
+msgstr "Odeslat oznámení o nových příjemcích na (více oddělte čárkou)"
+
+#: classes/settings.class.php:32
+msgid "Homepage created"
+msgstr "Hlavní stránka vyvořena"
+
+#: classes/mymail.class.php:1021
+msgid "You haven't defined a homepage for the newsletter. This is required to make the subscription form work correctly. Please check the %1$s or %2$s"
+msgstr "Nemáte nastavenou hlavní stránku newsletteru. Toto je nutné udělat pro to, aby stránky fungovali. Prosím zkontrolujte %1$s nebo %2$s"
+
+#: classes/mymail.class.php:1021
+#: views/settings.php:312
+msgid "create it right now"
+msgstr "vytvořit právě teď"
+
+#: classes/settings.class.php:524
+msgid "Language changed!"
+msgstr "Jazyk změněn!"
+
+#: views/settings.php:1589
+msgid "change language of texts if available to"
+msgstr "vyberte jazyk textů pokud je k dispozici pro"
+
+#: views/settings.php:1605
+msgid "change language"
+msgstr "změnit jazyk"
+
+#: classes/settings.class.php:583
+msgid "Please define a homepage for the newsletter on the frontend tab"
+msgstr "Prosím definujte hlavní stránku pro newsletter"
+
+#: views/settings.php:1594
+msgid "English"
+msgstr "Anglicky"
+
+#: classes/campaigns.class.php:1082
+msgid "Enter name of the list"
+msgstr "Napište název seznamu"
+
+#: classes/campaigns.class.php:1083
+msgctxt "[recipientstype] of [campaignname]"
+msgid "%s of %s"
+msgstr "%s z %s"
+
+#: classes/ajax.class.php:1895
+msgid "List has been created"
+msgstr "Seznam byl vytvořen"
+
+#: classes/campaigns.class.php:2637
+#: views/newsletter/receivers.php:241
+msgid "who have opened"
+msgstr "kdo otevřel"
+
+#: classes/campaigns.class.php:2638
+#: views/newsletter/receivers.php:242
+msgid "who have opened but not clicked"
+msgstr "kdo měl otevřeno, ale neklikl"
+
+#: classes/campaigns.class.php:2640
+#: views/newsletter/receivers.php:244
+msgid "who have not opened"
+msgstr "kdo vůbec neotevřel"
+
+#: views/subscribers/overview.php:22
+msgid "Search Subscribers"
+msgstr "Hledat odběratele"
+
+#: views/newsletter/receivers.php:234
+msgid "create a new list with all"
+msgstr "vytvořit nový seznam se všemi"
+
+#: views/newsletter/receivers.php:252
+msgid "create list"
+msgstr "vytvořit seznam"
+
+#: classes/ajax.class.php:1895
+msgid "Couldn't create List"
+msgstr "Nelze vytvořit seznam"
+
+#: classes/campaigns.class.php:224
+msgid "Receivers"
+msgstr "Příjemci"
+
+#: classes/subscribers.class.php:609
+msgid "convert all subscribers with error status back to subscribed"
+msgstr "převést všechny odběratele s chybama statusů zpět do přihlášených"
+
+#: classes/campaigns.class.php:2635
+#: views/newsletter/receivers.php:239
+msgid "who have received"
+msgstr "kdo obdržel"
+
+#: classes/campaigns.class.php:2636
+#: views/newsletter/receivers.php:240
+msgid "who have not received"
+msgstr "kdo neobdržel"
+
+#: classes/campaigns.class.php:2639
+#: views/newsletter/receivers.php:243
+msgid "who have opened and clicked"
+msgstr "kdo otevřel a kliknul"
+
+#: classes/notification.class.php:477
+msgid "%s has joined"
+msgstr "%s byl připojen"
+
+#: views/newsletter/receivers.php:15
+msgid "send campaign to these lists"
+msgstr "odelsat kampaň na tyto seznamy"
+
+#: views/manage.php:79
+#: views/manage.php:101
+#: views/newsletter/receivers.php:20
+#: views/settings.php:1136
+msgid "toggle all"
+msgstr "Všechny seznamy"
+
+#: views/newsletter/receivers.php:232
+msgid "create new list"
+msgstr "vytvořit nový seznam"
+
+#: views/templates.php:48
+#: views/templates.php:56
+msgid "Save as"
+msgstr "Uložit jako"
+
+#: classes/templates.class.php:419
+msgid "Please enter the name of the new template"
+msgstr "Prosím napište název nové šablony"
+
+#: classes/campaigns.class.php:2701
+msgid "Filter"
+msgstr "Filtr"
+
+#: classes/campaigns.class.php:2702
+msgid "unopens"
+msgstr "neotevřené"
+
+#: classes/campaigns.class.php:2734
+msgid "%s bounce"
+msgid_plural "%s bounces"
+msgstr[0] "%s odmítnutí"
+msgstr[1] "%s odmítnutí"
+msgstr[2] "%s odmítnutí"
+
+#: classes/ajax.class.php:1268
+msgid "All rights reserved %s"
+msgstr "Všechna práva vyhrazena %s"
+
+#: classes/template.class.php:248
+msgctxt "common module name"
+msgid "Full Size Image"
+msgstr "Obrázek v plné velikosti"
+
+#: classes/template.class.php:249
+msgctxt "common module name"
+msgid "Intro"
+msgstr "Intro"
+
+#: classes/template.class.php:252
+msgctxt "common module name"
+msgid "Full Size Text Invert"
+msgstr "Text v plné velikosti"
+
+#: classes/template.class.php:253
+msgctxt "common module name"
+msgid "iPhone Promotion"
+msgstr "iPhone promo akce"
+
+#: classes/template.class.php:254
+msgctxt "common module name"
+msgid "Macbook Promotion"
+msgstr "Macbook promo akce"
+
+#: classes/template.class.php:255
+msgctxt "common module name"
+msgid "Quotation"
+msgstr "Citát"
+
+#: classes/template.class.php:258
+msgctxt "common module name"
+msgid "Plans"
+msgstr "Plány"
+
+#: classes/template.class.php:259
+#: classes/template.class.php:261
+#: classes/template.class.php:263
+msgctxt "common module name"
+msgid "%s Image Full"
+msgstr "%s celý obrázek"
+
+#: classes/template.class.php:260
+#: classes/template.class.php:262
+#: classes/template.class.php:264
+msgctxt "common module name"
+msgid "%s Text Invert"
+msgstr "%s změna textu"
+
+#: classes/template.class.php:265
+msgctxt "common module name"
+msgid "Image on the Left"
+msgstr "Obrázek vlevo"
+
+#: classes/template.class.php:266
+msgctxt "common module name"
+msgid "Image on the Right"
+msgstr "Obrázek vpravo"
+
+#: classes/template.class.php:267
+#: classes/template.class.php:269
+#: classes/template.class.php:271
+msgctxt "common module name"
+msgid "%s Image on the Left"
+msgstr "%s obrázek vlevo"
+
+#: classes/template.class.php:268
+#: classes/template.class.php:270
+#: classes/template.class.php:272
+msgctxt "common module name"
+msgid "%s Image on the Right"
+msgstr "%s obrázek vpravo"
+
+#: classes/template.class.php:273
+msgctxt "common module name"
+msgid "%s Floating Image left"
+msgstr "%s obrázek vlevo"
+
+#: classes/template.class.php:274
+msgctxt "common module name"
+msgid "%s Floating Image right"
+msgstr "%s obrázek vpravo"
+
+#: classes/template.class.php:275
+#: classes/template.class.php:277
+msgctxt "common module name"
+msgid "%s Image Features left"
+msgstr "%s obrázek zleva"
+
+#: classes/template.class.php:276
+#: classes/template.class.php:278
+msgctxt "common module name"
+msgid "%s Image Features right"
+msgstr "%s obrázek zprava"
+
+#: classes/template.class.php:279
+#: classes/template.class.php:280
+#: classes/template.class.php:281
+#: classes/template.class.php:282
+#: classes/template.class.php:283
+#: classes/template.class.php:284
+#: classes/template.class.php:285
+#: classes/template.class.php:286
+msgctxt "common module name"
+msgid "%s Text"
+msgstr "%s text"
+
+#: classes/settings.class.php:115
+msgctxt "unsubscribelink"
+msgid "unsubscribe"
+msgstr "odhlásit"
+
+#: views/newsletter/editbar.php:182
+msgid "RSS"
+msgstr "RSS"
+
+#: views/newsletter/editbar.php:265
+msgid "Enter feed URL"
+msgstr "Napište URL feedu"
+
+#: views/newsletter/editbar.php:270
+msgid "Recent Feeds"
+msgstr "Obdržené feedy"
+
+#: views/newsletter/editbar.php:279
+msgid "change"
+msgstr "změna"
+
+#. mymail
+#: classes/template.class.php:250
+msgctxt "common module name"
+msgid "Separator"
+msgstr "Oddělovač"
+
+#. mymail
+#: classes/template.class.php:251
+msgctxt "common module name"
+msgid "Separator with button"
+msgstr "Oddělovač s tlačítkem"
+
+#. mymail
+#: classes/template.class.php:256
+msgctxt "common module name"
+msgid "Quotation left"
+msgstr "Citace vlevo"
+
+#. mymail
+#: classes/template.class.php:257
+msgctxt "common module name"
+msgid "Quotation right"
+msgstr "Citace vpravo"
+
+#. mymail
+#: classes/template.class.php:600
+msgid "light"
+msgstr "světlý"
+
+#. mymail
+#: classes/template.class.php:601
+msgid "dark"
+msgstr "tmavý"
+
+#: classes/campaigns.class.php:1067
+msgid "Codeview"
+msgstr "Zobrazit kód"
+
+#: classes/campaigns.class.php:1068
+msgid "Name of the module (click to edit)"
+msgstr "Název modulu (klikněte pro editaci)"
+
+#: views/newsletter/optionbar.php:27
+msgid "include modules"
+msgstr "připojit moduly"
+
+#: views/newsletter/editbar.php:69
+msgid "convert to link"
+msgstr "převést na odkaz"
+
+#: views/lists/detail.php:164
+#: views/newsletter/editbar.php:74
+msgid "Link"
+msgstr "Odkaz"
+
+#: views/newsletter/editbar.php:87
+msgid "Image Button"
+msgstr "Obrázkové tlačítko"
+
+#: views/newsletter/editbar.php:86
+msgid "Text Button"
+msgstr "Textové tlačítko"
+
+#: views/forms/detail.php:130
+#: views/newsletter/editbar.php:97
+msgid "Button Label"
+msgstr "Nápis tlačítka"
+
+#: views/newsletter/editbar.php:97
+msgid "button label"
+msgstr "nápis tlačítka"
+
+#: views/newsletter/editbar.php:301
+msgid "use HighDPI/Retina ready images if available"
+msgstr "použít HighDPI/Retina pro obrázky, pokud je to možné"
+
+#: views/newsletter/editbar.php:301
+msgid "HighDPI/Retina ready"
+msgstr "HighDPI/Retina"
+
+#: views/settings.php:353
+msgid "Permalink Structure"
+msgstr "Struktura odkazu"
+
+#: views/settings.php:348
+msgid "Campaign slug"
+msgstr "Zkratka kampaně"
+
+#: views/settings.php:351
+msgid "changing the slug may cause broken links in previous sent campaigns!"
+msgstr "změna zkratky může znefunkčnit předešlé kampaně!"
+
+#: views/settings.php:353
+msgctxt "Campaign slug"
+msgid "Define a %s to enable custom slugs"
+msgstr "Definujte %s k zapnutí vlastních zkratek"
+
+#: classes/manage.class.php:169
+msgid "nickname"
+msgstr "přezdívka"
+
+#: classes/settings.class.php:737
+msgid "sending %s emails at once can cause problems with statistics cause of a server timeout or to much memory usage! You should decrease it if you have problems!"
+msgstr "zasílání e-mailů %s  najednou může způsobit problémy se statistikami způsobené časovým limite serveru nebo využitím hodně paměti! Měli by jste ji snížit, pokud to způsobuje problémy!"
+
+#. mymail
+#: classes/settings.class.php:788
+#: classes/settings.class.php:812
+msgid "Not able to connected to %1$s via port %2$s! You may not be able to send mails cause of the locked port %3$s. Please contact your host or choose a different delivery method!"
+msgstr "Není možné se připojit k %1$s  pomocí portu %2$s! Nemusí Vám fungovat odesílání e-mailů  přes port %3$s. Prosím, obraťte se na svého hostitele nebo zvolte jiný způsob odesílání!"
+
+#: classes/notification.class.php:205
+msgid "MyMail Test Email"
+msgstr "Newsletter TEST email"
+
+#: classes/campaigns.class.php:615
+#: classes/campaigns.class.php:625
+msgid "no receivers!"
+msgstr "nejsou příjemci!"
+
+#: views/settings.php:969
+msgid "search for more delivery methods"
+msgstr "hledání dalších metod doručení"
+
+#: views/settings.php:1211
+msgid "Check bounce server every %s minutes for new messages"
+msgstr "Zkontrolovat odraz severu každých %s minut pro nové zprávy"
+
+#: views/settings.php:1219
+msgid "Soft Bounces"
+msgstr "Měkký odraz"
+
+#: views/settings.php:1220
+msgid "Resend soft bounced mails after %s minutes"
+msgstr "Přeposlat znovu maily ve slabém odrazu za %s minut"
+
+#: views/templates.php:101
+#: views/templates.php:124
+#: views/templates.php:199
+#: views/templates.php:203
+msgid "by"
+msgstr "od"
+
+#: views/settings.php:1079
+msgid "Cron is currently running!"
+msgstr "Cron je v procesu!"
+
+#: classes/settings.class.php:311
+msgid "Options have been reseted!"
+msgstr "Nastavení byla resetována!"
+
+#: classes/settings.class.php:611
+msgid "Please change the slug or permalink of %s since it's used by the archive page"
+msgstr "Změňte prosím zkratku nebo odkaz %s použitý ve stránce archívu"
+
+#: views/settings.php:425
+msgid "enable archive function to display your newsletters in a reverse chronological order"
+msgstr "povolení funkce archivace zobrazení Vašeho newsletteru v obráceném chronologickém pořadí"
+
+#: views/settings.php:1075
+msgid "WordPress cron is disabled! Uncomment the %s constant in the wp-config.php or use a real cron instead"
+msgstr "WP cron je vypnutý! Vložte %s do wp-config.php nebo použijte skutečný cron."
+
+#: views/settings.php:1569
+msgid "Do you really like to reset the options? This cannot be undone!"
+msgstr "Opravdu chcete obnovit nastavení? Toto nelze vrátit zpět!"
+
+#: views/settings.php:1569
+msgid "Reset all settings"
+msgstr "Resetovat všechna nastavení"
+
+#: views/manage.php:100
+msgid "Use following meta values"
+msgstr "Použít nasledující meta hodnoty"
+
+#: classes/subscribers.class.php:536
+#: classes/subscribers.class.php:541
+#: classes/subscribers.class.php:544
+#: classes/subscribers.class.php:547
+#: classes/subscribers.class.php:550
+#: classes/subscribers.class.php:556
+#: classes/subscribers.class.php:559
+#: classes/subscribers.class.php:563
+msgid "via"
+msgstr "přes"
+
+#: views/forms/detail.php:413
+msgid "redirect after confirm"
+msgstr "přesměrovat po povrzení"
+
+#: classes/settings.class.php:263
+msgid "Loading"
+msgstr "Nahrávání"
+
+#: views/settings.php:58
+msgid "System Info"
+msgstr "Systémové info"
+
+#: classes/ajax.class.php:766
+msgid "%s unique"
+msgstr "%s unikátní"
+
+#: classes/ajax.class.php:885
+#: classes/campaigns.class.php:3068
+#: classes/forms.table.class.php:134
+#: classes/helper.class.php:405
+#: classes/notification.class.php:358
+#: classes/subscribers.table.class.php:138
+#: classes/templates.class.php:951
+#: classes/templates.class.php:1036
+#: classes/templates.class.php:1043
+#: views/newsletter/details.php:127
+#: views/subscribers/detail.php:52
+#: views/subscribers/detail.php:137
+#: views/subscribers/detail.php:145
+#: views/subscribers/detail.php:149
+msgid "unknown"
+msgstr "neznámo"
+
+#: classes/ajax.class.php:2075
+msgid "Template %s has been uploaded"
+msgstr "Šablona %s byla nahrána"
+
+#: classes/campaigns.class.php:466
+msgid "This Campaign has been paused"
+msgstr "Kampaň je pozastavena"
+
+#: classes/campaigns.class.php:620
+#: classes/campaigns.class.php:635
+msgid "This campaign is based on subscribers timezone and problably will take up to 24 hours"
+msgstr "Tato kampaň je vytvořena pro časové pásmo odběratelů a bude trvat více jak 24 hodin"
+
+#: classes/campaigns.class.php:667
+#: includes/autoresponder.php:10
+#: views/newsletter/delivery.php:327
+msgid "year(s)"
+msgstr "rok(ů)"
+
+#: classes/campaigns.class.php:709
+msgid "based on the users %1$s value"
+msgstr "založeno na uživatelských %1$s hodnotách"
+
+#: classes/campaigns.class.php:852
+#: classes/campaigns.class.php:866
+#: classes/campaigns.class.php:873
+#: classes/campaigns.class.php:888
+#: classes/campaigns.class.php:895
+msgid "%s of sent"
+msgstr "%s odeslaných"
+
+#: classes/campaigns.class.php:869
+#: classes/campaigns.class.php:891
+msgid "%s of opens"
+msgstr "%s otevřených"
+
+#: classes/campaigns.class.php:908
+msgid "%s of totals"
+msgstr "%s celkem"
+
+#: classes/campaigns.class.php:1058
+msgid "loading"
+msgstr "nahrávání"
+
+#: classes/campaigns.class.php:1070
+msgid "Click to edit %s"
+msgstr "Klikněte pro úpravu %s"
+
+#: classes/campaigns.class.php:1103
+msgid "The status of this campaign has changed. Please reload the page or %s"
+msgstr "Stav této kampaně se změnil. Načtěte si prosím stránku znovu, nebo %s"
+
+#: classes/campaigns.class.php:1104
+msgid "click here"
+msgstr "klikněte zde"
+
+#: classes/campaigns.class.php:2645
+msgctxt "segment of all [recipients] from campaign [campaign]"
+msgid "A segment of all %1$s of %2$s"
+msgstr "Část celku %1$s z %2$s"
+
+#: classes/campaigns.class.php:2664
+msgid "ID"
+msgstr "ID"
+
+#: classes/campaigns.class.php:2669
+msgid "Sent date"
+msgstr "Datum odeslání"
+
+#: classes/campaigns.class.php:2670
+msgid "Open date"
+msgstr "Datum otevření"
+
+#: classes/campaigns.class.php:2671
+msgid "Open Count"
+msgstr "Počítadlo otevření"
+
+#: classes/campaigns.class.php:2673
+msgid "Click Count"
+msgstr "Počítadlo kliknutí"
+
+#: classes/campaigns.class.php:2705
+#: views/dashboard.php:23
+msgid "unsubscribes"
+msgstr "odhlášených"
+
+#: classes/campaigns.class.php:2707
+msgid "order by"
+msgstr "řazení podle"
+
+#: classes/campaigns.class.php:2713
+msgid "order direction"
+msgstr "směr řazení"
+
+#: classes/campaigns.class.php:2732
+msgid "has unsubscribed"
+msgstr "bylo odhlášeno"
+
+#: classes/campaigns.class.php:3287
+msgid "Image files"
+msgstr "Soubory obázků"
+
+#: classes/cron.class.php:159
+msgid "The WordPress Cron is disabled! Please remove the %s constant from your wp-config.php file or switch to a real cron job!"
+msgstr "WP Cron je vypnutý! Odstraňte prosím %s ze souboru wp-config.php!"
+
+#: classes/cron.class.php:161
+msgid "Are your campaigns not sending? You may have to check your %1$s"
+msgstr "Neodesílají se Vám kampaně? Zkontrolujte prosím %1$s"
+
+#: classes/cron.class.php:161
+msgid "cron settings"
+msgstr "cron nastavení"
+
+#: classes/form.class.php:436
+#: classes/settings.class.php:113
+#: classes/update.class.php:1086
+msgid "Update Profile"
+msgstr "Aktualizovat profil"
+
+#: classes/form.class.php:679
+msgid "You are already registered"
+msgstr "Již jste registrován(a)"
+
+#: classes/form.class.php:682
+#: classes/form.class.php:690
+msgid "A new confirmation message has been sent"
+msgstr "Nová potvrzovací zpráva byla odeslána."
+
+#: classes/lists.class.php:101
+msgid "%d Lists have been removed"
+msgstr "%d seznamů bylo odstraněno"
+
+#: classes/lists.class.php:112
+msgid "%d Lists with subscribers have been removed"
+msgstr "%d seznamů s přihlášenými bylo odstraněno"
+
+#: classes/lists.class.php:122
+msgid "Subscribers have been subscribed"
+msgstr "Odběratelé byli přihlášeni"
+
+#: classes/lists.class.php:131
+msgid "Subscribers have been unsubscribed"
+msgstr "Odběratelé byli odhlášeni"
+
+#: classes/lists.class.php:188
+#: classes/subscribers.class.php:288
+msgid "%1$s already exists. %2$s"
+msgstr "%1$s již existuje. %2$s"
+
+#: classes/lists.class.php:188
+#: classes/subscribers.class.php:288
+msgid "Edit this user"
+msgstr "Upravit tohoto uživatele"
+
+#: classes/lists.class.php:200
+msgid "List added"
+msgstr "Seznam přidán"
+
+#: classes/lists.class.php:200
+msgid "List saved"
+msgstr "Seznam uložen"
+
+#: classes/lists.class.php:213
+msgid "List %s has been removed"
+msgstr "Seznam %s byl odstraněn"
+
+#: classes/lists.class.php:248
+msgid "Segments"
+msgstr "Segmenty"
+
+#: classes/lists.class.php:249
+msgid "contains all segments"
+msgstr "obsahuje všechny části"
+
+#: classes/lists.class.php:254
+msgid "Segment #%d"
+msgstr "Segment #%d"
+
+#: classes/lists.class.php:262
+msgid "Segment created by %s"
+msgstr "Segment vytvořen %s"
+
+#: classes/lists.table.class.php:12
+msgid "List"
+msgstr "Seznam"
+
+#: classes/forms.table.class.php:27
+#: classes/lists.table.class.php:27
+#: classes/subscribers.table.class.php:30
+msgid "All"
+msgstr "Vše"
+
+#: classes/lists.class.php:43
+#: views/lists/detail.php:82
+msgid "Description"
+msgstr "Popis"
+
+#: classes/lists.class.php:45
+#: classes/manage.class.php:832
+#: views/manage.php:248
+msgid "Updated"
+msgstr "Aktualizováno"
+
+#: classes/lists.class.php:46
+#: classes/manage.class.php:829
+#: views/manage.php:247
+msgid "Added"
+msgstr "Přidáno"
+
+#: classes/lists.table.class.php:109
+msgid "Delete with subscribers"
+msgstr "Smazat s odběrateli"
+
+#: classes/lists.table.class.php:110
+msgid "Subscribe subscribers"
+msgstr "Přihlásit odběratele"
+
+#: classes/lists.table.class.php:111
+msgid "Unsubscribe subscribers"
+msgstr "Odhlásit odběratele"
+
+#: classes/lists.table.class.php:113
+#: classes/subscribers.table.class.php:179
+msgid "Send new Campaign"
+msgstr "Odeslat novou kampaň"
+
+#: classes/manage.class.php:305
+msgid "Signup + Confirm Date"
+msgstr "Přihlášení + datum potvrzení"
+
+#: classes/manage.class.php:309
+msgid "Signup IP Address"
+msgstr "Přihlásit IP adresu"
+
+#: classes/manage.class.php:310
+msgid "Confirm IP Address"
+msgstr "Potvrdit IP adresu"
+
+#: classes/manage.class.php:311
+msgid "Confirm + Signup IP Address"
+msgstr "Potvrdit + přihlásit IP adresu"
+
+#: classes/manage.class.php:312
+msgid "all IP Addresses"
+msgstr "všechny IP adresy"
+
+#: classes/manage.class.php:316
+msgid "Language"
+msgstr "Jazyk"
+
+#: classes/manage.class.php:320
+msgid "Define which column represents which field"
+msgstr "Určete, který sloupec představuje které pole"
+
+#: classes/manage.class.php:329
+msgid "Basic"
+msgstr "Základní"
+
+#: classes/manage.class.php:344
+msgid "no Custom Fields defined!"
+msgstr "žádná vlastní pole nejsou definována!"
+
+#: classes/manage.class.php:347
+msgid "Time Options"
+msgstr "Časové nastavení"
+
+#: classes/manage.class.php:353
+msgid "IP Options"
+msgstr "IP nastavení"
+
+#: classes/manage.class.php:359
+msgid "Other Meta"
+msgstr "Ostatní META"
+
+#: classes/manage.class.php:380
+msgid "%s contacts are hidden"
+msgstr "%s kontakty jsou skryty"
+
+#: classes/manage.class.php:393
+msgid "Import %s contacts"
+msgstr "Import %s kontaktů"
+
+#: classes/manage.class.php:393
+msgid "Please make sure you have the permission to import these contacts!"
+msgstr "Musíte mít import kontatků od nich povolený, myslete na to!"
+
+#: classes/manage.class.php:407
+msgid "ignore or as defined above"
+msgstr "ignorovat nebo definovat výše"
+
+#: classes/manage.class.php:407
+msgid "Use following numbers for different statuses"
+msgstr "Použít následující čísla pro odlišné statusy"
+
+#: classes/manage.class.php:412
+#: views/subscribers/detail.php:128
+msgid "choosing \"pending\" as status will force a confirmation message to the subscriber"
+msgstr "vybráním \"čekání\" jako statusu, donutí odběratele potvrdit zprávu"
+
+#: classes/manage.class.php:415
+#: views/forms/detail.php:286
+msgid "Other"
+msgstr "Ostatní"
+
+#: classes/manage.class.php:418
+msgid "low memory usage (slower)"
+msgstr "málo paměti (pomalé)"
+
+#: classes/manage.class.php:637
+msgid "%1$s of %2$s contacts imported"
+msgstr "%1$s ze %2$s kontaktů importováno"
+
+#: classes/manage.class.php:805
+#: views/manage.php:237
+msgid "Hash"
+msgstr "Hash"
+
+#: classes/manage.class.php:1120
+msgid "%s subscribers removed"
+msgstr "%s odběratelů odstraněno"
+
+#: classes/mymail.class.php:534
+#: classes/mymail.class.php:563
+msgid "Add Ons"
+msgstr "Doplňky ke koupi"
+
+#: classes/mymail.class.php:551
+msgid "Return to Add Ons Page"
+msgstr "Zpět na doplňky"
+
+#: classes/mymail.class.php:973
+msgid "Your MyMail Newsletter Plugin is ready!"
+msgstr "Váš newsletter plugin je připraven!"
+
+#: classes/queue.class.php:862
+msgid "Notification %1$s has thrown an error: %2$s"
+msgstr "Oznámení %1$s mělo chybu: %2$s"
+
+#: classes/queue.class.php:873
+msgid "Autoresponder %1$s has caused sending error: %2$s"
+msgstr "Auto-odpověď  %1$s způsobila chybu odesílání: %2$s"
+
+#: classes/settings.class.php:107
+msgid "Profile updated!"
+msgstr "Profil uložen!"
+
+#: classes/settings.class.php:118
+#: classes/update.class.php:1088
+msgid "update profile"
+msgstr "aktualizovat profil"
+
+#: classes/settings.class.php:269
+msgid "You are about to overwrite all subscriber data with the matching WordPress User data. Continue?"
+msgstr "Chcete přepsat všechny odběratele se záznamy z WP. Pokračovat?"
+
+#: classes/settings.class.php:270
+msgid "You are about to overwrite all WordPress User data with the matching subscriber data. Continue?"
+msgstr "Chcete přepsat všechny odběratele WP se záznamy odběratelů. Pokračovat?"
+
+#: classes/subscribers.class.php:153
+msgid "%d Subscribers have been removed"
+msgstr "%d odběratelů bylo odstraněno"
+
+#: classes/subscribers.class.php:172
+msgid "%d Subscribers have been unsubscribed"
+msgstr "%d odběratelů bylo odhlášeno"
+
+#: classes/subscribers.class.php:164
+msgid "%d Subscribers have been subscribed"
+msgstr "%d odběratelů bylo přihlášeno k odběru"
+
+#: classes/subscribers.class.php:190
+msgid "%d Subscribers have been assigned to a new list"
+msgstr "%d odběratelů bylo připojeno do nového seznamu"
+
+#: classes/subscribers.class.php:244
+#: classes/subscribers.class.php:306
+msgid "Subscriber added"
+msgstr "Odběratel přidán"
+
+#: classes/subscribers.class.php:306
+msgid "Subscriber saved"
+msgstr "Odběratel uložen"
+
+#: classes/subscribers.class.php:323
+msgid "Subscriber %s has been removed"
+msgstr "Odběratel %s byl odstraněn"
+
+#: classes/subscribers.class.php:789
+msgid "User does not exist!"
+msgstr "Uživatel neexistuje!"
+
+#: classes/subscribers.class.php:1659
+#: classes/subscribers.class.php:1660
+msgid "%d times"
+msgstr "%d krát"
+
+#: classes/subscribers.class.php:1663
+msgid "with %s"
+msgstr "s %s"
+
+#: classes/subscribers.class.php:1672
+msgid "%s soft bounce"
+msgid_plural "%s soft bounces"
+msgstr[0] "%s měkký odraz"
+msgstr[1] "%s měkké odrazy"
+msgstr[2] "%s měkkých odrazů"
+
+#: classes/subscribers.class.php:1672
+msgid "Hard bounced at %s"
+msgstr "Těžký odraz na %s"
+
+#: classes/subscribers.class.php:1977
+#: classes/subscribers.table.class.php:195
+msgid "pending"
+msgstr "ve frontě"
+
+#: classes/subscribers.class.php:122
+msgid "emails"
+msgstr "emaily"
+
+#: classes/templates.class.php:41
+#: views/templates.php:11
+msgid "%d Update available"
+msgid_plural "%d Updates available"
+msgstr[0] "%d Update k dispozici"
+msgstr[1] "%d Updaty k dispozici"
+msgstr[2] "%d Updatů k dispozici"
+
+#: classes/templates.class.php:97
+msgid "Unable to unzip template"
+msgstr "Nelze rozbalit šablonu"
+
+#: classes/templates.class.php:124
+msgid "Unable to save template"
+msgstr "Nelze uložit šablonu"
+
+#: classes/templates.class.php:136
+msgid "Template %s already exists!"
+msgstr "šablona %s již existuje!"
+
+#: classes/templates.class.php:177
+msgid "The header of this template files is missing or corrupt"
+msgstr "Záhlaví (header) šablony chybý nebo je poškozený"
+
+#: classes/templates.class.php:196
+msgid "This is not a valid MyMail template ZIP"
+msgstr "Toto není Newsletter šablona v ZIP"
+
+#: classes/templates.class.php:420
+msgid "uploading zip file %s"
+msgstr "uploadování zip souboru %s"
+
+#: classes/templates.class.php:421
+msgid "Please enter a valid Licensecode!"
+msgstr "Napište licenční kód!"
+
+#: classes/templates.class.php:516
+msgid "Cannot delete the default template %s"
+msgstr "Nelze smazat výchozí šablonu %s"
+
+#: classes/templates.class.php:518
+msgid "Template %s has been deleted"
+msgstr "Šablona %s byla odstraněna"
+
+#: classes/templates.class.php:522
+msgid "Template %s has not been deleted"
+msgstr "Šablona %s nebyla odstraněna"
+
+#: classes/templates.class.php:548
+msgid "File does not exist. Please contact %s for help!"
+msgstr "Soubor neexistuje. Prosím kontaktujte %s pro pomoc!"
+
+#: classes/templates.class.php:549
+#: classes/templates.class.php:558
+msgid "There was an error: %s"
+msgstr "Zde byla chyba: %s"
+
+#: classes/templates.class.php:1186
+msgid "MyMail Template ZIP file"
+msgstr "Newsletter šablona v ZIPu"
+
+#: classes/templates.class.php:1202
+msgid "Drop your ZIP file here to upload new template"
+msgstr "Přesuňte Váš ZIP soubor sem a nahrajte novou šablonu"
+
+#: classes/update.class.php:1085
+msgid "Profile Updated!"
+msgstr "Profil aktualizován!"
+
+#: includes/autoresponder.php:31
+msgid "a specific user time"
+msgstr "specifikace uživatelského času"
+
+#: includes/autoresponder.php:39
+msgid "a specific action hook"
+msgstr "specifikovat akci přiháknutí"
+
+#: includes/capability.php:65
+msgid "change text version"
+msgstr "změnit textovou verzi"
+
+#: includes/capability.php:76
+msgid "add subscribers"
+msgstr "přidat odběratele"
+
+#: includes/capability.php:122
+msgid "bulk delete subscribers"
+msgstr "hromadné smazání uživatelů"
+
+#: includes/capability.php:127
+msgid "add lists"
+msgstr "přidat seznamy"
+
+#: views/addons.php:67
+msgid "Deactivate"
+msgstr "Deaktivovat"
+
+#: views/addons.php:69
+#: views/templates.php:114
+#: views/templates.php:241
+msgid "Activate"
+msgstr "Aktivovat"
+
+#: views/addons.php:73
+msgid "Download from wordpress.org"
+msgstr "Stáhnout z WP"
+
+#: views/addons.php:79
+msgid "Get this Add On"
+msgstr "Stáhnout doplněk"
+
+#: views/lists/detail.php:14
+msgid "You don't have the right permission to add new lists"
+msgstr "Nemáte oprávnění přidat nové seznamy"
+
+#: views/lists/detail.php:59
+msgid "delete List"
+msgstr "smazat seznam"
+
+#: views/lists/detail.php:59
+msgid "Do you really like to remove this list?"
+msgstr "Opravdu chcete smazat tento seznam?"
+
+#: views/lists/detail.php:62
+msgid "delete List with Subscribers"
+msgstr "smazat seznam s odběrateli"
+
+#: views/lists/detail.php:62
+msgid "Do you really like to remove this list with all subscribers?"
+msgstr "Opravdu chcete odstranit tento seznam se všemi odběrateli?"
+
+#: views/lists/detail.php:43
+msgid "Add new List"
+msgstr "Přidat nový seznam"
+
+#: views/lists/detail.php:48
+msgid "Edit List %s"
+msgstr "Upravit seznam %s"
+
+#: classes/forms.table.class.php:40
+#: classes/lists.table.class.php:35
+#: classes/subscribers.table.class.php:65
+#: views/forms/detail.php:76
+#: views/forms/overview.php:5
+#: views/lists/detail.php:51
+#: views/lists/overview.php:5
+#: views/subscribers/detail.php:56
+#: views/subscribers/overview.php:5
+msgid "add New"
+msgstr "přidat Nový"
+
+#: views/lists/detail.php:76
+msgid "Name of the List"
+msgstr "Název seznamu"
+
+#: views/lists/detail.php:95
+msgid "%s Subscriber"
+msgid_plural "%s Subscribers"
+msgstr[0] "%s odběratel"
+msgstr[1] "%s odběratele"
+msgstr[2] "%s odběratelů"
+
+#: views/lists/detail.php:120
+msgid "Mail sent"
+msgid_plural "Mails sent"
+msgstr[0] "Mail odeslán"
+msgstr[1] "Maily odeslány"
+msgstr[2] "Mailů odesláno"
+
+#: views/lists/detail.php:143
+#: views/subscribers/detail.php:349
+msgid "Activity"
+msgstr "Aktivity"
+
+#: views/lists/detail.php:146
+#: views/subscribers/detail.php:359
+msgid "Action"
+msgstr "Akce"
+
+#: views/lists/detail.php:156
+msgid "Campaign %s has start sending"
+msgstr "Kampaň %s byla zahájena odesíláním"
+
+#: views/lists/detail.php:160
+msgid "First open in Campaign %s"
+msgstr "První otevřená kampaň %s"
+
+#: views/lists/detail.php:164
+msgid "%1$s in Campaign %2$s clicked"
+msgstr "%1$s v kampani %2$s kliknuto"
+
+#: views/lists/detail.php:168
+msgid "First subscription canceled"
+msgstr "První předplatné zrušeno"
+
+#: views/lists/detail.php:172
+#: views/subscribers/detail.php:385
+msgid "Soft bounce (%d tries)"
+msgstr "Slabý odraz (%d pokusů)"
+
+#: views/lists/detail.php:176
+#: views/subscribers/detail.php:390
+msgid "Hard bounce"
+msgstr "Těžký odraz"
+
+#: views/lists/detail.php:198
+#: views/subscribers/detail.php:428
+msgid "no activity yet"
+msgstr "bez aktivity"
+
+#: views/manage.php:48
+msgid "Copy and paste from your spreadsheet app"
+msgstr "Kopírovat a vložit z Vaší tabulky"
+
+#: views/manage.php:331
+msgid "remove all actions from affected users"
+msgstr "odstranit všechny akce z poškozených uživatelů"
+
+#: views/newsletter/delivery.php:34
+msgid "Server time: %s %s"
+msgstr "Čas serveru: %s %s"
+
+#: views/newsletter/delivery.php:57
+#: views/newsletter/delivery.php:181
+#: views/newsletter/delivery.php:233
+#: views/newsletter/delivery.php:363
+msgid "Send this campaign based on the subscribers timezone if known"
+msgstr "Odeslat tuto kampaň založenou na známém časovém pásmu příjemců."
+
+#: views/newsletter/delivery.php:57
+#: views/newsletter/delivery.php:181
+#: views/newsletter/delivery.php:233
+#: views/newsletter/delivery.php:363
+msgid "Use Subscribers timezone"
+msgstr "Použít časová pásma příjemců"
+
+#: views/newsletter/delivery.php:149
+msgctxt "send campaign \"on\" (date) \"at\" (time)"
+msgid "%1$s @ %2$s"
+msgstr "%1$s @ %2$s"
+
+#: views/newsletter/delivery.php:412
+msgid "Hook used to trigger campaign"
+msgstr "Přiháknout uživatele do kampaně"
+
+#: views/newsletter/delivery.php:412
+msgid "use `do_action(\"hook_name\")`, or `do_action(\"hook_name\", $subscriber_id)` to trigger this campaign"
+msgstr "použijte  `do_action(\"hook_name\")`, nebo  `do_action(\"hook_name\", $subscriber_id)` pro spuštění kampaně"
+
+#: views/newsletter/delivery.php:416
+msgid "Priority"
+msgstr "Priorita"
+
+#: views/newsletter/delivery.php:418
+msgid "High"
+msgstr "Vysoká"
+
+#: views/newsletter/delivery.php:419
+msgid "Normal"
+msgstr "Normální"
+
+#: views/newsletter/delivery.php:420
+msgid "Low"
+msgstr "Nízká"
+
+#: views/newsletter/delivery.php:368
+#: views/newsletter/delivery.php:424
+msgid "send campaign only once"
+msgstr "odeslat kampaň pouze"
+
+#: views/newsletter/delivery.php:468
+msgid "finished in approx. %s"
+msgstr "dokončeno z části. %s"
+
+#: views/newsletter/details.php:64
+msgid "took %s"
+msgstr "trvalo %s"
+
+#: views/newsletter/details.php:100
+#: views/newsletter/details.php:107
+#: views/newsletter/details.php:114
+#: views/newsletter/details.php:129
+#: views/newsletter/details.php:160
+msgid "details"
+msgstr "detaily"
+
+#: views/newsletter/details.php:120
+msgid "Desktop"
+msgstr "Plocha"
+
+#: views/newsletter/details.php:121
+msgid "Mobile"
+msgstr "Mobil"
+
+#: views/newsletter/details.php:122
+msgid "Web Client"
+msgstr "Webový klient"
+
+#: views/newsletter/details.php:125
+msgid "Environment"
+msgstr "Prostředí"
+
+#: views/newsletter/details.php:148
+msgid "Geo Location"
+msgstr "Geo lokace"
+
+#: views/newsletter/receivers.php:75
+msgid "User Role"
+msgstr "Role uživatele"
+
+#: views/newsletter/receivers.php:76
+msgid "User Level"
+msgstr "Úroveň uživatele"
+
+#: classes/campaigns.class.php:774
+#: views/newsletter/editbar.php:30
+#: views/newsletter/receivers.php:86
+#: views/newsletter/receivers.php:208
+msgid "is greater"
+msgstr "je výborný"
+
+#: classes/campaigns.class.php:775
+#: views/newsletter/editbar.php:31
+#: views/newsletter/receivers.php:87
+#: views/newsletter/receivers.php:209
+msgid "is smaller"
+msgstr "je menší"
+
+#: views/newsletter/receivers.php:88
+#: views/newsletter/receivers.php:210
+msgid "is greater or equal"
+msgstr "je výborný a průměrný"
+
+#: views/newsletter/receivers.php:89
+#: views/newsletter/receivers.php:211
+msgid "is smaller or equal"
+msgstr "je menší až průměrný"
+
+#: views/newsletter/receivers.php:113
+msgid "Meta Data"
+msgstr "Data meta"
+
+#: views/newsletter/receivers.php:118
+msgid "WordPress User Meta"
+msgstr "WP uživatelská meta"
+
+#: views/newsletter/receivers.php:149
+msgid "Any List"
+msgstr "Každý seznam"
+
+#: views/newsletter/submit.php:39
+msgid "protect the webversion with a password"
+msgstr "chráněno webverzí s heslem"
+
+#: views/newsletter/submit.php:43
+msgid "password protected"
+msgstr "heslem chráněno"
+
+#: views/newsletter/submit.php:81
+msgid "Confirm"
+msgstr "Potvdit"
+
+#: views/newsletter/optionbar.php:12
+msgid "toggle HTML/Plain-Text view"
+msgstr "HTML/Textové zobrazení"
+
+#: views/newsletter/editbar.php:146
+msgid "Size"
+msgstr "Velikost"
+
+#: views/newsletter/editbar.php:154
+msgid "search for images"
+msgstr "hledání obrázků"
+
+#: views/newsletter/editbar.php:203
+msgid "search for posts"
+msgstr "hledání příspěvků"
+
+#: views/newsletter/template.php:49
+msgid "Create the plain text version based on the HTML version of the campaign"
+msgstr "Vytvořte čistý text založený na HTML verzi kampaně"
+
+#: views/newsletter/template.php:49
+msgid "get text from HTML version"
+msgstr "text z HTML verze"
+
+#: views/settings.php:121
+msgid "Delivery by Time Zone"
+msgstr "Doručit podle časové zóny"
+
+#: views/settings.php:122
+msgid "Send Campaigns based on the subscribers timezone if known"
+msgstr "Odeslat kampaně podle časového pásma příjemců, pokud je známé."
+
+#: views/settings.php:586
+msgid "Sync WordPress Users"
+msgstr "Synchronizace WP uživatelů"
+
+#: views/settings.php:588
+msgid "Sync WordPress Users with Subscribers"
+msgstr "Synchronizace WP uživatelů s odběrateli"
+
+#: views/settings.php:589
+msgid "keep WordPress User data and Subscriber data synchronized. Only affects existing Subscribers"
+msgstr "uchovávat uživatelská data WP a odběratelů při synchronizaci. Ovlivňuje pouze stávající odběratele"
+
+#: views/settings.php:596
+msgid "Meta Data List"
+msgstr "Seznam meta dat"
+
+#: views/settings.php:613
+msgid "Meta Fields"
+msgstr "Meta pole"
+
+#: views/settings.php:619
+msgid "%s syncs with %s"
+msgstr "%s synchronizováno s %s"
+
+#: views/settings.php:631
+msgid "manually sync all existing users based on the above settings. (save required)"
+msgstr "manuální synchronizace pro všechny uživatele s následujícím nastavením. (nutné uložit)"
+
+#: views/settings.php:773
+msgid "Profile Update"
+msgstr "Profil aktualizován"
+
+#: views/settings.php:787
+msgid "Profile Button"
+msgstr "Profil tlačítko"
+
+#: views/settings.php:799
+msgid "Profile Link"
+msgstr "Profil odkaz"
+
+#: views/settings.php:1093
+msgid "You can keep a browser window open with following URL"
+msgstr "Můžete zachovat prohlížeč otevřený s následující URL"
+
+#: views/subscribers/detail.php:16
+msgid "You don't have the right permission to add new subscribers"
+msgstr "Nemáte oprávnění přidávat nové odběratele"
+
+#: views/subscribers/detail.php:65
+msgid "delete Subscriber"
+msgstr "smazat odběratele"
+
+#: views/subscribers/detail.php:65
+msgid "Do you really like to remove this subscriber?"
+msgstr "Opravdu chcete odstranit tohoto odběratele?"
+
+#: views/subscribers/detail.php:48
+msgid "Add new Subscriber"
+msgstr "Přidat nového odběratele"
+
+#: views/subscribers/detail.php:50
+msgid "Edit %s"
+msgstr "Upravit %s"
+
+#: views/subscribers/detail.php:58
+msgid "goto WordPress User profile"
+msgstr "jít na WP profil"
+
+#: views/subscribers/detail.php:135
+msgid "subscribed at"
+msgstr "přihlášen jako"
+
+#: classes/subscribers.class.php:536
+msgid "import on %s"
+msgstr "import na %s"
+
+#: classes/subscribers.class.php:541
+msgid "WP user on %s"
+msgstr "WP user on %s"
+
+#: classes/subscribers.class.php:544
+msgid "Backend on %s"
+msgstr "Zobrazení na %s"
+
+#: classes/subscribers.class.php:547
+msgid "an extern form on %s"
+msgstr "na externí formulář %s"
+
+#: classes/subscribers.class.php:550
+msgid "Homepage on %s"
+msgstr "Hlavní stránka na %s"
+
+#: views/subscribers/detail.php:141
+msgid "more"
+msgstr "více"
+
+#: views/subscribers/detail.php:143
+msgid "confirmed at"
+msgstr "potvrzeno na"
+
+#: views/subscribers/detail.php:147
+msgid "latest known IP"
+msgstr "poslední známá IP"
+
+#: views/subscribers/detail.php:154
+msgid "latest updated"
+msgstr "naposledy aktualizováno"
+
+#: views/subscribers/detail.php:173
+msgid "nothing selected"
+msgstr "nic nevybráno"
+
+#: classes/notification.class.php:486
+#: views/subscribers/detail.php:199
+msgid "yes"
+msgstr "ano"
+
+#: classes/notification.class.php:486
+#: views/subscribers/detail.php:199
+msgid "no"
+msgstr "ne"
+
+#: views/subscribers/detail.php:246
+msgid "User has not been assigned to a list"
+msgstr "Uživatel nebyl připojen k seznamu"
+
+#: views/subscribers/detail.php:267
+#: views/subscribers/detail.php:275
+msgid "from"
+msgstr "z"
+
+#: views/subscribers/detail.php:300
+msgid "Campaign sent"
+msgid_plural "Campaigns sent"
+msgstr[0] "Kampaň odeslána"
+msgstr[1] "Kampaně odeslány"
+msgstr[2] "Kampaní odesláno"
+
+#: views/subscribers/detail.php:325
+msgid "Most popular client"
+msgstr "Nejpopulárnější klient"
+
+#: views/subscribers/detail.php:328
+msgid "Other used clients"
+msgstr "Ostatní používané klienty"
+
+#: views/subscribers/detail.php:352
+msgid "%1$s needs about %2$s to open a campaign"
+msgstr "%1$s potřebujete okolo %2$s k otevření kampaně"
+
+#: views/subscribers/detail.php:352
+msgid "User"
+msgstr "Uživatel"
+
+#: views/subscribers/detail.php:352
+msgid "and %1$s to click a link"
+msgstr "a %1$s ke kliknutí na odkaz"
+
+#: views/subscribers/detail.php:354
+msgid "User has never opened a campaign"
+msgstr "Uživatel nikdy neotevřel kampaň"
+
+#: classes/subscribers.class.php:358
+#: views/subscribers/detail.php:369
+msgid "Campaign %s has been sent"
+msgstr "Kampaň %s byla odeslána"
+
+#: views/subscribers/detail.php:373
+msgid "opened Campaign %s"
+msgstr "otevřena kampaň %s"
+
+#: views/subscribers/detail.php:377
+msgid "clicked %1$s in Campaign %2$s"
+msgstr "kliknuto %1$s v kampani %2$s"
+
+#: views/subscribers/detail.php:377
+msgid "a link"
+msgstr "odkaz"
+
+#: views/subscribers/detail.php:381
+msgid "unsubscribed your newsletter"
+msgstr "odhlášeno z newsletteru"
+
+#: views/subscribers/overview.php:8
+msgid "import"
+msgstr "import"
+
+#: views/subscribers/overview.php:11
+msgid "export"
+msgstr "export"
+
+#: views/forms/overview.php:8
+#: views/subscribers/overview.php:14
+msgid "Search result for %s"
+msgstr "Výsledky hledání %s"
+
+#: views/forms/detail.php:326
+#: views/subscribers/user_edit.php:11
+msgid "Profile"
+msgstr "Profil"
+
+#: views/subscribers/user_edit.php:14
+msgid "Edit my MyMail Profile"
+msgstr "Upravit můj Newsletter profil"
+
+#: views/subscribers/user_edit.php:14
+msgid "Edit Users MyMail Profile"
+msgstr "Upravit prodil uživatele Newsletteru"
+
+#: views/subscribers/user_edit.php:28
+msgid "Create"
+msgstr "Vytvořit"
+
+#: views/subscribers/user_edit.php:31
+msgid "Create MyMail Subscriber"
+msgstr "Vytvořit Newsletter příjemce"
+
+#: views/templates.php:114
+#: views/templates.php:225
+#: views/templates.php:241
+msgid "activate with licensecode"
+msgstr "aktivovat s licenčním kódem"
+
+#: views/templates.php:119
+#: views/templates.php:228
+msgid "update template"
+msgstr "aktualizovat šablonu"
+
+#: views/templates.php:152
+msgid "This file is not writeable! Please change the file permission"
+msgstr "Soubor nelze zapisovat! Zkontrolujte oprávnění"
+
+#: views/templates.php:64
+#: views/templates.php:177
+msgid "more Templates"
+msgstr "Další šablony"
+
+#: views/templates.php:177
+msgid "back to overview"
+msgstr "zpět na přehled"
+
+#: views/templates.php:225
+msgid "Change Code"
+msgstr "Změnit kód"
+
+#: views/templates.php:230
+msgid "download template"
+msgstr "stáhnout šablonu"
+
+#: views/templates.php:228
+#: views/templates.php:230
+#: views/templates.php:238
+#: views/templates.php:245
+msgid "Download"
+msgstr "Download"
+
+#: classes/templates.class.php:448
+#: views/templates.php:247
+msgid "get this template"
+msgstr "Stáhnout šablonu"
+
+#: classes/subscribers.class.php:98
+msgid "this email address already exists!"
+msgstr "tato emailová adresa již existuje!"
+
+#: classes/subscribers.class.php:794
+msgid "Subscriber already exists"
+msgstr "Odběratel již existuje"
+
+#: views/settings.php:596
+msgid "select the custom field which should sync with a certain meta field"
+msgstr "vyberte vlastní pole které chcete synchronizovat s meta polema"
+
+#: classes/campaigns.class.php:715
+#: views/newsletter/delivery.php:381
+msgid "has been sent"
+msgstr "byl odeslán"
+
+#: classes/campaigns.class.php:716
+#: views/newsletter/delivery.php:382
+msgid "has been opened"
+msgstr "byl otevřen"
+
+#: classes/campaigns.class.php:717
+#: views/newsletter/delivery.php:383
+msgid "has been clicked"
+msgstr "byl prokliknut"
+
+#: classes/campaigns.class.php:722
+msgid "Campaign does not exist"
+msgstr "Kampaň neexistuje"
+
+#: classes/campaigns.class.php:3299
+msgid "ready!"
+msgstr "připraveno!"
+
+#: classes/campaigns.class.php:3300
+msgid "error!"
+msgstr "chyba!"
+
+#: classes/campaigns.class.php:3301
+msgid "An error occurs while uploading"
+msgstr "Chyba během přenosu"
+
+#: classes/campaigns.class.php:3302
+msgid "Unsupported file format"
+msgstr "Nepodporovaný formát souboru"
+
+#: classes/placeholder.class.php:231
+msgid "Share this on %s"
+msgstr "Sdílet na %s"
+
+#: views/newsletter/delivery.php:407
+msgid "No campaigns available"
+msgstr "Žádná kampaň není k dispozici"
+
+#: views/newsletter/details.php:69
+msgid "no preheader"
+msgstr "bez předzáhlaví"
+
+#: views/settings.php:964
+msgid "You are currently sending with the %s delivery method"
+msgstr "Momentálně odesíláte s %s doručovací metodou"
+
+#: views/settings.php:1161
+msgid "Do you really like to reset all capabilities? This cannot be undone!"
+msgstr "Chcete opravdu resetovat všechny nastavení? Toto nelze vrátit zpět!"
+
+#: views/settings.php:1161
+msgid "Reset all capabilities"
+msgstr "Resetovat všechny funkce"
+
+#: views/subscribers/detail.php:406
+msgid "campaign deleted"
+msgstr "kampaň smazána"
+
+#: views/subscribers/detail.php:408
+msgid "Do you really like to resend campaign %1$s to %2$s?"
+msgstr "Chcete opravdu odeslat znovu kampaň %1$s na %2$s?"
+
+#: views/subscribers/detail.php:409
+msgid "resend this campaign"
+msgstr "znovu rozeslat kampaň"
+
+#: classes/subscribers.class.php:1667
+msgctxt "in [city], [country]"
+msgid "in %s, %s"
+msgstr "v %s, %s"
+
+#: classes/queue.class.php:772
+msgid "timeout reached"
+msgstr "timeout překročen"
+
+#: classes/queue.class.php:774
+msgid "MyMail is not able to send your campaign cause of a server timeout. Please increase the %1$s on the %2$s"
+msgstr "Newsletter nemůže odeslat Vaší kampaň, protože server neodpovídá dostatečně rychle. Prosím zvyšte %1$s na %2$s"
+
+#: classes/queue.class.php:774
+#: views/settings.php:936
+msgid "Max. Execution Time"
+msgstr "Max. doba spuštění"
+
+#: classes/queue.class.php:774
+msgid "settings page"
+msgstr "nastavení stránky"
+
+#: includes/autoresponder.php:35
+msgid "a specific campaign"
+msgstr "specifikovat kampaň"
+
+#: views/settings.php:141
+msgid "Auto Update"
+msgstr "Auto aktualizace"
+
+#: views/settings.php:146
+msgid "enabled"
+msgstr "povoleno"
+
+#: views/settings.php:147
+msgid "disabled"
+msgstr "zakázáno"
+
+#: views/settings.php:148
+msgid "only minor updates"
+msgstr "pouze důležité"
+
+#: views/settings.php:937
+msgid "define a maximum execution time to prevent server timeouts. If set to zero, no time limit is imposed."
+msgstr "definovat maximální dobu na provedení, aby se zabránilo chybě serveru pro časové limity. Pokud je nastavena na nulu, žádný časový limit není uložen."
+
+#: includes/capability.php:112
+msgid "import WordPress Users"
+msgstr "importovat WP uživatele"
+
+#: views/newsletter/editbar.php:102
+msgid "Link Button"
+msgstr "Odkaz tlačítka"
+
+#: views/settings.php:1551
+msgid "Please check out %s if you have problems with the plugin"
+msgstr "Zkontrolujte prosím %s Newsletter plugin, jestli nemáte problémy"
+
+#: views/settings.php:1551
+msgid "Support Page"
+msgstr "Stránka podpory"
+
+#: classes/lists.table.class.php:33
+msgid "No list found"
+msgstr ""
+
+#: classes/manage.class.php:416
+msgid "Use a signup date if not defined"
+msgstr ""
+
+#: classes/manage.class.php:417
+msgid "Some Auto responder require a signup date. Define it here if it is not set or missing"
+msgstr ""
+
+#: classes/queue.class.php:882
+msgid "Campaign %1$s has some delay cause of a sending error: %2$s"
+msgstr ""
+
+#: classes/subscribers.class.php:199
+msgid "Confirmations sent to %d pending subscribers"
+msgstr ""
+
+#: classes/subscribers.class.php:210
+msgid "%d Subscribers added to list %s"
+msgstr ""
+
+#: classes/subscribers.class.php:217
+msgid "%d Subscribers removed from list %s"
+msgstr ""
+
+#: classes/subscribers.class.php:336
+msgid "Confirmation has been sent"
+msgstr ""
+
+#: classes/subscribers.table.class.php:199
+msgid "change status"
+msgstr ""
+
+#: classes/subscribers.table.class.php:215
+msgid "add to list"
+msgstr ""
+
+#: classes/subscribers.table.class.php:215
+msgid "remove from list"
+msgstr ""
+
+#: views/settings.php:371
+msgid "Homepage slugs"
+msgstr ""
+
+#: views/settings.php:374
+msgid "Confirm Slug"
+msgstr ""
+
+#: views/settings.php:384
+msgid "Subscribe Slug"
+msgstr ""
+
+#: views/settings.php:394
+msgid "Unsubscribe Slug"
+msgstr ""
+
+#: views/settings.php:404
+msgid "Profile Slug"
+msgstr ""
+
+#: views/settings.php:925
+msgid "Pause campaigns"
+msgstr ""
+
+#: views/settings.php:926
+msgid "pause campaigns if an error occurs"
+msgstr ""
+
+#: views/settings.php:926
+msgid "MyMail will change the status to \"pause\" if an error occur otherwise it tries to finish the campaign"
+msgstr ""
+
+#: views/subscribers/detail.php:9
+msgid "This user does not exist or has been deleted!"
+msgstr ""
+
+#: views/subscribers/detail.php:62
+msgid "Do you really like to resend the confirmation?"
+msgstr ""
+
+#: views/subscribers/detail.php:52
+msgid "This subscriber has caused a sending error: %s"
+msgstr ""
+
+#: classes/subscribers.class.php:556
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: classes/subscribers.class.php:556
+msgid "Comment"
+msgstr ""
+
+#: views/templates.php:101
+msgid "Screenshot"
+msgstr ""
+
+#: classes/settings.class.php:673
+msgid "You can only have up to %d custom fields! Following fields have been removed: %s"
+msgstr ""
+
+#: classes/ajax.class.php:1169
+#: classes/ajax.class.php:1213
+#: classes/ajax.class.php:1263
+msgid "load more entries (%s left)"
+msgstr ""
+
+#: classes/forms.class.php:393
+#: classes/subscribers.class.php:150
+msgid "There was an error while deleting subscribers: %s"
+msgstr ""
+
+#: classes/subscribers.class.php:180
+msgid "%d Subscribers have been set to pending"
+msgstr ""
+
+#: views/settings.php:156
+msgid "auto updates are recommended for important fixes."
+msgstr ""
+
+#: views/settings.php:161
+msgid "System Mails"
+msgstr ""
+
+#: views/settings.php:162
+msgid "decide how MyMail uses the wp_mail function"
+msgstr ""
+
+#: views/settings.php:164
+msgid "Do not use MyMail for outgoing WordPress mails"
+msgstr ""
+
+#: views/settings.php:165
+msgid "Use MyMail for all outgoing WordPress mails"
+msgstr ""
+
+#: views/settings.php:166
+msgid "Use only the template for all outgoing WordPress mails"
+msgstr ""
+
+#: views/settings.php:682
+#: views/settings.php:713
+#: views/settings.php:736
+msgid "send confirmation (double-opt-in)"
+msgstr ""
+
+#: classes/manage.class.php:718
+msgid "Not able to create file in %s. Please make sure WordPress can write files to your filesystem!"
+msgstr ""
+
+#: classes/templates.class.php:418
+msgid "Do you really like to remove file %s from template %s?"
+msgstr ""
+
+#: views/settings.php:645
+msgid "Delete Subscriber"
+msgstr ""
+
+#: views/settings.php:647
+msgid "Delete Subscriber if the WordPress User gets deleted"
+msgstr ""
+
+#: views/settings.php:743
+msgid "only with these user roles:"
+msgstr ""
+
+#. mymail
+#: classes/lists.class.php:292
+msgid "List failed verification"
+msgstr ""
+
+#. mymail
+#: classes/subscribers.class.php:647
+msgid "Subscriber failed verification"
+msgstr ""
+
+#. mymail
+#: views/newsletter/delivery.php:353
+msgid "No custom date fields found!"
+msgstr ""
+
+#. mymail
+#: views/newsletter/delivery.php:355
+msgid "add new fields"
+msgstr ""
+
+#. mymail
+#: views/newsletter/receivers.php:34
+msgid "List doesn't matter"
+msgstr ""
+
+#. mymail
+#: classes/ajax.class.php:618
+msgid "Check your console for more info."
+msgstr ""
+
+#. mymail
+#: classes/campaigns.class.php:143
+msgid "Filter Newsletter list"
+msgstr ""
+
+#. mymail
+#: classes/campaigns.class.php:144
+msgid "Newsletter list navigation"
+msgstr ""
+
+#. mymail
+#: classes/campaigns.class.php:145
+msgid "Newsletter list"
+msgstr ""
+
+#. mymail
+#: classes/campaigns.class.php:683
+msgid "requires %1$s more %2$s"
+msgstr ""
+
+#. mymail
+#: classes/campaigns.class.php:735
+msgid "assigned lists"
+msgstr ""
+
+#. mymail
+#: classes/campaigns.class.php:755
+#: views/newsletter/receivers.php:59
+#: views/newsletter/receivers.php:191
+msgid "Rating"
+msgstr ""
+
+#. mymail
+#: classes/campaigns.class.php:776
+#: views/newsletter/editbar.php:32
+#: views/newsletter/receivers.php:90
+#: views/newsletter/receivers.php:212
+msgid "match regex pattern"
+msgstr ""
+
+#. mymail
+#: classes/campaigns.class.php:777
+#: views/newsletter/editbar.php:33
+#: views/newsletter/receivers.php:91
+#: views/newsletter/receivers.php:213
+msgid "does not match regex pattern"
+msgstr ""
+
+#. mymail
+#: classes/campaigns.class.php:828
+msgid "Finish Campaign"
+msgstr ""
+
+#. mymail
+#: classes/campaigns.class.php:828
+msgid "Finish"
+msgstr ""
+
+#. mymail
+#: classes/campaigns.class.php:944
+msgid "Edit base"
+msgstr ""
+
+#. mymail
+#: classes/campaigns.class.php:1002
+msgid "Do you really like to finish this campaign?"
+msgstr ""
+
+#. mymail
+#: classes/campaigns.class.php:1065
+msgid "Do you really like to remove all modules?"
+msgstr ""
+
+#. mymail
+#: classes/campaigns.class.php:1071
+#: views/newsletter/template.php:71
+msgid "Click to add %s"
+msgstr ""
+
+#. mymail
+#: classes/campaigns.class.php:1105
+msgid "Check the JS console for more info!"
+msgstr ""
+
+#. mymail
+#: classes/campaigns.class.php:1623
+msgid "You are not allowed to finish campaigns."
+msgstr ""
+
+#. mymail
+#: classes/form.class.php:955
+#: classes/form.class.php:967
+msgid "Please enter your email address"
+msgstr ""
+
+#. mymail
+#: classes/forms.class.php:124
+msgid "This is a success info"
+msgstr ""
+
+#. mymail
+#: classes/forms.class.php:125
+msgid "This is an error message"
+msgstr ""
+
+#. mymail
+#: classes/forms.class.php:254
+#: views/forms/detail.php:449
+msgid "Shortcode"
+msgstr ""
+
+#. mymail
+#: classes/forms.class.php:255
+#: classes/forms.table.class.php:78
+#: views/forms/detail.php:83
+#: views/forms/detail.php:202
+msgid "Fields"
+msgstr ""
+
+#. mymail
+#: classes/forms.class.php:257
+msgid "Occurrence"
+msgstr ""
+
+#. mymail
+#: classes/forms.class.php:284
+msgid "There was an error while deleting forms: %s"
+msgstr ""
+
+#. mymail
+#: classes/forms.class.php:287
+msgid "%d forms have been removed"
+msgstr ""
+
+#. mymail
+#: classes/forms.class.php:323
+msgid "There was an error while adding the form: %s"
+msgstr ""
+
+#. mymail
+#: classes/forms.class.php:334
+msgid "There was an error while updating the form: %s"
+msgstr ""
+
+#. mymail
+#: classes/forms.class.php:367
+msgid "Form added"
+msgstr ""
+
+#. mymail
+#: classes/forms.class.php:367
+msgid "Form updated"
+msgstr ""
+
+#. mymail
+#: classes/forms.class.php:396
+msgid "Form %s has been removed"
+msgstr ""
+
+#. mymail
+#: classes/forms.class.php:234
+msgid "The changes you made will be lost if you navigate away from this page."
+msgstr ""
+
+#. mymail
+#: classes/forms.class.php:467
+msgid "updating form requires ID"
+msgstr ""
+
+#. mymail
+#: classes/forms.class.php:519
+msgid "You have to confirm your email address. Please click the link below to confirm. %s"
+msgstr ""
+
+#. mymail
+#: classes/forms.class.php:772
+msgid "Email is missing or wrong"
+msgstr ""
+
+#. mymail
+#: classes/forms.class.php:773
+msgid "%s is missing"
+msgstr ""
+
+#. mymail
+#: classes/forms.table.class.php:37
+msgid "No forms found"
+msgstr ""
+
+#. mymail
+#: classes/forms.table.class.php:73
+msgid "This form is used for user profile updates"
+msgstr ""
+
+#. mymail
+#: classes/forms.table.class.php:78
+msgid "change structure"
+msgstr ""
+
+#. mymail
+#: classes/forms.table.class.php:79
+msgid "change design"
+msgstr ""
+
+#. mymail
+#: classes/forms.table.class.php:79
+#: views/forms/detail.php:85
+#: views/forms/detail.php:99
+#: views/forms/detail.php:170
+msgid "Design"
+msgstr ""
+
+#. mymail
+#: classes/forms.table.class.php:80
+msgid "change settings"
+msgstr ""
+
+#. mymail
+#: classes/forms.table.class.php:81
+msgid "use your form"
+msgstr ""
+
+#. mymail
+#: classes/forms.table.class.php:81
+#: views/forms/detail.php:89
+msgid "Use it!"
+msgstr ""
+
+#. mymail
+#: classes/forms.table.class.php:131
+msgid "%d Widget"
+msgid_plural "%d Widgets"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. mymail
+#: classes/lists.class.php:141
+msgid "Please selected at least two lists!"
+msgstr ""
+
+#. mymail
+#: classes/lists.class.php:148
+msgid "Lists have been merged. Please update your %s if necessary!"
+msgstr ""
+
+#. mymail
+#: classes/lists.class.php:148
+msgid "campaigns"
+msgstr ""
+
+#. mymail
+#: classes/lists.class.php:474
+msgid "Merged List #%d"
+msgstr ""
+
+#. mymail
+#: classes/lists.class.php:479
+msgid "A merged list of"
+msgstr ""
+
+#. mymail
+#: classes/lists.table.class.php:112
+msgid "Merge selected Lists"
+msgstr ""
+
+#. mymail
+#: classes/manage.class.php:811
+#: views/manage.php:246
+msgid "Statuscode"
+msgstr ""
+
+#. mymail
+#: classes/mymail.class.php:163
+msgid "Dismiss this notice (Alt-click to dismiss all notices)"
+msgstr ""
+
+#. mymail
+#: classes/mymail.class.php:543
+msgid "View details"
+msgstr ""
+
+#. mymail
+#: classes/mymail.class.php:1025
+msgid "Your newsletter homepage is not visible. Please %s the page"
+msgstr ""
+
+#. mymail
+#: classes/mymail.class.php:1025
+msgid "update"
+msgstr ""
+
+#. mymail
+#: classes/mymail.class.php:1042
+msgid "This is your newsletter homepage but it seems it is not set up correctly! Please follow %s for help!"
+msgstr ""
+
+#. mymail
+#: classes/mymail.class.php:1042
+msgid "this guid"
+msgstr ""
+
+#. mymail
+#: classes/mymail.class.php:1213
+msgid "Please make sure all your campaigns are imported correctly!"
+msgstr ""
+
+#. mymail
+#: classes/notification.class.php:135
+msgid "You are receiving this email because you have enabled notifications for new subscribers %s"
+msgstr ""
+
+#. mymail
+#: classes/notification.class.php:135
+#: classes/notification.class.php:152
+msgid "on your settings page"
+msgstr ""
+
+#. mymail
+#: classes/notification.class.php:144
+msgid "A user has canceled your newsletter!"
+msgstr ""
+
+#. mymail
+#: classes/notification.class.php:152
+msgid "You are receiving this email because you have enabled notifications for unsubscriptions %s"
+msgstr ""
+
+#. mymail
+#: classes/notification.class.php:209
+msgid "This is a test mail sent from %s"
+msgstr ""
+
+#. mymail
+#: classes/notification.class.php:209
+msgid "from your settings page"
+msgstr ""
+
+#. mymail
+#: classes/notification.class.php:408
+msgid "Confirmation Message"
+msgstr ""
+
+#. mymail
+#: classes/notification.class.php:557
+msgid "%s has canceled"
+msgstr ""
+
+#. mymail
+#: classes/placeholder.class.php:586
+msgid "use the tag %s as url in the editbar"
+msgstr ""
+
+#. mymail
+#: classes/placeholder.class.php:661
+msgid "Please enter your Twitter application credentials on the settings page"
+msgstr ""
+
+#. mymail
+#: classes/settings.class.php:253
+#: views/settings.php:526
+msgid "Textarea"
+msgstr ""
+
+#. mymail
+#: classes/subscribers.table.class.php:48
+msgid "No pending subscribers found"
+msgstr ""
+
+#. mymail
+#: classes/subscribers.table.class.php:51
+msgid "No unsubscribed subscribers found"
+msgstr ""
+
+#. mymail
+#: classes/subscribers.table.class.php:54
+msgid "No hardbounced subscribers found"
+msgstr ""
+
+#. mymail
+#: classes/subscribers.table.class.php:57
+msgid "No subscriber with delivery errors found"
+msgstr ""
+
+#. mymail
+#: classes/subscribers.table.class.php:60
+msgid "No subscribers found"
+msgstr ""
+
+#. mymail
+#: classes/templates.class.php:423
+msgid "You are about to OVERWRITE your exiting template files with a new version!"
+msgstr ""
+
+#. mymail
+#: classes/templates.class.php:423
+msgid "Please make sure you have a backup of your files."
+msgstr ""
+
+#. mymail
+#: classes/templates.class.php:565
+msgid "Template successful updated!"
+msgstr ""
+
+#. mymail
+#: classes/templates.class.php:471
+#: classes/templates.class.php:566
+msgid "Template successful loaded!"
+msgstr ""
+
+#. mymail
+#: classes/templates.class.php:600
+msgid "Licensecode has been updated!"
+msgstr ""
+
+#. mymail
+#: classes/update.class.php:51
+msgid "An additional update is required for MyMail!"
+msgstr ""
+
+#. mymail
+#: classes/update.class.php:51
+msgid "progress update now"
+msgstr ""
+
+#. mymail
+#: classes/widget.class.php:43
+msgid "Show form on newsletter homepage as well"
+msgstr ""
+
+#. mymail
+#: classes/widget.class.php:178
+msgid "Number of Subscribers"
+msgstr ""
+
+#. mymail
+#: classes/widget.class.php:179
+msgid "Display the number of your Subscribers"
+msgstr ""
+
+#. mymail
+#: classes/widget.class.php:240
+msgid "Prefix"
+msgstr ""
+
+#. mymail
+#: classes/widget.class.php:242
+msgid "Postfix"
+msgstr ""
+
+#. mymail
+#: classes/widget.class.php:245
+msgid "Round up to the next"
+msgstr ""
+
+#. mymail
+#: classes/widget.class.php:247
+msgid "do not round"
+msgstr ""
+
+#. mymail
+#: classes/widget.class.php:253
+msgid "format number"
+msgstr ""
+
+#. mymail
+#: includes/capability.php:86
+msgid "edit forms"
+msgstr ""
+
+#. mymail
+#: includes/capability.php:91
+msgid "add forms"
+msgstr ""
+
+#. mymail
+#: includes/capability.php:96
+msgid "delete forms"
+msgstr ""
+
+#. mymail
+#: includes/capability.php:164
+msgid "update templates"
+msgstr ""
+
+#. mymail
+#: views/dashboard.php:31
+msgid "Woha! Seems you havn't sent any campaign yet!"
+msgstr ""
+
+#. mymail
+#: views/dashboard.php:34
+msgid "Check out existing Campaigns"
+msgstr ""
+
+#. mymail
+#: views/dashboard.php:40
+msgid "Subscriber Grows"
+msgstr ""
+
+#. mymail
+#: views/dashboard.php:42
+msgid "7 days"
+msgstr ""
+
+#. mymail
+#: views/dashboard.php:43
+msgid "30 days"
+msgstr ""
+
+#. mymail
+#: views/dashboard.php:44
+msgid "3 month"
+msgstr ""
+
+#. mymail
+#: views/dashboard.php:45
+msgid "1 year"
+msgstr ""
+
+#. mymail
+#: views/dashboard.php:61
+msgid "You have no subscribers yet!"
+msgstr ""
+
+#. mymail
+#: views/dashboard.php:63
+msgid "Add a single Subscriber"
+msgstr ""
+
+#. mymail
+#: views/dashboard.php:64
+msgid "Import your existing Subscribers"
+msgstr ""
+
+#. mymail
+#: views/dashboard.php:65
+msgid "Create a Form to engage new Subscribers"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:11
+msgid "This form does not exist or has been deleted!"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:16
+msgid "You don't have the right permission to add new forms"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:61
+msgid "delete Form"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:61
+msgid "Do you really like to remove this form?"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:70
+msgid "Add new Form"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:72
+msgid "Edit Form"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:103
+msgid "Define the structure of your form below. Drag available fields in the left area to add them to your form. Rearrange fields by dragging fields around"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:106
+msgid "Form Fields"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:114
+#: views/forms/detail.php:148
+#: views/forms/detail.php:232
+#: views/forms/detail.php:501
+msgid "Label"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:123
+#: views/forms/detail.php:156
+msgid "define an error message for this field"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:123
+#: views/forms/detail.php:156
+msgid "Error Message (optional)"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:135
+msgid "Available Fields"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:183
+#: views/forms/detail.php:295
+msgid "back to Fields"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:183
+#: views/forms/detail.php:295
+msgid "define the Options"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:189
+msgid "Form Design"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:191
+msgid "Include your Theme's style.css"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:192
+msgid "Your form may look different depending on the place you are using it!"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:200
+msgid "Global"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:201
+msgid "Button"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:203
+msgid "Info Messages"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:211
+msgid "Label Color"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:211
+#: views/forms/detail.php:212
+#: views/forms/detail.php:213
+#: views/forms/detail.php:214
+#: views/forms/detail.php:215
+#: views/forms/detail.php:221
+#: views/forms/detail.php:222
+#: views/forms/detail.php:223
+#: views/forms/detail.php:224
+#: views/forms/detail.php:233
+#: views/forms/detail.php:236
+#: views/forms/detail.php:239
+#: views/forms/detail.php:249
+#: views/forms/detail.php:250
+#: views/forms/detail.php:251
+#: views/forms/detail.php:252
+msgid "custom style"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:212
+msgid "Input Text Color"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:213
+msgid "Input Background Color"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:214
+msgid "Input Focus Color"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:215
+#: views/forms/detail.php:287
+msgid "Required Asterisk"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:221
+msgid "Background Color"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:222
+msgid "Text Color"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:223
+msgid "Hover Color"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:224
+msgid "Hover Text Color"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:235
+msgid "Input"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:238
+msgid "Input Background"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:249
+msgid "Success message Color"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:250
+msgid "Success message Background"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:265
+msgid "Custom Style"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:266
+msgid "add custom CSS to your form"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:272
+msgid "Selector Prefix"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:274
+msgid "Form selector"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:275
+msgid "Field wrapper"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:276
+msgid "Custom Field Wrapper divs"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:281
+msgid "Custom Field Inputs"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:301
+#: views/forms/detail.php:439
+msgid "back to Design"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:307
+msgid "Form Options"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:321
+msgid "allow users to update their data with this form"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:327
+msgid "use this form as user profile."
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:334
+msgid "Currently %s is your profile form"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:342
+msgid "List Options"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:362
+msgid "Double Opt In"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:371
+msgid "Confirmation Settings"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:444
+#: views/forms/detail.php:579
+msgid "back to Settings"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:450
+msgid "Use this shortcode wherever they are excepted."
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:450
+msgid "Read more about shortcodes at %s"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:454
+msgid "Widget"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:456
+msgid "Use this form as a %s in one of your sidebars"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:456
+msgid "widget"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:462
+msgid "Embed a button where users can subscribe on any website"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:472
+msgid "Button Style"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:493
+msgid "Button Options"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:497
+msgid "Popup width"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:503
+msgid "Use Form Default"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:509
+msgid "Subscriber Count"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:510
+msgid "Display subscriber count"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:511
+msgid "Count above Button"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:523
+msgid "Preview and Code"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:525
+msgid "Test your button"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:530
+msgid "embed it somewhere"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:534
+msgid "or use this shortcode on your site"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:546
+msgid "Form HTML"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:548
+msgid "iFrame Version"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:560
+msgid "HTML Version"
+msgstr ""
+
+#. mymail
+#: views/forms/overview.php:16
+msgid "Search Forms"
+msgstr ""
+
+#. mymail
+#: views/lists/detail.php:9
+msgid "This list does not exist or has been deleted!"
+msgstr ""
+
+#. mymail
+#: views/lists/detail.php:86
+msgid "no description"
+msgstr ""
+
+#. mymail
+#: views/manage.php:93
+msgid "users without a role"
+msgstr ""
+
+#. mymail
+#: views/newsletter/delivery.php:158
+msgid "Keep in mind it is bad practice to send campaigns after subscribers opt-out so use this option for \"Thank you\" messages or surveys."
+msgstr ""
+
+#. mymail
+#: views/newsletter/delivery.php:278
+msgid "%1$s %2$s have been published"
+msgstr ""
+
+#. mymail
+#: views/newsletter/delivery.php:344
+msgid "every %1$s %2$s"
+msgstr ""
+
+#. mymail
+#: views/newsletter/delivery.php:346
+msgid "on the exact date"
+msgstr ""
+
+#. mymail
+#: views/newsletter/delivery.php:350
+msgid "of the users %1$s value"
+msgstr ""
+
+#. mymail
+#: classes/ajax.class.php:1396
+#: views/newsletter/delivery.php:400
+msgid "no title"
+msgstr ""
+
+#. mymail
+#: views/newsletter/details.php:83
+msgid "click"
+msgid_plural "clicks"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. mymail
+#: views/newsletter/optionbar.php:17
+msgid "Distraction-free edit mode"
+msgstr ""
+
+#. mymail
+#: views/newsletter/receivers.php:65
+#: views/newsletter/receivers.php:184
+msgid "Form ID"
+msgstr ""
+
+#. mymail
+#: views/newsletter/receivers.php:66
+#: views/newsletter/receivers.php:185
+msgid "Referer"
+msgstr ""
+
+#. mymail
+#: views/newsletter/template.php:63
+msgid "Modules"
+msgstr ""
+
+#. mymail
+#: views/settings.php:57
+msgid "Advanced"
+msgstr ""
+
+#. mymail
+#: views/settings.php:308
+msgid "visit"
+msgstr ""
+
+#. mymail
+#: views/settings.php:482
+msgid "Send a notification if subscribers cancel their subscription to following receivers (comma separated)"
+msgstr ""
+
+#. mymail
+#: views/settings.php:505
+msgid "Respect users \"Do Not Track\" option"
+msgstr ""
+
+#. mymail
+#: views/settings.php:506
+msgid "If enabled MyMail will respect users option for not getting tracked. Read more on the %s"
+msgstr ""
+
+#. mymail
+#: views/settings.php:506
+msgid "official website"
+msgstr ""
+
+#. mymail
+#: views/settings.php:510
+msgid "Single-Opt-Out"
+msgstr ""
+
+#. mymail
+#: views/settings.php:511
+msgid "Subscribers instantly signed out after clicking the unsubscribe link in mails"
+msgstr ""
+
+#. mymail
+#: views/settings.php:1511
+msgid "Advanced Settings"
+msgstr ""
+
+#. mymail
+#: views/settings.php:1520
+msgid "Disable Cache"
+msgstr ""
+
+#. mymail
+#: views/settings.php:1521
+msgid "Disable Object Cache for MyMail"
+msgstr ""
+
+#. mymail
+#: views/settings.php:1521
+msgid "If enabled MyMail doesn't use cache anymore. This causes an increase in page load time! This option is not recommended!"
+msgstr ""
+
+#. mymail
+#: views/settings.php:1525
+msgid "remove Data"
+msgstr ""
+
+#. mymail
+#: views/settings.php:1526
+msgid "remove all data on plugin deletion"
+msgstr ""
+
+#. mymail
+#: views/subscribers/detail.php:79
+msgid "The user rating is based on different factors like open rate, click rate and bounces"
+msgstr ""
+
+#. mymail
+#: views/subscribers/detail.php:79
+msgid "User Rating"
+msgstr ""
+
+#. mymail
+#: views/subscribers/detail.php:312
+msgid "adjusted click rate"
+msgstr ""
+
+#. mymail
+#: views/templates.php:103
+msgid "Start new Campaign"
+msgstr ""
+
+#. mymail
+#: views/templates.php:138
+#: views/templates.php:215
+msgid "Enter Licensecode"
+msgstr ""
+
+#. mymail
+#: views/templates.php:140
+#: views/templates.php:217
+msgid "save"
+msgstr ""
+
+#. mymail
+#: views/templates.php:184
+msgid "Seems there was a problem getting the list of templates"
+msgstr ""
+
+#. mymail
+#: classes/ajax.class.php:1397
+msgid "no match for your selection!"
+msgstr ""
+
+#. mymail
+#: classes/helper.class.php:405
+msgid "error is unknown"
+msgstr ""
+
+#. mymail
+#: classes/settings.class.php:23
+msgid "Homepage already created!"
+msgstr ""
+
+#. mymail
+#: classes/subscribers.class.php:261
+msgid "You are not allowed to add subscribers!"
+msgstr ""
+
+#. mymail
+#: classes/subscribers.class.php:264
+msgid "You are not allowed to edit subscribers!"
+msgstr ""
+
+#. mymail
+#: classes/subscribers.class.php:315
+msgid "You are not allowed to delete subscribers!"
+msgstr ""
+
+#. mymail
+#: classes/subscribers.class.php:320
+msgid "There was an error while deleting subscribers!"
+msgstr ""
+
+#. mymail
+#: classes/subscribers.class.php:348
+msgid "You are not allowed to publish campaigns!"
+msgstr ""
+
+#. mymail
+#: classes/template.class.php:292
+msgid "Module #%d"
+msgstr ""
+
+#. mymail
+#: includes/functions.php:627
+msgid "MyMail has been updated to %s."
+msgstr ""
+
+#. mymail
+#: includes/functions.php:627
+msgid "Changelog"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:364
+msgid "new subscribers are subscribed instantly without confirmation."
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:366
+msgid "new subscribers must confirm their subscription."
+msgstr ""
+
+#. mymail
+#: views/newsletter/delivery.php:140
+msgid "only for subscribers who signed up"
+msgstr ""
+
+#. mymail
+#: views/newsletter/delivery.php:143
+msgid "only for subscribers who canceled their subscription"
+msgstr ""
+
+#. mymail
+#: views/newsletter/editbar.php:250
+msgid "Current Match"
+msgstr ""
+
+#. mymail
+#: views/settings.php:317
+msgid "Search Engine Visibility"
+msgstr ""
+
+#. mymail
+#: views/settings.php:318
+msgid "Discourage search engines from indexing your campaigns"
+msgstr ""
+
+#. mymail
+#: views/settings.php:651
+msgid "Delete WordPress User"
+msgstr ""
+
+#. mymail
+#: views/settings.php:661
+msgid "Delete WordPress User if the Subscriber gets deleted"
+msgstr ""
+
+#. mymail
+#: views/settings.php:662
+msgid "Attention! This option will remove assigned WordPress Users without further notice. You must have the capability to delete WordPress Users. Administrators and the current user can not get deleted with this option"
+msgstr ""
+
+#. mymail
+#: views/settings.php:886
+msgid "image ID"
+msgstr ""
+
+#. mymail
+#: views/settings.php:1498
+msgid "Hide this tab if purchasecode has been entered"
+msgstr ""
+
+#. mymail
+#: views/settings.php:1516
+msgid "Some of these settings may affect your website. In normal circumstance it is not required to change anything on this page."
+msgstr ""
+
+#. mymail
+#: views/settings.php:1526
+msgid "MyMail will remove all it's data if you delete the plugin via the plugin page."
+msgstr ""
+
+#. mymail
+#: views/settings.php:1530
+msgid "PHP Mailer"
+msgstr ""
+
+#. mymail
+#: views/subscribers/detail.php:279
+msgid "Local Time"
+msgstr ""
+
+#. mymail
+#: classes/ajax.class.php:1459
+msgid "%1$s via %2$s"
+msgstr ""
+
+#. mymail
+#: classes/ajax.class.php:1469
+msgid "Your message was sent successfully!"
+msgstr ""
+
+#. mymail
+#: classes/form.class.php:354
+msgid "edit form"
+msgstr ""
+
+#. mymail
+#: classes/frontpage.class.php:69
+msgid "Please do not use %1$s in %2$s as page slug as it conflicts with MyMail form submission!"
+msgstr ""
+
+#. mymail
+#: classes/frontpage.class.php:805
+msgid "You should use the shortcode %s only on the newsletter homepage!"
+msgstr ""
+
+#. mymail
+#: classes/settings.class.php:86
+msgctxt "confirm slug"
+msgid "confirm"
+msgstr ""
+
+#. mymail
+#: classes/settings.class.php:87
+msgctxt "subscribe slug"
+msgid "subscribe"
+msgstr ""
+
+#. mymail
+#: classes/settings.class.php:88
+msgctxt "unsubscribe slug"
+msgid "unsubscribe"
+msgstr ""
+
+#. mymail
+#: classes/settings.class.php:89
+msgctxt "profile slug"
+msgid "profile"
+msgstr ""
+
+#. mymail
+#: classes/settings.class.php:624
+msgid "Not able to set archive slug to %1$s. Used by %2$s"
+msgstr ""
+
+#. mymail
+#: classes/settings.class.php:628
+msgid "Your newsletter archive page is: %s"
+msgstr ""
+
+#. mymail
+#: classes/templates.class.php:238
+msgid "There was a problem progressing the file"
+msgstr ""
+
+#. mymail
+#: classes/templates.class.php:447
+msgid "You haven't purchased this template with this account!"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:163
+msgid "add more custom fields on the %s."
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:163
+msgid "Settings Page"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:251
+msgid "Error message Color"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:252
+msgid "Error message Background"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:461
+msgid "Subscribe Button"
+msgstr ""
+
+#. mymail
+#: views/settings.php:131
+msgid "Module Thumbnails"
+msgstr ""
+
+#. mymail
+#: views/settings.php:132
+msgid "Show thumbails of modules in the editor if available"
+msgstr ""
+
+#. mymail
+#: views/settings.php:424
+msgid "Archive"
+msgstr ""
+
+#. mymail
+#: views/settings.php:429
+msgid "Archive Slug"
+msgstr ""
+
+#. mymail
+#: views/settings.php:442
+msgid "show only"
+msgstr ""
+
+#. mymail
+#: views/settings.php:443
+msgid "finished"
+msgstr ""
+
+#. mymail
+#: views/settings.php:445
+msgid "paused"
+msgstr ""
+
+#. mymail
+#: views/settings.php:446
+msgid "queued"
+msgstr ""
+
+#. mymail
+#: views/settings.php:1533
+msgid "use version"
+msgstr ""
+
+#. mymail
+#: views/settings.php:1535
+msgid "included in WordPress"
+msgstr ""
+
+#. mymail
+#: views/templates.php:112
+msgid "update via Envato"
+msgstr ""
+
+#. mymail
+#: views/templates.php:203
+msgid "your version"
+msgstr ""
+
+#. mymail
+#: views/templates.php:238
+msgid "download via Envato"
+msgstr ""
+
+#. mymail
+#: views/templates.php:245
+msgid "activate on Envato"
+msgstr ""
+

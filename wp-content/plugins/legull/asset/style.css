@@ -1,0 +1,59 @@
+body.legull-admin #adminmenu .wp-has-current-submenu .wp-submenu .wp-submenu-head, 
+body.legull-admin #adminmenu .wp-menu-arrow, 
+body.legull-admin #adminmenu .wp-menu-arrow div, 
+body.legull-admin #adminmenu li.current a.menu-top, 
+body.legull-admin #adminmenu li.wp-has-current-submenu a.wp-has-current-submenu, 
+body.legull-admin .folded #adminmenu li.current.menu-top, 
+body.legull-admin .folded #adminmenu li.wp-has-current-submenu{
+	background: #F23264;
+}
+body.legull-admin:not(.post-type-legull_terms) .button,
+body.post-type-legull_terms #publishing-action .button-primary{
+	background: #F23264;
+	border-color:#F23264;
+	color:#ffffff;
+}
+body.legull-admin:not(.post-type-legull_terms) .button:hover{
+	background: #FD6081;
+	border-color:#F23264;
+}
+body.legull_page_legull_addons .button{
+	float: right;
+	font-size: 10px;
+	line-height: 20px;
+	height: 20px;
+}
+body.legull-admin #poststuff h3{
+	background: #5A6570;
+	color:#ffffff;
+}
+body.legull-admin #legull_hide_dashboard_message,
+body.legull-admin #legull_tracking_disallow,
+body.legull-admin #legull_tracking_allow{
+	float:right;
+}
+body.legull-admin #legull_hide_dashboard_message:after,
+body.legull-admin #legull_tracking_disallow:after,
+body.legull-admin #legull_tracking_allow:after{
+	clear:both;
+}
+body.legull_page_legull_dashboard #admin-page-framework-page-load-stats,
+body.legull_page_legull_publish #admin-page-framework-page-load-stats,
+body.legull_page_legull_addons #admin-page-framework-page-load-stats,
+body.post-type-legull_terms #admin-page-framework-page-load-stats,
+body.post-type-legull_terms .tablenav .actions #author,
+body.post-type-legull_terms .add-new-h2,
+body.post-type-legull_terms .view-switch{
+	display: none;
+}
+body.legull_page_legull_addons #poststuff .admin-page-framework-content .addon{
+	width: 300px;
+	float:left;
+	margin:0 1em 1em 0!important;
+}
+body.legull_page_legull_addons #poststuff .admin-page-framework-content .addon h3{
+	font-size: 14px;
+	padding: 8px 12px;
+	margin: 0;
+	line-height: 1.4;
+}

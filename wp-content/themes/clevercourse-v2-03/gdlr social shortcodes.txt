@@ -1,0 +1,5 @@
+[gdlr_lms_social type="twitter" url="#" ] 
+[gdlr_lms_social type="linkedin" url="#" ] 
+[gdlr_lms_social type="googleplus" url="#" ] 
+[gdlr_lms_social type="facebook" url="#" ] 
+[gdlr_lms_social type="pinterest" url="#" ]

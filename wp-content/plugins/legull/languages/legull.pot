@@ -1,0 +1,1337 @@
+# Copyright (C) 2015 Legull
+# This file is distributed under the same license as the Legull package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Legull 1.1.2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/legull\n"
+"POT-Creation-Date: 2015-01-27 14:47:50+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#. #-#-#-#-#  plugin.pot (Legull 1.1.2)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: legull.php:50 lib/legull.php:83 lib/legull.php:118
+msgid "Legull"
+msgstr ""
+
+#: legull.php:65
+msgid "Integrated Plugins"
+msgstr ""
+
+#: lib/admin-page-framework.php:37
+msgid "The method is called too early. Perform <code>%2$s</code> earlier."
+msgstr ""
+
+#: lib/admin-page-framework.php:235 lib/admin-page-framework.php:493
+msgid "The method is not defined: %1$s"
+msgstr ""
+
+#: lib/admin-page-framework.php:1108
+msgid "The hook <code>%1$s</code>is deprecated. Use <code>%2$s</code> instead."
+msgstr ""
+
+#: lib/admin-page-framework.php:1921
+msgid "The method is deprecated: %1$s. Use %2$s instead."
+msgstr ""
+
+#: lib/admin-page-framework.php:3250
+msgid "The options have been updated."
+msgstr ""
+
+#: lib/admin-page-framework.php:3252
+msgid "The options have been cleared."
+msgstr ""
+
+#: lib/admin-page-framework.php:3254
+msgid "Export"
+msgstr ""
+
+#: lib/admin-page-framework.php:3256
+msgid "Export Options"
+msgstr ""
+
+#: lib/admin-page-framework.php:3258
+msgid "Import"
+msgstr ""
+
+#: lib/admin-page-framework.php:3260
+msgid "Import Options"
+msgstr ""
+
+#: lib/admin-page-framework.php:3262
+msgid "Submit"
+msgstr ""
+
+#: lib/admin-page-framework.php:3264
+msgid "An error occurred while uploading the import file."
+msgstr ""
+
+#: lib/admin-page-framework.php:3266
+msgid "The uploaded file type is not supported: %1$s"
+msgstr ""
+
+#: lib/admin-page-framework.php:3268
+msgid "Could not load the importing data."
+msgstr ""
+
+#: lib/admin-page-framework.php:3270
+msgid "The uploaded file has been imported."
+msgstr ""
+
+#: lib/admin-page-framework.php:3272
+msgid "No data could be imported."
+msgstr ""
+
+#: lib/admin-page-framework.php:3274
+msgid "Upload Image"
+msgstr ""
+
+#: lib/admin-page-framework.php:3276
+msgid "Use This Image"
+msgstr ""
+
+#: lib/admin-page-framework.php:3278
+msgid "Insert from URL"
+msgstr ""
+
+#: lib/admin-page-framework.php:3280
+msgid "Are you sure you want to reset the options?"
+msgstr ""
+
+#: lib/admin-page-framework.php:3282
+msgid "Please confirm your action."
+msgstr ""
+
+#: lib/admin-page-framework.php:3284
+msgid "The specified options have been deleted."
+msgstr ""
+
+#: lib/admin-page-framework.php:3286
+msgid "A problem occurred while processing the form data. Please try again."
+msgstr ""
+
+#: lib/admin-page-framework.php:3288
+msgid "Is it okay to send the email?"
+msgstr ""
+
+#: lib/admin-page-framework.php:3290
+msgid "The email has been sent."
+msgstr ""
+
+#: lib/admin-page-framework.php:3292
+msgid "The email has been scheduled."
+msgstr ""
+
+#: lib/admin-page-framework.php:3294
+msgid "There was a problem sending the email"
+msgstr ""
+
+#: lib/admin-page-framework.php:3296 lib/legull-cpt.php:64
+#: lib/wp-legull-terms-list-table.php:780
+msgid "Title"
+msgstr ""
+
+#: lib/admin-page-framework.php:3298 lib/wp-legull-terms-list-table.php:193
+#: lib/wp-legull-terms-list-table.php:817
+msgid "Author"
+msgstr ""
+
+#: lib/admin-page-framework.php:3300
+msgid "Categories"
+msgstr ""
+
+#: lib/admin-page-framework.php:3302
+msgid "Tags"
+msgstr ""
+
+#: lib/admin-page-framework.php:3304 lib/wp-legull-terms-list-table.php:226
+#: lib/wp-legull-terms-list-table.php:961
+msgid "Comments"
+msgstr ""
+
+#: lib/admin-page-framework.php:3306 lib/legull-cpt.php:65
+#: lib/wp-legull-terms-list-table.php:793
+msgid "Date"
+msgstr ""
+
+#: lib/admin-page-framework.php:3308
+msgid "Show All"
+msgstr ""
+
+#: lib/admin-page-framework.php:3310
+msgid "Powered by"
+msgstr ""
+
+#: lib/admin-page-framework.php:3312
+msgid "Settings"
+msgstr ""
+
+#: lib/admin-page-framework.php:3314
+msgid "Manage"
+msgstr ""
+
+#: lib/admin-page-framework.php:3316
+msgid "Select Image"
+msgstr ""
+
+#: lib/admin-page-framework.php:3318
+msgid "Upload File"
+msgstr ""
+
+#: lib/admin-page-framework.php:3320
+msgid "Use This File"
+msgstr ""
+
+#: lib/admin-page-framework.php:3322
+msgid "Select File"
+msgstr ""
+
+#: lib/admin-page-framework.php:3324
+msgid "Remove Value"
+msgstr ""
+
+#: lib/admin-page-framework.php:3326
+msgid "Select All"
+msgstr ""
+
+#: lib/admin-page-framework.php:3328
+msgid "Select None"
+msgstr ""
+
+#: lib/admin-page-framework.php:3330
+msgid "No term found."
+msgstr ""
+
+#: lib/admin-page-framework.php:3332
+msgid "Select"
+msgstr ""
+
+#: lib/admin-page-framework.php:3334
+msgid "Insert"
+msgstr ""
+
+#: lib/admin-page-framework.php:3336
+msgid "Use This"
+msgstr ""
+
+#: lib/admin-page-framework.php:3338
+msgid "Return to Library"
+msgstr ""
+
+#: lib/admin-page-framework.php:3340
+msgid "%1$s queries in %2$s seconds."
+msgstr ""
+
+#: lib/admin-page-framework.php:3342
+msgid "%1$s out of %2$s MB (%3$s) memory used."
+msgstr ""
+
+#: lib/admin-page-framework.php:3344
+msgid "Peak memory usage %1$s MB."
+msgstr ""
+
+#: lib/admin-page-framework.php:3346
+msgid "Initial memory usage  %1$s MB."
+msgstr ""
+
+#: lib/admin-page-framework.php:3348
+msgid "The allowed maximum number of fields is {0}."
+msgstr ""
+
+#: lib/admin-page-framework.php:3350
+msgid "The allowed minimum number of fields is {0}."
+msgstr ""
+
+#: lib/admin-page-framework.php:3352
+msgid "Add"
+msgstr ""
+
+#: lib/admin-page-framework.php:3354
+msgid "Remove"
+msgstr ""
+
+#: lib/admin-page-framework.php:3356
+msgid "The allowed maximum number of sections is {0}"
+msgstr ""
+
+#: lib/admin-page-framework.php:3358
+msgid "The allowed minimum number of sections is {0}"
+msgstr ""
+
+#: lib/admin-page-framework.php:3360
+msgid "Add Section"
+msgstr ""
+
+#: lib/admin-page-framework.php:3362
+msgid "Remove Section"
+msgstr ""
+
+#: lib/admin-page-framework.php:3364
+msgid "Toggle All"
+msgstr ""
+
+#: lib/admin-page-framework.php:3366
+msgid "Toggle all collapsible sections"
+msgstr ""
+
+#: lib/admin-page-framework.php:3368
+msgid "Reset"
+msgstr ""
+
+#: lib/admin-page-framework.php:6619
+msgid "No browser information found."
+msgstr ""
+
+#: lib/admin-page-framework.php:6623 lib/admin-page-framework.php:6627
+msgid "No log found."
+msgstr ""
+
+#: lib/admin-page-framework.php:6635 lib/admin-page-framework.php:6690
+msgid "Version"
+msgstr ""
+
+#: lib/admin-page-framework.php:6635
+msgid "Language"
+msgstr ""
+
+#: lib/admin-page-framework.php:6635 lib/admin-page-framework.php:6690
+msgid "Memory Limit"
+msgstr ""
+
+#: lib/admin-page-framework.php:6635
+msgid "Multi-site"
+msgstr ""
+
+#: lib/admin-page-framework.php:6635
+msgid "Permalink Structure"
+msgstr ""
+
+#: lib/admin-page-framework.php:6635
+msgid "Active Theme"
+msgstr ""
+
+#: lib/admin-page-framework.php:6635
+msgid "Registered Post Statuses"
+msgstr ""
+
+#: lib/admin-page-framework.php:6635
+msgid "Table Prefix"
+msgstr ""
+
+#: lib/admin-page-framework.php:6635
+msgid "Table Prefix Length"
+msgstr ""
+
+#: lib/admin-page-framework.php:6635
+msgid "Table Prefix Status"
+msgstr ""
+
+#: lib/admin-page-framework.php:6635
+msgid "Too Long"
+msgstr ""
+
+#: lib/admin-page-framework.php:6635
+msgid "Acceptable"
+msgstr ""
+
+#: lib/admin-page-framework.php:6635
+msgid "WP_CONTENT_DIR Writeable"
+msgstr ""
+
+#: lib/admin-page-framework.php:6635
+msgid "Active Plugins"
+msgstr ""
+
+#: lib/admin-page-framework.php:6635
+msgid "Network Active Plugins"
+msgstr ""
+
+#: lib/admin-page-framework.php:6635 lib/admin-page-framework.php:6690
+msgid "Constants"
+msgstr ""
+
+#: lib/admin-page-framework.php:6690
+msgid "Safe Mode"
+msgstr ""
+
+#: lib/admin-page-framework.php:6690
+msgid "Upload Max Size"
+msgstr ""
+
+#: lib/admin-page-framework.php:6690
+msgid "Post Max Size"
+msgstr ""
+
+#: lib/admin-page-framework.php:6690
+msgid "Upload Max File Size"
+msgstr ""
+
+#: lib/admin-page-framework.php:6690
+msgid "Max Execution Time"
+msgstr ""
+
+#: lib/admin-page-framework.php:6690
+msgid "Max Input Vars"
+msgstr ""
+
+#: lib/admin-page-framework.php:6690
+msgid "Argument Separator"
+msgstr ""
+
+#: lib/admin-page-framework.php:6690
+msgid "Allow URL File Open"
+msgstr ""
+
+#: lib/admin-page-framework.php:6690
+msgid "Display Errors"
+msgstr ""
+
+#: lib/admin-page-framework.php:6690
+msgid "Log Errors"
+msgstr ""
+
+#: lib/admin-page-framework.php:6690
+msgid "Error log location"
+msgstr ""
+
+#: lib/admin-page-framework.php:6690
+msgid "Error Reporting Level"
+msgstr ""
+
+#: lib/admin-page-framework.php:6690
+msgid "FSOCKOPEN"
+msgstr ""
+
+#: lib/admin-page-framework.php:6690
+msgid "cURL"
+msgstr ""
+
+#: lib/admin-page-framework.php:6690
+msgid "SOAP"
+msgstr ""
+
+#: lib/admin-page-framework.php:6690
+msgid "SUHOSIN"
+msgstr ""
+
+#: lib/admin-page-framework.php:6694
+msgid "Web Server"
+msgstr ""
+
+#: lib/admin-page-framework.php:6694
+msgid "Session"
+msgstr ""
+
+#: lib/admin-page-framework.php:6694
+msgid "Session Name"
+msgstr ""
+
+#: lib/admin-page-framework.php:6694
+msgid "Session Cookie Path"
+msgstr ""
+
+#: lib/admin-page-framework.php:6694
+msgid "Session Save Path"
+msgstr ""
+
+#: lib/admin-page-framework.php:6694
+msgid "Session Use Cookies"
+msgstr ""
+
+#: lib/admin-page-framework.php:6694
+msgid "Session Use Only Cookies"
+msgstr ""
+
+#: lib/admin-page-framework.php:6697
+msgid "Yes"
+msgstr ""
+
+#: lib/admin-page-framework.php:6697
+msgid "No"
+msgstr ""
+
+#: lib/admin-page-framework.php:6700
+msgid "Enabled"
+msgstr ""
+
+#: lib/admin-page-framework.php:6700
+msgid "Disabled"
+msgstr ""
+
+#: lib/admin-page-framework.php:6703
+msgid "On"
+msgstr ""
+
+#: lib/admin-page-framework.php:6703
+msgid "Off"
+msgstr ""
+
+#: lib/admin-page-framework.php:6706
+msgid "Supported"
+msgstr ""
+
+#: lib/admin-page-framework.php:6706
+msgid "Not supported"
+msgstr ""
+
+#: lib/admin-page-framework.php:6709
+msgid "Functional"
+msgstr ""
+
+#: lib/admin-page-framework.php:6709
+msgid "Not functional"
+msgstr ""
+
+#: lib/legull-cpt.php:10 lib/legull-cpt.php:12 lib/legull-cpt.php:24
+#: lib/legull.php:96
+msgid "Terms"
+msgstr ""
+
+#: lib/legull-cpt.php:11
+msgid "All Terms"
+msgstr ""
+
+#: lib/legull-cpt.php:13
+msgid "Add New Terms"
+msgstr ""
+
+#: lib/legull-cpt.php:14
+msgid "Add New Term"
+msgstr ""
+
+#: lib/legull-cpt.php:15 lib/wp-legull-terms-list-table.php:525
+msgid "Edit"
+msgstr ""
+
+#: lib/legull-cpt.php:16
+msgid "Edit Terms"
+msgstr ""
+
+#: lib/legull-cpt.php:17
+msgid "New Terms"
+msgstr ""
+
+#: lib/legull-cpt.php:18 lib/wp-legull-terms-list-table.php:545
+msgid "View"
+msgstr ""
+
+#: lib/legull-cpt.php:19
+msgid "View Terms"
+msgstr ""
+
+#: lib/legull-cpt.php:20
+msgid "Search Terms"
+msgstr ""
+
+#: lib/legull-cpt.php:21
+msgid ""
+"No terms exist. Please complete the <a href=\"admin.php?page=legull_dashboard"
+"\">setup</a> and publish terms first."
+msgstr ""
+
+#: lib/legull-cpt.php:22
+msgid "No terms found in Trash"
+msgstr ""
+
+#: lib/legull-cpt.php:23
+msgid "Parent Terms"
+msgstr ""
+
+#: lib/legull-cpt.php:66 lib/wp-legull-terms-list-table.php:1001
+msgid "Status"
+msgstr ""
+
+#: lib/legull-cpt.php:80
+msgid "Post ID: %1$s"
+msgstr ""
+
+#: lib/legull-cpt.php:81
+msgid "Text"
+msgstr ""
+
+#: lib/legull-gravityforms.php:9
+msgid "Display Terms"
+msgstr ""
+
+#: lib/legull-gravityforms.php:14
+msgid "Accept Terms"
+msgstr ""
+
+#: lib/legull-gravityforms.php:19
+msgid "Link to Terms"
+msgstr ""
+
+#: lib/legull-gravityforms.php:70
+msgid "Field ID"
+msgstr ""
+
+#: lib/legull-gravityforms.php:71
+msgid "Click to delete this field"
+msgstr ""
+
+#: lib/legull-gravityforms.php:72
+msgid "Click to duplicate this field"
+msgstr ""
+
+#: lib/legull-gravityforms.php:73
+msgid "Click to expand and edit the options for this field"
+msgstr ""
+
+#: lib/legull-gravityforms.php:94
+msgid "Disable submit button unless terms are accepted"
+msgstr ""
+
+#: lib/legull-gravityforms.php:115
+msgid "Terms & Conditions."
+msgstr ""
+
+#: lib/legull-gravityforms.php:139
+msgid "I have read and agree to the"
+msgstr ""
+
+#: lib/legull-gravityforms.php:159
+msgid "Read the site"
+msgstr ""
+
+#: lib/legull-gravityforms.php:170
+msgid "In order to accept, you must read the entire Terms & Conditions."
+msgstr ""
+
+#: lib/legull-tags.php:32
+msgid "Thank you for activating Legull, your legal terms management solution."
+msgstr ""
+
+#: lib/legull-tags.php:34
+msgid "Get Started"
+msgstr ""
+
+#: lib/legull-tags.php:360
+msgid "Terms & Conditions"
+msgstr ""
+
+#: lib/legull.php:15
+msgid "Your site terms have been published. Review below."
+msgstr ""
+
+#: lib/legull.php:17
+msgid "Your site details have been saved."
+msgstr ""
+
+#: lib/legull.php:31
+msgid "The site name may not be left blank."
+msgstr ""
+
+#: lib/legull.php:34
+msgid "The site owner may not be left blank."
+msgstr ""
+
+#: lib/legull.php:37
+msgid "The site owner email address may not be left blank."
+msgstr ""
+
+#: lib/legull.php:40
+msgid "The site locality may not be left blank."
+msgstr ""
+
+#: lib/legull.php:53
+msgid "The terms were not published due to errors."
+msgstr ""
+
+#: lib/legull.php:86 template/dashboard.php:5 template/terms.php:4
+msgid "Getting Started"
+msgstr ""
+
+#: lib/legull.php:91
+msgid "Publish"
+msgstr ""
+
+#: lib/legull.php:102
+msgid "Add-ons"
+msgstr ""
+
+#: lib/legull.php:119
+msgid "Terms of Service as a service, for your WordPress site"
+msgstr ""
+
+#: lib/legull.php:138
+msgid "Ownership"
+msgstr ""
+
+#: lib/legull.php:139
+msgid ""
+"Tell this site's users who owns the site, and provide a few basic details."
+msgstr ""
+
+#: lib/legull.php:143
+msgid "Data &amp; Privacy"
+msgstr ""
+
+#: lib/legull.php:144
+msgid "Explain how this site monitors its users, and what data it collects."
+msgstr ""
+
+#: lib/legull.php:148
+msgid "User-Generated &amp; DMCA"
+msgstr ""
+
+#: lib/legull.php:149
+msgid ""
+"Explain the site's policies concerning the DMCA and user-generated content "
+"practices."
+msgstr ""
+
+#: lib/legull.php:153
+msgid "Advertising"
+msgstr ""
+
+#: lib/legull.php:154
+msgid "Help the site's visitors understand its advertising practices."
+msgstr ""
+
+#: lib/legull.php:158
+msgid "Misc"
+msgstr ""
+
+#: lib/legull.php:159
+msgid "Inform this site's users about a few more general topics and terms."
+msgstr ""
+
+#: lib/legull.php:167
+msgid "Site Address (URL)"
+msgstr ""
+
+#: lib/legull.php:174 lib/legull.php:181
+msgid "What is the URL (web address) of the site these terms will be applied?"
+msgstr ""
+
+#: lib/legull.php:178
+msgid "Site Name"
+msgstr ""
+
+#: lib/legull.php:185
+msgid "Owner Name"
+msgstr ""
+
+#: lib/legull.php:187
+msgid "What is the name of the site owner or responsible legal party?"
+msgstr ""
+
+#: lib/legull.php:191
+msgid "Owner Email"
+msgstr ""
+
+#: lib/legull.php:193
+msgid "What is the contact email of the site owner or responsible legal party?"
+msgstr ""
+
+#: lib/legull.php:197
+msgid "Physical Locality"
+msgstr ""
+
+#: lib/legull.php:199
+msgid ""
+"Set the legal physical locality for the site. (i.e. City, State/Provence)"
+msgstr ""
+
+#: lib/legull.php:203
+msgid "Entity Type"
+msgstr ""
+
+#: lib/legull.php:213
+msgid "Is the owner an individual person, or business entity?"
+msgstr ""
+
+#: lib/legull.php:220
+msgid "User-generated content"
+msgstr ""
+
+#: lib/legull.php:221
+msgid "Will this site allow user-generated content of any kind?"
+msgstr ""
+
+#: lib/legull.php:224 lib/legull.php:235 lib/legull.php:248 lib/legull.php:283
+#: lib/legull.php:293 lib/legull.php:304 lib/legull.php:319 lib/legull.php:348
+#: lib/legull.php:359 lib/legull.php:370 lib/legull.php:381 lib/legull.php:392
+#: lib/legull.php:403 lib/legull.php:414 lib/legull.php:425 lib/legull.php:436
+#: lib/legull.php:447 lib/legull.php:458 lib/legull.php:469 lib/legull.php:483
+#: lib/legull.php:494 lib/legull.php:505 lib/legull.php:516 lib/legull.php:528
+#: lib/legull.php:555 lib/legull.php:566
+msgid "YES"
+msgstr ""
+
+#: lib/legull.php:225 lib/legull.php:236 lib/legull.php:249 lib/legull.php:284
+#: lib/legull.php:294 lib/legull.php:305 lib/legull.php:320 lib/legull.php:349
+#: lib/legull.php:360 lib/legull.php:371 lib/legull.php:382 lib/legull.php:393
+#: lib/legull.php:404 lib/legull.php:415 lib/legull.php:426 lib/legull.php:437
+#: lib/legull.php:448 lib/legull.php:459 lib/legull.php:470 lib/legull.php:484
+#: lib/legull.php:495 lib/legull.php:506 lib/legull.php:517 lib/legull.php:529
+#: lib/legull.php:556 lib/legull.php:567
+msgid "NO"
+msgstr ""
+
+#: lib/legull.php:231
+msgid "Comments &amp; 3rd Parties"
+msgstr ""
+
+#: lib/legull.php:232
+msgid "Will this site allow users to add comments or content of any kind?"
+msgstr ""
+
+#: lib/legull.php:245
+msgid "Has DMCA Agent?"
+msgstr ""
+
+#: lib/legull.php:246
+msgid ""
+"In the U.S., safe harbor protection from copyright liability for site "
+"content added by your users can be had by designating and registering with "
+"the Copyright Office a Digital Millenium Copyright Act agent for notice and "
+"takedown procedures. Will this site have a designated DMCA agent?"
+msgstr ""
+
+#: lib/legull.php:254
+msgid "DMCA Address"
+msgstr ""
+
+#: lib/legull.php:256
+msgid "What will be the postal mailing address of your DMCA agent?"
+msgstr ""
+
+#: lib/legull.php:261
+msgid "DMCA Phone"
+msgstr ""
+
+#: lib/legull.php:263
+msgid "What will be the telephone number of your DMCA agent?"
+msgstr ""
+
+#: lib/legull.php:268
+msgid "DMCA Email"
+msgstr ""
+
+#: lib/legull.php:270
+msgid "What will be the email address of your DMCA agent?"
+msgstr ""
+
+#: lib/legull.php:280
+msgid "Site contains advertising"
+msgstr ""
+
+#: lib/legull.php:281
+msgid "Does this site use advertising?"
+msgstr ""
+
+#: lib/legull.php:289
+msgid "3rd party advertising"
+msgstr ""
+
+#: lib/legull.php:290
+msgid "Will this site use a 3rd party network to supply advertising?"
+msgstr ""
+
+#: lib/legull.php:300
+msgid "Google AdSense"
+msgstr ""
+
+#: lib/legull.php:301
+msgid "Will this site use Google AdSense to supply advertising?"
+msgstr ""
+
+#: lib/legull.php:314
+msgid "In California?"
+msgstr ""
+
+#: lib/legull.php:315
+msgid "Is site locality within the state of California?"
+msgstr ""
+
+#: lib/legull.php:326
+msgid "Privacy Contact"
+msgstr ""
+
+#: lib/legull.php:328
+msgid "What is the contact name for privacy matters?"
+msgstr ""
+
+#: lib/legull.php:332
+msgid "Privacy Email"
+msgstr ""
+
+#: lib/legull.php:334
+msgid "What is the contact email for privacy matters?"
+msgstr ""
+
+#: lib/legull.php:338
+msgid "Privacy Address"
+msgstr ""
+
+#: lib/legull.php:340
+msgid "What is the physical mailing address for privacy matters?"
+msgstr ""
+
+#: lib/legull.php:344
+msgid "Use cookies"
+msgstr ""
+
+#: lib/legull.php:345
+msgid ""
+"Will this site use cookies (apart from cookies that the site has as part of "
+"advertising tools like Google Analytics)?"
+msgstr ""
+
+#: lib/legull.php:355
+msgid "Information Tracking"
+msgstr ""
+
+#: lib/legull.php:356
+msgid "Will visitors be tracked when surfing the site? (i.e. Google Analytics)"
+msgstr ""
+
+#: lib/legull.php:366
+msgid "User Personalization"
+msgstr ""
+
+#: lib/legull.php:367
+msgid ""
+"Will visitors be able to personalize their expereience when surfing the site?"
+msgstr ""
+
+#: lib/legull.php:377
+msgid "Anonymous Surfing"
+msgstr ""
+
+#: lib/legull.php:378
+msgid "Will visitors be able to surf the site anonymously?"
+msgstr ""
+
+#: lib/legull.php:388
+msgid "Purchase User Data"
+msgstr ""
+
+#: lib/legull.php:389
+msgid "Does this site purchase user data?"
+msgstr ""
+
+#: lib/legull.php:399
+msgid "Sell User Data"
+msgstr ""
+
+#: lib/legull.php:400
+msgid "Does this site sell or rent user data?"
+msgstr ""
+
+#: lib/legull.php:410
+msgid "Collect User Data"
+msgstr ""
+
+#: lib/legull.php:411
+msgid "Will this site collect any data from its users?"
+msgstr ""
+
+#: lib/legull.php:421
+msgid "Sharing User Data"
+msgstr ""
+
+#: lib/legull.php:422
+msgid ""
+"Will any of the user data (individual data or aggregate data) be shared "
+"outside of the site owner itself?"
+msgstr ""
+
+#: lib/legull.php:432
+msgid "Share User Data Aggregated"
+msgstr ""
+
+#: lib/legull.php:433
+msgid ""
+"Will all user data be shared only in grouped form, so that individual users "
+"are not identified and individual user data is not shared?"
+msgstr ""
+
+#: lib/legull.php:443
+msgid "Share User Data with Partners"
+msgstr ""
+
+#: lib/legull.php:444
+msgid ""
+"Will any user data be shared with those who help the site owner operate and "
+"manage the site?"
+msgstr ""
+
+#: lib/legull.php:454
+msgid "Share User Data with Advertisers"
+msgstr ""
+
+#: lib/legull.php:455
+msgid "Will any user data be shared with advertisers or marketing partners?"
+msgstr ""
+
+#: lib/legull.php:465
+msgid "Share User Data Unlimited"
+msgstr ""
+
+#: lib/legull.php:466
+msgid ""
+"Will any user data be shared with others other than those who help operate "
+"and manage the site, and other than advertisers or marketing partners?"
+msgstr ""
+
+#: lib/legull.php:479
+msgid "Over 18"
+msgstr ""
+
+#: lib/legull.php:480
+msgid "Does this site require visitors to be over the age of 18?"
+msgstr ""
+
+#: lib/legull.php:490
+msgid "Under 13"
+msgstr ""
+
+#: lib/legull.php:491
+msgid "Will this site allow users or visitors under the age of 13?"
+msgstr ""
+
+#: lib/legull.php:501
+msgid "Arbitration"
+msgstr ""
+
+#: lib/legull.php:502
+msgid ""
+"Do you want to require all of the site's users to arbitrate (rather than "
+"litigate) any claims against the site?"
+msgstr ""
+
+#: lib/legull.php:512
+msgid "SSL"
+msgstr ""
+
+#: lib/legull.php:513
+msgid "Does this site use SSL? (https://)"
+msgstr ""
+
+#: lib/legull.php:523
+msgid "Support Contact"
+msgstr ""
+
+#: lib/legull.php:524
+msgid "Will this site offer support via phone or email?"
+msgstr ""
+
+#: lib/legull.php:534
+msgid "What will be the email address for support?"
+msgstr ""
+
+#: lib/legull.php:540
+msgid "What will be the phone number for support?"
+msgstr ""
+
+#: lib/legull.php:551
+msgid "Prevent Scraping"
+msgstr ""
+
+#: lib/legull.php:552
+msgid ""
+"Will this site prohibit the automatic collection of its data by others "
+"(\"scraping\")?"
+msgstr ""
+
+#: lib/legull.php:562
+msgid "Passwords"
+msgstr ""
+
+#: lib/legull.php:563
+msgid "Will any part of this site require a password for access?"
+msgstr ""
+
+#: lib/legull.php:581
+msgid "Save All Tabs"
+msgstr ""
+
+#: lib/legull.php:599
+msgid "Publish Terms"
+msgstr ""
+
+#: lib/legull.php:601
+msgid "You must save your site details before publishing of terms may occur."
+msgstr ""
+
+#. translators: manage posts column name
+#: lib/wp-legull-terms-list-table.php:190
+msgctxt "column name"
+msgid "Title"
+msgstr ""
+
+#: lib/wp-legull-terms-list-table.php:228
+#: lib/wp-legull-terms-list-table.php:595
+#: lib/wp-legull-terms-list-table.php:1007
+msgid "Published"
+msgstr ""
+
+#: lib/wp-legull-terms-list-table.php:498
+msgid "Edit &#8220;%s&#8221;"
+msgstr ""
+
+#: lib/wp-legull-terms-list-table.php:512
+msgid "%s is currently editing"
+msgstr ""
+
+#: lib/wp-legull-terms-list-table.php:525
+msgid "Edit this item"
+msgstr ""
+
+#: lib/wp-legull-terms-list-table.php:526
+msgid "Edit this item inline"
+msgstr ""
+
+#: lib/wp-legull-terms-list-table.php:526
+msgid "Quick&nbsp;Edit"
+msgstr ""
+
+#: lib/wp-legull-terms-list-table.php:530
+msgid "Restore this item from the Trash"
+msgstr ""
+
+#: lib/wp-legull-terms-list-table.php:530
+msgid "Restore"
+msgstr ""
+
+#: lib/wp-legull-terms-list-table.php:532
+msgid "Move this item to the Trash"
+msgstr ""
+
+#: lib/wp-legull-terms-list-table.php:532
+msgid "Trash"
+msgstr ""
+
+#: lib/wp-legull-terms-list-table.php:534
+msgid "Delete this item permanently"
+msgstr ""
+
+#: lib/wp-legull-terms-list-table.php:534
+msgid "Delete Permanently"
+msgstr ""
+
+#: lib/wp-legull-terms-list-table.php:542
+msgid "Preview &#8220;%s&#8221;"
+msgstr ""
+
+#: lib/wp-legull-terms-list-table.php:542
+msgid "Preview"
+msgstr ""
+
+#: lib/wp-legull-terms-list-table.php:545
+msgid "View &#8220;%s&#8221;"
+msgstr ""
+
+#: lib/wp-legull-terms-list-table.php:555
+msgid "Unpublished"
+msgstr ""
+
+#: lib/wp-legull-terms-list-table.php:558
+msgid "Y/m/d g:i:s A"
+msgstr ""
+
+#: lib/wp-legull-terms-list-table.php:565
+msgid "%s ago"
+msgstr ""
+
+#: lib/wp-legull-terms-list-table.php:567
+msgid "Y/m/d"
+msgstr ""
+
+#: lib/wp-legull-terms-list-table.php:598
+msgid "Missed schedule"
+msgstr ""
+
+#: lib/wp-legull-terms-list-table.php:600
+#: lib/wp-legull-terms-list-table.php:1008
+msgid "Scheduled"
+msgstr ""
+
+#: lib/wp-legull-terms-list-table.php:602
+msgid "Last Modified"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: lib/wp-legull-terms-list-table.php:662
+msgid ", "
+msgstr ""
+
+#: lib/wp-legull-terms-list-table.php:768
+msgid "Bulk Edit"
+msgstr ""
+
+#: lib/wp-legull-terms-list-table.php:768
+msgid "Quick Edit"
+msgstr ""
+
+#: lib/wp-legull-terms-list-table.php:785
+msgid "Slug"
+msgstr ""
+
+#: lib/wp-legull-terms-list-table.php:813
+#: lib/wp-legull-terms-list-table.php:893
+#: lib/wp-legull-terms-list-table.php:929
+#: lib/wp-legull-terms-list-table.php:963
+#: lib/wp-legull-terms-list-table.php:972
+#: lib/wp-legull-terms-list-table.php:1004
+#: lib/wp-legull-terms-list-table.php:1025
+#: lib/wp-legull-terms-list-table.php:1053
+msgid "&mdash; No Change &mdash;"
+msgstr ""
+
+#: lib/wp-legull-terms-list-table.php:832
+msgid "Password"
+msgstr ""
+
+#. translators: Between password field and private checkbox on post quick edit
+#. interface
+#: lib/wp-legull-terms-list-table.php:839
+msgid "&ndash;OR&ndash;"
+msgstr ""
+
+#: lib/wp-legull-terms-list-table.php:844
+#: lib/wp-legull-terms-list-table.php:1010
+msgid "Private"
+msgstr ""
+
+#: lib/wp-legull-terms-list-table.php:881
+msgid "Parent"
+msgstr ""
+
+#: lib/wp-legull-terms-list-table.php:887
+msgid "Main Page (no parent)"
+msgstr ""
+
+#: lib/wp-legull-terms-list-table.php:916
+msgid "Order"
+msgstr ""
+
+#: lib/wp-legull-terms-list-table.php:926
+msgid "Template"
+msgstr ""
+
+#: lib/wp-legull-terms-list-table.php:931
+msgid "Default Template"
+msgstr ""
+
+#: lib/wp-legull-terms-list-table.php:964
+#: lib/wp-legull-terms-list-table.php:973
+msgid "Allow"
+msgstr ""
+
+#: lib/wp-legull-terms-list-table.php:965
+#: lib/wp-legull-terms-list-table.php:974
+msgid "Do not allow"
+msgstr ""
+
+#: lib/wp-legull-terms-list-table.php:970
+msgid "Pings"
+msgstr ""
+
+#: lib/wp-legull-terms-list-table.php:986
+msgid "Allow Comments"
+msgstr ""
+
+#: lib/wp-legull-terms-list-table.php:991
+msgid "Allow Pings"
+msgstr ""
+
+#: lib/wp-legull-terms-list-table.php:1013
+msgid "Pending Review"
+msgstr ""
+
+#: lib/wp-legull-terms-list-table.php:1014
+msgid "Draft"
+msgstr ""
+
+#: lib/wp-legull-terms-list-table.php:1023
+#: lib/wp-legull-terms-list-table.php:1026
+msgid "Sticky"
+msgstr ""
+
+#: lib/wp-legull-terms-list-table.php:1027
+msgid "Not Sticky"
+msgstr ""
+
+#: lib/wp-legull-terms-list-table.php:1035
+msgid "Make this post sticky"
+msgstr ""
+
+#: lib/wp-legull-terms-list-table.php:1051
+msgctxt "post format"
+msgid "Format"
+msgstr ""
+
+#: lib/wp-legull-terms-list-table.php:1074
+msgid "Cancel"
+msgstr ""
+
+#: lib/wp-legull-terms-list-table.php:1078
+#: lib/wp-legull-terms-list-table.php:1081
+msgid "Update"
+msgstr ""
+
+#: template/addons.php:8
+msgid "More Info"
+msgstr ""
+
+#: template/dashboard.php:10 template/terms.php:8
+msgid ""
+"Answering the questions on each of these topic tabs will provide the data "
+"for publishing your site's terms."
+msgstr ""
+
+#: template/dashboard.php:11
+msgid "Dismiss [X]"
+msgstr ""
+
+#: template/metabox-integrated-plugins.php:1
+msgid ""
+"Congratulations, you have the following active plugins which have "
+"integration with Legull."
+msgstr ""
+
+#: template/publish-documents.php:5
+msgid "Published Terms"
+msgstr ""
+
+#: template/publish-documents.php:9
+msgid "\"Save Changes\" will update the data you have entered in these fields."
+msgstr ""
+
+#: template/publish-documents.php:11
+msgid ""
+"\"Publish Terms\" will create or update your terms based on all of your "
+"choices."
+msgstr ""
+
+#: template/publish-documents.php:13
+msgid ""
+"If you have made manual changes to your terms after publishing them "
+"previously with Legull, \"Publish Terms\" will overwrite those manual "
+"changes."
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (Legull 1.1.2)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  plugin.pot (Legull 1.1.2)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://www.legull.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Legull is Terms of Service and Privacy Policy for your WordPress site, "
+"generated by simple questions and answers, editable and update-able."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid ""
+"Legull LLC, Timothy Wood (@codearachnid), Chris Gatewood (@gatewood5000)"
+msgstr ""

@@ -1,0 +1,7175 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: MyMail Newsletter Plugin\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: classes/form.class.php:529
+#: classes/forms.class.php:927
+#: classes/settings.class.php:108
+#: includes/updates.php:28
+#: views/settings.php:606
+#: views/settings.php:782
+msgid "Email"
+msgstr ""
+
+#: classes/settings.class.php:109
+#: includes/updates.php:23
+#: views/settings.php:783
+msgid "First Name"
+msgstr ""
+
+#: classes/settings.class.php:110
+#: includes/updates.php:24
+#: views/settings.php:784
+msgid "Last Name"
+msgstr ""
+
+#: classes/forms.class.php:925
+#: classes/settings.class.php:112
+#: includes/updates.php:29
+msgid "Subscribe"
+msgstr ""
+
+#: classes/campaigns.class.php:457
+msgid "This Campaign was sent on %s"
+msgstr ""
+
+#: classes/campaigns.class.php:460
+msgid "This Campaign is currently in the queue"
+msgstr ""
+
+#: classes/campaigns.class.php:956
+msgid "Enter Campaign Title here"
+msgstr ""
+
+#: classes/campaigns.class.php:142
+#: classes/dashboard.class.php:27
+#: classes/settings.class.php:228
+#: includes/static.php:4
+msgid "Newsletter"
+msgstr ""
+
+#: includes/static.php:8
+msgid "Signup for the newsletter"
+msgstr ""
+
+#: classes/settings.class.php:135
+msgid "You have received this email because you have subscribed to %s as {email}. If you no longer wish to receive emails please {unsub}"
+msgstr ""
+
+#: classes/settings.class.php:136
+msgid "If you received this email by mistake, simply delete it. You won't be subscribed if you don't click the confirmation link"
+msgstr ""
+
+#: classes/settings.class.php:142
+msgid "Replace Content"
+msgstr ""
+
+#: classes/settings.class.php:228
+#: views/settings.php:28
+msgid "Newsletter Settings"
+msgstr ""
+
+#: classes/campaigns.class.php:130
+msgid "Campaigns"
+msgstr ""
+
+#: classes/dashboard.class.php:58
+#: classes/campaigns.class.php:131
+#: views/dashboard.php:9
+#: views/lists/detail.php:146
+#: views/newsletter/delivery.php:386
+#: views/subscribers/detail.php:359
+msgid "Campaign"
+msgid_plural "Campaigns"
+msgstr[0] ""
+
+#: classes/campaigns.class.php:132
+#: classes/campaigns.class.php:135
+msgid "New Campaign"
+msgstr ""
+
+#: classes/campaigns.class.php:133
+#: views/dashboard.php:33
+msgid "Create a new Campaign"
+msgstr ""
+
+#: classes/campaigns.class.php:134
+msgid "Edit Campaign"
+msgstr ""
+
+#: classes/campaigns.class.php:136
+msgid "All Campaigns"
+msgstr ""
+
+#: classes/campaigns.class.php:137
+#: classes/campaigns.class.php:487
+#: classes/campaigns.class.php:492
+msgid "View Newsletter"
+msgstr ""
+
+#: classes/campaigns.class.php:138
+msgid "Search Campaigns"
+msgstr "キャンペーン検索"
+
+#: classes/campaigns.class.php:139
+msgid "No Campaign found"
+msgstr "キャンペーンが見つかりません"
+
+#: classes/campaigns.class.php:140
+msgid "No Campaign found in Trash"
+msgstr "ゴミ箱にキャンペーンが見つかりません"
+
+#: classes/campaigns.class.php:184
+#: classes/campaigns.class.php:186
+msgid "Active"
+msgstr "アクティブ"
+
+#: classes/campaigns.class.php:196
+#: classes/campaigns.class.php:198
+#: classes/campaigns.class.php:639
+msgid "Finished"
+msgstr "終了"
+
+#: classes/campaigns.class.php:634
+msgid "starts in %s"
+msgstr "%s を開始します。"
+
+#: classes/campaigns.class.php:620
+msgid "progressing"
+msgstr "進行中"
+
+#: views/lists/detail.php:123
+#: views/subscribers/detail.php:304
+msgid "open rate"
+msgstr "レートを開く"
+
+#: views/lists/detail.php:126
+#: views/subscribers/detail.php:308
+msgid "click rate"
+msgstr "クリック率"
+
+#: classes/campaigns.class.php:938
+#: views/newsletter/submit.php:48
+msgid "Duplicate"
+msgstr "複製"
+
+#: classes/campaigns.class.php:488
+msgid "Template changed. %1$s"
+msgstr "テンプレートを変更。 %1$s"
+
+#: classes/campaigns.class.php:488
+#: classes/form.class.php:767
+#: classes/form.class.php:776
+#: classes/form.class.php:915
+msgid "Go back"
+msgstr "戻る"
+
+#: classes/campaigns.class.php:490
+msgid "Campaign updated."
+msgstr "キャンペーンを更新します。"
+
+#: classes/campaigns.class.php:491
+msgid "Campaign restored to revision from %s"
+msgstr "%s からのリビジョンに復元のキャンペーン"
+
+#: classes/campaigns.class.php:495
+msgid "Campaign scheduled."
+msgstr "キャンペーンのスケジュール"
+
+#: classes/campaigns.class.php:496
+msgid "Campaign draft updated."
+msgstr "キャンペーンドラフトが更新"
+
+#: classes/campaigns.class.php:222
+#: views/forms/detail.php:63
+#: views/forms/detail.php:584
+#: views/lists/detail.php:64
+#: views/newsletter/editbar.php:299
+#: views/newsletter/optionbar.php:33
+#: views/newsletter/submit.php:66
+#: views/newsletter/submit.php:78
+#: views/subscribers/detail.php:67
+#: views/templates.php:47
+#: views/templates.php:55
+msgid "Save"
+msgstr "保存"
+
+#: classes/lists.class.php:44
+#: classes/subscribers.class.php:50
+#: classes/subscribers.class.php:590
+#: classes/subscribers.table.class.php:13
+#: classes/widget.class.php:236
+#: views/lists/detail.php:93
+#: views/settings.php:47
+#: views/settings.php:460
+#: views/settings.php:635
+#: views/settings.php:636
+#: views/subscribers/overview.php:3
+msgid "Subscribers"
+msgstr "購読者"
+
+#: classes/dashboard.class.php:63
+#: classes/subscribers.table.class.php:12
+#, fuzzy
+msgid "Subscriber"
+msgid_plural "Subscribers"
+msgstr[0] "購読者"
+
+#: classes/form.class.php:297
+#: classes/forms.class.php:256
+#: classes/lists.class.php:24
+#: classes/lists.table.class.php:13
+#: classes/manage.class.php:802
+#: classes/notification.class.php:504
+#: classes/settings.class.php:111
+#: classes/subscribers.class.php:121
+#: includes/updates.php:36
+#: views/lists/overview.php:3
+#: views/newsletter/receivers.php:157
+#: views/settings.php:785
+#: views/subscribers/detail.php:236
+msgid "Lists"
+msgstr "リスト"
+
+#: classes/subscribers.class.php:124
+msgid "Subscribed"
+msgstr "購読"
+
+#: classes/mymail.class.php:542
+#: classes/templates.class.php:46
+#: views/templates.php:64
+msgid "Templates"
+msgstr "テンプレート"
+
+#: classes/lists.class.php:719
+msgid "No Lists found!"
+msgstr "リストは見つかりませんでした ！"
+
+#: classes/lists.class.php:719
+msgid "Create a List now"
+msgstr "リストを今すぐ作成します。"
+
+#: views/newsletter/options.php:57
+msgid "original"
+msgstr "翻訳元"
+
+#: views/newsletter/options.php:136
+#: views/settings.php:1011
+msgid "none"
+msgstr "なし"
+
+#: views/newsletter/submit.php:24
+msgid "Delete Permanently"
+msgstr "完全削除"
+
+#: views/newsletter/submit.php:26
+msgid "Move to Trash"
+msgstr "ゴミ箱に移動します。"
+
+#: views/newsletter/submit.php:65
+#: views/newsletter/submit.php:77
+#: views/newsletter/submit.php:80
+msgid "Publish"
+msgstr "発行"
+
+#: views/newsletter/submit.php:84
+#: views/newsletter/submit.php:85
+msgid "Submit for Review"
+msgstr "レビューに送信します。"
+
+#: views/newsletter/submit.php:74
+#: views/newsletter/submit.php:91
+#: views/newsletter/submit.php:110
+msgid "Update"
+msgstr "更新"
+
+#: views/newsletter/optionbar.php:46
+msgid "Change Template"
+msgstr "テンプレートの変更"
+
+#: classes/campaigns.class.php:1079
+#: classes/campaigns.class.php:3351
+#: classes/forms.table.class.php:143
+#: classes/widget.class.php:256
+#: views/templates.php:102
+msgid "Preview"
+msgstr "プレビュー"
+
+#: views/settings.php:45
+#: views/settings.php:82
+msgid "General"
+msgstr "一般的"
+
+#: views/settings.php:50
+#: views/settings.php:806
+msgid "Tags"
+msgstr "タグ"
+
+#: views/settings.php:52
+#: views/settings.php:1059
+msgid "Cron"
+msgstr "Cron設定"
+
+#: views/settings.php:54
+msgid "Bouncing"
+msgstr "バウンス"
+
+#: views/newsletter/details.php:25
+#: views/newsletter/details.php:26
+#: views/settings.php:90
+msgid "From Name"
+msgstr "名前から"
+
+#: views/settings.php:91
+msgid "The sender name which is displayed in the from field"
+msgstr "表示される送信者名からフィールド"
+
+#: views/settings.php:94
+msgid "From Address"
+msgstr "アドレス"
+
+#: views/settings.php:95
+msgid "The sender email address. Force your recievers to whitelabel this email address."
+msgstr "送信者のメールアドレス。ホワイトリストにこのメールアドレスにあなたの受信を強制してください。"
+
+#: views/settings.php:98
+msgid "Reply To Address"
+msgstr "返信先アドレス"
+
+#: views/settings.php:99
+msgid "The address users can reply to"
+msgstr "アドレスのユーザーに返信することができます。"
+
+#: views/settings.php:102
+msgid "Default Template"
+msgstr "既定のテンプレート"
+
+#: views/settings.php:113
+msgid "get more"
+msgstr "もっと見る"
+
+#: views/newsletter/options.php:8
+#: views/settings.php:126
+msgid "Embed Images"
+msgstr "画像を埋め込む"
+
+#: views/settings.php:127
+msgid "Embed images in the mail"
+msgstr "メールに画像を埋め込む"
+
+#: views/settings.php:276
+msgid "can be changed in each campaign"
+msgstr "キャンペーンごとに変更することができます。"
+
+#: classes/mymail.class.php:1185
+#: views/settings.php:291
+msgid "Newsletter Homepage"
+msgstr "ニュースレター ホームページ"
+
+#: views/settings.php:293
+msgid "Choose"
+msgstr "選択"
+
+#: views/settings.php:766
+msgid "Subscription Form"
+msgstr "購読フォーム"
+
+#: views/forms/detail.php:390
+msgid "The text new subscribers get when Double-Opt-In is selected. Use %s for the link placeholder. Basic HTML is allowed"
+msgstr "ダブルオプトインで許可されている新規加入テキスト。ひな形リンクで許諾は、%s を使用します。基本的な HTML を許可します。"
+
+#: views/settings.php:832
+msgid "Custom Tags"
+msgstr "カスタムタグ"
+
+#: classes/campaigns.class.php:1059
+#: classes/manage.class.php:403
+#: classes/settings.class.php:248
+#: views/settings.php:572
+#: views/settings.php:625
+#: views/settings.php:844
+msgid "add"
+msgstr "追加"
+
+#: views/settings.php:1070
+msgid "Cron Service"
+msgstr "クロンサービス"
+
+#: views/settings.php:1073
+msgid "Use the wp_cron function to send newsletters"
+msgstr "Wp_cron 関数を使用してメルマガを送る"
+
+#: views/settings.php:1077
+msgid "Use a real cron to send newsletters"
+msgstr "本物の cron を使用してメルマガを送信する"
+
+#: views/settings.php:1077
+msgid "reccomended for many subscribers"
+msgstr "多数の購読者のお勧め"
+
+#: views/settings.php:1066
+msgid "Interval for sending emails"
+msgstr "メール送信の間隔"
+
+#: views/settings.php:1067
+msgid "Send emails at most every %1$s minutes"
+msgstr "%1$s 分の間隔でメールを送信します。"
+
+#: views/settings.php:1084
+msgid "Cron Settings"
+msgstr "Cron の設定"
+
+#: views/settings.php:1087
+msgid "a secret hash which is required to execute the cron"
+msgstr "cron を実行するために必要な秘密のハッシュ"
+
+#: views/settings.php:1107
+#: views/subscribers/detail.php:156
+msgid "never"
+msgstr "never"
+
+#: views/settings.php:1176
+msgid "Bounce Address"
+msgstr "アドレスをバウンス"
+
+#: views/settings.php:1193
+msgid "Server Address : Port"
+msgstr "サーバーのアドレス: ポート"
+
+#: views/settings.php:1021
+#: views/settings.php:1036
+#: views/settings.php:1202
+msgid "Username"
+msgstr "ユーザー名"
+
+#: views/settings.php:1230
+msgid "%s attempts to deliver message until hardbounce"
+msgstr "%s は、通知拒否になるまでメッセージを配信しようとしています。"
+
+#: views/settings.php:1006
+msgid "Secure connection"
+msgstr "セキュリティで保護された接続"
+
+#: views/settings.php:1018
+msgid "If checked username and password are required"
+msgstr "チェックされているユーザー名とパスワードが必要な場合"
+
+#: views/newsletter/delivery.php:437
+#: views/newsletter/delivery.php:440
+#: views/settings.php:944
+msgid "Send Test"
+msgstr "テスト送信"
+
+#: views/settings.php:25
+#: views/settings.php:1573
+msgid "Save Changes"
+msgstr "変更保存"
+
+#: classes/campaigns.class.php:509
+#: classes/campaigns.class.php:2666
+#: classes/manage.class.php:315
+#: classes/manage.class.php:808
+#: classes/subscribers.class.php:123
+#: views/manage.php:245
+#: views/subscribers/detail.php:116
+msgid "Status"
+msgstr "状態"
+
+#: classes/manage.class.php:403
+msgid "add new list"
+msgstr "新しいリストを追加"
+
+#: classes/manage.class.php:1232
+#: classes/manage.class.php:1234
+#: classes/templates.class.php:1213
+#: classes/templates.class.php:1215
+#: views/manage.php:34
+#: views/newsletter/editbar.php:159
+#: views/settings.php:238
+#: views/settings.php:247
+msgid "Upload"
+msgstr "アップロード"
+
+#: classes/form.class.php:534
+#: views/settings.php:771
+msgid "Unsubscribe"
+msgstr "購読解除"
+
+#: classes/campaigns.class.php:941
+msgid "Statistics"
+msgstr "統計情報"
+
+#: classes/widget.class.php:26
+#: classes/widget.class.php:164
+msgid "Title"
+msgstr "タイトル"
+
+#: classes/settings.class.php:102
+#: includes/static.php:8
+msgid "Thanks for your interest!"
+msgstr "お申し込みいただきありがとうございます。以下の項目を入力してください。"
+
+#: classes/campaigns.class.php:508
+#: classes/forms.class.php:253
+#: classes/lists.class.php:42
+#: classes/subscribers.class.php:114
+#: views/lists/detail.php:71
+#: views/newsletter/optionbar.php:25
+#: views/subscribers/detail.php:103
+msgid "Name"
+msgstr "名前"
+
+#: views/dashboard.php:20
+#: views/manage.php:145
+#: views/manage.php:151
+#: views/manage.php:308
+#: views/manage.php:316
+msgid "total"
+msgstr "すべて"
+
+#: classes/campaigns.class.php:2706
+#: views/dashboard.php:24
+msgid "bounces"
+msgstr "拒否"
+
+#: classes/campaigns.class.php:515
+#: classes/settings.class.php:257
+#: views/lists/detail.php:146
+#: views/newsletter/details.php:61
+#: views/settings.php:530
+#: views/subscribers/detail.php:359
+msgid "Date"
+msgstr "日付"
+
+#: classes/campaigns.class.php:487
+msgid "Campaign updated. %s"
+msgstr "キャンペーンの更新 %s"
+
+#: classes/campaigns.class.php:492
+msgid "Campaign published. %s"
+msgstr "キャンペーンの発行. %s"
+
+#: classes/campaigns.class.php:494
+msgid "Campaign submitted. %s"
+msgstr "送信されたキャンペーン。%s"
+
+#: classes/campaigns.class.php:494
+msgid "Preview Newsletter"
+msgstr "メルマガプレビュー"
+
+#: views/newsletter/delivery.php:51
+#: views/newsletter/delivery.php:225
+#: views/newsletter/delivery.php:242
+msgctxt "send campaign \"on\" (date) \"at\" (time)"
+msgid "on %1$s @ %2$s"
+msgstr "の %1$s @ %2$s"
+
+#: views/forms/detail.php:378
+#: views/newsletter/details.php:17
+#: views/newsletter/details.php:18
+#: views/newsletter/details.php:59
+msgid "Subject"
+msgstr "件名"
+
+#: views/newsletter/details.php:21
+#: views/newsletter/details.php:22
+#: views/newsletter/details.php:69
+msgid "Preheader"
+msgstr "プレヘッダー"
+
+#: views/newsletter/details.php:29
+#: views/newsletter/details.php:30
+msgid "From Email"
+msgstr "差出人メールアドレス"
+
+#: views/newsletter/details.php:33
+#: views/newsletter/details.php:34
+msgid "reply-to email"
+msgstr "返信先のメールアドレス"
+
+#: views/newsletter/options.php:158
+msgid "Colors Schema"
+msgstr "カラースキーマー"
+
+#: views/newsletter/options.php:102
+#: views/newsletter/options.php:173
+msgid "Background"
+msgstr "背景"
+
+#: classes/campaigns.class.php:493
+msgid "Campaign saved."
+msgstr "キャンペーンを保存"
+
+#: classes/campaigns.class.php:2729
+#: classes/subscribers.class.php:1659
+#: views/newsletter/details.php:75
+#: views/newsletter/details.php:98
+msgid "sent"
+msgstr "送信"
+
+#: classes/campaigns.class.php:1061
+msgid "Move module up"
+msgstr "モジュール移動"
+
+#: classes/campaigns.class.php:1062
+msgid "Move module down"
+msgstr "モジュールを下に移動"
+
+#: classes/campaigns.class.php:1064
+msgid "remove module"
+msgstr "モジュールを削除"
+
+#: classes/campaigns.class.php:1066
+msgid "Add Module"
+msgstr "モジュールを追加"
+
+#: classes/campaigns.class.php:1069
+#: views/newsletter/submit.php:55
+#: views/newsletter/submit.php:105
+#: views/settings.php:377
+#: views/settings.php:387
+#: views/settings.php:397
+#: views/settings.php:407
+#: views/settings.php:436
+#: views/single-newsletter.php:29
+msgid "Edit"
+msgstr "編集"
+
+#: classes/campaigns.class.php:1072
+msgctxt "for the autoimporter"
+msgid "Auto"
+msgstr "自動"
+
+#: classes/campaigns.class.php:1073
+msgid "add button"
+msgstr "[追加] ボタン"
+
+#: views/newsletter/options.php:9
+msgid "save this schema"
+msgstr "このスキーマを保存します。"
+
+#: views/newsletter/editbar.php:160
+msgid "Reload"
+msgstr "リロード"
+
+#: views/newsletter/editbar.php:186
+msgid "Select a post"
+msgstr "記事を選択"
+
+#: classes/manage.class.php:1235
+#: classes/templates.class.php:1216
+#: views/newsletter/editbar.php:300
+#: views/templates.php:49
+#: views/templates.php:57
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: views/newsletter/editbar.php:302
+msgid "remove element"
+msgstr "要素を削除"
+
+#: views/newsletter/options.php:157
+msgid "Embedded Images"
+msgstr "埋め込み画像"
+
+#: views/newsletter/submit.php:36
+#: views/settings.php:1025
+#: views/settings.php:1040
+#: views/settings.php:1206
+msgid "Password"
+msgstr "パスワード"
+
+#: classes/manage.class.php:47
+msgid "Please select the status for the importing contacts!"
+msgstr "この購読者は任意のメルマガを受け取ったことがありません。"
+
+#: classes/campaigns.class.php:1060
+#: classes/helper.class.php:313
+#: views/manage.php:44
+#: views/newsletter/receivers.php:40
+#: views/newsletter/receivers.php:101
+#: views/settings.php:235
+#: views/settings.php:244
+#: views/settings.php:307
+#: views/templates.php:48
+#: views/templates.php:56
+msgid "or"
+msgstr "または"
+
+#: classes/manage.class.php:405
+msgid "Import as"
+msgstr "としてインポート"
+
+#: classes/campaigns.class.php:611
+#: classes/campaigns.class.php:622
+#: classes/campaigns.class.php:2833
+#: classes/campaigns.class.php:2919
+#: views/newsletter/delivery.php:67
+#: views/newsletter/delivery.php:461
+#: views/newsletter/delivery.php:482
+msgid "%1$s of %2$s sent"
+msgstr "%1$s の内の %2$s 送信"
+
+#: classes/campaigns.class.php:178
+#: classes/campaigns.class.php:180
+#: classes/campaigns.class.php:607
+msgid "Paused"
+msgstr "一時停止"
+
+#: classes/campaigns.class.php:220
+msgid "Details"
+msgstr "詳細"
+
+#: classes/campaigns.class.php:221
+msgid "Template"
+msgstr "テンプレート"
+
+#: classes/campaigns.class.php:223
+#: views/settings.php:51
+#: views/settings.php:897
+msgid "Delivery"
+msgstr "詳細"
+
+#: classes/campaigns.class.php:225
+#: classes/settings.class.php:262
+msgid "Options"
+msgstr "オプション"
+
+#: views/settings.php:1105
+msgid "Last hit"
+msgstr "最後のヒット"
+
+#: views/settings.php:1107
+msgid "Interval"
+msgstr "間隔"
+
+#: views/settings.php:1107
+msgctxt "short for minute"
+msgid "min"
+msgstr "最小"
+
+#: classes/subscribers.class.php:1653
+#: views/subscribers/detail.php:75
+#: views/subscribers/detail.php:76
+msgid "Source"
+msgstr "ソース"
+
+#: classes/manage.class.php:338
+#: views/newsletter/receivers.php:108
+#: views/settings.php:515
+#: views/settings.php:605
+msgid "Custom Fields"
+msgstr "ユーザー設定フィールド"
+
+#: classes/campaigns.class.php:1085
+#: classes/lists.class.php:66
+#: classes/subscribers.class.php:91
+msgid "next"
+msgstr "次"
+
+#: classes/campaigns.class.php:1086
+#: classes/forms.class.php:235
+#: classes/lists.class.php:67
+#: classes/subscribers.class.php:92
+msgid "prev"
+msgstr "前"
+
+#: classes/settings.class.php:116
+#: includes/updates.php:32
+msgid "webversion"
+msgstr "ウェブ版"
+
+#: classes/forms.class.php:518
+msgid "Please confirm your Email Address"
+msgstr "あなたのメールアドレスを確認してください。"
+
+#: views/settings.php:817
+msgid "Permanent Tags"
+msgstr "パーマネントタグ"
+
+#: views/settings.php:848
+msgid "Special Tags"
+msgstr "特殊なタグ"
+
+#: views/subscribers/detail.php:100
+#: views/subscribers/detail.php:111
+#: views/subscribers/detail.php:112
+#: views/subscribers/detail.php:113
+#: views/subscribers/detail.php:166
+msgid "use %1$s as placeholder tag to replace it with %2$s"
+msgstr "ひな形タグとして %1$s を使って %2$s と置き換える"
+
+#: includes/functions.php:224
+msgid "Newsletters"
+msgstr "メルマガ"
+
+#: views/settings.php:328
+msgid "Offer share option for your customers"
+msgstr "お客様の共有オプションを提供します。"
+
+#: views/settings.php:332
+msgid "Services"
+msgstr "サービス"
+
+#: views/single-newsletter.php:64
+msgid "Share with %s"
+msgstr "%s を共有します。"
+
+#: classes/subscribers.class.php:1659
+#: classes/subscribers.class.php:1660
+msgid "not yet"
+msgstr "まだない"
+
+#: classes/frontpage.class.php:471
+msgid "There is no content for this newsletter."
+msgstr "このメルマガの内容はありません。"
+
+#: classes/frontpage.class.php:471
+msgid "Add content"
+msgstr "コンテンツを追加"
+
+#: classes/campaigns.class.php:463
+msgid "This Campaign is currently progressing"
+msgstr "このキャンペーンの現在の進行中"
+
+#: classes/ajax.class.php:1456
+msgid "%s is forwarding an email to you!"
+msgstr "%s があなたにメールを転送します ！"
+
+#: classes/campaigns.class.php:190
+#: classes/campaigns.class.php:192
+msgid "Queued"
+msgstr "予約済み"
+
+#: classes/widget.class.php:118
+#: classes/widget.class.php:161
+msgid "Latest Newsletter"
+msgstr "最新のメルマガ"
+
+#: views/single-newsletter.php:64
+msgid "email"
+msgstr "メールアドレス"
+
+#: classes/subscribers.class.php:1656
+#: views/dashboard.php:9
+#: views/settings.php:306
+msgid "edit"
+msgstr "編集"
+
+#: views/newsletter/details.php:75
+msgid "receiver"
+msgid_plural "receivers"
+msgstr[0] "受信者"
+
+#: classes/ajax.class.php:822
+#: classes/campaigns.class.php:2343
+#: views/newsletter/details.php:79
+msgid "opened"
+msgid_plural "opens"
+msgstr[0] "開封"
+
+#: classes/campaigns.class.php:2704
+#: views/dashboard.php:22
+#, fuzzy
+msgid "clicks"
+msgstr "クリック"
+
+#: views/newsletter/details.php:87
+#: includes/updates.php:31
+#, fuzzy
+msgid "unsubscribe"
+msgid_plural "unsubscribes"
+msgstr[0] "解約"
+
+#: views/newsletter/details.php:91
+msgid "bounce"
+msgid_plural "bounces"
+msgstr[0] "拒否"
+
+#: classes/ajax.class.php:861
+msgid "Country"
+msgstr "国"
+
+#: views/settings.php:46
+#: views/settings.php:283
+msgid "Frontend"
+msgstr "フロントエンド"
+
+#: views/single-newsletter.php:45
+#: views/single-newsletter.php:53
+msgid "Share this via %s"
+msgstr "%s 経由でこれを共有します。"
+
+#: views/single-newsletter.php:68
+msgid "Your name"
+msgstr "お名前"
+
+#: views/single-newsletter.php:71
+msgid "Your email address"
+msgstr "あなたのメールアドレス"
+
+#: views/single-newsletter.php:74
+msgid "Your friend's email address"
+msgstr "あなたの友人のメールアドレス"
+
+#: views/single-newsletter.php:77
+msgid "A personal note to your friend"
+msgstr "あなたの友人に個人的なメモ"
+
+#: views/single-newsletter.php:87
+msgid "We respect your privacy. Nothing you enter on this page is saved by anyone"
+msgstr "あなたのプライバシーは尊重されます。このページで入力してことは誰にも保存されません。"
+
+#: views/single-newsletter.php:94
+msgid "Share the link"
+msgstr "リンクを共有"
+
+#: classes/ajax.class.php:861
+#: classes/campaigns.class.php:2703
+#: classes/subscribers.class.php:1660
+#: views/dashboard.php:21
+msgid "opens"
+msgstr "開封"
+
+#: classes/campaigns.class.php:3347
+msgid "Older: %s"
+msgstr "古い: %s"
+
+#: classes/campaigns.class.php:3349
+msgid "Newer: %s"
+msgstr "新しい: %s"
+
+#: views/settings.php:56
+#: views/settings.php:1483
+#: views/settings.php:1490
+msgid "Purchasecode"
+msgstr "購入コード"
+
+#: views/settings.php:1497
+msgid "Disable this tab"
+msgstr "このタブを無効"
+
+#: views/lists/detail.php:129
+msgid "unsubscribe rate"
+msgstr "退会率"
+
+#: views/lists/detail.php:132
+msgid "bounce rate"
+msgstr "拒否率"
+
+#: classes/campaigns.class.php:819
+#: views/newsletter/submit.php:57
+#: views/newsletter/submit.php:62
+msgid "Pause"
+msgstr "一時停止"
+
+#: classes/campaigns.class.php:824
+msgid "Start"
+msgstr "開始"
+
+#: classes/settings.class.php:137
+msgid "All rights reserved"
+msgstr "無断転用禁止"
+
+#: classes/campaigns.class.php:1076
+msgid "Currently selected"
+msgstr "現在選択"
+
+#: classes/subscribers.class.php:97
+msgid "this isn't a valid email address!"
+msgstr "これは有効なメールアドレスではありません ！"
+
+#: views/settings.php:1341
+msgid "Use DomainKeys Identified Mail"
+msgstr "ドメインキーが確認されたメールを使用"
+
+#: views/settings.php:1267
+#: views/settings.php:1341
+msgid "read more"
+msgstr "続きを読む"
+
+#: views/settings.php:1435
+msgid "DKIM often doesn't work out of the box. You may have to contact your email provider to get more information"
+msgstr "DKIM は、多くの場合、Boxから出して動作しません。あなたは、詳細な情報を得るために、メールプロバイダーに連絡しなければならないかもしれません"
+
+#: classes/campaigns.class.php:819
+msgid "Pause Campaign"
+msgstr "一時停止のキャンペーン"
+
+#: classes/campaigns.class.php:824
+msgid "Start Campaign"
+msgstr "開始キャンペーン"
+
+#: classes/campaigns.class.php:816
+msgid "Start now"
+msgstr "今すぐ開始"
+
+#: views/newsletter/submit.php:71
+#: views/newsletter/submit.php:98
+#: views/newsletter/submit.php:106
+#: views/single-newsletter.php:81
+msgid "Send now"
+msgstr "今すぐ送信し"
+
+#: classes/campaigns.class.php:816
+msgid "Start Campaign now"
+msgstr "今すぐキャンペーン開始"
+
+#: classes/campaigns.class.php:1078
+msgid "Preview for %s"
+msgstr "%s のプレビュー"
+
+#: classes/campaigns.class.php:510
+#: views/newsletter/template.php:39
+msgid "Total"
+msgstr "合計"
+
+#: classes/campaigns.class.php:511
+msgid "Open"
+msgstr "開封"
+
+#: classes/campaigns.class.php:512
+#: classes/campaigns.class.php:2672
+#: views/newsletter/template.php:39
+#, fuzzy
+msgid "Clicks"
+msgstr "クリック"
+
+#: classes/campaigns.class.php:513
+#: classes/campaigns.class.php:2674
+msgid "Unsubscribes"
+msgstr "購読解除"
+
+#: classes/campaigns.class.php:514
+#: classes/campaigns.class.php:2675
+#: views/settings.php:1168
+msgid "Bounces"
+msgstr "拒否"
+
+#: classes/ajax.class.php:1469
+msgid "Sorry, we couldn't deliver your message. Please try again later!"
+msgstr "申し訳ありませんが、メッセージを配信できませんでした。再度お試しください！"
+
+#: views/single-newsletter.php:39
+msgid "Share"
+msgstr "共有"
+
+#: classes/campaigns.class.php:938
+msgid "Duplicate Campaign %s"
+msgstr "複製するキャンペーン %s"
+
+#: views/newsletter/details.php:25
+#: views/newsletter/details.php:29
+#: views/newsletter/details.php:33
+msgid "restore default"
+msgstr "既定値に戻す"
+
+#: classes/settings.class.php:556
+msgid "%s is not a valid email address"
+msgstr "%s は有効なメール アドレスではありません。"
+
+#: classes/settings.class.php:908
+msgid "The provided purchasecode %s is invalid"
+msgstr "提供されている購入コード %s が無効です。"
+
+#: views/dashboard.php:77
+#: views/templates.php:112
+#: views/templates.php:119
+#: views/templates.php:228
+#: views/templates.php:245
+msgid "Update to %s"
+msgstr "%s の更新"
+
+#: views/dashboard.php:77
+msgid "Latest"
+msgstr "最新"
+
+#: views/settings.php:606
+msgid "Firstname"
+msgstr "姓名"
+
+#: views/settings.php:606
+msgid "Lastname"
+msgstr "氏名"
+
+#: views/manage.php:128
+msgid "Export Subscribers"
+msgstr "購読者をエクスポート"
+
+#: classes/forms.table.class.php:80
+#: classes/mymail.class.php:535
+#: classes/settings.class.php:233
+#: classes/settings.class.php:236
+#: views/forms/detail.php:87
+msgid "Settings"
+msgstr "設定"
+
+#: classes/settings.class.php:859
+msgid "The caching time for tweets must be at least %d minutes"
+msgstr "つぶやきのキャッシュ時間で少なくとも %d 分あります。"
+
+#: views/templates.php:152
+msgid "Edit HTML"
+msgstr "HTML編集"
+
+#: classes/ajax.class.php:1664
+msgid "Country DB successfully loaded!"
+msgstr "国 DB は正常に読み込まれました ！"
+
+#: classes/ajax.class.php:1661
+msgid "Couldn't load Country DB"
+msgstr "国 DB を読み込むことができませんでした。"
+
+#: views/settings.php:234
+msgid "Track Countries in Campaigns"
+msgstr "キャンペーンで国を追跡します。"
+
+#: views/settings.php:261
+msgid "Your IP"
+msgstr "あなたのIPアドレス"
+
+#: views/settings.php:37
+msgid "%d campaign is active. You should pause it before you change the settings!"
+msgid_plural "%d campaigns are active. You should pause them before you change the settings!"
+msgstr[0] "%d キャンペーンはアクティブです。設定を変更する前に、それを一時停止する必要があります ！"
+
+#: views/settings.php:259
+msgid "If you don't find your country down below the geo database is missing or corrupt"
+msgstr "あなたが下に国が見つからない場合は、GEOデータベースはなくなっているか不正です。"
+
+#: views/settings.php:262
+#: views/settings.php:264
+msgid "Last update"
+msgstr "最後の更新"
+
+#: views/settings.php:262
+msgid "Your country"
+msgstr "あなたの国"
+
+#: classes/settings.class.php:101
+msgid "Please confirm your subscription!"
+msgstr "購読申し込みを確認してください ！"
+
+#: classes/forms.class.php:924
+msgid "Default Form"
+msgstr "既定のフォーム"
+
+#: classes/forms.class.php:506
+#: classes/forms.table.class.php:12
+#: classes/subscribers.class.php:571
+#: classes/widget.class.php:28
+msgid "Form"
+msgstr "フォーム"
+
+#: classes/forms.class.php:184
+#: classes/forms.class.php:445
+#: classes/forms.table.class.php:13
+#: views/forms/overview.php:3
+#: views/settings.php:517
+msgid "Forms"
+msgstr "フォーム"
+
+#: classes/forms.table.class.php:71
+#: classes/lists.class.php:300
+msgid "undefined"
+msgstr "未定義"
+
+#: classes/widget.class.php:34
+msgid "add form"
+msgstr "フォーム追加"
+
+#: views/settings.php:516
+msgid "Custom field tags are individual tags for each subscriber. You can ask for them on subscription and/or make it a required field."
+msgstr "カスタムフィールドのタグは、各購読者の個別タグです。規約の同意を求めるや必須フィールドを作ることができます。"
+
+#: views/settings.php:811
+msgid "Tags are placeholder for your newsletter. You can set them anywhere in your newsletter template with the format %s. Custom field tags are induvidual for each subscriber."
+msgstr "タグは、あなたのメルマガのひな形です。%s 形式であなたのメルマガのテンプレートでそれらを任意の場所に設定できます。カスタムフィールドのタグは、各購読者に対して個別です。"
+
+#: views/settings.php:814
+msgid "reserved tags"
+msgstr "予約タグ"
+
+#: views/settings.php:819
+msgid "These are permanent tags which cannot get deleted. The CAN-SPAM tag is required in many countries."
+msgstr "これらの固定タグを削除することができません。CAN-SPAMタグは、多くの国で必要とされます。"
+
+#: classes/campaigns.class.php:1080
+#: views/settings.php:819
+msgid "Read more"
+msgstr "続きを読む"
+
+#: views/settings.php:834
+msgid "Add your custom tags here. They work like permanent tags"
+msgstr "ここにあなたのカスタムタグを追加します。固定タグのような働きをします。"
+
+#: views/settings.php:1177
+msgid "Undeliverable emails will return to this address"
+msgstr "配信不能メールはこのアドレスに戻る"
+
+#: views/settings.php:946
+#: views/settings.php:1242
+msgid "You have to save your settings before you can test them!"
+msgstr "それらをテストする前に、設定を保存する必要があります！"
+
+#: views/settings.php:1498
+msgid "If you disable this tab you cannot access it anymore from the settings page. If you would like to bring it back delete the %1$s option from the %2$s table"
+msgstr "このタブを無効にする場合は 設定ページからもうアクセスできません。それを戻す場合 %1$s のオプションを %2$s のテーブルから削除します。"
+
+#: views/settings.php:812
+msgid "You can set alternative content with %1$s which will be uses if %2$s is not defined. All unused tags will get removed in the final message"
+msgstr "%2$s が定義されていない場合、使用される %1$s を代替コンテンツとして設定できます。未使用のすべてのタグは、最後のメッセージに削除されます。"
+
+#: classes/ajax.class.php:1448
+msgid "Please fill out all fields correctly!"
+msgstr "すべてのフィールドを正しく記入してください ！"
+
+#: classes/widget.class.php:9
+msgid "Newsletter Signup Form"
+msgstr "メルマガ登録フォーム"
+
+#: classes/widget.class.php:10
+msgid "Sign Up form for the newsletter"
+msgstr "メルマガの登録フォーム"
+
+#: classes/widget.class.php:16
+msgid "Newsletter sign up"
+msgstr "メルマガ登録"
+
+#: classes/widget.class.php:91
+msgid "Newsletter List"
+msgstr "メルマガ一覧"
+
+#: classes/widget.class.php:92
+msgid "Display the most recent newsletters"
+msgstr "最も最近のメルマガを表示します。"
+
+#: classes/settings.class.php:267
+msgid "%s is a reserved tag!"
+msgstr "%s は、予約済みのタグです！"
+
+#: views/newsletter/receivers.php:139
+#: views/newsletter/receivers.php:254
+msgid "Total receivers"
+msgstr "すべての予約"
+
+#: classes/manage.class.php:62
+msgid "Import complete!"
+msgstr "インポートが完了しました ！"
+
+#: views/settings.php:851
+msgid "displays the last tweet from Twitter user [username] (cache it for %s minutes)"
+msgstr "[username] の Twitter ユーザーから最後のつぶやきが表示されます (%s 分キャッシュ)"
+
+#: classes/settings.class.php:106
+#: includes/updates.php:46
+msgid "An error occurred! Please try again later!"
+msgstr "エラーが発生しました ！後ほどお試しください ！"
+
+#: classes/forms.class.php:517
+msgid "Please confirm"
+msgstr "確認してください。"
+
+#: classes/forms.class.php:520
+msgid "Click here to confirm"
+msgstr "確認するにはここをクリック"
+
+#: classes/settings.class.php:103
+msgid "Following fields are missing or incorrect"
+msgstr "次のフィールドが存在しないか正しくないです。"
+
+#: classes/settings.class.php:105
+msgid "You have successfully unsubscribed!"
+msgstr "あなたの購読解除は正常に完了！"
+
+#: views/forms/detail.php:382
+msgid "Headline"
+msgstr "見出し"
+
+#: views/forms/detail.php:386
+msgid "Linktext"
+msgstr "リンクテキスト"
+
+#: views/forms/detail.php:390
+msgid "Text"
+msgstr "テキスト"
+
+#: views/settings.php:768
+msgid "Confirmation"
+msgstr "確認"
+
+#: views/settings.php:769
+msgid "Successful"
+msgstr "成功しました。"
+
+#: views/forms/detail.php:122
+#: views/forms/detail.php:155
+#: views/settings.php:770
+msgid "Error Message"
+msgstr "エラーメッセージ"
+
+#: views/settings.php:1099
+msgid "You can setup an interval as low as one minute, but should consider a reasonable value of 5-15 minutes as well."
+msgstr "最低1分間隔でを設定することができますが、5〜15分などの合理的な値を考慮する必要があります。"
+
+#: views/settings.php:1100
+msgid "If you need help setting up a cron job please refer to the documentation that your provider offers."
+msgstr "Cron ジョブの設定にヘルプが必要な場合は、お使いのプロバイダーのマニュアルを参照してください。"
+
+#: views/settings.php:1101
+msgid "Anyway, chances are high that either %1$s, %2$s or %3$s  documentation will help you."
+msgstr "とにかく、可能性が高い %1$s 、%2$s または %3$s のマニュアルが役立ちます。"
+
+#: views/settings.php:327
+msgid "Share Button"
+msgstr "共有ボタン"
+
+#: views/settings.php:1067
+msgid "Optional if a real cron service is used"
+msgstr "本物の cron サービスを使用する場合は、オプション"
+
+#: views/settings.php:1492
+msgid "Enter your purchasecode to enable automatic updates"
+msgstr "自動更新を有効にするためのあなたの購入コードを入力してください。"
+
+#: views/single-newsletter.php:85
+msgid "or send it with your mail application"
+msgstr "メールアプリケーションで送信または"
+
+#: views/settings.php:113
+msgid "show Templates"
+msgstr "テンプレートを表示"
+
+#: classes/ajax.class.php:1173
+#: classes/ajax.class.php:1218
+msgid "no entries found"
+msgstr "エントリが見つかりません"
+
+#: views/settings.php:862
+#: views/settings.php:863
+#: views/settings.php:864
+#: views/settings.php:865
+msgid "displays %1$s to share the newsletter via %2$s"
+msgstr "%2$s を経由してメルマガを共有するには %1$s を表示します"
+
+#: views/settings.php:117
+msgid "Send delay"
+msgstr "送信遅延"
+
+#: views/settings.php:118
+msgid "The default delay in minutes for sending campaigns."
+msgstr "キャンペーンを送信するためのデフォルトの遅延の分。"
+
+#: views/settings.php:1215
+msgid "Delete messages without tracking code to keep postbox clear (recommended)"
+msgstr "投稿ボックスのクリアを保持するトラッキングコードなしでメッセージを削除します。(推奨) "
+
+#: classes/ajax.class.php:1464
+msgid "%1$s is forwarding this mail to you via %2$s"
+msgstr "%1$s は %2$s 経由であなたにこのメールを転送します。"
+
+#: classes/campaigns.class.php:1077
+msgid "An empty link will remove this button! Continue?"
+msgstr "空のリンクは、このボタンが削除されます ！続行しますか？"
+
+#: views/newsletter/editbar.php:74
+#: views/newsletter/editbar.php:102
+#: views/newsletter/editbar.php:171
+msgid "insert URL"
+msgstr "URL 挿入"
+
+#: classes/campaigns.class.php:1570
+msgid "You are not allowed to pause campaigns."
+msgstr "キャンペーンを一時停止することはできません。"
+
+#: classes/campaigns.class.php:1591
+msgid "You are not allowed to start campaigns."
+msgstr "キャンペーンを開始するはできません。"
+
+#: classes/campaigns.class.php:1700
+msgid "You are not allowed to duplicate campaigns."
+msgstr "キャンペーンを複製することはできません。"
+
+#: includes/capability.php:5
+msgid "edit campaigns"
+msgstr "キャンペーン編集"
+
+#: includes/capability.php:10
+msgid "send campaigns"
+msgstr "キャンペーン送信"
+
+#: includes/capability.php:15
+msgid "delete campaigns"
+msgstr "キャンペーンを削除"
+
+#: includes/capability.php:20
+msgid "edit others campaigns"
+msgstr "その他のキャンペーン編集"
+
+#: includes/capability.php:25
+msgid "delete others campaigns"
+msgstr "その他のキャンペーン削除"
+
+#: includes/capability.php:30
+msgid "duplicate campaigns"
+msgstr "キャンペーン複製"
+
+#: includes/capability.php:35
+msgid "duplicate others campaigns"
+msgstr "他のキャンペーン複製"
+
+#: includes/capability.php:51
+msgid "change template"
+msgstr "テンプレート変更"
+
+#: includes/capability.php:60
+msgid "see codeview"
+msgstr "コード表示参照"
+
+#: includes/capability.php:71
+msgid "edit subscribers"
+msgstr "購読者の編集"
+
+#: includes/capability.php:81
+msgid "delete subscribers"
+msgstr "購読者を削除"
+
+#: includes/capability.php:132
+msgid "edit lists"
+msgstr "リストを編集"
+
+#: includes/capability.php:137
+msgid "delete lists"
+msgstr "リスト削除"
+
+#: includes/capability.php:107
+msgid "import subscribers"
+msgstr "購読者をインポート"
+
+#: includes/capability.php:117
+msgid "export subscribers"
+msgstr "購読者をエクスポート"
+
+#: includes/capability.php:144
+msgid "manage templates"
+msgstr "テンプレート管理"
+
+#: includes/capability.php:149
+msgid "edit templates"
+msgstr "テンプレート編集"
+
+#: includes/capability.php:154
+msgid "delete templates"
+msgstr "テンプレート削除"
+
+#: includes/capability.php:159
+msgid "upload templates"
+msgstr "テンプレート更新"
+
+#: includes/capability.php:169
+msgid "see dashboard widget"
+msgstr "ダッシュボードウィジェット参照"
+
+#: views/settings.php:53
+#: views/settings.php:1116
+msgid "Capabilities"
+msgstr "機能"
+
+#: views/settings.php:1150
+msgid "%1$s can %2$s"
+msgstr "%1$s ができる %2$s"
+
+#: views/settings.php:1121
+msgid "Define capabilities for each user role. To add new roles you can use a third party plugin. Administrator has always all privileges"
+msgstr "各ユーザー権限の機能を定義します。新しい権限を追加するサードパーティのプラグインを使用できます。管理者は常にすべての権限を持っています。"
+
+#: classes/campaigns.class.php:845
+msgid "%d emails have not been sent"
+msgstr "%d 個のメールが送信されていません。"
+
+#: classes/settings.class.php:249
+#: views/settings.php:537
+msgid "Field Name"
+msgstr "フィールド名"
+
+#: classes/settings.class.php:250
+#: views/settings.php:538
+msgid "Tag"
+msgstr "タグ"
+
+#: classes/settings.class.php:251
+#: views/settings.php:539
+msgid "Type"
+msgstr "種類"
+
+#: classes/settings.class.php:252
+#: views/settings.php:525
+msgid "Textfield"
+msgstr "テキストフィールド"
+
+#: classes/settings.class.php:254
+#: views/settings.php:527
+msgid "Dropdown Menu"
+msgstr "ドロップダウンメニュー"
+
+#: classes/settings.class.php:255
+#: views/settings.php:528
+msgid "Radio Buttons"
+msgstr "ラジオボタン"
+
+#: classes/settings.class.php:258
+#: views/settings.php:555
+msgid "default"
+msgstr "既定"
+
+#: classes/settings.class.php:260
+#: views/settings.php:555
+#: views/settings.php:562
+msgid "this field is selected by default"
+msgstr "このフィールドが既定で選択されています。"
+
+#: classes/settings.class.php:261
+#: views/settings.php:558
+msgid "add field"
+msgstr "フィールドを追加"
+
+#: classes/settings.class.php:264
+#: views/forms/detail.php:117
+#: views/forms/detail.php:151
+#: views/settings.php:555
+#: views/settings.php:564
+msgid "remove field"
+msgstr "フィールド削除"
+
+#: classes/settings.class.php:265
+#: views/settings.php:535
+msgid "move up"
+msgstr "上に移動"
+
+#: classes/settings.class.php:266
+#: views/settings.php:536
+msgid "move down"
+msgstr "下に移動"
+
+#: views/subscribers/detail.php:394
+msgid "Error"
+msgstr "エラー"
+
+#: classes/subscribers.class.php:1978
+#: classes/subscribers.table.class.php:196
+msgid "subscribed"
+msgstr "購読済み"
+
+#: classes/subscribers.class.php:1979
+#: classes/subscribers.table.class.php:197
+msgid "unsubscribed"
+msgstr "購読解除"
+
+#: classes/subscribers.class.php:1980
+msgid "hardbounced"
+msgstr "通知拒否"
+
+#: views/settings.php:49
+#: views/settings.php:759
+msgid "Texts"
+msgstr "テキスト"
+
+#: views/settings.php:766
+msgid "Define messages for the subscription form"
+msgstr "購読フォームのメッセージを定義します。"
+
+#: views/settings.php:780
+msgid "Field Labels"
+msgstr "フィールドのラベル"
+
+#: views/settings.php:780
+msgid "Define texts for the labels of forms. Custom field labels can be defined on the Subscribers tab"
+msgstr "フォームのラベルのテキストを定義します。購読者タブでカスタムフィールドラベルを定義できます。"
+
+#: views/settings.php:786
+msgid "Submit Button"
+msgstr "送信ボタン"
+
+#: views/settings.php:794
+msgid "Mail"
+msgstr "メール"
+
+#: views/settings.php:794
+msgid "Define texts for the mails"
+msgstr "テキストメールを定義します。"
+
+#: views/settings.php:796
+msgid "Unsubscribe Link"
+msgstr "購読解除リンク"
+
+#: views/settings.php:797
+msgid "Webversion Link"
+msgstr "ウェブ版リンク"
+
+#: classes/settings.class.php:114
+#: includes/updates.php:30
+msgid "Yes, unsubscribe me"
+msgstr "はい、購読登録の解除します。"
+
+#: views/settings.php:788
+msgid "Unsubscribe Button"
+msgstr "購読解除ボタン"
+
+#: classes/campaigns.class.php:221
+msgid "Clickmap"
+msgstr "クリックマップ"
+
+#: classes/campaigns.class.php:1091
+msgid "Delete this color schema?"
+msgstr "この色のスキーマを削除しますか？"
+
+#: views/newsletter/options.php:71
+msgid "current"
+msgstr "現在"
+
+#: views/newsletter/options.php:9
+msgid "Colors"
+msgstr "色"
+
+#: classes/dashboard.class.php:60
+#: classes/campaigns.class.php:201
+#: classes/campaigns.class.php:205
+#: classes/campaigns.class.php:239
+#, fuzzy
+msgid "Autoresponder"
+msgid_plural "Autoresponders"
+msgstr[0] "自動返信機能"
+
+#: classes/campaigns.class.php:205
+msgid "Autoresponders"
+msgstr "自動返信機能"
+
+#: classes/campaigns.class.php:657
+#: views/settings.php:444
+msgid "active"
+msgstr "アクティブ"
+
+#: classes/campaigns.class.php:657
+msgid "inactive"
+msgstr "アクティブではない"
+
+#: classes/campaigns.class.php:719
+#: classes/campaigns.class.php:727
+#: views/newsletter/delivery.php:120
+#: views/newsletter/delivery.php:123
+#: views/newsletter/delivery.php:146
+msgid "after"
+msgstr "後"
+
+#: classes/campaigns.class.php:764
+#: views/newsletter/delivery.php:266
+#: views/newsletter/receivers.php:36
+#: views/newsletter/receivers.php:198
+msgid "only if"
+msgstr "場合にのみ"
+
+#: classes/campaigns.class.php:782
+#: views/newsletter/receivers.php:218
+msgid "%s is missing!"
+msgstr "%s が見つかりません。"
+
+#: classes/campaigns.class.php:798
+msgid "activate"
+msgstr "アクティブ化"
+
+#: classes/campaigns.class.php:800
+msgid "deactivate"
+msgstr "非アクティブ化"
+
+#: includes/autoresponder.php:6
+msgid "minute(s)"
+msgstr "分"
+
+#: classes/campaigns.class.php:663
+#: includes/autoresponder.php:7
+#: views/newsletter/delivery.php:210
+msgid "hour(s)"
+msgstr "時間"
+
+#: classes/campaigns.class.php:664
+#: includes/autoresponder.php:8
+#: views/newsletter/delivery.php:211
+#: views/newsletter/delivery.php:324
+msgid "day(s)"
+msgstr "日"
+
+#: includes/autoresponder.php:15
+msgid "user signed up"
+msgstr "ユーザーの登録"
+
+#: includes/autoresponder.php:19
+msgid "user unsubscribed"
+msgstr "ユーザーの登録解除"
+
+#: classes/campaigns.class.php:768
+#: views/newsletter/editbar.php:24
+#: views/newsletter/receivers.php:80
+#: views/newsletter/receivers.php:202
+msgid "is"
+msgstr "は"
+
+#: classes/campaigns.class.php:769
+#: views/newsletter/editbar.php:25
+#: views/newsletter/receivers.php:81
+#: views/newsletter/receivers.php:203
+msgid "is not"
+msgstr "ありません"
+
+#: classes/campaigns.class.php:770
+#: views/newsletter/editbar.php:26
+#: views/newsletter/receivers.php:82
+#: views/newsletter/receivers.php:204
+msgid "contains"
+msgstr "含まれています"
+
+#: classes/campaigns.class.php:771
+#: views/newsletter/editbar.php:27
+#: views/newsletter/receivers.php:83
+#: views/newsletter/receivers.php:205
+msgid "contains not"
+msgstr "含まれていません"
+
+#: classes/campaigns.class.php:772
+#: views/newsletter/editbar.php:28
+#: views/newsletter/receivers.php:84
+#: views/newsletter/receivers.php:206
+msgid "begins with"
+msgstr "で始まる"
+
+#: classes/campaigns.class.php:773
+#: views/newsletter/editbar.php:29
+#: views/newsletter/receivers.php:85
+#: views/newsletter/receivers.php:207
+msgid "ends with"
+msgstr "を終わる"
+
+#: includes/capability.php:40
+msgid "edit autoresponders"
+msgstr "自動返信を編集"
+
+#: includes/capability.php:45
+msgid "edit others autoresponders"
+msgstr "その他の自動返信を編集"
+
+#: views/newsletter/delivery.php:26
+msgid "Regular Campaign"
+msgstr "定期的なキャンペーン"
+
+#: views/newsletter/delivery.php:46
+msgid "send this campaign"
+msgstr "このキャンペーンを送信します。"
+
+#: views/newsletter/receivers.php:40
+msgid "one of the conditions is true"
+msgstr "条件のいずれかに該当"
+
+#: classes/helper.class.php:315
+#: views/newsletter/receivers.php:41
+#: views/newsletter/receivers.php:100
+msgid "and"
+msgstr "と"
+
+#: views/newsletter/receivers.php:41
+msgid "all of the conditions are true"
+msgstr "すべての条件に当てはまる"
+
+#: views/newsletter/receivers.php:103
+msgid "remove condition"
+msgstr "条件を削除します"
+
+#: views/newsletter/receivers.php:136
+msgid "add condition"
+msgstr "条件を追加"
+
+#: classes/campaigns.class.php:741
+#: views/newsletter/receivers.php:164
+msgid "no lists selected"
+msgstr "選択したリストはありません。"
+
+#: classes/campaigns.class.php:1783
+msgid "%d job deleted"
+msgid_plural "%d jobs deleted"
+msgstr[0] "%d ジョブの削除"
+
+#: views/newsletter/options.php:153
+msgid "background images are not displayed on all clients!"
+msgstr "すべてのクライアントで、背景画像は表示されません ！"
+
+#: classes/templates.class.php:422
+msgid "You are about to delete this template \"%s\""
+msgstr "このテンプレート \"%s\" を削除しようとしている"
+
+#: classes/campaigns.class.php:489
+msgid "Template saved"
+msgstr "テンプレートの保存"
+
+#: classes/campaigns.class.php:634
+msgid "less than a minute"
+msgstr "1分未満"
+
+#: classes/template.class.php:175
+#: classes/templates.class.php:954
+msgid "Base"
+msgstr "基本"
+
+#: classes/template.class.php:176
+#: classes/templates.class.php:958
+#: views/settings.php:467
+msgid "Notification"
+msgstr "通知"
+
+#: views/newsletter/optionbar.php:6
+msgid "remove modules"
+msgstr "モジュール削除"
+
+#: views/newsletter/optionbar.php:14
+msgid "preview"
+msgstr "プレビュー"
+
+#: views/newsletter/optionbar.php:3
+msgid "undo"
+msgstr "元に戻す"
+
+#: views/newsletter/optionbar.php:4
+msgid "redo"
+msgstr "やり直し"
+
+#: views/newsletter/optionbar.php:9
+msgid "toggle HTML/code view"
+msgstr "HTML/コードビューを切り替える"
+
+#: views/newsletter/optionbar.php:42
+msgid "Your currently working with %s"
+msgstr "現在 %s での作業"
+
+#: includes/capability.php:55
+#: views/newsletter/optionbar.php:19
+msgid "save template"
+msgstr "テンプレート保存"
+
+#: views/newsletter/optionbar.php:23
+msgid "Save Template"
+msgstr "テンプレート保存"
+
+#: views/newsletter/optionbar.php:25
+msgid "template name"
+msgstr "テンプレート名"
+
+#: views/settings.php:906
+msgid "Depending on your hosting provider you can increase these values"
+msgstr "ホスティング プロバイダーに応じてこれらの値を増やすことができます。"
+
+#: views/settings.php:1095
+msgid "call it directly"
+msgstr "直接呼び出す"
+
+#: views/settings.php:1097
+msgid "or set up a cron"
+msgstr "または cron を設定"
+
+#: classes/campaigns.class.php:719
+#: classes/campaigns.class.php:727
+msgid "send %1$s %2$s %3$s"
+msgstr "送信 %1$s %2$s %3$s"
+
+#: classes/campaigns.class.php:719
+#: classes/campaigns.class.php:727
+msgid "immediately"
+msgstr "すぐに"
+
+#: classes/ajax.class.php:618
+#: classes/campaigns.class.php:2968
+#: classes/mail.class.php:156
+msgid "Sent limit of %1$s reached! You have to wait %2$s before you can send more mails!"
+msgstr "%1$s の送信制限に達した！ もっとメールを送信する前にあなたは %2$s を待機する必要があります！"
+
+#: views/settings.php:772
+msgid "Unsubscribe Error"
+msgstr "購読解除エラー"
+
+#: classes/cron.class.php:71
+#: views/settings.php:904
+msgid "Number of mails sent"
+msgstr "メール送信の数"
+
+#: views/settings.php:905
+msgid "Send max %1$s emails at once and max %2$s within %3$s hours"
+msgstr "%3$s 時間以内に一度と最大 %2$s で最大 %1$s のメールを送ってください"
+
+#: views/settings.php:917
+msgid "You can still send %1$s mails within the next %2$s"
+msgstr "次の %2$s 内の %1$s にメールを送信できます。"
+
+#: classes/ajax.class.php:302
+msgid "Unable to save template!"
+msgstr "テンプレートを保存することができません。"
+
+#: views/newsletter/optionbar.php:29
+msgid "overwrite if exists"
+msgstr "上書きが存在します。"
+
+#: includes/capability.php:174
+msgid "manage capabilities"
+msgstr "管理機能"
+
+#: views/forms/detail.php:555
+msgid "check this option to include the style.css of your theme into the form"
+msgstr "このオプションをオンであなたのテーマの style.css をフォームに含める"
+
+#: views/forms/detail.php:555
+msgid "include themes style.css"
+msgstr "テーマ style.css を含める"
+
+#: classes/ajax.class.php:1679
+msgid "City DB successfully loaded!"
+msgstr "都市 DB は正常に読み込まれました ！"
+
+#: classes/ajax.class.php:1676
+msgid "Couldn't load City DB"
+msgstr "都市 DB を読み込むことができませんでした。"
+
+#: classes/ajax.class.php:1595
+msgid "Not able to save file!"
+msgstr "ファイルを保存することはできません ！"
+
+#: classes/ajax.class.php:1591
+msgid "File has been saved!"
+msgstr "ファイルが保存されている ！"
+
+#: classes/ajax.class.php:872
+msgid "back to world view"
+msgstr "世界のビューに戻る"
+
+#: views/settings.php:136
+msgid "Post List Count"
+msgstr "リストの投稿の数"
+
+#: views/settings.php:137
+msgid "Number of posts or images displayed at once in the editbar."
+msgstr "記事や、editbar に一度に表示される画像の数。"
+
+#: views/settings.php:243
+msgid "Track Cities in Campaigns"
+msgstr "キャンペーンでのトラックの都市"
+
+#: classes/settings.class.php:117
+#: classes/update.class.php:1087
+#: includes/updates.php:61
+msgid "forward to a friend"
+msgstr "友達に転送します。"
+
+#: views/settings.php:231
+msgid "Track Geolocation"
+msgstr "地理位置情報を追跡します。"
+
+#: views/settings.php:250
+msgid "The city DB is about 12 MB. It can take a while to load it"
+msgstr "DB 都市は約 12 MB です。それをロードする時間がかかることができます。"
+
+#: views/settings.php:264
+msgid "Your city"
+msgstr "あなたの都市"
+
+#: views/forms/detail.php:311
+msgid "place labels inside input fields"
+msgstr "入力フィールド内のラベルを配置します。"
+
+#: views/forms/detail.php:356
+msgid "assign new lists automatically to this form"
+msgstr "このフォームに新しいリストを自動的に割り当てる"
+
+#: views/settings.php:798
+msgid "Forward Link"
+msgstr "前方リンク"
+
+#: classes/settings.class.php:268
+msgid "You are about to create new DKIM keys. The old ones will get deleted. Continue?"
+msgstr "新しい DKIM キーを作成しようとしています。古いものが削除されてしまいます。続行しますか。"
+
+#: classes/settings.class.php:458
+msgid "New DKIM keys have been created!"
+msgstr "新しい DKIM キーが作成されました！"
+
+#: classes/settings.class.php:462
+msgid "Not able to create new DKIM keys!"
+msgstr "新しい DKIM キーを作成することはできません ！"
+
+#: classes/manage.class.php:1124
+msgid "no subscribers removed"
+msgstr "購読者を削除"
+
+#: classes/manage.class.php:63
+msgid "You are about to delete these subscribers permanently. This step is irreversible!"
+msgstr "これらの購読者を永久に削除しようとしています。これは元に戻すことができません ！"
+
+#: classes/manage.class.php:63
+msgid "Type \"%s\" to confirm deletion"
+msgstr "\"%s\" タイプの削除を確認する"
+
+#: views/settings.php:55
+#: views/settings.php:1252
+msgid "Authentication"
+msgstr "認証"
+
+#: views/settings.php:322
+msgid "Pagination"
+msgstr "改ページ調整"
+
+#: views/settings.php:323
+msgid "Allow users to view the next/last newsletters"
+msgstr "次/最後のメルマガを表示することができます。"
+
+#: views/settings.php:498
+msgid "Save Subscriber IP"
+msgstr "購読者IPの保存"
+
+#: views/settings.php:499
+msgid "Save IP address and time of new subscribers"
+msgstr "新しい購読者のIPアドレスと時間を保存します。"
+
+#: views/settings.php:500
+msgid "In some countries it's required to save the IP address and the sign up time for legal reasons. Please add a note in your privacy policy if you save users data"
+msgstr "一部の国では、法的理由のためにIPアドレスと登録時間を保存することを要求されます。あなたがユーザーのデータを取っておくならば、あなたのプライバシーポリシーでメモを加えてください"
+
+#: views/settings.php:941
+msgid "Send test email with current settings"
+msgstr "現在のセッティングでテストメールを送ってください"
+
+#: views/settings.php:963
+msgid "Delivery Method"
+msgstr "配信方法"
+
+#: views/settings.php:976
+msgid "use this option if you don't have access to a SMTP server or any other provided options"
+msgstr "SMTP サーバーまたは他の指定オプションへのアクセスを持っていない場合にこのオプションを使用します。"
+
+#: views/settings.php:937
+#: views/settings.php:1003
+msgid "seconds"
+msgstr "秒"
+
+#: views/settings.php:1032
+msgid "Gmail has a limit of 500 mails within 24 hours! Also sending a mail can take up to one second which is quite long. This options is only recommended for few subscribers. DKIM works only if set the from address to your Gmail address."
+msgstr "Gmail は 24 時間以内の通知を 500 件までに制限しています ！また、メールを送信する期間を最長1秒未満にすることができます。このオプションはほとんどの購読者に推奨されません。DKIMの差出人アドレスにアナタのGmail アドレスを設定する場合にのみ利用してください。"
+
+#: views/settings.php:1181
+msgid "enable automatic bounce handling"
+msgstr "自動拒否処理の有効化"
+
+#: views/settings.php:1190
+msgid "If you would like to enable bouncing you have to setup a separate POP3 mail account"
+msgstr "拒否を有効にする場合は、個別の POP3 メールアカウントを設定する必要があります。"
+
+#: views/settings.php:1198
+msgid "Use SSL. Default port is 995"
+msgstr "SSL を使用します。既定のポートは 995"
+
+#: views/settings.php:1214
+msgid "Delete messages"
+msgstr "メッセージを削除します。"
+
+#: views/settings.php:1261
+msgid "You need to change the namespace records of your domain if you would like to use one of these methods. Ask your provider how to add \"TXT namespace records\". Changes take some time to get published on all DNS worldwide."
+msgstr "これらのメソッドのいずれかを使用する場合は、ドメインの名前空間のレコードを変更する必要があります。\"TXT namespace records\" を追加する方法をプロバイダーに問い合わせてください。世界中のすべての DNS で公開されて取得するいくつかの変更に時間がかかります。"
+
+#: views/settings.php:1267
+msgid "Use Sender Policy Framework"
+msgstr "送信者ポリシー フレームワークを使用します。"
+
+#: views/settings.php:1305
+#: views/settings.php:1307
+#: views/settings.php:1388
+#: views/settings.php:1390
+msgid "Domain %s"
+msgstr "ドメイン %s"
+
+#: views/settings.php:1305
+msgid "TXT record found"
+msgstr "TXT レコードが見つかりません"
+
+#: views/settings.php:1307
+msgid "no TXT record found"
+msgstr "TXT レコードがありません。"
+
+#: views/settings.php:1308
+#: views/settings.php:1391
+msgid "No or wrong record found for %s. Please adjust the namespace records and add these lines:"
+msgstr "レコード %s が見つかりません。ないか間違っています。ネームスペースのレコードを調整し、これらの行を追加してください:"
+
+#: views/settings.php:1326
+msgid "SPF doesn’t require any configuration on this settings page. This should give you some help to set it up correctly. If this SPF configuration doesn't work or your mails returned as spam you should ask your provider for help or change your delivery method or try %s"
+msgstr "SPF は、この設定のページの構成を必要としません。これを正しく設定するいくつかの助けを与える必要があります。この SPF 構成が動作しない、またはあなたのメールはスパムとして返される場合は設定する必要があります。ヘルプよりプロバイダーに問い合わせて配信方法を変更または %s にしてみてください。"
+
+#: views/settings.php:1326
+msgid "this wizard"
+msgstr "このウィザード"
+
+#: views/settings.php:1333
+msgid "The domain you would like to add a SPF record"
+msgstr "SPF レコードを追加するドメイン"
+
+#: views/settings.php:1388
+msgid "verified"
+msgstr "検証"
+
+#: views/settings.php:1390
+msgid "not verified"
+msgstr "未認証"
+
+#: views/settings.php:1407
+msgid "The domain you have set the TXT namespace records"
+msgstr "アナタがTXTネームスペースレコードを設定してもらう領域"
+
+#: views/settings.php:1419
+#: views/settings.php:1425
+msgid "You can leave this field blank unless you know what you do"
+msgstr "何をするかについてわからない場合は、あなたはこのフィールドを空のままにすることができます。"
+
+#: views/settings.php:1431
+msgid "Keys"
+msgstr "キー"
+
+#: views/settings.php:1434
+msgid "If you have defined the domain and a selector you have to generate a public and a private key. Once created you have to add some TXT namespace records at your mail provider"
+msgstr "ドメインと、セレクターに定義されている場合、公開および秘密キーを生成する必要があります。一度作成したメール プロバイダーでいくつかの名前空間の TXT レコードを追加する必要があります。"
+
+#: views/settings.php:1436
+msgid "Changing namespace entries can take up to 48 hours to take affect around the world."
+msgstr "ネームスペースのエントリを変更するまで場合によっては 48 時間程度の時間がかかる場合があります。"
+
+#: views/settings.php:1437
+msgid "It's recommend to change the keys occasionally"
+msgstr "時折キーを変えることを推奨します。"
+
+#: views/settings.php:1438
+msgid "If you change one of the settings above new keys are required"
+msgstr "新しいキーの上の設定のいずれかを変更する場合は必須"
+
+#: views/settings.php:1439
+msgid "Some providers don't allow TXT records with a specific size. Choose less bits in this case"
+msgstr "一部のプロバイダーは、特定のサイズで TXT レコードを許可しないでください。この場合より少ないビット数を選択してください。"
+
+#: views/settings.php:1453
+msgid "Private keys should be kept private. Don't share them or post it somewhere"
+msgstr "秘密キーは非公開にする必要があります。それらを共有するまたはどこかに投稿しないでください。"
+
+#: views/settings.php:1463
+msgid "new Keys"
+msgstr "新しいキー"
+
+#: views/settings.php:1467
+msgid "Bit Size"
+msgstr "ビット サイズ"
+
+#: views/settings.php:1472
+msgid "generate Keys"
+msgstr "キーを生成"
+
+#: views/manage.php:287
+msgid "Delete Subscribers"
+msgstr "購読者を削除"
+
+#: views/manage.php:155
+#: views/manage.php:320
+msgid "and have one of these statuses"
+msgstr "これらの状態のいずれか"
+
+#: views/manage.php:334
+msgid "Delete Subscribers permanently"
+msgstr "購読者を永久に削除します。"
+
+#: views/subscribers/detail.php:144
+msgid "with IP %s"
+msgstr "とIP %s"
+
+#: classes/ajax.class.php:618
+msgid "Couldn't send message. Check your settings!"
+msgstr "メッセージを送信できませんでした。設定を確認します ！"
+
+#: views/settings.php:930
+msgid "Time between mails"
+msgstr "メールの間隔の時間"
+
+#: views/settings.php:931
+msgid "milliseconds"
+msgstr "ミリ秒"
+
+#: views/settings.php:931
+msgid "define a delay between mails in milliseconds if you have problems with sending two many mails at once"
+msgstr "多くのメールを一度に送信する場合に問題があるときはミリ秒単位でのメールの送信間隔の遅延を定義します。"
+
+#: classes/settings.class.php:774
+msgid "Send limit has been adjusted to %d for Gmail"
+msgstr "送信制限は、Gmail を %d に調整されています"
+
+#: views/settings.php:1413
+msgid "The selector is used to identify the keys used to attach a token to the email"
+msgstr "セレクターは、トークンをメールに添付に使用するキーの識別に使用されます。"
+
+#: views/settings.php:954
+msgid "Simple"
+msgstr "サンプル"
+
+#: classes/queue.class.php:879
+msgid "Campaign %1$s has been paused cause of a sending error: %2$s"
+msgstr "%1$s のキャンペーンは送信エラーの原因が一時停止されました: %2$ s"
+
+#: classes/helper.class.php:206
+msgid "Y/m/d"
+msgstr "Y/m/d"
+
+#: views/newsletter/delivery.php:453
+msgid "This campaign has been started on %1$s, %2$s ago"
+msgstr "このキャンペーンは %1$s の %2$s 前に開始されています。"
+
+#: views/newsletter/editbar.php:159
+msgid "Media Manager"
+msgstr "メディア マネージャー"
+
+#: classes/campaigns.class.php:2959
+msgid "wrong post type"
+msgstr "間違ってポストの種類"
+
+#: classes/campaigns.class.php:2961
+msgid "User has not subscribed"
+msgstr "ユーザーが購読していません。"
+
+#: classes/ajax.class.php:618
+msgid "Message sent. Check your inbox!"
+msgstr "メッセージが送信されました。受信トレイをチェック ！"
+
+#: classes/manage.class.php:36
+msgid "Manage Subscribers"
+msgstr "購読者を管理します。"
+
+#: classes/manage.class.php:48
+msgid "Please select at least the column with the email addresses!"
+msgstr "メールアドレスを持つカラムを選択してください ！"
+
+#: classes/manage.class.php:49
+msgid "preparing data"
+msgstr "データの準備"
+
+#: classes/manage.class.php:50
+msgid "uploading...%s"
+msgstr "アップロード中..%s"
+
+#: classes/manage.class.php:51
+msgid "Importing Contacts...%s"
+msgstr "連絡先のインポート...%s"
+
+#: classes/manage.class.php:53
+msgid "Estimate time left: %s minutes"
+msgstr "残りの見積もり時間: %s 分"
+
+#: classes/manage.class.php:54
+msgid "continues in %s seconds"
+msgstr "%s 秒で続行します"
+
+#: classes/manage.class.php:56
+msgid "Preparing Download...%s"
+msgstr "ダウンロードの準備中...%s"
+
+#: classes/manage.class.php:57
+msgid "writing file: %s"
+msgstr "ファイルの書き込み: %s"
+
+#: classes/manage.class.php:58
+msgid "Download finished"
+msgstr "ダウンロードが完了しました"
+
+#: classes/manage.class.php:59
+msgid "Downloading..."
+msgstr "ダウンロード..."
+
+#: classes/manage.class.php:60
+msgid "Please select at least one list!"
+msgstr "少なくとも 1 つのリストを選択してください ！"
+
+#: classes/manage.class.php:64
+msgid "You are currently importing subscribers! If you leave the page all pending subscribers don't get imported!"
+msgstr "現在の加入者をインポートしている！ページのまま保留中のすべての購読者はありませんインポートを取得！"
+
+#: classes/manage.class.php:65
+msgid "Your download is preparing! If you leave this page the progress will abort!"
+msgstr "あなたのダウンロードの準備です ！このページから移動すると、進行状況が中止されます ！"
+
+#: classes/campaigns.class.php:750
+#: classes/manage.class.php:308
+#: classes/manage.class.php:814
+#: views/newsletter/receivers.php:67
+#: views/newsletter/receivers.php:186
+msgid "IP Address"
+msgstr "IPアドレス"
+
+#: classes/campaigns.class.php:751
+#: classes/manage.class.php:303
+#: classes/manage.class.php:817
+#: views/manage.php:250
+#: views/newsletter/receivers.php:68
+#: views/newsletter/receivers.php:187
+msgid "Signup Date"
+msgstr "登録日付"
+
+#: classes/manage.class.php:327
+msgid "Ignore column"
+msgstr "列を無視します"
+
+#: classes/manage.class.php:394
+msgid "add contacts to following lists"
+msgstr "次の一覧に連絡先を追加します"
+
+#: classes/manage.class.php:595
+#: classes/subscribers.class.php:633
+msgid "invalid email address"
+msgstr "無効なメールアドレス"
+
+#: classes/manage.class.php:640
+msgid "The following addresses were not imported"
+msgstr "次のアドレスはインポートされませんでした。"
+
+#: classes/manage.class.php:642
+msgid "Reason"
+msgstr "理由"
+
+#: classes/manage.class.php:731
+msgid "no subscribers found"
+msgstr "購読者が見つかりません"
+
+#: classes/campaigns.class.php:752
+#: classes/manage.class.php:820
+#: views/manage.php:251
+#: views/newsletter/receivers.php:69
+#: views/newsletter/receivers.php:188
+msgid "Signup IP"
+msgstr "登録 IP"
+
+#: classes/campaigns.class.php:753
+#: classes/manage.class.php:304
+#: classes/manage.class.php:823
+#: views/manage.php:252
+#: views/newsletter/receivers.php:70
+#: views/newsletter/receivers.php:189
+msgid "Confirm Date"
+msgstr "日付の確認"
+
+#: classes/campaigns.class.php:754
+#: classes/manage.class.php:826
+#: views/manage.php:253
+#: views/newsletter/receivers.php:71
+#: views/newsletter/receivers.php:190
+msgid "Confirm IP"
+msgstr "IPの確認"
+
+#: classes/manage.class.php:1153
+#: classes/templates.class.php:1132
+msgid "The web browser on your device cannot be used to upload files. You may be able to use the <a href=\"http://wordpress.org/extend/mobile/\">native app for your device</a> instead."
+msgstr "お使いのデバイス上の webブラウザは、ファイルのアップロードを使用できません。代わりに <a href=\"http://wordpress.org/extend/mobile/\">デバイスのネイティブ アプリケーション</a> を使用することができます。"
+
+#: classes/manage.class.php:1207
+msgid "Comma-separated values (CSV)"
+msgstr "コンマ区切り値 (CSV)"
+
+#: classes/manage.class.php:1223
+msgid "Drop your list here"
+msgstr "ここにあなたのリストをドロップします。"
+
+#: classes/manage.class.php:1224
+#: classes/templates.class.php:1203
+msgctxt "Uploader: Drop files here - or - Select Files"
+msgid "or"
+msgstr "または"
+
+#: classes/manage.class.php:1225
+#: classes/templates.class.php:1204
+msgid "Select File"
+msgstr "ファイル選択"
+
+#: classes/manage.class.php:1240
+msgid "Split your lists into max 50.000 subscribers each"
+msgstr "最大 50.000人の購読者のあなたのリストを分割します。"
+
+#: classes/manage.class.php:1243
+#: classes/templates.class.php:1223
+msgid "Your browser has some limitations uploading large files with the multi-file uploader. Please use the browser uploader for files over 100MB."
+msgstr "お使いのブラウザには複数ファイルアップローダーと大きなファイルをアップロードするいくつかの制限があります。100 MBを超えるファイルの場合はブラウザアップローダーを使用してください。"
+
+#: classes/widget.class.php:37
+msgid "Text before the form"
+msgstr "フォームの前のテキスト"
+
+#: classes/widget.class.php:39
+msgid "Text after the form"
+msgstr "フォームの後のテキスト"
+
+#: includes/capability.php:102
+msgid "manage subscribers"
+msgstr "購読者管理"
+
+#: includes/static.php:8
+msgid "Do you really want to unsubscribe?"
+msgstr "本当にメルマガの購読解除をしたいですか？"
+
+#: views/manage.php:13
+msgid "Import"
+msgstr "インポート"
+
+#: views/manage.php:17
+msgid "Export"
+msgstr "エクスポート"
+
+#: classes/forms.table.class.php:162
+#: classes/lists.table.class.php:108
+#: classes/subscribers.table.class.php:178
+#: views/manage.php:21
+#: views/templates.php:157
+msgid "Delete"
+msgstr "削除"
+
+#: views/manage.php:35
+msgid "upload you subscribers as comma-separated list (CSV)"
+msgstr "あなたの購読者リストをコンマ区切り (CSV) としてアップロードします。"
+
+#: views/manage.php:47
+msgid "Paste"
+msgstr "ペースト"
+
+#: views/manage.php:49
+msgid "paste your list here"
+msgstr "ここにあなたのリストを貼り付ける"
+
+#: views/manage.php:141
+#: views/manage.php:303
+msgid "which are in one of these lists"
+msgstr "これらのリストの 1 つであります。"
+
+#: views/manage.php:151
+#: views/manage.php:316
+msgid "subscribers not assigned to a list"
+msgstr "購読者の一覧に割り当てられていません。"
+
+#: classes/subscribers.class.php:1981
+msgid "error"
+msgstr "エラー"
+
+#: views/manage.php:163
+msgid "include header"
+msgstr "ヘッダーを含める"
+
+#: views/manage.php:166
+msgid "Date Format"
+msgstr "日付の形式"
+
+#: views/manage.php:220
+msgid "MySQL Server Performance"
+msgstr "MySQLサーバパフォーマンス"
+
+#: views/manage.php:222
+msgid "low"
+msgstr "低"
+
+#: views/manage.php:223
+msgid "normal"
+msgstr "通常"
+
+#: views/manage.php:224
+msgid "high"
+msgstr "高"
+
+#: views/manage.php:225
+msgid "super high"
+msgstr "超高"
+
+#: views/manage.php:226
+msgid "super extreme high"
+msgstr "最高"
+
+#: views/manage.php:231
+msgid "Define order and included columns"
+msgstr "並び順と含まれている列を定義します。"
+
+#: views/manage.php:264
+msgid "Listnames"
+msgstr "リスト名"
+
+#: views/manage.php:270
+msgid "Download Subscribers"
+msgstr "購読者ダウンロード"
+
+#: views/manage.php:281
+#: views/manage.php:339
+msgid "no subscriber found"
+msgstr "購読者が見つかりませんでした"
+
+#: views/manage.php:328
+msgid "remove selected lists"
+msgstr "選択したリストを削除します"
+
+#: views/manage.php:345
+msgid "You do not have sufficient permissions to access this page."
+msgstr "このページにアクセスするための十分なアクセス許可がありません。"
+
+#: views/forms/detail.php:314
+msgid "fill fields with known data if user is logged in"
+msgstr "ユーザーはログインされる場合知られているデータ フィールドを埋める"
+
+#: classes/manage.class.php:61
+msgid "Do you really like to import these contacts?"
+msgstr "本当にこれらの連絡先をインポートしたいですか？"
+
+#: classes/mymail.class.php:1021
+msgid "frontend settings page"
+msgstr "フロントエンドの設定ページ"
+
+#: classes/subscribers.table.class.php:180
+#: views/forms/detail.php:409
+msgid "Resend Confirmation"
+msgstr "再送信の確認"
+
+#: views/forms/detail.php:410
+msgid "resend confirmation %1$s times with a delay of %2$s hours if user hasn't confirmed the subscription"
+msgstr "ユーザーが購読を確認していない場合、確認メールを %1$s 回を %2$s の時間の遅延で再送します。"
+
+#: classes/subscribers.class.php:1659
+#: classes/subscribers.class.php:1660
+#: classes/subscribers.class.php:1672
+#: views/lists/detail.php:151
+#: views/settings.php:1107
+#: views/subscribers/detail.php:136
+#: views/subscribers/detail.php:144
+#: views/subscribers/detail.php:155
+#: views/subscribers/detail.php:364
+msgid "%s ago"
+msgstr "%s の前"
+
+#: views/newsletter/editbar.php:171
+msgid "Link image to the this URL"
+msgstr "このリンクの画像のURL"
+
+#: views/forms/detail.php:116
+#: views/forms/detail.php:150
+#: views/newsletter/editbar.php:102
+msgid "required"
+msgstr "必須"
+
+#: views/settings.php:517
+msgid "You have to enable Custom fields for each form:"
+msgstr "各フォームのカスタムフィールドを有効にする必要があります"
+
+#: views/settings.php:277
+#: views/settings.php:278
+msgctxt "Translators: put your personal info here to display it on the settings page. Leave blank for no info"
+msgid "translator string"
+msgstr "翻訳文字列"
+
+#: views/settings.php:278
+msgid "This plugin has been translated by %s"
+msgstr "このプラグインは %s によって翻訳されています"
+
+#: classes/campaigns.class.php:1092
+msgid "Do you really like to delete all custom color schemas for this template?"
+msgstr "本当にこのテンプレートのすべてのユーザー設定の配色スキーマを削除しますか?"
+
+#: classes/settings.class.php:256
+#: views/settings.php:529
+msgid "Checkbox"
+msgstr "チェック ボックス"
+
+#: classes/settings.class.php:259
+#: views/forms/detail.php:353
+#: views/settings.php:562
+#: views/settings.php:681
+#: views/settings.php:706
+msgid "checked by default"
+msgstr "デフォルトではチェック"
+
+#: views/newsletter/options.php:49
+msgid "Colors Schemas"
+msgstr "色スキーマ"
+
+#: views/newsletter/options.php:54
+msgid "delete all custom schemas"
+msgstr "すべてのカスタム スキーマを削除します。"
+
+#: views/forms/detail.php:344
+msgid "users decide which list they subscribe to"
+msgstr "ユーザーがリストを購読するか決める"
+
+#: views/forms/detail.php:345
+msgid "show drop down instead of check boxes"
+msgstr "チェックボックスの代わりにダウンドロップを表示します。"
+
+#: views/forms/detail.php:348
+msgid "subscribe new users to"
+msgstr "新規ユーザーを登録します"
+
+#: views/forms/detail.php:349
+msgid "users can subscribe to"
+msgstr "ユーザーが購読することができます"
+
+#: views/forms/detail.php:317
+msgid "redirect after submit"
+msgstr "リダイレクト後の提出します"
+
+#: views/forms/detail.php:553
+msgid "width"
+msgstr "横幅"
+
+#: views/forms/detail.php:554
+msgid "height"
+msgstr "高さ"
+
+#: classes/campaigns.class.php:1074
+msgid "add %s"
+msgstr "%s 追加"
+
+#: classes/campaigns.class.php:1075
+msgid "remove %s"
+msgstr "%s 削除"
+
+#: views/newsletter/editbar.php:92
+#: views/newsletter/editbar.php:170
+msgid "Alt Text"
+msgstr "Altテキスト"
+
+#: views/newsletter/editbar.php:92
+#: views/newsletter/editbar.php:170
+msgid "image description"
+msgstr "画像説明"
+
+#: classes/manage.class.php:52
+msgid "Currently %s of %s imported with %s errors. %s memory usage"
+msgstr "現在、%sの%sは、%sエラーで重要でした。%s メモリ使用"
+
+#: classes/manage.class.php:55
+msgid "There was a problem during importing contacts. Please check the error logs for more information!"
+msgstr "連絡先のインポート中に問題があった。詳細についてはエラー ログを確認してください ！"
+
+#: classes/campaigns.class.php:2730
+msgid "has opened"
+msgstr "開封済み"
+
+#: classes/campaigns.class.php:2730
+msgid "has not opened yet"
+msgstr "未開封です"
+
+#: classes/campaigns.class.php:2748
+msgid "load more recipients from this campaign"
+msgstr "このキャンペーンからのより多くの受信者をロードします。"
+
+#: classes/ajax.class.php:1112
+msgid "last %s"
+msgstr "最後の %s"
+
+#: classes/ajax.class.php:1113
+msgid "second last %s"
+msgstr "最後から2番目の %s"
+
+#: classes/ajax.class.php:1114
+msgid "third last %s"
+msgstr "最後の3番目の %s"
+
+#: classes/ajax.class.php:1115
+msgid "fourth last %s"
+msgstr "最後の4番目の %s"
+
+#: classes/ajax.class.php:1116
+msgid "fifth last %s"
+msgstr "最後の5番目の %s"
+
+#: classes/ajax.class.php:1117
+msgid "sixth last %s"
+msgstr "最後の6番目の %s"
+
+#: classes/ajax.class.php:1118
+msgid "seventh last %s"
+msgstr "最後の7番目の %s"
+
+#: classes/ajax.class.php:1119
+msgid "eighth last %s"
+msgstr "最後の8番目の %s"
+
+#: classes/ajax.class.php:1120
+msgid "ninth last %s"
+msgstr "最後の9番目の %s"
+
+#: classes/ajax.class.php:1121
+msgid "tenth last %s"
+msgstr "最後の10番目の %s"
+
+#: classes/ajax.class.php:1122
+msgid "eleventh last %s"
+msgstr "最後の11番目の %s"
+
+#: classes/ajax.class.php:1123
+msgid "twelfth last %s"
+msgstr "最後の12番目の %s"
+
+#: classes/ajax.class.php:1397
+msgid "create a new one"
+msgstr "新しいものを作成します。"
+
+#: classes/helper.class.php:305
+msgid "any %s"
+msgstr "すべて %s"
+
+#: classes/ajax.class.php:1640
+#: classes/templates.class.php:285
+msgid "WordPress is not able to access to your filesystem!"
+msgstr "ワードプレスは、ファイルシステムにアクセスできるようにする ！"
+
+#: classes/ajax.class.php:1641
+#: classes/templates.class.php:286
+msgid "Please add following lines to the wp-config.php %s"
+msgstr "wp-config.php %s に以下の行を追加してください。"
+
+#: classes/campaigns.class.php:620
+msgid "completing job"
+msgstr "ジョブの完了"
+
+#: classes/campaigns.class.php:1063
+msgid "Duplicate module"
+msgstr "複製しているモジュール"
+
+#: classes/campaigns.class.php:1081
+msgid "%s does not contain a valid image"
+msgstr "%s は有効な画像を含んでいません"
+
+#: includes/autoresponder.php:23
+msgid "something has been published"
+msgstr "何かが公開されています"
+
+#: views/manage.php:185
+msgid "Output Format"
+msgstr "出力フォーマット"
+
+#: views/manage.php:187
+msgid "CSV"
+msgstr "CSV"
+
+#: views/manage.php:188
+msgid "HTML"
+msgstr "HTML"
+
+#: views/settings.php:181
+msgid "Encoding"
+msgstr "エンコーディング"
+
+#: views/newsletter/delivery.php:27
+msgid "Auto Responder"
+msgstr "自動返信"
+
+#: views/newsletter/delivery.php:104
+msgid "send this auto responder"
+msgstr "この自動返信を送信"
+
+#: classes/campaigns.class.php:680
+#: views/newsletter/delivery.php:289
+msgid "Next issue: %s"
+msgstr "次の問題: %s"
+
+#: views/newsletter/delivery.php:294
+msgid "Use the %s tag to display the current issue in the campaign"
+msgstr "%s タグを使用してキャンペーンで現在の問題を表示するには"
+
+#: views/newsletter/delivery.php:306
+msgid "%1$s matching %2$s has been published"
+msgid_plural "%1$s matching %2$s have been published"
+msgstr[0] "%1$s に一致する %2$s を公開します"
+
+#: views/newsletter/delivery.php:308
+msgid "reset counter"
+msgstr "カウンターをリセット"
+
+#: views/newsletter/details.php:97
+msgid "Total Recipients"
+msgstr "全受信者"
+
+#: views/newsletter/details.php:105
+msgid "Total Errors"
+msgstr "エラー総数"
+
+#: views/newsletter/details.php:112
+msgid "Total Clicks"
+msgstr "合計クリック数"
+
+#: views/newsletter/editbar.php:161
+msgid "Insert from URL"
+msgstr "URL から挿入します"
+
+#: views/newsletter/editbar.php:168
+msgid "Image URL"
+msgstr "画像URL"
+
+#: views/newsletter/editbar.php:180
+msgid "static"
+msgstr "静的"
+
+#: views/newsletter/editbar.php:181
+msgid "dynamic"
+msgstr "動的"
+
+#: views/newsletter/editbar.php:188
+#: views/newsletter/editbar.php:283
+msgid "use the excerpt if exists otherwise use the content"
+msgstr "抜粋を使用する場合はそれ以外の場合に使用するコンテンツが存在します。"
+
+#: views/newsletter/editbar.php:188
+#: views/newsletter/editbar.php:283
+msgid "excerpt"
+msgstr "抜粋"
+
+#: views/newsletter/editbar.php:189
+#: views/newsletter/editbar.php:284
+msgid "use the content"
+msgstr "コンテンツを使用します。"
+
+#: views/newsletter/editbar.php:189
+#: views/newsletter/editbar.php:284
+msgid "full content"
+msgstr "完全なコンテンツ"
+
+#: views/newsletter/editbar.php:214
+msgid "the excerpt"
+msgstr "抜粋"
+
+#: views/newsletter/editbar.php:214
+msgid "the full content"
+msgstr "完全なコンテンツ"
+
+#: views/newsletter/editbar.php:218
+msgid "the latest"
+msgstr "最新情報"
+
+#: views/newsletter/editbar.php:219
+msgid "the second latest"
+msgstr "2番目の最新情報"
+
+#: views/newsletter/editbar.php:220
+msgid "the third latest"
+msgstr "3番目の最新情報"
+
+#: views/newsletter/editbar.php:221
+msgid "the fourth latest"
+msgstr "4番目の最新情報"
+
+#: views/newsletter/editbar.php:222
+msgid "the fifth latest"
+msgstr "5番目の最新情報"
+
+#: views/newsletter/editbar.php:223
+msgid "the sixth latest"
+msgstr "6番目の最新情報"
+
+#: views/newsletter/editbar.php:224
+msgid "the seventh latest"
+msgstr "7番目の最新情報"
+
+#: views/newsletter/editbar.php:225
+msgid "the eighth latest"
+msgstr "8番目の最新情報"
+
+#: views/newsletter/editbar.php:226
+msgid "the ninth latest"
+msgstr "9番目の最新情報"
+
+#: views/newsletter/editbar.php:227
+msgid "the tenth latest"
+msgstr "10番目の最新情報"
+
+#: views/newsletter/editbar.php:228
+msgid "the eleventh latest"
+msgstr "11番目の最新情報"
+
+#: views/newsletter/editbar.php:229
+msgid "the twelfth latest"
+msgstr "12番目の最新情報"
+
+#: views/newsletter/editbar.php:244
+msgctxt "Insert [excerpt] of [latest] [post]"
+msgid "Insert %1$s of %2$s %3$s"
+msgstr "挿入 %1$s の %2$s %3$s"
+
+#: views/newsletter/editbar.php:258
+msgid "dynamic content get replaced with the proper content as soon as the campaign get send. Check the quick preview to see the current status of dynamic elements"
+msgstr "動的コンテンツ キャンペーン get を送信するとすぐに、適切なコンテンツに置き換えられます。動的な要素の現在のステータスを表示するクイック プレビューをチェックします。"
+
+#: views/settings.php:850
+msgid "Special tags display dynamic content and are equally for all subscribers"
+msgstr "特殊なタグで動的コンテンツを表示と同じようにすべての購読者"
+
+#: views/settings.php:869
+msgid "Dynamic Tags"
+msgstr "動的タグ"
+
+#: views/settings.php:870
+msgid "Dynamic tags let you display your posts or pages in a reverse chronicle order. Some examples:"
+msgstr "ダイナミックタグを使用すると記録の逆の順序であなたの記事やページを表示できます。いくつかの例："
+
+#: views/settings.php:871
+msgid "displays the latest post title"
+msgstr "最新記事のタイトルが表示されます"
+
+#: views/settings.php:872
+msgid "displays the fourth latest page title"
+msgstr "第 4 回が表示されます最新ページ タイトル"
+
+#: views/settings.php:873
+msgid "displays the feature image of the latest posts"
+msgstr "最新の投稿機能の画像が表示されます。"
+
+#: views/settings.php:874
+msgid "displays the feature image of the fourth latest posts. Uses the image with ID 23 if the post doesn't have a feature image"
+msgstr "最新の記事をの4 番目の機能の画像と表示されます。投稿が画像機能を持っていない場合に ID 23 と画像を使用します。"
+
+#: views/settings.php:875
+msgid "displays the latest posts content"
+msgstr "最新の投稿の内容を表示します"
+
+#: views/settings.php:876
+msgid "displays the latest posts excerpt or content if no excerpt is defined"
+msgstr "抜粋が定義されていない場合、最新の投稿の抜粋またはコンテンツが表示されます。"
+
+#: views/settings.php:877
+msgid "displays the latest posts date"
+msgstr "最新の投稿の日付を表示します"
+
+#: views/settings.php:878
+msgid "you can also use absolute values"
+msgstr "絶対値を使用することもできます"
+
+#: views/settings.php:879
+msgid "displays the post title of post ID 23"
+msgstr "投稿ID23 の記事のタイトルが表示されます"
+
+#: views/settings.php:880
+msgid "displays the permalink of post ID 15"
+msgstr "ID 15 の記事のパーマリンクを表示します"
+
+#: views/settings.php:881
+msgid "Instead of \"post_\" and \"page_\" you can use custom post types too"
+msgstr "\"Post_\" の代わりに、\"page_\"あなたのカスタムポストタイプを使用することができます"
+
+#: views/settings.php:885
+msgid "Image Fallback"
+msgstr "画像フォールバック"
+
+#: views/settings.php:888
+msgid "Fallback image for dynamic image tags"
+msgstr "動的な画像のタグの代替画像"
+
+#: classes/templates.class.php:502
+msgid "Template %s is now your default template"
+msgstr "テンプレート %s は現在、既定のテンプレート"
+
+#: views/templates.php:21
+msgid "Template %s is missing or broken. Reset to default"
+msgstr "テンプレート %s が見つからないか壊れています。既定値にリセットします。"
+
+#: classes/templates.class.php:566
+#: views/templates.php:146
+msgid "Use as default"
+msgstr "既定値として使用します。"
+
+#: classes/campaigns.class.php:2735
+msgid "an error occurred while sending to this receiver"
+msgstr "この受信者に送信中にエラーが発生しました"
+
+#: classes/campaigns.class.php:3160
+msgid "New campaign %1$s has been created and is going to be sent in %2$s."
+msgstr "新しいキャンペーン %1$s が作成され %2$s で送信するつもりです。"
+
+#: classes/campaigns.class.php:822
+msgid "Resume Campaign"
+msgstr "キャンペーンを再開します。"
+
+#: classes/campaigns.class.php:822
+#: classes/campaigns.class.php:926
+#: views/newsletter/submit.php:69
+#: views/newsletter/submit.php:96
+#: views/newsletter/submit.php:106
+msgid "Resume"
+msgstr "再開"
+
+#: classes/cron.class.php:71
+msgid "It seems your last cronjob hasn't been finished! Increase the %1$s, add %2$s to your wp-config.php or reduce the %3$s in the settings"
+msgstr "それはあなたの最後の cron ジョブが完了していないようだ！%1$s を増加、あなたの wp-config.php の %2$s を追加または設定で %3$s を削減"
+
+#: classes/mymail.class.php:713
+msgid "MyMail is not able access the filesystem! If you have issues saving templates or other files please add this line to you wp-config.php: %s"
+msgstr "MyMail は、ファイルシステムにアクセスできせん！テンプレートの保存に問題がある場合は、この行を wp-config.php に追加してください : %s"
+
+#: views/newsletter/delivery.php:190
+msgid "only if in %s"
+msgstr "%s 場合にのみ"
+
+#: views/newsletter/template.php:106
+msgid "Your email may look different on mobile devices"
+msgstr "あなたのメールアドレスをモバイルデバイスで違って見えるかもしれません"
+
+#: views/settings.php:1107
+msgid "from %s"
+msgstr "差出人 %s"
+
+#: classes/campaigns.class.php:3160
+msgid "Pause campaign"
+msgstr "一時停止のキャンペーン"
+
+#: views/settings.php:921
+msgid "Split campaigns"
+msgstr "キャンペーンを分割します。"
+
+#: views/settings.php:922
+msgid "send campaigns simultaneously instead of one after the other"
+msgstr "同時に 1 つずつの代わりにキャンペーンを送信します。"
+
+#: views/forms/detail.php:419
+msgid "paste in your vCard content. You can use %s to generate your personal vcard"
+msgstr "vCard の内容に貼り付けます。%s を使用して個人的な vcard を生成する"
+
+#: views/manage.php:69
+#: views/settings.php:48
+#: views/settings.php:579
+#: views/settings.php:635
+#: views/settings.php:636
+msgid "WordPress Users"
+msgstr "Recwords ユーザー"
+
+#: views/settings.php:666
+msgid "Registered Users"
+msgstr "登録ユーザー"
+
+#: views/settings.php:669
+msgid "new WordPress users can choose to sign up on the register page"
+msgstr "新しいRecwordsのユーザー登録ページで登録することができます"
+
+#: views/settings.php:671
+msgid "allow %s to your blog to enable this option"
+msgstr "このオプションを有効にするあなたのブログに %s を許可します。"
+
+#: views/settings.php:671
+msgid "users to subscribe"
+msgstr "ユーザーが購読する"
+
+#: views/settings.php:683
+#: views/settings.php:714
+#: views/settings.php:737
+msgid "Subscribe them to these lists:"
+msgstr "これらのリストにそれらを購読："
+
+#: views/settings.php:696
+msgid "New Comments"
+msgstr "新しいコメント"
+
+#: views/settings.php:697
+msgid "allow users to signup on the comment form if they are currently not subscribed to any list"
+msgstr "彼らは現在の任意のリストを購読していない場合のコメント フォームにユーザーが登録を許可します。"
+
+#: views/settings.php:707
+msgid "sign up only if comment is"
+msgstr "コメントは登録した場合にのみに許可します"
+
+#: views/settings.php:709
+msgid "approved"
+msgstr "承認"
+
+#: views/settings.php:710
+msgid "not approved"
+msgstr "承認されていません。"
+
+#: views/settings.php:711
+msgid "spam"
+msgstr "スパム"
+
+#: views/settings.php:726
+msgid "Others"
+msgstr "その他"
+
+#: views/settings.php:727
+msgid "add people who are added via the backend or any third party plugin"
+msgstr "バックエンドまたは任意のサードパーティ製のプラグインを使用してユーザーを追加します。"
+
+#: views/settings.php:774
+msgid "Newsletter Sign up"
+msgstr "メルマガ登録"
+
+#: classes/settings.class.php:104
+#: includes/updates.php:149
+msgid "Sign up to our newsletter"
+msgstr "メルマガに登録します"
+
+#: views/forms/detail.php:417
+msgid "attach vCard to all confirmation mails"
+msgstr "全ての確認メールに vCard を添付します。"
+
+#: classes/manage.class.php:169
+msgid "display name"
+msgstr "表示名"
+
+#: classes/manage.class.php:169
+#: classes/manage.class.php:349
+#: classes/manage.class.php:355
+#: classes/manage.class.php:361
+msgid "registered"
+msgstr "登録"
+
+#: classes/manage.class.php:319
+msgid "Select columns"
+msgstr "カラムを選択"
+
+#: classes/manage.class.php:414
+msgid "Existing subscribers"
+msgstr "既存の購読者"
+
+#: classes/manage.class.php:414
+msgid "skip"
+msgstr "スキップ"
+
+#: classes/manage.class.php:414
+msgid "overwrite"
+msgstr "上書き"
+
+#: classes/manage.class.php:414
+msgid "merge"
+msgstr "合わせる"
+
+#: classes/settings.class.php:477
+#: classes/settings.class.php:496
+msgid "File uploaded to %s"
+msgstr "%s ファイルをアップロード"
+
+#: classes/settings.class.php:482
+#: classes/settings.class.php:501
+msgid "unable to upload file"
+msgstr "ファイルをアップロードできません"
+
+#: classes/settings.class.php:564
+msgid "No country database found! Please load it!"
+msgstr "ない国のデータベースが見つかりました ！それをロードしてください ！"
+
+#: classes/settings.class.php:572
+msgid "No city database found! Please load it!"
+msgstr "ない都市データベースが見つかった！それをロードしてください ！"
+
+#: classes/ajax.class.php:1666
+#: views/settings.php:235
+msgid "Update Country Database"
+msgstr "国のデータベースを更新"
+
+#: classes/ajax.class.php:1681
+#: views/settings.php:244
+msgid "Update City Database"
+msgstr "都市のデータベースを更新"
+
+#: classes/ajax.class.php:1770
+msgid "Unable to connect to bounce server! Please check your settings."
+msgstr "拒否サーバーに接続できません ！設定を確認してください。"
+
+#: classes/ajax.class.php:1777
+msgid "checking for new messages"
+msgstr "新着メッセージのチェック"
+
+#: classes/ajax.class.php:1781
+msgid "Unable to get test message! Please check your settings."
+msgstr "テストメッセージを取得することができません。設定を確認してください。"
+
+#: classes/ajax.class.php:1800
+msgid "Your bounce server is good!"
+msgstr "拒否サーバーは良いです ！"
+
+#: views/manage.php:78
+msgid "Import WordPress users with following roles"
+msgstr "次の権限を持つRecwordsのユーザーをインポートします。"
+
+#: views/manage.php:115
+msgid "Next Step"
+msgstr "次のステップ"
+
+#: classes/ajax.class.php:766
+#: classes/campaigns.class.php:2731
+#: classes/subscribers.class.php:1677
+msgid "%s click"
+msgid_plural "%s clicks"
+msgstr[0] "%s クリック"
+
+#: views/settings.php:235
+msgid "Load Country Database"
+msgstr "国データベースロード"
+
+#: views/settings.php:235
+#: views/settings.php:244
+msgid "upload file"
+msgstr "ファイルアップロード"
+
+#: views/settings.php:239
+msgid "upload the GeoIPv6.dat you can find in the package here:"
+msgstr "パッケージはここで見つけることができます。GeoIPv6.dat をアップロード："
+
+#: views/settings.php:244
+msgid "Load City Database"
+msgstr "都市データベースロード"
+
+#: views/settings.php:248
+msgid "upload the GeoLiteCity.dat you can find in the package here:"
+msgstr "パッケージはここで見つけることができます GeoLiteCity.dat をアップロード："
+
+#: views/settings.php:766
+msgid "Some text can get defined on the %s as well"
+msgstr "いくつかのテキスト同様の %s の定義を得ることができます"
+
+#: views/settings.php:1239
+msgid "Test bounce settings"
+msgstr "拒否設定のテスト"
+
+#: views/settings.php:1241
+msgid "sending message..."
+msgstr "メッセージを送信..."
+
+#: views/forms/detail.php:393
+msgid "used template file"
+msgstr "テンプレート ファイルを使用します。"
+
+#: views/settings.php:167
+#: views/settings.php:470
+#: views/settings.php:483
+msgid "use"
+msgstr "使用します"
+
+#: views/subscribers/detail.php:62
+msgid "resend confirmation"
+msgstr "確認を再送信します。"
+
+#: views/settings.php:856
+msgid "Access token"
+msgstr "アクセストークン"
+
+#: views/settings.php:857
+msgid "Access token Secret"
+msgstr "シークレットアクセストークン "
+
+#: views/settings.php:858
+msgid "Consumer key"
+msgstr "コンシューマー キー"
+
+#: views/settings.php:859
+msgid "Consumer secret"
+msgstr "シークレットコンシューマー"
+
+#: views/settings.php:853
+msgid "To enable the tweet feature you have to create a new %s and insert your credentials"
+msgstr "ツイート機能を可能にするために、あなたは新しい %s を作り、証明書を加えなければなりません。"
+
+#: classes/campaigns.class.php:941
+msgid "See stats of Campaign %s"
+msgstr "%s のキャンペーンの統計情報を表示します。"
+
+#: views/newsletter/delivery.php:475
+msgid "You have to %s to change the delivery settings"
+msgstr "%s の配信設定を変更する必要があります。"
+
+#: views/newsletter/delivery.php:475
+msgid "switch to the edit mode"
+msgstr "編集モードに切り替える"
+
+#: views/newsletter/delivery.php:488
+msgid "This campaign is based on an %s"
+msgstr "このキャンペーンは、%s に基づいています"
+
+#: views/newsletter/delivery.php:488
+msgid "auto responder campaign"
+msgstr "自動返信 キャンペーン"
+
+#: views/newsletter/details.php:97
+msgid "Total Sent"
+msgstr "送信の合計"
+
+#: views/newsletter/submit.php:75
+#: views/newsletter/submit.php:101
+msgid "Statistic"
+msgstr "統計量"
+
+#: views/newsletter/editbar.php:70
+msgid "replace with image"
+msgstr "画像で置き換えます"
+
+#: classes/widget.class.php:167
+msgid "Number of Newsletters"
+msgstr "メルマガの総数"
+
+#: classes/manage.class.php:1240
+#: classes/templates.class.php:1205
+msgid "Maximum upload file size: %s."
+msgstr "最大アップロードファイルサイズ: %s"
+
+#: views/newsletter/delivery.php:38
+msgid "This campaign has been sent on %s. You cannot edit it anymore"
+msgstr "このキャンペーンは %s に送信されました。もう編集できません。"
+
+#: views/manage.php:193
+#: views/settings.php:181
+msgid "CharSet"
+msgstr "文字セット"
+
+#: views/settings.php:222
+msgid "change Charset and encoding of your mails if you have problems with some characters"
+msgstr "文字セットといくつかの文字に問題がある場合、あなたのメールのエンコードを変更します。"
+
+#: classes/campaigns.class.php:677
+#: classes/campaigns.class.php:707
+#, fuzzy
+msgid "send every %1$s %2$s"
+msgstr "すべて %1$ %2$ s を送信します。"
+
+#: includes/autoresponder.php:27
+msgid "at a specific time"
+msgstr "特定の時間"
+
+#: views/newsletter/delivery.php:121
+#: views/newsletter/delivery.php:124
+msgid "before"
+msgstr "前"
+
+#: views/newsletter/delivery.php:219
+#, fuzzy
+msgctxt "every [x] [timeframe] starting [startdate]"
+msgid "create a new campaign every %1$s%2$s"
+msgstr "すべて %1$s ％2$s 新しいキャンペーンを作成します。"
+
+#: views/newsletter/delivery.php:237
+msgid "end schedule"
+msgstr "終了スケジュール"
+
+#: views/newsletter/delivery.php:246
+msgid "set an end date for your campaign"
+msgstr "キャンペーンの終了日を設定します。"
+
+#: views/newsletter/delivery.php:255
+msgid "send campaigns only on these weekdays"
+msgstr "平日のみのキャンペーンを送信します。"
+
+#: classes/campaigns.class.php:679
+msgid "next campaign in %s"
+msgstr "次のキャンペーン %s"
+
+#: classes/campaigns.class.php:688
+msgid "until %s"
+msgstr "%s まで"
+
+#: classes/campaigns.class.php:699
+msgctxt "only one [weekdays]"
+msgid "only on %s"
+msgstr "だけで %s"
+
+#: views/newsletter/delivery.php:174
+msgid "create a new campaign every time a new %s has been published"
+msgstr "新しい %s を公開するたびに新しいキャンペーンを作成します。"
+
+#: views/newsletter/delivery.php:196
+msgid "always skip %s release"
+msgid_plural "always skip %s releases"
+msgstr[0] "%s のリリースを常にスキップ"
+
+#: classes/queue.class.php:483
+msgid "New campaign %s has been created!"
+msgstr "%s の新しいキャンペーンを作成 ！"
+
+#: classes/queue.class.php:445
+msgid "Auto responder campaign %s has been finished and is deactivated!"
+msgstr "自動返信 キャンペーン %s 終了しており非アクティブ ！"
+
+#: classes/campaigns.class.php:665
+#: includes/autoresponder.php:9
+#: views/newsletter/delivery.php:212
+#: views/newsletter/delivery.php:325
+msgid "week(s)"
+msgstr "週"
+
+#: classes/campaigns.class.php:666
+#: views/newsletter/delivery.php:213
+#: views/newsletter/delivery.php:326
+msgid "month(s)"
+msgstr "月"
+
+#: views/forms/detail.php:115
+#: views/forms/detail.php:149
+msgid "define a label for this field"
+msgstr "このフィールドのラベルを定義します"
+
+#: views/forms/detail.php:308
+msgid "show asterisk on required fields"
+msgstr "必須フィールドのアスタリスクを表示"
+
+#: views/settings.php:1546
+msgid "System Info page"
+msgstr "システム情報ページ"
+
+#: views/settings.php:1554
+msgid "To copy the system info, click below then press Ctrl + C (PC) or Cmd + C (Mac)."
+msgstr "システム情報をコピーするには下記をクリック キーを押します。 Ctrl + C (Win) か Cmd + C (Mac)."
+
+#: views/newsletter/delivery.php:223
+msgid "next schedule"
+msgstr "次のスケジュール"
+
+#: classes/settings.class.php:329
+msgid "Limits have been reseted"
+msgstr "制限がリセットされています"
+
+#: views/settings.php:917
+msgid "reset these limits"
+msgstr "これらの制限をリセットします"
+
+#: classes/ajax.class.php:604
+msgid "You can only perform 10 test within an hour. Please try again later!"
+msgstr "1 時間以内に10回テストのみ実行できます。後ほどお試しください ！"
+
+#: classes/campaigns.class.php:1093
+msgid "%s out of 10"
+msgstr "10のうち %s"
+
+#: classes/campaigns.class.php:1095
+msgid "This mail will hardly see any inbox!"
+msgstr "このメールは、ほとんどすべての受信トレイを参照してください ！"
+
+#: classes/campaigns.class.php:1096
+msgid "You have to make it better!"
+msgstr "それをより良く必要がある ！"
+
+#: classes/campaigns.class.php:1097
+msgid "Many inboxes will refuse this mail!"
+msgstr "多くの受信トレイは、このメールを拒否します ！"
+
+#: classes/campaigns.class.php:1098
+msgid "Not bad at all. Improve it further!"
+msgstr "全然悪くないです。さらに向上 ！"
+
+#: classes/campaigns.class.php:1099
+msgid "Almost perfect!"
+msgstr "ほぼ完璧 ！"
+
+#: classes/campaigns.class.php:1100
+msgid "Great! Your campaign is ready to send!"
+msgstr "素晴らしい ！キャンペーンは、送信する準備ができいます！"
+
+#: classes/notification.class.php:127
+msgid "A new user has subscribed to your newsletter!"
+msgstr "新しいユーザーがあなたのメルマガを購読しました ！"
+
+#: views/newsletter/delivery.php:438
+msgid "check your spam score"
+msgstr "あなたのスパムのスコアをチェックします。"
+
+#: views/settings.php:469
+msgid "Send a notification of new subscribers to following receivers (comma separated)"
+msgstr "次の受信者に新しい購読者の通知を送信します。(カンマ区切り) "
+
+#: classes/settings.class.php:32
+msgid "Homepage created"
+msgstr "ホームページ作成"
+
+#: classes/mymail.class.php:1021
+msgid "You haven't defined a homepage for the newsletter. This is required to make the subscription form work correctly. Please check the %1$s or %2$s"
+msgstr "メルマガのためのホームページを定義していません。これは、購読フォームの正常な動作に必要です。%1$s または %2$s を確認してください。"
+
+#: classes/mymail.class.php:1021
+#: views/settings.php:312
+msgid "create it right now"
+msgstr "今すぐ作成"
+
+#: classes/settings.class.php:524
+msgid "Language changed!"
+msgstr "言語を変更！"
+
+#: views/settings.php:1589
+msgid "change language of texts if available to"
+msgstr "使用可能な場合にテキストの言語を変更します"
+
+#: views/settings.php:1605
+msgid "change language"
+msgstr "言語の変更"
+
+#: classes/settings.class.php:583
+msgid "Please define a homepage for the newsletter on the frontend tab"
+msgstr "フロント エンドタブで、メルマガのためのホームページを定義してください。"
+
+#: views/settings.php:1594
+msgid "English"
+msgstr "English"
+
+#: classes/campaigns.class.php:1082
+msgid "Enter name of the list"
+msgstr "リストの名前を入力してください。"
+
+#: classes/campaigns.class.php:1083
+msgctxt "[recipientstype] of [campaignname]"
+msgid "%s of %s"
+msgstr "%s の %s"
+
+#: classes/ajax.class.php:1895
+msgid "List has been created"
+msgstr "リストが作成されました"
+
+#: classes/campaigns.class.php:2637
+#: views/newsletter/receivers.php:241
+msgid "who have opened"
+msgstr "誰が開封しています"
+
+#: classes/campaigns.class.php:2638
+#: views/newsletter/receivers.php:242
+msgid "who have opened but not clicked"
+msgstr "誰かが開封していますがクリックされていません"
+
+#: classes/campaigns.class.php:2640
+#: views/newsletter/receivers.php:244
+msgid "who have not opened"
+msgstr "誰も開封したことがないです"
+
+#: views/subscribers/overview.php:22
+msgid "Search Subscribers"
+msgstr "購読者の検索"
+
+#: views/newsletter/receivers.php:234
+msgid "create a new list with all"
+msgstr "すべての新しいリストを作成"
+
+#: views/newsletter/receivers.php:252
+msgid "create list"
+msgstr "リストを作成"
+
+#: classes/ajax.class.php:1895
+msgid "Couldn't create List"
+msgstr "リストを作成できませんでした"
+
+#: classes/campaigns.class.php:224
+msgid "Receivers"
+msgstr "受信者"
+
+#: classes/subscribers.class.php:609
+msgid "convert all subscribers with error status back to subscribed"
+msgstr "入会はエラー状態とすべての購読者を変換してください"
+
+#: classes/campaigns.class.php:2635
+#: views/newsletter/receivers.php:239
+msgid "who have received"
+msgstr "受信している人"
+
+#: classes/campaigns.class.php:2636
+#: views/newsletter/receivers.php:240
+msgid "who have not received"
+msgstr "誰も受信していません"
+
+#: classes/campaigns.class.php:2639
+#: views/newsletter/receivers.php:243
+msgid "who have opened and clicked"
+msgstr "誰も開封やクリックをしていません"
+
+#: classes/notification.class.php:477
+msgid "%s has joined"
+msgstr "%s 参加しています"
+
+#: views/newsletter/receivers.php:15
+msgid "send campaign to these lists"
+msgstr "これらのリストにキャンペーンを送信します。"
+
+#: views/manage.php:79
+#: views/manage.php:101
+#: views/newsletter/receivers.php:20
+#: views/settings.php:1136
+msgid "toggle all"
+msgstr "すべて切り替え"
+
+#: views/newsletter/receivers.php:232
+msgid "create new list"
+msgstr "新しいリストを作成"
+
+#: views/templates.php:48
+#: views/templates.php:56
+msgid "Save as"
+msgstr "保存"
+
+#: classes/templates.class.php:419
+msgid "Please enter the name of the new template"
+msgstr "新しいテンプレートの名前を入力してください。"
+
+#: classes/campaigns.class.php:2701
+msgid "Filter"
+msgstr "フィルター"
+
+#: classes/campaigns.class.php:2702
+msgid "unopens"
+msgstr "未開封"
+
+#: classes/campaigns.class.php:2734
+msgid "%s bounce"
+msgid_plural "%s bounces"
+msgstr[0] "%s 拒否"
+
+#: classes/ajax.class.php:1268
+msgid "All rights reserved %s"
+msgstr "All rights reserved %s"
+
+#: classes/template.class.php:248
+msgctxt "common module name"
+msgid "Full Size Image"
+msgstr "フルサイズの画像"
+
+#: classes/template.class.php:249
+msgctxt "common module name"
+msgid "Intro"
+msgstr "イントロ"
+
+#: classes/template.class.php:252
+msgctxt "common module name"
+msgid "Full Size Text Invert"
+msgstr "フルサイズの反転テキスト"
+
+#: classes/template.class.php:253
+msgctxt "common module name"
+msgid "iPhone Promotion"
+msgstr "iPhone プロモーション"
+
+#: classes/template.class.php:254
+msgctxt "common module name"
+msgid "Macbook Promotion"
+msgstr "Macbook プロモーション"
+
+#: classes/template.class.php:255
+msgctxt "common module name"
+msgid "Quotation"
+msgstr "二重引用符"
+
+#: classes/template.class.php:258
+msgctxt "common module name"
+msgid "Plans"
+msgstr "計画"
+
+#: classes/template.class.php:259
+#: classes/template.class.php:261
+#: classes/template.class.php:263
+msgctxt "common module name"
+msgid "%s Image Full"
+msgstr "%s 画像"
+
+#: classes/template.class.php:260
+#: classes/template.class.php:262
+#: classes/template.class.php:264
+msgctxt "common module name"
+msgid "%s Text Invert"
+msgstr "%s 反転テキスト"
+
+#: classes/template.class.php:265
+msgctxt "common module name"
+msgid "Image on the Left"
+msgstr "左側のイメージ"
+
+#: classes/template.class.php:266
+msgctxt "common module name"
+msgid "Image on the Right"
+msgstr "右側のイメージ"
+
+#: classes/template.class.php:267
+#: classes/template.class.php:269
+#: classes/template.class.php:271
+msgctxt "common module name"
+msgid "%s Image on the Left"
+msgstr "%s 左側のイメージ"
+
+#: classes/template.class.php:268
+#: classes/template.class.php:270
+#: classes/template.class.php:272
+msgctxt "common module name"
+msgid "%s Image on the Right"
+msgstr "%s 右側のイメージ"
+
+#: classes/template.class.php:273
+msgctxt "common module name"
+msgid "%s Floating Image left"
+msgstr "%s フローティングの左側画像"
+
+#: classes/template.class.php:274
+msgctxt "common module name"
+msgid "%s Floating Image right"
+msgstr "%s フローティングの右側画像"
+
+#: classes/template.class.php:275
+#: classes/template.class.php:277
+#, fuzzy
+msgctxt "common module name"
+msgid "%s Image Features left"
+msgstr "% 特集の左側画像"
+
+#: classes/template.class.php:276
+#: classes/template.class.php:278
+msgctxt "common module name"
+msgid "%s Image Features right"
+msgstr "%s 特集の右側画像"
+
+#: classes/template.class.php:279
+#: classes/template.class.php:280
+#: classes/template.class.php:281
+#: classes/template.class.php:282
+#: classes/template.class.php:283
+#: classes/template.class.php:284
+#: classes/template.class.php:285
+#: classes/template.class.php:286
+msgctxt "common module name"
+msgid "%s Text"
+msgstr "%s テキスト"
+
+#: classes/settings.class.php:115
+msgctxt "unsubscribelink"
+msgid "unsubscribe"
+msgstr "購読解除"
+
+#: views/newsletter/editbar.php:182
+msgid "RSS"
+msgstr "RSS"
+
+#: views/newsletter/editbar.php:265
+msgid "Enter feed URL"
+msgstr "フィードのURLを入力"
+
+#: views/newsletter/editbar.php:270
+msgid "Recent Feeds"
+msgstr "最新のフィード"
+
+#: views/newsletter/editbar.php:279
+msgid "change"
+msgstr "変更"
+
+#. mymail
+#: classes/template.class.php:250
+msgctxt "common module name"
+msgid "Separator"
+msgstr "区切り記号"
+
+#. mymail
+#: classes/template.class.php:251
+msgctxt "common module name"
+msgid "Separator with button"
+msgstr "ボタン付きの区切り記号"
+
+#. mymail
+#: classes/template.class.php:256
+msgctxt "common module name"
+msgid "Quotation left"
+msgstr "左の二重引用符"
+
+#. mymail
+#: classes/template.class.php:257
+msgctxt "common module name"
+msgid "Quotation right"
+msgstr "右の二重引用符"
+
+#. mymail
+#: classes/template.class.php:600
+msgid "light"
+msgstr "明るい"
+
+#. mymail
+#: classes/template.class.php:601
+msgid "dark"
+msgstr "暗い"
+
+#: classes/campaigns.class.php:1067
+msgid "Codeview"
+msgstr "コード表示"
+
+#: classes/campaigns.class.php:1068
+msgid "Name of the module (click to edit)"
+msgstr "モジュールの名前 (クリックして編集) "
+
+#: views/newsletter/optionbar.php:27
+msgid "include modules"
+msgstr "モジュールが含まれている"
+
+#: views/newsletter/editbar.php:69
+msgid "convert to link"
+msgstr "リンクへの変換"
+
+#: views/lists/detail.php:164
+#: views/newsletter/editbar.php:74
+msgid "Link"
+msgstr "リンク"
+
+#: views/newsletter/editbar.php:87
+msgid "Image Button"
+msgstr "画像ボタン"
+
+#: views/newsletter/editbar.php:86
+msgid "Text Button"
+msgstr "テキストボタン"
+
+#: views/forms/detail.php:130
+#: views/newsletter/editbar.php:97
+msgid "Button Label"
+msgstr "ボタンラベル"
+
+#: views/newsletter/editbar.php:97
+msgid "button label"
+msgstr "ボタンラベル"
+
+#: views/newsletter/editbar.php:301
+msgid "use HighDPI/Retina ready images if available"
+msgstr "HighDPI/Retinaができて画像を使用している場合"
+
+#: views/newsletter/editbar.php:301
+msgid "HighDPI/Retina ready"
+msgstr "HighDPI/Retina"
+
+#: views/settings.php:353
+msgid "Permalink Structure"
+msgstr "パーマリンクの構造"
+
+#: views/settings.php:348
+msgid "Campaign slug"
+msgstr "キャンペーンURLスラッグ"
+
+#: views/settings.php:351
+msgid "changing the slug may cause broken links in previous sent campaigns!"
+msgstr "スラッグの変更以前に送信されたキャンペーンで壊れたリンクを引き起こす可能性があります ！"
+
+#: views/settings.php:353
+msgctxt "Campaign slug"
+msgid "Define a %s to enable custom slugs"
+msgstr "カスタムスラッグを有効にするには %s 定義"
+
+#: classes/manage.class.php:169
+msgid "nickname"
+msgstr "ニックネーム"
+
+#: classes/settings.class.php:737
+msgid "sending %s emails at once can cause problems with statistics cause of a server timeout or to much memory usage! You should decrease it if you have problems!"
+msgstr "%s メールを一度に送信すると、サーバータイムアウトの統計原因、または、多くのメモリを使用すると問題が発生することがあります！問題がある場合に送信数を削減する必要があります ！"
+
+#. mymail
+#: classes/settings.class.php:788
+#: classes/settings.class.php:812
+msgid "Not able to connected to %1$s via port %2$s! You may not be able to send mails cause of the locked port %3$s. Please contact your host or choose a different delivery method!"
+msgstr "%1$s ポート経由で %2$s に接続することはできません ！ロックされたポート %3$s が原因でメールを送信できない場合があります。あなたのホストに連絡または別の配信方法を選択してください ！"
+
+#: classes/notification.class.php:205
+msgid "MyMail Test Email"
+msgstr "MyMail テストメール"
+
+#: classes/campaigns.class.php:615
+#: classes/campaigns.class.php:625
+msgid "no receivers!"
+msgstr "受信がありません！"
+
+#: views/settings.php:969
+msgid "search for more delivery methods"
+msgstr "他の配信方法について検索"
+
+#: views/settings.php:1211
+msgid "Check bounce server every %s minutes for new messages"
+msgstr "新しいメッセージを %s 分ごとに拒否サーバーをチェックします。"
+
+#: views/settings.php:1219
+msgid "Soft Bounces"
+msgstr "拒否ソフト"
+
+#: views/settings.php:1220
+msgid "Resend soft bounced mails after %s minutes"
+msgstr "%s 分後に拒否ソフトへメールを再送信します。"
+
+#: views/templates.php:101
+#: views/templates.php:124
+#: views/templates.php:199
+#: views/templates.php:203
+msgid "by"
+msgstr "投稿"
+
+#: views/settings.php:1079
+msgid "Cron is currently running!"
+msgstr "Cron が現在実行されている ！"
+
+#: classes/settings.class.php:311
+msgid "Options have been reseted!"
+msgstr "オプションを元どおりにされている！"
+
+#: classes/settings.class.php:611
+msgid "Please change the slug or permalink of %s since it's used by the archive page"
+msgstr "アーカイブ ページによって使用されるためのスラッグまたは %s のパーマリンクを変更してください。"
+
+#: views/settings.php:425
+msgid "enable archive function to display your newsletters in a reverse chronological order"
+msgstr "新しいものから順にあなたのメルマガを表示するアーカイブ機能を有効にします。"
+
+#: views/settings.php:1075
+msgid "WordPress cron is disabled! Uncomment the %s constant in the wp-config.php or use a real cron instead"
+msgstr "WordPress の cron は無効です。wp-config.php の %s 定数のコメントを解除または実際の cron を代わりに使用する"
+
+#: views/settings.php:1569
+msgid "Do you really like to reset the options? This cannot be undone!"
+msgstr "本当にオプションをリセットしたいのですか？これは元に戻すことはできません ！"
+
+#: views/settings.php:1569
+msgid "Reset all settings"
+msgstr "すべての設定をリセット"
+
+#: views/manage.php:100
+msgid "Use following meta values"
+msgstr "次のメタ値を使う"
+
+#: classes/subscribers.class.php:536
+#: classes/subscribers.class.php:541
+#: classes/subscribers.class.php:544
+#: classes/subscribers.class.php:547
+#: classes/subscribers.class.php:550
+#: classes/subscribers.class.php:556
+#: classes/subscribers.class.php:559
+#: classes/subscribers.class.php:563
+msgid "via"
+msgstr "経由"
+
+#: views/forms/detail.php:413
+msgid "redirect after confirm"
+msgstr "リダイレクト後の確認"
+
+#: classes/settings.class.php:263
+msgid "Loading"
+msgstr "読み込み中"
+
+#: views/settings.php:58
+msgid "System Info"
+msgstr "システム情報"
+
+#: classes/ajax.class.php:766
+msgid "%s unique"
+msgstr "ユニークな %s"
+
+#: classes/ajax.class.php:885
+#: classes/campaigns.class.php:3068
+#: classes/forms.table.class.php:134
+#: classes/helper.class.php:405
+#: classes/notification.class.php:358
+#: classes/subscribers.table.class.php:138
+#: classes/templates.class.php:951
+#: classes/templates.class.php:1036
+#: classes/templates.class.php:1043
+#: views/newsletter/details.php:127
+#: views/subscribers/detail.php:52
+#: views/subscribers/detail.php:137
+#: views/subscribers/detail.php:145
+#: views/subscribers/detail.php:149
+#, fuzzy
+msgid "unknown"
+msgstr "不明"
+
+#: classes/ajax.class.php:2075
+#, fuzzy
+msgid "Template %s has been uploaded"
+msgstr "テンプレート更新"
+
+#: classes/campaigns.class.php:466
+#, fuzzy
+msgid "This Campaign has been paused"
+msgstr "このキャンペーンは %s に送信されました"
+
+#: classes/campaigns.class.php:620
+#: classes/campaigns.class.php:635
+msgid "This campaign is based on subscribers timezone and problably will take up to 24 hours"
+msgstr "このキャンペーンは、加入者のタイムゾーンに基づいており、problably 24時間までかかります"
+
+#: classes/campaigns.class.php:667
+#: includes/autoresponder.php:10
+#: views/newsletter/delivery.php:327
+msgid "year(s)"
+msgstr "年"
+
+#: classes/campaigns.class.php:709
+msgid "based on the users %1$s value"
+msgstr "ユーザー%1$sの値に基づいて、"
+
+#: classes/campaigns.class.php:852
+#: classes/campaigns.class.php:866
+#: classes/campaigns.class.php:873
+#: classes/campaigns.class.php:888
+#: classes/campaigns.class.php:895
+msgid "%s of sent"
+msgstr "%s の送信"
+
+#: classes/campaigns.class.php:869
+#: classes/campaigns.class.php:891
+msgid "%s of opens"
+msgstr "%s の開封"
+
+#: classes/campaigns.class.php:908
+msgid "%s of totals"
+msgstr "%s の合計"
+
+#: classes/campaigns.class.php:1058
+#, fuzzy
+msgid "loading"
+msgstr "読み込み中"
+
+#: classes/campaigns.class.php:1070
+msgid "Click to edit %s"
+msgstr "%s をクリックして編集"
+
+#: classes/campaigns.class.php:1103
+#, fuzzy
+msgid "The status of this campaign has changed. Please reload the page or %s"
+msgstr "キャンペーンのスラグを変更 ！%s を再保存してください。"
+
+#: classes/campaigns.class.php:1104
+#, fuzzy
+msgid "click here"
+msgstr "ここをクリック"
+
+#: classes/campaigns.class.php:2645
+#, fuzzy
+msgctxt "segment of all [recipients] from campaign [campaign]"
+msgid "A segment of all %1$s of %2$s"
+msgstr "すべて %1$s の %2$s のセグメント作成 %3$s"
+
+#: classes/campaigns.class.php:2664
+#, fuzzy
+msgid "ID"
+msgstr "ID："
+
+#: classes/campaigns.class.php:2669
+#, fuzzy
+msgid "Sent date"
+msgstr "送信"
+
+#: classes/campaigns.class.php:2670
+#, fuzzy
+msgid "Open date"
+msgstr "レートを開く"
+
+#: classes/campaigns.class.php:2671
+msgid "Open Count"
+msgstr "開封をカウント"
+
+#: classes/campaigns.class.php:2673
+#, fuzzy
+msgid "Click Count"
+msgstr "トラックのクリック数"
+
+#: classes/campaigns.class.php:2705
+#: views/dashboard.php:23
+#, fuzzy
+msgid "unsubscribes"
+msgstr "購読解除"
+
+#: classes/campaigns.class.php:2707
+#, fuzzy
+msgid "order by"
+msgstr "並べ替え："
+
+#: classes/campaigns.class.php:2713
+msgid "order direction"
+msgstr "順方向"
+
+#: classes/campaigns.class.php:2732
+#, fuzzy
+msgid "has unsubscribed"
+msgstr "購読解除"
+
+#: classes/campaigns.class.php:3287
+#, fuzzy
+msgid "Image files"
+msgstr "%s ファイルを削除"
+
+#: classes/cron.class.php:159
+#, fuzzy
+msgid "The WordPress Cron is disabled! Please remove the %s constant from your wp-config.php file or switch to a real cron job!"
+msgstr "WordPress の cron は無効です。wp-config.php の %s 定数のコメントを解除または実際の cron を代わりに使用する"
+
+#: classes/cron.class.php:161
+msgid "Are your campaigns not sending? You may have to check your %1$s"
+msgstr "キャンペーンは送信されていませんか？あなたは %1$s を確認する必要があります"
+
+#: classes/cron.class.php:161
+#, fuzzy
+msgid "cron settings"
+msgstr "Cron の設定"
+
+#: classes/form.class.php:436
+#: classes/settings.class.php:113
+#: classes/update.class.php:1086
+#, fuzzy
+msgid "Update Profile"
+msgstr "リスト更新"
+
+#: classes/form.class.php:679
+#, fuzzy
+msgid "You are already registered"
+msgstr "購読者が既に存在します"
+
+#: classes/form.class.php:682
+#: classes/form.class.php:690
+#, fuzzy
+msgid "A new confirmation message has been sent"
+msgstr "この購読者に確認メッセージを送信します。"
+
+#: classes/lists.class.php:101
+#, fuzzy
+msgid "%d Lists have been removed"
+msgstr "制限がリセットされています"
+
+#: classes/lists.class.php:112
+#, fuzzy
+msgid "%d Lists with subscribers have been removed"
+msgstr "%s の購読者に変換されています。"
+
+#: classes/lists.class.php:122
+#, fuzzy
+msgid "Subscribers have been subscribed"
+msgstr "%s の購読者に変換されています。"
+
+#: classes/lists.class.php:131
+#, fuzzy
+msgid "Subscribers have been unsubscribed"
+msgstr "%s の購読者に変換されています。"
+
+#: classes/lists.class.php:188
+#: classes/subscribers.class.php:288
+#, fuzzy
+msgid "%1$s already exists. %2$s"
+msgstr "ユーザーは既に存在します。 (ID: %d)"
+
+#: classes/lists.class.php:188
+#: classes/subscribers.class.php:288
+#, fuzzy
+msgid "Edit this user"
+msgstr "編集/削除ユーザー バッジ"
+
+#: classes/lists.class.php:200
+#, fuzzy
+msgid "List added"
+msgstr "リスト名"
+
+#: classes/lists.class.php:200
+#, fuzzy
+msgid "List saved"
+msgstr "リスト"
+
+#: classes/lists.class.php:213
+#, fuzzy
+msgid "List %s has been removed"
+msgstr "リストが作成されました"
+
+#: classes/lists.class.php:248
+#, fuzzy
+msgid "Segments"
+msgstr "要素"
+
+#: classes/lists.class.php:249
+#, fuzzy
+msgid "contains all segments"
+msgstr "含まれていません"
+
+#: classes/lists.class.php:254
+msgid "Segment #%d"
+msgstr "セグメント#%d"
+
+#: classes/lists.class.php:262
+msgid "Segment created by %s"
+msgstr "%s で作成されたセグメント"
+
+#: classes/lists.table.class.php:12
+#, fuzzy
+msgid "List"
+msgstr "リスト"
+
+#: classes/forms.table.class.php:27
+#: classes/lists.table.class.php:27
+#: classes/subscribers.table.class.php:30
+#, fuzzy
+msgid "All"
+msgstr "全て"
+
+#: classes/lists.class.php:43
+#: views/lists/detail.php:82
+#, fuzzy
+msgid "Description"
+msgstr "説明"
+
+#: classes/lists.class.php:45
+#: classes/manage.class.php:832
+#: views/manage.php:248
+#, fuzzy
+msgid "Updated"
+msgstr "ロゴがアップロードされました"
+
+#: classes/lists.class.php:46
+#: classes/manage.class.php:829
+#: views/manage.php:247
+#, fuzzy
+msgid "Added"
+msgstr "追加された"
+
+#: classes/lists.table.class.php:109
+#, fuzzy
+msgid "Delete with subscribers"
+msgstr "その他の購読者を削除"
+
+#: classes/lists.table.class.php:110
+#, fuzzy
+msgid "Subscribe subscribers"
+msgstr "購読者を作成"
+
+#: classes/lists.table.class.php:111
+#, fuzzy
+msgid "Unsubscribe subscribers"
+msgstr "%n 退会購読者"
+
+#: classes/lists.table.class.php:113
+#: classes/subscribers.table.class.php:179
+#, fuzzy
+msgid "Send new Campaign"
+msgstr "新規キャンペーン"
+
+#: classes/manage.class.php:305
+#, fuzzy
+msgid "Signup + Confirm Date"
+msgstr "日付の確認"
+
+#: classes/manage.class.php:309
+#, fuzzy
+msgid "Signup IP Address"
+msgstr "IPアドレス"
+
+#: classes/manage.class.php:310
+#, fuzzy
+msgid "Confirm IP Address"
+msgstr "IPアドレス"
+
+#: classes/manage.class.php:311
+msgid "Confirm + Signup IP Address"
+msgstr "確認 + 登録 IP アドレス"
+
+#: classes/manage.class.php:312
+#, fuzzy
+msgid "all IP Addresses"
+msgstr "IPアドレス"
+
+#: classes/manage.class.php:316
+#, fuzzy
+msgid "Language"
+msgstr "言語"
+
+#: classes/manage.class.php:320
+msgid "Define which column represents which field"
+msgstr "どのフィールドを表す列の定義"
+
+#: classes/manage.class.php:329
+#, fuzzy
+msgid "Basic"
+msgstr "基本グリッド: デフォルト"
+
+#: classes/manage.class.php:344
+#, fuzzy
+msgid "no Custom Fields defined!"
+msgstr "ユーザー設定フィールドが削除されます。"
+
+#: classes/manage.class.php:347
+#, fuzzy
+msgid "Time Options"
+msgstr "オプション"
+
+#: classes/manage.class.php:353
+#, fuzzy
+msgid "IP Options"
+msgstr "オプション"
+
+#: classes/manage.class.php:359
+#, fuzzy
+msgid "Other Meta"
+msgstr "他のメタ"
+
+#: classes/manage.class.php:380
+#, fuzzy
+msgid "%s contacts are hidden"
+msgstr "%d 連絡先は非表示"
+
+#: classes/manage.class.php:393
+#, fuzzy
+msgid "Import %s contacts"
+msgstr "%d 件の連絡先をインポートします。"
+
+#: classes/manage.class.php:393
+#, fuzzy
+msgid "Please make sure you have the permission to import these contacts!"
+msgstr "はい、私はこれらの連絡先をインポートする権限を持っています。"
+
+#: classes/manage.class.php:407
+msgid "ignore or as defined above"
+msgstr "無視するか、または上記で定義されました"
+
+#: classes/manage.class.php:407
+#, fuzzy
+msgid "Use following numbers for different statuses"
+msgstr "次のメタ値を使う"
+
+#: classes/manage.class.php:412
+#: views/subscribers/detail.php:128
+#, fuzzy
+msgid "choosing \"pending\" as status will force a confirmation message to the subscriber"
+msgstr "この購読者に確認メッセージを送信します。"
+
+#: classes/manage.class.php:415
+#: views/forms/detail.php:286
+#, fuzzy
+msgid "Other"
+msgstr "その他"
+
+#: classes/manage.class.php:418
+msgid "low memory usage (slower)"
+msgstr "メモリの容量不足（遅いです）"
+
+#: classes/manage.class.php:637
+#, fuzzy
+msgid "%1$s of %2$s contacts imported"
+msgstr "%1$d の %2$d インポートされた連絡先"
+
+#: classes/manage.class.php:805
+#: views/manage.php:237
+#, fuzzy
+msgid "Hash"
+msgstr "＃"
+
+#: classes/manage.class.php:1120
+#, fuzzy
+msgid "%s subscribers removed"
+msgstr "%d 削除された購読者"
+
+#: classes/mymail.class.php:534
+#: classes/mymail.class.php:563
+#, fuzzy
+msgid "Add Ons"
+msgstr "アドオン"
+
+#: classes/mymail.class.php:551
+msgid "Return to Add Ons Page"
+msgstr "アドオンページの追加に戻ります"
+
+#: classes/mymail.class.php:973
+msgid "Your MyMail Newsletter Plugin is ready!"
+msgstr "あなたのMyMailニュースレタープラグインは準備ができています！"
+
+#: classes/queue.class.php:862
+msgid "Notification %1$s has thrown an error: %2$s"
+msgstr "通知 %1$s はエラーがはっせいしています：%2$s"
+
+#: classes/queue.class.php:873
+#, fuzzy
+msgid "Autoresponder %1$s has caused sending error: %2$s"
+msgstr "%1$s のキャンペーンは送信エラーの原因が一時停止されました: %2$ s"
+
+#: classes/settings.class.php:107
+#, fuzzy
+msgid "Profile updated!"
+msgstr "カスタム フィールドが更新されます。"
+
+#: classes/settings.class.php:118
+#: classes/update.class.php:1088
+#, fuzzy
+msgid "update profile"
+msgstr "ファイルアップロード"
+
+#: classes/settings.class.php:269
+msgid "You are about to overwrite all subscriber data with the matching WordPress User data. Continue?"
+msgstr "一致するWordPressのユーザーデータを持つすべての購読者データを上書きしようとしています。続行しますか？"
+
+#: classes/settings.class.php:270
+msgid "You are about to overwrite all WordPress User data with the matching subscriber data. Continue?"
+msgstr "一致する購読者データのすべてをWordPressのユーザーデータを上書きしようとしています。続行しますか？"
+
+#: classes/subscribers.class.php:153
+#, fuzzy
+msgid "%d Subscribers have been removed"
+msgstr "%s の購読者に変換されています。"
+
+#: classes/subscribers.class.php:172
+#, fuzzy
+msgid "%d Subscribers have been unsubscribed"
+msgstr "%s の購読者に変換されています。"
+
+#: classes/subscribers.class.php:164
+#, fuzzy
+msgid "%d Subscribers have been subscribed"
+msgstr "%s の購読者に変換されています。"
+
+#: classes/subscribers.class.php:190
+#, fuzzy
+msgid "%d Subscribers have been assigned to a new list"
+msgstr "購読者の一覧に割り当てられていません。"
+
+#: classes/subscribers.class.php:244
+#: classes/subscribers.class.php:306
+#, fuzzy
+msgid "Subscriber added"
+msgstr "購読者保存"
+
+#: classes/subscribers.class.php:306
+#, fuzzy
+msgid "Subscriber saved"
+msgstr "購読者保存"
+
+#: classes/subscribers.class.php:323
+#, fuzzy
+msgid "Subscriber %s has been removed"
+msgstr "%s の購読者に変換されています。"
+
+#: classes/subscribers.class.php:789
+msgid "User does not exist!"
+msgstr "ユーザーが存在しません!"
+
+#: classes/subscribers.class.php:1659
+#: classes/subscribers.class.php:1660
+msgid "%d times"
+msgstr "%d 時間"
+
+#: classes/subscribers.class.php:1663
+#, fuzzy
+msgid "with %s"
+msgstr "（%s のような）"
+
+#: classes/subscribers.class.php:1672
+#, fuzzy
+msgid "%s soft bounce"
+msgid_plural "%s soft bounces"
+msgstr[0] "%s 拒否"
+
+#: classes/subscribers.class.php:1672
+#, fuzzy
+msgid "Hard bounced at %s"
+msgstr "拒否通知"
+
+#: classes/subscribers.class.php:1977
+#: classes/subscribers.table.class.php:195
+#, fuzzy
+msgid "pending"
+msgstr "保留中"
+
+#: classes/subscribers.class.php:122
+#, fuzzy
+msgid "emails"
+msgstr "Eメール"
+
+#: classes/templates.class.php:41
+#: views/templates.php:11
+msgid "%d Update available"
+msgid_plural "%d Updates available"
+msgstr[0] "%d 個の利用可能なアップデート"
+
+#: classes/templates.class.php:97
+#, fuzzy
+msgid "Unable to unzip template"
+msgstr "テンプレートを保存することができません。"
+
+#: classes/templates.class.php:124
+#, fuzzy
+msgid "Unable to save template"
+msgstr "テンプレートを保存することができません。"
+
+#: classes/templates.class.php:136
+#, fuzzy
+msgid "Template %s already exists!"
+msgstr "このメールアドレスはすでに登録済みです！"
+
+#: classes/templates.class.php:177
+msgid "The header of this template files is missing or corrupt"
+msgstr "このテンプレート ファイルのヘッダーが存在しないか破損しています。"
+
+#: classes/templates.class.php:196
+#, fuzzy
+msgid "This is not a valid MyMail template ZIP"
+msgstr "%s は有効なメール アドレスではありません。"
+
+#: classes/templates.class.php:420
+#, fuzzy
+msgid "uploading zip file %s"
+msgstr "ファイルアップロード"
+
+#: classes/templates.class.php:421
+msgid "Please enter a valid Licensecode!"
+msgstr "有効な ライセンスコードを入力してください！"
+
+#: classes/templates.class.php:516
+#, fuzzy
+msgid "Cannot delete the default template %s"
+msgstr "このテンプレートを削除できません。"
+
+#: classes/templates.class.php:518
+#, fuzzy
+msgid "Template %s has been deleted"
+msgstr "テンプレート %s の削除"
+
+#: classes/templates.class.php:522
+#, fuzzy
+msgid "Template %s has not been deleted"
+msgstr "テンプレート %s の削除"
+
+#: classes/templates.class.php:548
+msgid "File does not exist. Please contact %s for help!"
+msgstr "ファイルが存在しません。 %s のヘルプにお問い合わせください！"
+
+#: classes/templates.class.php:549
+#: classes/templates.class.php:558
+#, fuzzy
+msgid "There was an error: %s"
+msgstr "エラー %s "
+
+#: classes/templates.class.php:1186
+#, fuzzy
+msgid "MyMail Template ZIP file"
+msgstr "MyMail テストメール"
+
+#: classes/templates.class.php:1202
+msgid "Drop your ZIP file here to upload new template"
+msgstr "新しいテンプレートをアップロードするためにここにZIPファイルをドロップします。"
+
+#: classes/update.class.php:1085
+msgid "Profile Updated!"
+msgstr "プロフィールを更新しました！"
+
+#: includes/autoresponder.php:31
+#, fuzzy
+msgid "a specific user time"
+msgstr "特定の時間"
+
+#: includes/autoresponder.php:39
+#, fuzzy
+msgid "a specific action hook"
+msgstr "特定の時間"
+
+#: includes/capability.php:65
+#, fuzzy
+msgid "change text version"
+msgstr "テンプレート変更"
+
+#: includes/capability.php:76
+#, fuzzy
+msgid "add subscribers"
+msgstr "購読者の編集"
+
+#: includes/capability.php:122
+#, fuzzy
+msgid "bulk delete subscribers"
+msgstr "購読者を削除"
+
+#: includes/capability.php:127
+#, fuzzy
+msgid "add lists"
+msgstr "新しいリストを追加"
+
+#: views/addons.php:67
+#, fuzzy
+msgid "Deactivate"
+msgstr "非アクティブ化"
+
+#: views/addons.php:69
+#: views/templates.php:114
+#: views/templates.php:241
+#, fuzzy
+msgid "Activate"
+msgstr "有効化"
+
+#: views/addons.php:73
+msgid "Download from wordpress.org"
+msgstr "wordpress.orgからダウンロード"
+
+#: views/addons.php:79
+msgid "Get this Add On"
+msgstr "このアドオンを取得"
+
+#: views/lists/detail.php:14
+#, fuzzy
+msgid "You don't have the right permission to add new lists"
+msgstr "このページにアクセスするための十分なアクセス許可がありません。"
+
+#: views/lists/detail.php:59
+#, fuzzy
+msgid "delete List"
+msgstr "リスト削除"
+
+#: views/lists/detail.php:59
+#, fuzzy
+msgid "Do you really like to remove this list?"
+msgstr "本当にこれらの連絡先をインポートしたいですか？"
+
+#: views/lists/detail.php:62
+#, fuzzy
+msgid "delete List with Subscribers"
+msgstr "購読者を削除"
+
+#: views/lists/detail.php:62
+#, fuzzy
+msgid "Do you really like to remove this list with all subscribers?"
+msgstr "本当にこれらの連絡先をインポートしたいですか？"
+
+#: views/lists/detail.php:43
+#, fuzzy
+msgid "Add new List"
+msgstr "リスト新規追加"
+
+#: views/lists/detail.php:48
+#, fuzzy
+msgid "Edit List %s"
+msgstr "リスト編集"
+
+#: classes/forms.table.class.php:40
+#: classes/lists.table.class.php:35
+#: classes/subscribers.table.class.php:65
+#: views/forms/detail.php:76
+#: views/forms/overview.php:5
+#: views/lists/detail.php:51
+#: views/lists/overview.php:5
+#: views/subscribers/detail.php:56
+#: views/subscribers/overview.php:5
+#, fuzzy
+msgid "add New"
+msgstr "新規追加"
+
+#: views/lists/detail.php:76
+#, fuzzy
+msgid "Name of the List"
+msgstr "リストの名前を入力してください。"
+
+#: views/lists/detail.php:95
+#, fuzzy
+msgid "%s Subscriber"
+msgid_plural "%s Subscribers"
+msgstr[0] "%n 購読者"
+
+#: views/lists/detail.php:120
+#, fuzzy
+msgid "Mail sent"
+msgid_plural "Mails sent"
+msgstr[0] "送信"
+
+#: views/lists/detail.php:143
+#: views/subscribers/detail.php:349
+#, fuzzy
+msgid "Activity"
+msgstr "有効なホーム"
+
+#: views/lists/detail.php:146
+#: views/subscribers/detail.php:359
+#, fuzzy
+msgid "Action"
+msgstr "アクション"
+
+#: views/lists/detail.php:156
+#, fuzzy
+msgid "Campaign %s has start sending"
+msgstr "%s の新しいキャンペーンを作成 ！"
+
+#: views/lists/detail.php:160
+#, fuzzy
+msgid "First open in Campaign %s"
+msgstr "%s のキャンペーンの統計情報を表示します。"
+
+#: views/lists/detail.php:164
+msgid "%1$s in Campaign %2$s clicked"
+msgstr "キャンペーン %2$s でクリックが %1$s"
+
+#: views/lists/detail.php:168
+msgid "First subscription canceled"
+msgstr "最初の購読者をキャンセル"
+
+#: views/lists/detail.php:172
+#: views/subscribers/detail.php:385
+#, fuzzy
+msgid "Soft bounce (%d tries)"
+msgstr "拒否ソフト"
+
+#: views/lists/detail.php:176
+#: views/subscribers/detail.php:390
+#, fuzzy
+msgid "Hard bounce"
+msgstr "拒否通知"
+
+#: views/lists/detail.php:198
+#: views/subscribers/detail.php:428
+#, fuzzy
+msgid "no activity yet"
+msgstr "まだない"
+
+#: views/manage.php:48
+msgid "Copy and paste from your spreadsheet app"
+msgstr "スプレッドシートアプリからのコピー＆ペースト"
+
+#: views/manage.php:331
+msgid "remove all actions from affected users"
+msgstr "影響を受けるユーザーからのすべてのアクションを削除します"
+
+#: views/newsletter/delivery.php:34
+#, fuzzy
+msgid "Server time: %s %s"
+msgstr "サーバーの時間: %s %s"
+
+#: views/newsletter/delivery.php:57
+#: views/newsletter/delivery.php:181
+#: views/newsletter/delivery.php:233
+#: views/newsletter/delivery.php:363
+msgid "Send this campaign based on the subscribers timezone if known"
+msgstr "既知の場合、購読者のタイムゾーンに基づいて、このキャンペーンを送ります"
+
+#: views/newsletter/delivery.php:57
+#: views/newsletter/delivery.php:181
+#: views/newsletter/delivery.php:233
+#: views/newsletter/delivery.php:363
+#, fuzzy
+msgid "Use Subscribers timezone"
+msgstr "購読解除ボタン"
+
+#: views/newsletter/delivery.php:149
+#, fuzzy
+msgctxt "send campaign \"on\" (date) \"at\" (time)"
+msgid "%1$s @ %2$s"
+msgstr "%1$sページ%2$s"
+
+#: views/newsletter/delivery.php:412
+#, fuzzy
+msgid "Hook used to trigger campaign"
+msgstr "その他のキャンペーン編集"
+
+#: views/newsletter/delivery.php:412
+msgid "use `do_action(\"hook_name\")`, or `do_action(\"hook_name\", $subscriber_id)` to trigger this campaign"
+msgstr "このキャンペーンのトリガのために`do_action(\"hook_name\")` または `do_action(\"hook_name\", $subscriber_id)` を使用します"
+
+#: views/newsletter/delivery.php:416
+msgid "Priority"
+msgstr "優先度"
+
+#: views/newsletter/delivery.php:418
+#, fuzzy
+msgid "High"
+msgstr "高さ"
+
+#: views/newsletter/delivery.php:419
+#, fuzzy
+msgid "Normal"
+msgstr "標準"
+
+#: views/newsletter/delivery.php:420
+#, fuzzy
+msgid "Low"
+msgstr "低"
+
+#: views/newsletter/delivery.php:368
+#: views/newsletter/delivery.php:424
+#, fuzzy
+msgid "send campaign only once"
+msgstr "平日のみのキャンペーンを送信します。"
+
+#: views/newsletter/delivery.php:468
+msgid "finished in approx. %s"
+msgstr "ほぼ完了しています。 %s"
+
+#: views/newsletter/details.php:64
+msgid "took %s"
+msgstr "%sを取得"
+
+#: views/newsletter/details.php:100
+#: views/newsletter/details.php:107
+#: views/newsletter/details.php:114
+#: views/newsletter/details.php:129
+#: views/newsletter/details.php:160
+#, fuzzy
+msgid "details"
+msgstr "詳細"
+
+#: views/newsletter/details.php:120
+#, fuzzy
+msgid "Desktop"
+msgstr "デスクトップ"
+
+#: views/newsletter/details.php:121
+#, fuzzy
+msgid "Mobile"
+msgstr "スマホ"
+
+#: views/newsletter/details.php:122
+msgid "Web Client"
+msgstr "Webクライアント"
+
+#: views/newsletter/details.php:125
+#, fuzzy
+msgid "Environment"
+msgstr "環境"
+
+#: views/newsletter/details.php:148
+#, fuzzy
+msgid "Geo Location"
+msgstr "地理位置情報を追跡します。"
+
+#: views/newsletter/receivers.php:75
+#, fuzzy
+msgid "User Role"
+msgstr "ユーザー権限"
+
+#: views/newsletter/receivers.php:76
+msgid "User Level"
+msgstr "ユーザーレベル"
+
+#: classes/campaigns.class.php:774
+#: views/newsletter/editbar.php:30
+#: views/newsletter/receivers.php:86
+#: views/newsletter/receivers.php:208
+#, fuzzy
+msgid "is greater"
+msgstr "大きい"
+
+#: classes/campaigns.class.php:775
+#: views/newsletter/editbar.php:31
+#: views/newsletter/receivers.php:87
+#: views/newsletter/receivers.php:209
+msgid "is smaller"
+msgstr "次のものよりも小さい"
+
+#: views/newsletter/receivers.php:88
+#: views/newsletter/receivers.php:210
+msgid "is greater or equal"
+msgstr "以上である"
+
+#: views/newsletter/receivers.php:89
+#: views/newsletter/receivers.php:211
+msgid "is smaller or equal"
+msgstr "以下である"
+
+#: views/newsletter/receivers.php:113
+#, fuzzy
+msgid "Meta Data"
+msgstr "メタデータ"
+
+#: views/newsletter/receivers.php:118
+#, fuzzy
+msgid "WordPress User Meta"
+msgstr "Recwords ユーザー"
+
+#: views/newsletter/receivers.php:149
+#, fuzzy
+msgid "Any List"
+msgstr "すべてのリスト"
+
+#: views/newsletter/submit.php:39
+msgid "protect the webversion with a password"
+msgstr "パスワードでウェブ版を保護"
+
+#: views/newsletter/submit.php:43
+msgid "password protected"
+msgstr "パスワードで保護"
+
+#: views/newsletter/submit.php:81
+#, fuzzy
+msgid "Confirm"
+msgstr "IPの確認"
+
+#: views/newsletter/optionbar.php:12
+#, fuzzy
+msgid "toggle HTML/Plain-Text view"
+msgstr "HTML/コードビューを切り替える"
+
+#: views/newsletter/editbar.php:146
+#, fuzzy
+msgid "Size"
+msgstr "サイズ"
+
+#: views/newsletter/editbar.php:154
+#, fuzzy
+msgid "search for images"
+msgstr "他の配信方法について検索"
+
+#: views/newsletter/editbar.php:203
+#, fuzzy
+msgid "search for posts"
+msgstr "リスト検索"
+
+#: views/newsletter/template.php:49
+msgid "Create the plain text version based on the HTML version of the campaign"
+msgstr "キャンペーンのHTMLバージョンに基づいて、プレーンテキストバージョンを作成します。"
+
+#: views/newsletter/template.php:49
+#, fuzzy
+msgid "get text from HTML version"
+msgstr "HTML版"
+
+#: views/settings.php:121
+#, fuzzy
+msgid "Delivery by Time Zone"
+msgstr "配信方法"
+
+#: views/settings.php:122
+msgid "Send Campaigns based on the subscribers timezone if known"
+msgstr "既知の場合、購読者のタイムゾーンに基づいてキャンペーンを送ります"
+
+#: views/settings.php:586
+#, fuzzy
+msgid "Sync WordPress Users"
+msgstr "Recwords ユーザー"
+
+#: views/settings.php:588
+#, fuzzy
+msgid "Sync WordPress Users with Subscribers"
+msgstr "次の権限を持つRecwordsのユーザーをインポートします。"
+
+#: views/settings.php:589
+msgid "keep WordPress User data and Subscriber data synchronized. Only affects existing Subscribers"
+msgstr "データは購読者のデータを同期はWordPressのユーザーを保持します。既存の購読者のみに影響します。"
+
+#: views/settings.php:596
+msgid "Meta Data List"
+msgstr "メタデータ一覧"
+
+#: views/settings.php:613
+#, fuzzy
+msgid "Meta Fields"
+msgstr "ユーザー設定フィールド"
+
+#: views/settings.php:619
+msgid "%s syncs with %s"
+msgstr "%s と %s を同期"
+
+#: views/settings.php:631
+msgid "manually sync all existing users based on the above settings. (save required)"
+msgstr "マニュアルで上記の設定に基づいてすべての既存のユーザーを同期します。（保存必須）"
+
+#: views/settings.php:773
+#, fuzzy
+msgid "Profile Update"
+msgstr "更新"
+
+#: views/settings.php:787
+#, fuzzy
+msgid "Profile Button"
+msgstr "共有ボタン"
+
+#: views/settings.php:799
+msgid "Profile Link"
+msgstr "プロフィールリンク"
+
+#: views/settings.php:1093
+#, fuzzy
+msgid "You can keep a browser window open with following URL"
+msgstr "あなたの、ブラウザのウインドウを以下のURLで開いたままにすることができます。"
+
+#: views/subscribers/detail.php:16
+#, fuzzy
+msgid "You don't have the right permission to add new subscribers"
+msgstr "このページにアクセスするための十分なアクセス許可がありません。"
+
+#: views/subscribers/detail.php:65
+#, fuzzy
+msgid "delete Subscriber"
+msgstr "購読者を削除"
+
+#: views/subscribers/detail.php:65
+#, fuzzy
+msgid "Do you really like to remove this subscriber?"
+msgstr "本当にメルマガの購読解除をしたいですか？"
+
+#: views/subscribers/detail.php:48
+#, fuzzy
+msgid "Add new Subscriber"
+msgstr "購読者を新規追加"
+
+#: views/subscribers/detail.php:50
+#, fuzzy
+msgid "Edit %s"
+msgstr "%s 編集"
+
+#: views/subscribers/detail.php:58
+#, fuzzy
+msgid "goto WordPress User profile"
+msgstr "Recwords ユーザー"
+
+#: views/subscribers/detail.php:135
+#, fuzzy
+msgid "subscribed at"
+msgstr "購読"
+
+#: classes/subscribers.class.php:536
+#, fuzzy
+msgid "import on %s"
+msgstr "としてインポート"
+
+#: classes/subscribers.class.php:541
+#, fuzzy
+msgid "WP user on %s"
+msgstr "ユーザー権限"
+
+#: classes/subscribers.class.php:544
+#, fuzzy
+msgid "Backend on %s"
+msgstr "背景のリンク"
+
+#: classes/subscribers.class.php:547
+msgid "an extern form on %s"
+msgstr "%s のフォーム内部で"
+
+#: classes/subscribers.class.php:550
+#, fuzzy
+msgid "Homepage on %s"
+msgstr "ドメイン %s"
+
+#: views/subscribers/detail.php:141
+#, fuzzy
+msgid "more"
+msgstr "もっと"
+
+#: views/subscribers/detail.php:143
+#, fuzzy
+msgid "confirmed at"
+msgstr "確認"
+
+#: views/subscribers/detail.php:147
+#, fuzzy
+msgid "latest known IP"
+msgstr "最新の既知の IP アドレス"
+
+#: views/subscribers/detail.php:154
+#, fuzzy
+msgid "latest updated"
+msgstr "最後の更新"
+
+#: views/subscribers/detail.php:173
+#, fuzzy
+msgid "nothing selected"
+msgstr "選択したリストはありません。"
+
+#: classes/notification.class.php:486
+#: views/subscribers/detail.php:199
+#, fuzzy
+msgid "yes"
+msgstr "はい"
+
+#: classes/notification.class.php:486
+#: views/subscribers/detail.php:199
+#, fuzzy
+msgid "no"
+msgstr "なし"
+
+#: views/subscribers/detail.php:246
+#, fuzzy
+msgid "User has not been assigned to a list"
+msgstr "購読者の一覧に割り当てられていません。"
+
+#: views/subscribers/detail.php:267
+#: views/subscribers/detail.php:275
+#, fuzzy
+msgid "from"
+msgstr "から"
+
+#: views/subscribers/detail.php:300
+#, fuzzy
+msgid "Campaign sent"
+msgid_plural "Campaigns sent"
+msgstr[0] "キャンペーン"
+
+#: views/subscribers/detail.php:325
+msgid "Most popular client"
+msgstr "最も人気のあるクライアント"
+
+#: views/subscribers/detail.php:328
+msgid "Other used clients"
+msgstr "その他使用中のクライアント"
+
+#: views/subscribers/detail.php:352
+msgid "%1$s needs about %2$s to open a campaign"
+msgstr "キャンペーンを開くには %2$s の概要 %1$s のニーズ"
+
+#: views/subscribers/detail.php:352
+#, fuzzy
+msgid "User"
+msgstr "ユーザー"
+
+#: views/subscribers/detail.php:352
+msgid "and %1$s to click a link"
+msgstr "そして %1$s のリンクをクリックします"
+
+#: views/subscribers/detail.php:354
+#, fuzzy
+msgid "User has never opened a campaign"
+msgstr "キャンペーンの終了日を設定します。"
+
+#: classes/subscribers.class.php:358
+#: views/subscribers/detail.php:369
+#, fuzzy
+msgid "Campaign %s has been sent"
+msgstr "%s の新しいキャンペーンを作成 ！"
+
+#: views/subscribers/detail.php:373
+#, fuzzy
+msgid "opened Campaign %s"
+msgstr "キャンペーン送信"
+
+#: views/subscribers/detail.php:377
+#, fuzzy
+msgid "clicked %1$s in Campaign %2$s"
+msgstr "複製するキャンペーン %s"
+
+#: views/subscribers/detail.php:377
+#, fuzzy
+msgid "a link"
+msgstr "へのリンク"
+
+#: views/subscribers/detail.php:381
+#, fuzzy
+msgid "unsubscribed your newsletter"
+msgstr "新しいユーザーがあなたのメルマガを購読しました ！"
+
+#: views/subscribers/overview.php:8
+#, fuzzy
+msgid "import"
+msgstr "インポート中："
+
+#: views/subscribers/overview.php:11
+#, fuzzy
+msgid "export"
+msgstr "エクスポート"
+
+#: views/forms/overview.php:8
+#: views/subscribers/overview.php:14
+#, fuzzy
+msgid "Search result for %s"
+msgstr "リスト検索"
+
+#: views/forms/detail.php:326
+#: views/subscribers/user_edit.php:11
+#, fuzzy
+msgid "Profile"
+msgstr "プロフィール"
+
+#: views/subscribers/user_edit.php:14
+msgid "Edit my MyMail Profile"
+msgstr "私のMyMailプロフィールを編集します"
+
+#: views/subscribers/user_edit.php:14
+msgid "Edit Users MyMail Profile"
+msgstr "ユーザー編集はMyMailのプロフィール"
+
+#: views/subscribers/user_edit.php:28
+msgid "Create"
+msgstr "作成"
+
+#: views/subscribers/user_edit.php:31
+#, fuzzy
+msgid "Create MyMail Subscriber"
+msgstr "購読者を作成"
+
+#: views/templates.php:114
+#: views/templates.php:225
+#: views/templates.php:241
+msgid "activate with licensecode"
+msgstr "ライセンスコードをアクティブ化"
+
+#: views/templates.php:119
+#: views/templates.php:228
+#, fuzzy
+msgid "update template"
+msgstr "テンプレート保存"
+
+#: views/templates.php:152
+#, fuzzy
+msgid "This file is not writeable! Please change the file permission"
+msgstr "このファイルがない書き込み可能 ！ファイルのアクセス許可を変更してください。"
+
+#: views/templates.php:64
+#: views/templates.php:177
+#, fuzzy
+msgid "more Templates"
+msgstr "テンプレートを表示"
+
+#: views/templates.php:177
+#, fuzzy
+msgid "back to overview"
+msgstr "世界のビューに戻る"
+
+#: views/templates.php:225
+#, fuzzy
+msgid "Change Code"
+msgstr "テンプレートの変更"
+
+#: views/templates.php:230
+#, fuzzy
+msgid "download template"
+msgstr "テンプレート更新"
+
+#: views/templates.php:228
+#: views/templates.php:230
+#: views/templates.php:238
+#: views/templates.php:245
+#, fuzzy
+msgid "Download"
+msgstr "ダウンロード"
+
+#: classes/templates.class.php:448
+#: views/templates.php:247
+#, fuzzy
+msgid "get this template"
+msgstr "このテンプレートを削除できません。"
+
+#: classes/subscribers.class.php:98
+#, fuzzy
+msgid "this email address already exists!"
+msgstr "このメールアドレスはすでに登録済みです！"
+
+#: classes/subscribers.class.php:794
+#, fuzzy
+msgid "Subscriber already exists"
+msgstr "購読者が既に存在します"
+
+#: views/settings.php:596
+msgid "select the custom field which should sync with a certain meta field"
+msgstr "特定のメタフィールドと同期する必要がありますカスタムフィールドを選択"
+
+#: classes/campaigns.class.php:715
+#: views/newsletter/delivery.php:381
+#, fuzzy
+msgid "has been sent"
+msgstr "このキャンペーンは %s に送信されました。もう編集できません。"
+
+#: classes/campaigns.class.php:716
+#: views/newsletter/delivery.php:382
+#, fuzzy
+msgid "has been opened"
+msgstr "開封済み"
+
+#: classes/campaigns.class.php:717
+#: views/newsletter/delivery.php:383
+#, fuzzy
+msgid "has been clicked"
+msgstr "誰も開封やクリックをしていません"
+
+#: classes/campaigns.class.php:722
+#, fuzzy
+msgid "Campaign does not exist"
+msgstr "キャンペーンの更新 %s"
+
+#: classes/campaigns.class.php:3299
+#, fuzzy
+msgid "ready!"
+msgstr "準備"
+
+#: classes/campaigns.class.php:3300
+#, fuzzy
+msgid "error!"
+msgstr "エラー:"
+
+#: classes/campaigns.class.php:3301
+#, fuzzy
+msgid "An error occurs while uploading"
+msgstr "この受信者に送信中にエラーが発生しました"
+
+#: classes/campaigns.class.php:3302
+msgid "Unsupported file format"
+msgstr "サポートされていないファイル形式"
+
+#: classes/placeholder.class.php:231
+#, fuzzy
+msgid "Share this on %s"
+msgstr "%s 経由でこれを共有します。"
+
+#: views/newsletter/delivery.php:407
+msgid "No campaigns available"
+msgstr "利用できるキャンペーンはありません"
+
+#: views/newsletter/details.php:69
+#, fuzzy
+msgid "no preheader"
+msgstr "プレヘッダー"
+
+#: views/settings.php:964
+#, fuzzy
+msgid "You are currently sending with the %s delivery method"
+msgstr "現在 %s での作業"
+
+#: views/settings.php:1161
+#, fuzzy
+msgid "Do you really like to reset all capabilities? This cannot be undone!"
+msgstr "本当にオプションをリセットしたいのですか？これは元に戻すことはできません ！"
+
+#: views/settings.php:1161
+#, fuzzy
+msgid "Reset all capabilities"
+msgstr "管理機能"
+
+#: views/subscribers/detail.php:406
+#, fuzzy
+msgid "campaign deleted"
+msgstr "%d キャンペーンの削除"
+
+#: views/subscribers/detail.php:408
+#, fuzzy
+msgid "Do you really like to resend campaign %1$s to %2$s?"
+msgstr "本当にこれらの連絡先をインポートしたいですか？"
+
+#: views/subscribers/detail.php:409
+#, fuzzy
+msgid "resend this campaign"
+msgstr "このキャンペーンを送信します。"
+
+#: classes/subscribers.class.php:1667
+#, fuzzy
+msgctxt "in [city], [country]"
+msgid "in %s, %s"
+msgstr "%s, %s"
+
+#: classes/queue.class.php:772
+msgid "timeout reached"
+msgstr "タイムアウトしました"
+
+#: classes/queue.class.php:774
+msgid "MyMail is not able to send your campaign cause of a server timeout. Please increase the %1$s on the %2$s"
+msgstr "MyMailはサーバーのタイムアウトの原因ためにキャンペーンメルマガを送信することができません。 %2$s の %1$s に増やしてください"
+
+#: classes/queue.class.php:774
+#: views/settings.php:936
+msgid "Max. Execution Time"
+msgstr "最大。実行時間"
+
+#: classes/queue.class.php:774
+#, fuzzy
+msgid "settings page"
+msgstr "[設定] ページ"
+
+#: includes/autoresponder.php:35
+#, fuzzy
+msgid "a specific campaign"
+msgstr "一時停止のキャンペーン"
+
+#: views/settings.php:141
+#, fuzzy
+msgid "Auto Update"
+msgstr "自動更新を有効にします"
+
+#: views/settings.php:146
+#, fuzzy
+msgid "enabled"
+msgstr "Activé"
+
+#: views/settings.php:147
+#, fuzzy
+msgid "disabled"
+msgstr "Désactiver"
+
+#: views/settings.php:148
+msgid "only minor updates"
+msgstr "マイナーのみのアップデート"
+
+#: views/settings.php:937
+msgid "define a maximum execution time to prevent server timeouts. If set to zero, no time limit is imposed."
+msgstr "サーバーのタイムアウトを防止するために、最大実行時間を定義します。ゼロに設定すると、時間制限は適用されません。"
+
+#: includes/capability.php:112
+#, fuzzy
+msgid "import WordPress Users"
+msgstr "Recwords ユーザー"
+
+#: views/newsletter/editbar.php:102
+#, fuzzy
+msgid "Link Button"
+msgstr "リンクボタン (必須)"
+
+#: views/settings.php:1551
+msgid "Please check out %s if you have problems with the plugin"
+msgstr "あなたがプラグインに問題がある場合は %s をチェックしてみてください"
+
+#: views/settings.php:1551
+msgid "Support Page"
+msgstr "サポートページ"
+
+#: classes/lists.table.class.php:33
+#, fuzzy
+msgid "No list found"
+msgstr "リストは見つかりませんでした ！"
+
+#: classes/manage.class.php:416
+#, fuzzy
+msgid "Use a signup date if not defined"
+msgstr "あなたが定義する場合は、登録時間を尊重します。"
+
+#: classes/manage.class.php:417
+msgid "Some Auto responder require a signup date. Define it here if it is not set or missing"
+msgstr "いくつかの自動応答者は申し込み日が必要です。ここが設定されていない場合や不足しているそれを定義します。"
+
+#: classes/queue.class.php:882
+#, fuzzy
+msgid "Campaign %1$s has some delay cause of a sending error: %2$s"
+msgstr "%1$s のキャンペーンは送信エラーの原因が一時停止されました: %2$ s"
+
+#: classes/subscribers.class.php:199
+#, fuzzy
+msgid "Confirmations sent to %d pending subscribers"
+msgstr "確認の送信 %s"
+
+#: classes/subscribers.class.php:210
+#, fuzzy
+msgid "%d Subscribers added to list %s"
+msgstr "購読者の一覧に割り当てられていません。"
+
+#: classes/subscribers.class.php:217
+#, fuzzy
+msgid "%d Subscribers removed from list %s"
+msgstr "%s 保留中の購読者を一覧から削除"
+
+#: classes/subscribers.class.php:336
+#, fuzzy
+msgid "Confirmation has been sent"
+msgstr "確認の送信 %s"
+
+#: classes/subscribers.table.class.php:199
+#, fuzzy
+msgid "change status"
+msgstr "テンプレート変更"
+
+#: classes/subscribers.table.class.php:215
+#, fuzzy
+msgid "add to list"
+msgstr "リスト新規追加"
+
+#: classes/subscribers.table.class.php:215
+#, fuzzy
+msgid "remove from list"
+msgstr "%s ファイルを削除"
+
+#: views/settings.php:371
+#, fuzzy
+msgid "Homepage slugs"
+msgstr "キャンペーンURLスラッグ"
+
+#: views/settings.php:374
+#, fuzzy
+msgid "Confirm Slug"
+msgstr "IPの確認"
+
+#: views/settings.php:384
+#, fuzzy
+msgid "Subscribe Slug"
+msgstr "購読"
+
+#: views/settings.php:394
+#, fuzzy
+msgid "Unsubscribe Slug"
+msgstr "購読解除"
+
+#: views/settings.php:404
+#, fuzzy
+msgid "Profile Slug"
+msgstr "\"プロフィール\"スラッグ"
+
+#: views/settings.php:925
+#, fuzzy
+msgid "Pause campaigns"
+msgstr "一時停止のキャンペーン"
+
+#: views/settings.php:926
+msgid "pause campaigns if an error occurs"
+msgstr "エラーが発生した場合、キャンペーンを一時停止"
+
+#: views/settings.php:926
+msgid "MyMail will change the status to \"pause\" if an error occur otherwise it tries to finish the campaign"
+msgstr "MyMailはエラーが別途発生しそれがキャンペーンを終了するのにかかる場合は「一時停止」にステータスを変更します"
+
+#: views/subscribers/detail.php:9
+msgid "This user does not exist or has been deleted!"
+msgstr "このユーザーは存在しないか、削除されました！"
+
+#: views/subscribers/detail.php:62
+#, fuzzy
+msgid "Do you really like to resend the confirmation?"
+msgstr "本当にこれらの連絡先をインポートしたいですか？"
+
+#: views/subscribers/detail.php:52
+#, fuzzy
+msgid "This subscriber has caused a sending error: %s"
+msgstr "%1$s のキャンペーンは送信エラーの原因が一時停止されました: %2$ s"
+
+#: classes/subscribers.class.php:556
+#, fuzzy
+msgid "%1$s on %2$s"
+msgstr "%2$sの%1$s"
+
+#: classes/subscribers.class.php:556
+#, fuzzy
+msgid "Comment"
+msgstr "コメント"
+
+#: views/templates.php:101
+#, fuzzy
+msgid "Screenshot"
+msgstr "スクリーンショット"
+
+#: classes/settings.class.php:673
+msgid "You can only have up to %d custom fields! Following fields have been removed: %s"
+msgstr "%d までのカスタムフィールドのみを使用できます！ 次のフィールドが削除されています： %s"
+
+#: classes/ajax.class.php:1169
+#: classes/ajax.class.php:1213
+#: classes/ajax.class.php:1263
+#, fuzzy
+msgid "load more entries (%s left)"
+msgstr "多くのエントリを読み込む (%d 左) "
+
+#: classes/forms.class.php:393
+#: classes/subscribers.class.php:150
+msgid "There was an error while deleting subscribers: %s"
+msgstr "加入者の削除中にエラーが発生しました：%s"
+
+#: classes/subscribers.class.php:180
+#, fuzzy
+msgid "%d Subscribers have been set to pending"
+msgstr "%s の購読者に変換されています。"
+
+#: views/settings.php:156
+msgid "auto updates are recommended for important fixes."
+msgstr "自動更新は、重要な修正のために推奨されています。"
+
+#: views/settings.php:161
+#, fuzzy
+msgid "System Mails"
+msgstr "システム情報"
+
+#: views/settings.php:162
+msgid "decide how MyMail uses the wp_mail function"
+msgstr "MyMailがwp_mail機能を使用する方法を決めます"
+
+#: views/settings.php:164
+#, fuzzy
+msgid "Do not use MyMail for outgoing WordPress mails"
+msgstr "ワードプレスされるすべての送信メールの通知テンプレートを使用します"
+
+#: views/settings.php:165
+#, fuzzy
+msgid "Use MyMail for all outgoing WordPress mails"
+msgstr "ワードプレスされるすべての送信メールの通知テンプレートを使用します"
+
+#: views/settings.php:166
+#, fuzzy
+msgid "Use only the template for all outgoing WordPress mails"
+msgstr "ワードプレスされるすべての送信メールの通知テンプレートを使用します"
+
+#: views/settings.php:682
+#: views/settings.php:713
+#: views/settings.php:736
+#, fuzzy
+msgid "send confirmation (double-opt-in)"
+msgstr "ダブル オプトインでが有効な場合に確認を送信します"
+
+#: classes/manage.class.php:718
+msgid "Not able to create file in %s. Please make sure WordPress can write files to your filesystem!"
+msgstr "%s の中でファイルを作成することができません。 WordPressのは、あなたのファイルシステムにファイルを書き込むことができることを確認してください！"
+
+#: classes/templates.class.php:418
+#, fuzzy
+msgid "Do you really like to remove file %s from template %s?"
+msgstr "本当にこれらの連絡先をインポートしたいですか？"
+
+#: views/settings.php:645
+#, fuzzy
+msgid "Delete Subscriber"
+msgstr "購読者を削除"
+
+#: views/settings.php:647
+msgid "Delete Subscriber if the WordPress User gets deleted"
+msgstr "WordPressのユーザーが削除される場合、購読を削除します。"
+
+#: views/settings.php:743
+msgid "only with these user roles:"
+msgstr "これらのユーザーの役割を持つのみ："
+
+#. mymail
+#: classes/lists.class.php:292
+msgid "List failed verification"
+msgstr "リストの検証に失敗しました。"
+
+#. mymail
+#: classes/subscribers.class.php:647
+#, fuzzy
+msgid "Subscriber failed verification"
+msgstr "購読者が既に存在します"
+
+#. mymail
+#: views/newsletter/delivery.php:353
+#, fuzzy
+msgid "No custom date fields found!"
+msgstr "リストは見つかりませんでした ！"
+
+#. mymail
+#: views/newsletter/delivery.php:355
+#, fuzzy
+msgid "add new fields"
+msgstr "フィールドを追加"
+
+#. mymail
+#: views/newsletter/receivers.php:34
+msgid "List doesn't matter"
+msgstr "リストは重要ではありません。"
+
+#. mymail
+#: classes/ajax.class.php:618
+msgid "Check your console for more info."
+msgstr "詳細はあなたのコンソールをチェックしてください。"
+
+#. mymail
+#: classes/campaigns.class.php:143
+#, fuzzy
+msgid "Filter Newsletter list"
+msgstr "メルマガ一覧"
+
+#. mymail
+#: classes/campaigns.class.php:144
+#, fuzzy
+msgid "Newsletter list navigation"
+msgstr "メルマガ一覧"
+
+#. mymail
+#: classes/campaigns.class.php:145
+#, fuzzy
+msgid "Newsletter list"
+msgstr "メルマガ一覧"
+
+#. mymail
+#: classes/campaigns.class.php:683
+msgid "requires %1$s more %2$s"
+msgstr "%1$s は複数の %2$s に必須です"
+
+#. mymail
+#: classes/campaigns.class.php:735
+#, fuzzy
+msgid "assigned lists"
+msgstr "リストを割り当てる"
+
+#. mymail
+#: classes/campaigns.class.php:755
+#: views/newsletter/receivers.php:59
+#: views/newsletter/receivers.php:191
+#, fuzzy
+msgid "Rating"
+msgstr "評価"
+
+#. mymail
+#: classes/campaigns.class.php:776
+#: views/newsletter/editbar.php:32
+#: views/newsletter/receivers.php:90
+#: views/newsletter/receivers.php:212
+msgid "match regex pattern"
+msgstr "正規表現パターンにマッチ"
+
+#. mymail
+#: classes/campaigns.class.php:777
+#: views/newsletter/editbar.php:33
+#: views/newsletter/receivers.php:91
+#: views/newsletter/receivers.php:213
+msgid "does not match regex pattern"
+msgstr "正規表現パターンに一致しません"
+
+#. mymail
+#: classes/campaigns.class.php:828
+#, fuzzy
+msgid "Finish Campaign"
+msgstr "%n 終了キャンペーン"
+
+#. mymail
+#: classes/campaigns.class.php:828
+#, fuzzy
+msgid "Finish"
+msgstr "完了"
+
+#. mymail
+#: classes/campaigns.class.php:944
+#, fuzzy
+msgid "Edit base"
+msgstr "購読者編集"
+
+#. mymail
+#: classes/campaigns.class.php:1002
+#, fuzzy
+msgid "Do you really like to finish this campaign?"
+msgstr "本当にこれらの連絡先をインポートしたいですか？"
+
+#. mymail
+#: classes/campaigns.class.php:1065
+#, fuzzy
+msgid "Do you really like to remove all modules?"
+msgstr "本当にこれらの連絡先をインポートしたいですか？"
+
+#. mymail
+#: classes/campaigns.class.php:1071
+#: views/newsletter/template.php:71
+msgid "Click to add %s"
+msgstr "%s に追加します"
+
+#. mymail
+#: classes/campaigns.class.php:1105
+msgid "Check the JS console for more info!"
+msgstr "詳細はJSコンソールをチェックしてください！"
+
+#. mymail
+#: classes/campaigns.class.php:1623
+#, fuzzy
+msgid "You are not allowed to finish campaigns."
+msgstr "キャンペーンを一時停止することはできません。"
+
+#. mymail
+#: classes/form.class.php:955
+#: classes/form.class.php:967
+#, fuzzy
+msgid "Please enter your email address"
+msgstr "あなたのメールアドレスを確認してください。"
+
+#. mymail
+#: classes/forms.class.php:124
+msgid "This is a success info"
+msgstr "これは成功情報です"
+
+#. mymail
+#: classes/forms.class.php:125
+#, fuzzy
+msgid "This is an error message"
+msgstr "空のフィールドのエラー メッセージ"
+
+#. mymail
+#: classes/forms.class.php:254
+#: views/forms/detail.php:449
+#, fuzzy
+msgid "Shortcode"
+msgstr "ショートコード"
+
+#. mymail
+#: classes/forms.class.php:255
+#: classes/forms.table.class.php:78
+#: views/forms/detail.php:83
+#: views/forms/detail.php:202
+#, fuzzy
+msgid "Fields"
+msgstr "項目"
+
+#. mymail
+#: classes/forms.class.php:257
+#, fuzzy
+msgid "Occurrence"
+msgstr "現在"
+
+#. mymail
+#: classes/forms.class.php:284
+msgid "There was an error while deleting forms: %s"
+msgstr "フォームの削除中にエラーが発生しました：%s"
+
+#. mymail
+#: classes/forms.class.php:287
+#, fuzzy
+msgid "%d forms have been removed"
+msgstr "制限がリセットされています"
+
+#. mymail
+#: classes/forms.class.php:323
+msgid "There was an error while adding the form: %s"
+msgstr "フォームを追加しているときにエラーが発生しました：%s"
+
+#. mymail
+#: classes/forms.class.php:334
+msgid "There was an error while updating the form: %s"
+msgstr "フォームの更新中にエラーが発生しました：%s"
+
+#. mymail
+#: classes/forms.class.php:367
+msgid "Form added"
+msgstr "フォームを追加"
+
+#. mymail
+#: classes/forms.class.php:367
+#, fuzzy
+msgid "Form updated"
+msgstr "キャンペーンを更新します。"
+
+#. mymail
+#: classes/forms.class.php:396
+#, fuzzy
+msgid "Form %s has been removed"
+msgstr "リストが作成されました"
+
+#. mymail
+#: classes/forms.class.php:234
+#, fuzzy
+msgid "The changes you made will be lost if you navigate away from this page."
+msgstr "あなたがこのページから移動した場合あなたが行った変更は失われます。"
+
+#. mymail
+#: classes/forms.class.php:467
+msgid "updating form requires ID"
+msgstr "フォームの更新にはIDが必須"
+
+#. mymail
+#: classes/forms.class.php:519
+#, fuzzy
+msgid "You have to confirm your email address. Please click the link below to confirm. %s"
+msgstr "あなたのメールアドレスを確認する必要があります。確認のため下記のリンクをクリックしてください。%s"
+
+#. mymail
+#: classes/forms.class.php:772
+msgid "Email is missing or wrong"
+msgstr "メールが見つからないか、間違っています"
+
+#. mymail
+#: classes/forms.class.php:773
+#, fuzzy
+msgid "%s is missing"
+msgstr "%s が見つかりません。"
+
+#. mymail
+#: classes/forms.table.class.php:37
+#, fuzzy
+msgid "No forms found"
+msgstr "いいえコンタクトフォームが見つかりませんでした"
+
+#. mymail
+#: classes/forms.table.class.php:73
+msgid "This form is used for user profile updates"
+msgstr "このフォームは、ユーザーのプロフィールの更新のために使用されています"
+
+#. mymail
+#: classes/forms.table.class.php:78
+#, fuzzy
+msgid "change structure"
+msgstr "テンプレート変更"
+
+#. mymail
+#: classes/forms.table.class.php:79
+#, fuzzy
+msgid "change design"
+msgstr "変更"
+
+#. mymail
+#: classes/forms.table.class.php:79
+#: views/forms/detail.php:85
+#: views/forms/detail.php:99
+#: views/forms/detail.php:170
+#, fuzzy
+msgid "Design"
+msgstr "デザイン"
+
+#. mymail
+#: classes/forms.table.class.php:80
+#, fuzzy
+msgid "change settings"
+msgstr "Cron の設定"
+
+#. mymail
+#: classes/forms.table.class.php:81
+#, fuzzy
+msgid "use your form"
+msgstr "あなたのフォーム名称"
+
+#. mymail
+#: classes/forms.table.class.php:81
+#: views/forms/detail.php:89
+#, fuzzy
+msgid "Use it!"
+msgstr "使用"
+
+#. mymail
+#: classes/forms.table.class.php:131
+msgid "%d Widget"
+msgid_plural "%d Widgets"
+msgstr[0] "%d のウィジェット"
+
+#. mymail
+#: classes/lists.class.php:141
+#, fuzzy
+msgid "Please selected at least two lists!"
+msgstr "少なくとも 1 つのリストを選択してください ！"
+
+#. mymail
+#: classes/lists.class.php:148
+msgid "Lists have been merged. Please update your %s if necessary!"
+msgstr "リストはマージされました。必要に応じて %s を更新してください！"
+
+#. mymail
+#: classes/lists.class.php:148
+#, fuzzy
+msgid "campaigns"
+msgstr "キャンペーン"
+
+#. mymail
+#: classes/lists.class.php:474
+#, fuzzy
+msgid "Merged List #%d"
+msgstr "リストをマージ"
+
+#. mymail
+#: classes/lists.class.php:479
+msgid "A merged list of"
+msgstr "のマージされたリスト"
+
+#. mymail
+#: classes/lists.table.class.php:112
+#, fuzzy
+msgid "Merge selected Lists"
+msgstr "選択したリストを削除します"
+
+#. mymail
+#: classes/manage.class.php:811
+#: views/manage.php:246
+#, fuzzy
+msgid "Statuscode"
+msgstr "状態"
+
+#. mymail
+#: classes/mymail.class.php:163
+msgid "Dismiss this notice (Alt-click to dismiss all notices)"
+msgstr "この通知を閉じる (すべての通知を却下する alt + クリック)"
+
+#. mymail
+#: classes/mymail.class.php:543
+#, fuzzy
+msgid "View details"
+msgstr "詳細表示"
+
+#. mymail
+#: classes/mymail.class.php:1025
+msgid "Your newsletter homepage is not visible. Please %s the page"
+msgstr "メールマガジンのホームページは表示されません。%s ページをしてください。"
+
+#. mymail
+#: classes/mymail.class.php:1025
+#, fuzzy
+msgid "update"
+msgstr "更新"
+
+#. mymail
+#: classes/mymail.class.php:1042
+msgid "This is your newsletter homepage but it seems it is not set up correctly! Please follow %s for help!"
+msgstr "これはあなたのニュースレターのホームページですが正しく設定されていないようです！ %s の助けに従ってください！"
+
+#. mymail
+#: classes/mymail.class.php:1042
+#, fuzzy
+msgid "this guid"
+msgstr "このウィザード"
+
+#. mymail
+#: classes/mymail.class.php:1213
+#, fuzzy
+msgid "Please make sure all your campaigns are imported correctly!"
+msgstr "あなたのページのどれも %s スラッグを使用しているかどうかを確認してください。"
+
+#. mymail
+#: classes/notification.class.php:135
+msgid "You are receiving this email because you have enabled notifications for new subscribers %s"
+msgstr "あなたが新規購読者 %s の通知を有効にしているのでこのメールを受信しています"
+
+#. mymail
+#: classes/notification.class.php:135
+#: classes/notification.class.php:152
+#, fuzzy
+msgid "on your settings page"
+msgstr "フロントエンドの設定ページ"
+
+#. mymail
+#: classes/notification.class.php:144
+#, fuzzy
+msgid "A user has canceled your newsletter!"
+msgstr "新しいユーザーがあなたのメルマガを購読しました ！"
+
+#. mymail
+#: classes/notification.class.php:152
+msgid "You are receiving this email because you have enabled notifications for unsubscriptions %s"
+msgstr "あなたが退会で %s の通知を有効にしているためこのメールを受信しています"
+
+#. mymail
+#: classes/notification.class.php:209
+#, fuzzy
+msgid "This is a test mail sent from %s"
+msgstr "このキャンペーンは %s に送信されました"
+
+#. mymail
+#: classes/notification.class.php:209
+#, fuzzy
+msgid "from your settings page"
+msgstr "フロントエンドの設定ページ"
+
+#. mymail
+#: classes/notification.class.php:408
+#, fuzzy
+msgid "Confirmation Message"
+msgstr "確認"
+
+#. mymail
+#: classes/notification.class.php:557
+#, fuzzy
+msgid "%s has canceled"
+msgstr "%s 参加しています"
+
+#. mymail
+#: classes/placeholder.class.php:586
+msgid "use the tag %s as url in the editbar"
+msgstr "タグ %s をURLとして、editbarで使用します。"
+
+#. mymail
+#: classes/placeholder.class.php:661
+msgid "Please enter your Twitter application credentials on the settings page"
+msgstr "設定ページでTwitterのアプリケーションの資格情報を入力してください"
+
+#. mymail
+#: classes/settings.class.php:253
+#: views/settings.php:526
+#, fuzzy
+msgid "Textarea"
+msgstr "テキストエリア"
+
+#. mymail
+#: classes/subscribers.table.class.php:48
+#, fuzzy
+msgid "No pending subscribers found"
+msgstr "購読者が見つかりません"
+
+#. mymail
+#: classes/subscribers.table.class.php:51
+#, fuzzy
+msgid "No unsubscribed subscribers found"
+msgstr "%n 退会購読者"
+
+#. mymail
+#: classes/subscribers.table.class.php:54
+#, fuzzy
+msgid "No hardbounced subscribers found"
+msgstr "%n　購読拒否購読者"
+
+#. mymail
+#: classes/subscribers.table.class.php:57
+#, fuzzy
+msgid "No subscriber with delivery errors found"
+msgstr "購読者が見つかりません"
+
+#. mymail
+#: classes/subscribers.table.class.php:60
+#, fuzzy
+msgid "No subscribers found"
+msgstr "購読者が見つかりません"
+
+#. mymail
+#: classes/templates.class.php:423
+msgid "You are about to OVERWRITE your exiting template files with a new version!"
+msgstr "新しいバージョンで既存のテンプレートファイルを上書きしようとしています!"
+
+#. mymail
+#: classes/templates.class.php:423
+msgid "Please make sure you have a backup of your files."
+msgstr "あなたはファイルのバックアップしていることを確認してください。"
+
+#. mymail
+#: classes/templates.class.php:565
+#, fuzzy
+msgid "Template successful updated!"
+msgstr "テンプレート %s の削除"
+
+#. mymail
+#: classes/templates.class.php:471
+#: classes/templates.class.php:566
+#, fuzzy
+msgid "Template successful loaded!"
+msgstr "都市 DB は正常に読み込まれました ！"
+
+#. mymail
+#: classes/templates.class.php:600
+#, fuzzy
+msgid "Licensecode has been updated!"
+msgstr "リストが作成されました"
+
+#. mymail
+#: classes/update.class.php:51
+msgid "An additional update is required for MyMail!"
+msgstr "追加の更新プログラムはMyMail に必要です!"
+
+#. mymail
+#: classes/update.class.php:51
+#, fuzzy
+msgid "progress update now"
+msgstr "進捗"
+
+#. mymail
+#: classes/widget.class.php:43
+msgid "Show form on newsletter homepage as well"
+msgstr "ニュースレターのホームページ同様にフォームを表示します。"
+
+#. mymail
+#: classes/widget.class.php:178
+#, fuzzy
+msgid "Number of Subscribers"
+msgstr "新しい購読者"
+
+#. mymail
+#: classes/widget.class.php:179
+msgid "Display the number of your Subscribers"
+msgstr "あなたの購読者の数を表示"
+
+#. mymail
+#: classes/widget.class.php:240
+#, fuzzy
+msgid "Prefix"
+msgstr "接頭辞"
+
+#. mymail
+#: classes/widget.class.php:242
+msgid "Postfix"
+msgstr "接尾辞"
+
+#. mymail
+#: classes/widget.class.php:245
+msgid "Round up to the next"
+msgstr "小数点以下を切り上げる"
+
+#. mymail
+#: classes/widget.class.php:247
+#, fuzzy
+msgid "do not round"
+msgstr "エントリが見つかりません"
+
+#. mymail
+#: classes/widget.class.php:253
+msgid "format number"
+msgstr "フォーマット番号"
+
+#. mymail
+#: includes/capability.php:86
+#, fuzzy
+msgid "edit forms"
+msgstr "フォームを埋め込む"
+
+#. mymail
+#: includes/capability.php:91
+#, fuzzy
+msgid "add forms"
+msgstr "フォーム追加"
+
+#. mymail
+#: includes/capability.php:96
+#, fuzzy
+msgid "delete forms"
+msgstr "リスト削除"
+
+#. mymail
+#: includes/capability.php:164
+#, fuzzy
+msgid "update templates"
+msgstr "テンプレート削除"
+
+#. mymail
+#: views/dashboard.php:31
+#, fuzzy
+msgid "Woha! Seems you havn't sent any campaign yet!"
+msgstr "おっと！あなたのキャンペーンはまだありません。"
+
+#. mymail
+#: views/dashboard.php:34
+#, fuzzy
+msgid "Check out existing Campaigns"
+msgstr "キャンペーンで国を追跡します。"
+
+#. mymail
+#: views/dashboard.php:40
+#, fuzzy
+msgid "Subscriber Grows"
+msgstr "購読者"
+
+#. mymail
+#: views/dashboard.php:42
+msgid "7 days"
+msgstr "7日"
+
+#. mymail
+#: views/dashboard.php:43
+msgid "30 days"
+msgstr "30日"
+
+#. mymail
+#: views/dashboard.php:44
+#, fuzzy
+msgid "3 month"
+msgstr "月"
+
+#. mymail
+#: views/dashboard.php:45
+msgid "1 year"
+msgstr "1年"
+
+#. mymail
+#: views/dashboard.php:61
+#, fuzzy
+msgid "You have no subscribers yet!"
+msgstr "購読者を削除"
+
+#. mymail
+#: views/dashboard.php:63
+#, fuzzy
+msgid "Add a single Subscriber"
+msgstr "購読者を新規追加"
+
+#. mymail
+#: views/dashboard.php:64
+#, fuzzy
+msgid "Import your existing Subscribers"
+msgstr "既存の購読者"
+
+#. mymail
+#: views/dashboard.php:65
+msgid "Create a Form to engage new Subscribers"
+msgstr "新規購読者を登録するためのフォームを作成します。"
+
+#. mymail
+#: views/forms/detail.php:11
+msgid "This form does not exist or has been deleted!"
+msgstr "このフォームは存在しないか、削除されました！"
+
+#. mymail
+#: views/forms/detail.php:16
+#, fuzzy
+msgid "You don't have the right permission to add new forms"
+msgstr "これらの連絡先をインポートする権限が必要です ！"
+
+#. mymail
+#: views/forms/detail.php:61
+#, fuzzy
+msgid "delete Form"
+msgstr "削除"
+
+#. mymail
+#: views/forms/detail.php:61
+#, fuzzy
+msgid "Do you really like to remove this form?"
+msgstr "本当にこれらの連絡先をインポートしたいですか？"
+
+#. mymail
+#: views/forms/detail.php:70
+#, fuzzy
+msgid "Add new Form"
+msgstr "新しいフォームを追加"
+
+#. mymail
+#: views/forms/detail.php:72
+#, fuzzy
+msgid "Edit Form"
+msgstr "編集"
+
+#. mymail
+#: views/forms/detail.php:103
+msgid "Define the structure of your form below. Drag available fields in the left area to add them to your form. Rearrange fields by dragging fields around"
+msgstr "下記のフォームの構造を定義します。フォームに追加するには、左側の領域で使用可能なフィールドをドラッグします。フィールド辺りをドラッグしてフィールドを再配置します。"
+
+#. mymail
+#: views/forms/detail.php:106
+#, fuzzy
+msgid "Form Fields"
+msgstr "コメント フォーム フィールドの境界線の色"
+
+#. mymail
+#: views/forms/detail.php:114
+#: views/forms/detail.php:148
+#: views/forms/detail.php:232
+#: views/forms/detail.php:501
+#, fuzzy
+msgid "Label"
+msgstr "ラベル"
+
+#. mymail
+#: views/forms/detail.php:123
+#: views/forms/detail.php:156
+#, fuzzy
+msgid "define an error message for this field"
+msgstr "このフィールドのラベルを定義します"
+
+#. mymail
+#: views/forms/detail.php:123
+#: views/forms/detail.php:156
+#, fuzzy
+msgid "Error Message (optional)"
+msgstr "エラーメッセージ"
+
+#. mymail
+#: views/forms/detail.php:135
+#, fuzzy
+msgid "Available Fields"
+msgstr "使用可能なテンプレート"
+
+#. mymail
+#: views/forms/detail.php:183
+#: views/forms/detail.php:295
+#, fuzzy
+msgid "back to Fields"
+msgstr "カスタムフィールドを追加"
+
+#. mymail
+#: views/forms/detail.php:183
+#: views/forms/detail.php:295
+msgid "define the Options"
+msgstr "オプションを定義します"
+
+#. mymail
+#: views/forms/detail.php:189
+#, fuzzy
+msgid "Form Design"
+msgstr "フォーム"
+
+#. mymail
+#: views/forms/detail.php:191
+#, fuzzy
+msgid "Include your Theme's style.css"
+msgstr "テーマ style.css を含める"
+
+#. mymail
+#: views/forms/detail.php:192
+msgid "Your form may look different depending on the place you are using it!"
+msgstr "あなたのフォームは、あなたがそれを使用している場所に応じて異なって見える場合があります！"
+
+#. mymail
+#: views/forms/detail.php:200
+#, fuzzy
+msgid "Global"
+msgstr "一般フォームの設定"
+
+#. mymail
+#: views/forms/detail.php:201
+#, fuzzy
+msgid "Button"
+msgstr "ボタン"
+
+#. mymail
+#: views/forms/detail.php:203
+#, fuzzy
+msgid "Info Messages"
+msgstr "エラーメッセージ"
+
+#. mymail
+#: views/forms/detail.php:211
+#, fuzzy
+msgid "Label Color"
+msgstr "ラベルの色"
+
+#. mymail
+#: views/forms/detail.php:211
+#: views/forms/detail.php:212
+#: views/forms/detail.php:213
+#: views/forms/detail.php:214
+#: views/forms/detail.php:215
+#: views/forms/detail.php:221
+#: views/forms/detail.php:222
+#: views/forms/detail.php:223
+#: views/forms/detail.php:224
+#: views/forms/detail.php:233
+#: views/forms/detail.php:236
+#: views/forms/detail.php:239
+#: views/forms/detail.php:249
+#: views/forms/detail.php:250
+#: views/forms/detail.php:251
+#: views/forms/detail.php:252
+#, fuzzy
+msgid "custom style"
+msgstr "カスタムスタイル"
+
+#. mymail
+#: views/forms/detail.php:212
+msgid "Input Text Color"
+msgstr "入力テキストの色"
+
+#. mymail
+#: views/forms/detail.php:213
+#, fuzzy
+msgid "Input Background Color"
+msgstr "背景"
+
+#. mymail
+#: views/forms/detail.php:214
+msgid "Input Focus Color"
+msgstr "入力フォーカスの色"
+
+#. mymail
+#: views/forms/detail.php:215
+#: views/forms/detail.php:287
+#, fuzzy
+msgid "Required Asterisk"
+msgstr "登録ユーザー"
+
+#. mymail
+#: views/forms/detail.php:221
+#, fuzzy
+msgid "Background Color"
+msgstr "背景色"
+
+#. mymail
+#: views/forms/detail.php:222
+#, fuzzy
+msgid "Text Color"
+msgstr "テキストカラー"
+
+#. mymail
+#: views/forms/detail.php:223
+#, fuzzy
+msgid "Hover Color"
+msgstr "ホバー色"
+
+#. mymail
+#: views/forms/detail.php:224
+#, fuzzy
+msgid "Hover Text Color"
+msgstr "ホバーテキストの色"
+
+#. mymail
+#: views/forms/detail.php:235
+#, fuzzy
+msgid "Input"
+msgstr "入力チェック輪郭"
+
+#. mymail
+#: views/forms/detail.php:238
+#, fuzzy
+msgid "Input Background"
+msgstr "背景"
+
+#. mymail
+#: views/forms/detail.php:249
+msgid "Success message Color"
+msgstr "成功メッセージの色"
+
+#. mymail
+#: views/forms/detail.php:250
+msgid "Success message Background"
+msgstr "成功メッセージの背景"
+
+#. mymail
+#: views/forms/detail.php:265
+#, fuzzy
+msgid "Custom Style"
+msgstr "カスタムスタイル"
+
+#. mymail
+#: views/forms/detail.php:266
+msgid "add custom CSS to your form"
+msgstr "フォームにカスタムCSSを追加"
+
+#. mymail
+#: views/forms/detail.php:272
+#, fuzzy
+msgid "Selector Prefix"
+msgstr "ファイル選択"
+
+#. mymail
+#: views/forms/detail.php:274
+msgid "Form selector"
+msgstr "フォーム セレクタ"
+
+#. mymail
+#: views/forms/detail.php:275
+#, fuzzy
+msgid "Field wrapper"
+msgstr "フィールド名"
+
+#. mymail
+#: views/forms/detail.php:276
+#, fuzzy
+msgid "Custom Field Wrapper divs"
+msgstr "ユーザー設定フィールド"
+
+#. mymail
+#: views/forms/detail.php:281
+#, fuzzy
+msgid "Custom Field Inputs"
+msgstr "ユーザー設定フィールド"
+
+#. mymail
+#: views/forms/detail.php:301
+#: views/forms/detail.php:439
+msgid "back to Design"
+msgstr "デザインへ戻る"
+
+#. mymail
+#: views/forms/detail.php:307
+#, fuzzy
+msgid "Form Options"
+msgstr "オプション"
+
+#. mymail
+#: views/forms/detail.php:321
+msgid "allow users to update their data with this form"
+msgstr "ユーザーはこのフォームでデータを更新することができます"
+
+#. mymail
+#: views/forms/detail.php:327
+msgid "use this form as user profile."
+msgstr "ユーザープロフィールとしてこのフォームを使用します。"
+
+#. mymail
+#: views/forms/detail.php:334
+msgid "Currently %s is your profile form"
+msgstr "現在 %s はあなたのプロフィールフォームです"
+
+#. mymail
+#: views/forms/detail.php:342
+#, fuzzy
+msgid "List Options"
+msgstr "オプション"
+
+#. mymail
+#: views/forms/detail.php:362
+#, fuzzy
+msgid "Double Opt In"
+msgstr "ダブルオプトイン"
+
+#. mymail
+#: views/forms/detail.php:371
+#, fuzzy
+msgid "Confirmation Settings"
+msgstr "確認の送信 %s"
+
+#. mymail
+#: views/forms/detail.php:444
+#: views/forms/detail.php:579
+#, fuzzy
+msgid "back to Settings"
+msgstr "一般フォームの設定"
+
+#. mymail
+#: views/forms/detail.php:450
+msgid "Use this shortcode wherever they are excepted."
+msgstr "それらが除外されている場所であればどこでも、このショートコードを使用してください。"
+
+#. mymail
+#: views/forms/detail.php:450
+#, fuzzy
+msgid "Read more about shortcodes at %s"
+msgstr "%s でより多くのカスタム フィールドを追加します。"
+
+#. mymail
+#: views/forms/detail.php:454
+#, fuzzy
+msgid "Widget"
+msgstr "ウィジェット"
+
+#. mymail
+#: views/forms/detail.php:456
+msgid "Use this form as a %s in one of your sidebars"
+msgstr "このフォームをあなたのサイドバーのいずれかで %s として使用します。"
+
+#. mymail
+#: views/forms/detail.php:456
+#, fuzzy
+msgid "widget"
+msgstr "ウィジェット"
+
+#. mymail
+#: views/forms/detail.php:462
+msgid "Embed a button where users can subscribe on any website"
+msgstr "ユーザーが任意のウェブサイト上で購読することができるボタンを埋め込みます"
+
+#. mymail
+#: views/forms/detail.php:472
+#, fuzzy
+msgid "Button Style"
+msgstr "ボタンのスタイル"
+
+#. mymail
+#: views/forms/detail.php:493
+#, fuzzy
+msgid "Button Options"
+msgstr "オプション"
+
+#. mymail
+#: views/forms/detail.php:497
+#, fuzzy
+msgid "Popup width"
+msgstr "横幅"
+
+#. mymail
+#: views/forms/detail.php:503
+#, fuzzy
+msgid "Use Form Default"
+msgstr "既定値として使用します。"
+
+#. mymail
+#: views/forms/detail.php:509
+#, fuzzy
+msgid "Subscriber Count"
+msgstr "購読者が見つかりません"
+
+#. mymail
+#: views/forms/detail.php:510
+#, fuzzy
+msgid "Display subscriber count"
+msgstr "購読者が見つかりませんでした"
+
+#. mymail
+#: views/forms/detail.php:511
+#, fuzzy
+msgid "Count above Button"
+msgstr "共有ボタン"
+
+#. mymail
+#: views/forms/detail.php:523
+#, fuzzy
+msgid "Preview and Code"
+msgstr "プレビュー"
+
+#. mymail
+#: views/forms/detail.php:525
+#, fuzzy
+msgid "Test your button"
+msgstr "テキストボタン"
+
+#. mymail
+#: views/forms/detail.php:530
+msgid "embed it somewhere"
+msgstr "どこかでそれを埋め込みます"
+
+#. mymail
+#: views/forms/detail.php:534
+#, fuzzy
+msgid "or use this shortcode on your site"
+msgstr "別のサイト上でこのフォームを埋め込む"
+
+#. mymail
+#: views/forms/detail.php:546
+#, fuzzy
+msgid "Form HTML"
+msgstr "フォーム"
+
+#. mymail
+#: views/forms/detail.php:548
+#, fuzzy
+msgid "iFrame Version"
+msgstr "iframe版"
+
+#. mymail
+#: views/forms/detail.php:560
+#, fuzzy
+msgid "HTML Version"
+msgstr "HTML版"
+
+#. mymail
+#: views/forms/overview.php:16
+#, fuzzy
+msgid "Search Forms"
+msgstr "リスト検索"
+
+#. mymail
+#: views/lists/detail.php:9
+msgid "This list does not exist or has been deleted!"
+msgstr "このリストは存在しないか、削除されました！"
+
+#. mymail
+#: views/lists/detail.php:86
+#, fuzzy
+msgid "no description"
+msgstr "説明なし"
+
+#. mymail
+#: views/manage.php:93
+#, fuzzy
+msgid "users without a role"
+msgstr "ユーザー権限"
+
+#. mymail
+#: views/newsletter/delivery.php:158
+msgid "Keep in mind it is bad practice to send campaigns after subscribers opt-out so use this option for \"Thank you\" messages or surveys."
+msgstr "購読後にキャンペーンを送信するためにオプトアウトやアンケートの「ありがとうございます」メッセージのように、このオプションを使用します。許可の無い配信は法律に触れる行為である点に注意してください。"
+
+#. mymail
+#: views/newsletter/delivery.php:278
+#, fuzzy
+msgid "%1$s %2$s have been published"
+msgstr "%1$s に一致する %2$s を公開します"
+
+#. mymail
+#: views/newsletter/delivery.php:344
+#, fuzzy
+msgid "every %1$s %2$s"
+msgstr "すべて %1$ %2$ s を送信します。"
+
+#. mymail
+#: views/newsletter/delivery.php:346
+#, fuzzy
+msgid "on the exact date"
+msgstr "6番目の最新情報"
+
+#. mymail
+#: views/newsletter/delivery.php:350
+msgid "of the users %1$s value"
+msgstr "ユーザー %1$s の値の"
+
+#. mymail
+#: classes/ajax.class.php:1396
+#: views/newsletter/delivery.php:400
+#, fuzzy
+msgid "no title"
+msgstr "タイトルなし"
+
+#. mymail
+#: views/newsletter/details.php:83
+#, fuzzy
+msgid "click"
+msgid_plural "clicks"
+msgstr[0] "クリック"
+
+#. mymail
+#: views/newsletter/optionbar.php:17
+#, fuzzy
+msgid "Distraction-free edit mode"
+msgstr "編集モードに切り替える"
+
+#. mymail
+#: views/newsletter/receivers.php:65
+#: views/newsletter/receivers.php:184
+#, fuzzy
+msgid "Form ID"
+msgstr "フォーム ID"
+
+#. mymail
+#: views/newsletter/receivers.php:66
+#: views/newsletter/receivers.php:185
+#, fuzzy
+msgid "Referer"
+msgstr "リファラー"
+
+#. mymail
+#: views/newsletter/template.php:63
+#, fuzzy
+msgid "Modules"
+msgstr "モジュール"
+
+#. mymail
+#: views/settings.php:57
+#, fuzzy
+msgid "Advanced"
+msgstr "詳細"
+
+#. mymail
+#: views/settings.php:308
+#, fuzzy
+msgid "visit"
+msgstr "拡張機能ストアページヘ移動"
+
+#. mymail
+#: views/settings.php:482
+#, fuzzy
+msgid "Send a notification if subscribers cancel their subscription to following receivers (comma separated)"
+msgstr "次の受信者に新しい購読者の通知を送信します。(カンマ区切り) "
+
+#. mymail
+#: views/settings.php:505
+msgid "Respect users \"Do Not Track\" option"
+msgstr "リスペクトユーザーを \"追跡しない\" オプション"
+
+#. mymail
+#: views/settings.php:506
+msgid "If enabled MyMail will respect users option for not getting tracked. Read more on the %s"
+msgstr "有効にした場合にMyMailは追跡を許可していないユーザーのオプションを尊重します。%s の続きを読みます"
+
+#. mymail
+#: views/settings.php:506
+msgid "official website"
+msgstr "公式サイト"
+
+#. mymail
+#: views/settings.php:510
+msgid "Single-Opt-Out"
+msgstr "シングルオプトアウト"
+
+#. mymail
+#: views/settings.php:511
+msgid "Subscribers instantly signed out after clicking the unsubscribe link in mails"
+msgstr "購読者は、即座にメールで配信停止リンクをクリックした後に購読を停止する"
+
+#. mymail
+#: views/settings.php:1511
+#, fuzzy
+msgid "Advanced Settings"
+msgstr "詳細設定"
+
+#. mymail
+#: views/settings.php:1520
+#, fuzzy
+msgid "Disable Cache"
+msgstr "このタブを無効"
+
+#. mymail
+#: views/settings.php:1521
+msgid "Disable Object Cache for MyMail"
+msgstr "MyMailのためのオブジェクトキャッシュを無効にします"
+
+#. mymail
+#: views/settings.php:1521
+msgid "If enabled MyMail doesn't use cache anymore. This causes an increase in page load time! This option is not recommended!"
+msgstr "有効にした場合MyMailはもうキャッシュを使用しません。これは、ページの読み込み時間の増加を引き起こします！このオプションは推奨されません！"
+
+#. mymail
+#: views/settings.php:1525
+#, fuzzy
+msgid "remove Data"
+msgstr "削除"
+
+#. mymail
+#: views/settings.php:1526
+msgid "remove all data on plugin deletion"
+msgstr "プラグインの削除の上すべてのデータを削除します"
+
+#. mymail
+#: views/subscribers/detail.php:79
+msgid "The user rating is based on different factors like open rate, click rate and bounces"
+msgstr "ユーザーの評価がオープンレートのようなさまざまな要因に基づいており、速度や反応をクリック"
+
+#. mymail
+#: views/subscribers/detail.php:79
+#, fuzzy
+msgid "User Rating"
+msgstr "ユーザーの評価："
+
+#. mymail
+#: views/subscribers/detail.php:312
+#, fuzzy
+msgid "adjusted click rate"
+msgstr "クリック率"
+
+#. mymail
+#: views/templates.php:103
+#, fuzzy
+msgid "Start new Campaign"
+msgstr "開始キャンペーン"
+
+#. mymail
+#: views/templates.php:138
+#: views/templates.php:215
+msgid "Enter Licensecode"
+msgstr "ライセンスコードを入力"
+
+#. mymail
+#: views/templates.php:140
+#: views/templates.php:217
+#, fuzzy
+msgid "save"
+msgstr "保存する"
+
+#. mymail
+#: views/templates.php:184
+msgid "Seems there was a problem getting the list of templates"
+msgstr "テンプレートの一覧の取得中に問題があったようです"
+
+#. mymail
+#: classes/ajax.class.php:1397
+#, fuzzy
+msgid "no match for your selection!"
+msgstr "現在のあなたの選択は一致しない ！"
+
+#. mymail
+#: classes/helper.class.php:405
+msgid "error is unknown"
+msgstr "エラーは不明です"
+
+#. mymail
+#: classes/settings.class.php:23
+#, fuzzy
+msgid "Homepage already created!"
+msgstr "ホームページ作成"
+
+#. mymail
+#: classes/subscribers.class.php:261
+#, fuzzy
+msgid "You are not allowed to add subscribers!"
+msgstr "キャンペーンを一時停止することはできません。"
+
+#. mymail
+#: classes/subscribers.class.php:264
+#, fuzzy
+msgid "You are not allowed to edit subscribers!"
+msgstr "キャンペーンを複製することはできません。"
+
+#. mymail
+#: classes/subscribers.class.php:315
+#, fuzzy
+msgid "You are not allowed to delete subscribers!"
+msgstr "キャンペーンを複製することはできません。"
+
+#. mymail
+#: classes/subscribers.class.php:320
+msgid "There was an error while deleting subscribers!"
+msgstr "購読者の削除中にエラーが発生しました!"
+
+#. mymail
+#: classes/subscribers.class.php:348
+#, fuzzy
+msgid "You are not allowed to publish campaigns!"
+msgstr "キャンペーンを一時停止することはできません。"
+
+#. mymail
+#: classes/template.class.php:292
+#, fuzzy
+msgid "Module #%d"
+msgstr "モジュールを下に移動"
+
+#. mymail
+#: includes/functions.php:627
+#, fuzzy
+msgid "MyMail has been updated to %s."
+msgstr "%s ファイルをアップロード"
+
+#. mymail
+#: includes/functions.php:627
+#, fuzzy
+msgid "Changelog"
+msgstr "変更履歴"
+
+#. mymail
+#: views/forms/detail.php:364
+msgid "new subscribers are subscribed instantly without confirmation."
+msgstr "新規加入者は確認なしで即時加入しています。"
+
+#. mymail
+#: views/forms/detail.php:366
+#, fuzzy
+msgid "new subscribers must confirm their subscription."
+msgstr "新しい購読者は、購読申し込みを確認する必要があります。"
+
+#. mymail
+#: views/newsletter/delivery.php:140
+#, fuzzy
+msgid "only for subscribers who signed up"
+msgstr "購読者が見つかりません"
+
+#. mymail
+#: views/newsletter/delivery.php:143
+#, fuzzy
+msgid "only for subscribers who canceled their subscription"
+msgstr "新しい購読者は、購読申し込みを確認する必要があります。"
+
+#. mymail
+#: views/newsletter/editbar.php:250
+#, fuzzy
+msgid "Current Match"
+msgstr "現在の一致: %s"
+
+#. mymail
+#: views/settings.php:317
+msgid "Search Engine Visibility"
+msgstr "検索エンジンの可視性"
+
+#. mymail
+#: views/settings.php:318
+msgid "Discourage search engines from indexing your campaigns"
+msgstr "キャンペーンを検索エンジンのインデックスから阻止"
+
+#. mymail
+#: views/settings.php:651
+#, fuzzy
+msgid "Delete WordPress User"
+msgstr "Recwords ユーザー"
+
+#. mymail
+#: views/settings.php:661
+msgid "Delete WordPress User if the Subscriber gets deleted"
+msgstr "購読者を削除する場合にはWordPressのユーザーも削除"
+
+#. mymail
+#: views/settings.php:662
+msgid "Attention! This option will remove assigned WordPress Users without further notice. You must have the capability to delete WordPress Users. Administrators and the current user can not get deleted with this option"
+msgstr "注意！このオプションは、予告なく割り当てられたWordPressのユーザーを削除します。あなたはWordPressのユーザーを削除する機能を持っている必要があります。管理者と現在のユーザーは、このオプションを指定して削除することはできません"
+
+#. mymail
+#: views/settings.php:886
+msgid "image ID"
+msgstr "画像ID"
+
+#. mymail
+#: views/settings.php:1498
+msgid "Hide this tab if purchasecode has been entered"
+msgstr "購入コードが入力された場合は、このタブを非表示にします"
+
+#. mymail
+#: views/settings.php:1516
+msgid "Some of these settings may affect your website. In normal circumstance it is not required to change anything on this page."
+msgstr "これらの設定のいくつかは、あなたのウェブサイトに影響を与える可能性があります。通常の状況では、このページ上の何かを変更する必要はありません。"
+
+#. mymail
+#: views/settings.php:1526
+msgid "MyMail will remove all it's data if you delete the plugin via the plugin page."
+msgstr "あなたはプラグインページからプラグインを削除した場合MyMailはすべてのデータを削除します。"
+
+#. mymail
+#: views/settings.php:1530
+msgid "PHP Mailer"
+msgstr "PHPメーラー"
+
+#. mymail
+#: views/subscribers/detail.php:279
+msgid "Local Time"
+msgstr "標準時"
+
+#. mymail
+#: classes/ajax.class.php:1459
+msgid "%1$s via %2$s"
+msgstr ""
+
+#. mymail
+#: classes/ajax.class.php:1469
+msgid "Your message was sent successfully!"
+msgstr ""
+
+#. mymail
+#: classes/form.class.php:354
+msgid "edit form"
+msgstr ""
+
+#. mymail
+#: classes/frontpage.class.php:69
+msgid "Please do not use %1$s in %2$s as page slug as it conflicts with MyMail form submission!"
+msgstr ""
+
+#. mymail
+#: classes/frontpage.class.php:805
+msgid "You should use the shortcode %s only on the newsletter homepage!"
+msgstr ""
+
+#. mymail
+#: classes/settings.class.php:86
+msgctxt "confirm slug"
+msgid "confirm"
+msgstr ""
+
+#. mymail
+#: classes/settings.class.php:87
+msgctxt "subscribe slug"
+msgid "subscribe"
+msgstr ""
+
+#. mymail
+#: classes/settings.class.php:88
+msgctxt "unsubscribe slug"
+msgid "unsubscribe"
+msgstr ""
+
+#. mymail
+#: classes/settings.class.php:89
+msgctxt "profile slug"
+msgid "profile"
+msgstr ""
+
+#. mymail
+#: classes/settings.class.php:624
+msgid "Not able to set archive slug to %1$s. Used by %2$s"
+msgstr ""
+
+#. mymail
+#: classes/settings.class.php:628
+msgid "Your newsletter archive page is: %s"
+msgstr ""
+
+#. mymail
+#: classes/templates.class.php:238
+msgid "There was a problem progressing the file"
+msgstr ""
+
+#. mymail
+#: classes/templates.class.php:447
+msgid "You haven't purchased this template with this account!"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:163
+msgid "add more custom fields on the %s."
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:163
+msgid "Settings Page"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:251
+msgid "Error message Color"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:252
+msgid "Error message Background"
+msgstr ""
+
+#. mymail
+#: views/forms/detail.php:461
+msgid "Subscribe Button"
+msgstr ""
+
+#. mymail
+#: views/settings.php:131
+msgid "Module Thumbnails"
+msgstr ""
+
+#. mymail
+#: views/settings.php:132
+msgid "Show thumbails of modules in the editor if available"
+msgstr ""
+
+#. mymail
+#: views/settings.php:424
+msgid "Archive"
+msgstr ""
+
+#. mymail
+#: views/settings.php:429
+msgid "Archive Slug"
+msgstr ""
+
+#. mymail
+#: views/settings.php:442
+msgid "show only"
+msgstr ""
+
+#. mymail
+#: views/settings.php:443
+msgid "finished"
+msgstr ""
+
+#. mymail
+#: views/settings.php:445
+msgid "paused"
+msgstr ""
+
+#. mymail
+#: views/settings.php:446
+msgid "queued"
+msgstr ""
+
+#. mymail
+#: views/settings.php:1533
+msgid "use version"
+msgstr ""
+
+#. mymail
+#: views/settings.php:1535
+msgid "included in WordPress"
+msgstr ""
+
+#. mymail
+#: views/templates.php:112
+msgid "update via Envato"
+msgstr ""
+
+#. mymail
+#: views/templates.php:203
+msgid "your version"
+msgstr ""
+
+#. mymail
+#: views/templates.php:238
+msgid "download via Envato"
+msgstr ""
+
+#. mymail
+#: views/templates.php:245
+msgid "activate on Envato"
+msgstr ""
+
