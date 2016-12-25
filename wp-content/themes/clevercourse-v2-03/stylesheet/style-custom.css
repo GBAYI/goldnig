@@ -4,15 +4,15 @@ html.ltie9 body, body{ min-width: 1140px; } .container{ max-width: 1140px; } .gd
 .gdlr-logo{ margin-top: 37px; }
 .gdlr-logo{ margin-bottom: 41px; }
 .gdlr-navigation-wrapper{ margin-top: 42px; }
-.gdlr-page-title-wrapper { background-image: url('http://goldennigeria.com/wp-content/uploads/2016/04/photo-1444076095244-6edf09c44c27-e1460010692369.jpg'); }
-body.single .gdlr-page-title-wrapper { background-image: url('http://goldennigeria.com/wp-content/uploads/2016/04/photo-1444076095244-6edf09c44c27-e1460010692369.jpg'); }
-body.single-portfolio .gdlr-page-title-wrapper { background-image: url('http://goldennigeria.com/wp-content/uploads/2016/04/woodenbg-e1460010651104.jpg'); }
-body.archive .gdlr-page-title-wrapper, body.search .gdlr-page-title-wrapper { background-image: url('http://goldennigeria.com/wp-content/uploads/2016/04/photo-1444076095244-6edf09c44c27-e1460010692369.jpg'); }
-body.error404 .gdlr-page-title-wrapper { background-image: url('http://goldennigeria.com/wp-content/uploads/2016/04/photo-1444076095244-6edf09c44c27-e1460010692369.jpg'); }
+.gdlr-page-title-wrapper { background-image: url('http://localhost:8080/wordpress/wp-content/uploads/2016/04/photo-1444076095244-6edf09c44c27-e1460010692369.jpg'); }
+body.single .gdlr-page-title-wrapper { background-image: url('http://localhost:8080/wordpress/wp-content/uploads/2016/04/photo-1444076095244-6edf09c44c27-e1460010692369.jpg'); }
+body.single-portfolio .gdlr-page-title-wrapper { background-image: url('http://localhost:8080/wordpress/wp-content/uploads/2016/04/woodenbg-e1460010651104.jpg'); }
+body.archive .gdlr-page-title-wrapper, body.search .gdlr-page-title-wrapper { background-image: url('http://localhost:8080/wordpress/wp-content/uploads/2016/04/photo-1444076095244-6edf09c44c27-e1460010692369.jpg'); }
+body.error404 .gdlr-page-title-wrapper { background-image: url('http://localhost:8080/wordpress/wp-content/uploads/2016/04/photo-1444076095244-6edf09c44c27-e1460010692369.jpg'); }
 h1, h2, h3, h4, h5, h6{ font-family: "Raleway"; }
-body, input, textarea, select{ font-family: "Dejavu Sans Condensed"; }
-.gdlr-navigation{ /**/; }
-.gdlr-slider-item{ /**/; }
+body, input, textarea, select{ font-family: "Dejavu Sans Condense"; }
+.gdlr-navigation{ font-family: "Montserrat"; }
+.gdlr-slider-item{ font-family: "Montserrat"; }
 body{ font-size: 14px; }
 h1{ font-size: 47px; }
 h2{ font-size: 41px; }
@@ -243,9 +243,9 @@ html .woocommerce .quantity .minus, html .woocommerce #content .quantity .minus,
 .gdlr-skin-green-twitter .gdlr-button, .gdlr-skin-green-twitter .gdlr-button:hover, .gdlr-skin-green-twitter input[type="button"], .gdlr-skin-green-twitter input[type="submit"]{ color: #ffffff; background-color: #ffffff;  }
 @font-face {
 font-family: "Dejavu Sans Condense";
-src: url("http://goldennigeria.com/wp-content/themes/clevercourse-v2-03/stylesheet/DejaVuSansCondensed.eot");
-src: url("http://goldennigeria.com/wp-content/themes/clevercourse-v2-03/stylesheet/DejaVuSansCondensed.eot?#iefix") format("embedded-opentype"), 
-url("http://goldennigeria.com/wp-content/themes/clevercourse-v2-03/stylesheet/DejaVuSansCondensed.ttf") format("truetype");
+src: url("http://localhost:8080/wordpress/wp-content/themes/clevercourse-v2-03/stylesheet/DejaVuSansCondensed.eot");
+src: url("http://localhost:8080/wordpress/wp-content/themes/clevercourse-v2-03/stylesheet/DejaVuSansCondensed.eot?#iefix") format("embedded-opentype"), 
+url("http://localhost:8080/wordpress/wp-content/themes/clevercourse-v2-03/stylesheet/DejaVuSansCondensed.ttf") format("truetype");
 }
 body .gdlr-lms-coupon-full-width {
     margin-bottom: 25px;

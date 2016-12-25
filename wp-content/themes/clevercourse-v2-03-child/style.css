@@ -87,6 +87,12 @@ h1, h2, h3, h4, h5, h6 {
 	font-family: Exo2 !important;
 	font-size: 26px !important;
 }
+
+.gdlr-logo {
+	float: left !important;
+	margin-left: 5px !important;
+	margin-right: 5px !important;
+}
 .gdlr-lms-header-signin {
 	font-family: Exo !important;
 	color: #34b495 !important;
